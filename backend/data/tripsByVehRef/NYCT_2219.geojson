@@ -1,0 +1,289 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9854,
+            40.744412
+          ],
+          [
+            -73.981359,
+            40.749958
+          ],
+          [
+            -73.974299,
+            40.759635
+          ],
+          [
+            -73.966783,
+            40.759937
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-06-01T00:34:15",
+        "EndTime": "2017-06-01T01:13:26",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.9854, latitude=40.744412)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-06-01T00:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.981359, latitude=40.749958)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "316",
+        "Point 2 time": "2017-06-01T00:44:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.974299, latitude=40.759635)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "129",
+        "Point 3 time": "2017-06-01T00:54:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.966783, latitude=40.759937)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "16",
+        "Point 4 time": "2017-06-01T01:13:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.016328,
+            40.632444
+          ],
+          [
+            -74.093914,
+            40.610729
+          ],
+          [
+            -74.142276,
+            40.627318
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10",
+        "DirectionRef": "1",
+        "OriginName": "E 57 ST/3 AV",
+        "DestinationName": "PT RICHMOND via NARROWS RD via GANNON AV",
+        "StartTime": "2017-06-01T02:24:20",
+        "EndTime": "2017-06-01T02:54:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.016328, latitude=40.632444)",
+        "Point 1 arrival": "3.9 miles away",
+        "Point 1 dist from stop": "6197",
+        "Point 1 time": "2017-06-01T02:24:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.093914, latitude=40.610729)",
+        "Point 2 arrival": "1.2 miles away",
+        "Point 2 dist from stop": "1979",
+        "Point 2 time": "2017-06-01T02:34:16",
+        "Point 3 geom": "MyLatLong(longitude=-74.142276, latitude=40.627318)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "268",
+        "Point 3 time": "2017-06-01T02:54:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.147066,
+            40.607661
+          ],
+          [
+            -74.122007,
+            40.609179
+          ],
+          [
+            -74.070262,
+            40.604323
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T23:24:05",
+        "EndTime": "2017-05-31T23:44:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.147066, latitude=40.607661)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-05-31T23:24:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.122007, latitude=40.609179)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "170",
+        "Point 2 time": "2017-05-31T23:33:56",
+        "Point 3 geom": "MyLatLong(longitude=-74.070262, latitude=40.604323)",
+        "Point 3 arrival": "4.1 miles away",
+        "Point 3 dist from stop": "6672",
+        "Point 3 time": "2017-05-31T23:44:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.134726,
+            40.636017
+          ],
+          [
+            -74.153533,
+            40.619938
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T23:03:48",
+        "EndTime": "2017-05-31T23:13:38",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.134726, latitude=40.636017)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "170",
+        "Point 1 time": "2017-05-31T23:03:48",
+        "Point 2 geom": "MyLatLong(longitude=-74.153533, latitude=40.619938)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "217",
+        "Point 2 time": "2017-05-31T23:13:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.979272,
+          40.755694
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10",
+        "DirectionRef": "1",
+        "OriginName": "E 57 ST/3 AV",
+        "DestinationName": "PT RICHMOND via NARROWS RD via GANNON AV",
+        "StartTime": "2017-06-01T01:34:32",
+        "EndTime": "2017-06-01T01:34:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.979272, latitude=40.755694)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "434",
+        "Point 1 time": "2017-06-01T01:34:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.017164,
+            40.635703
+          ],
+          [
+            -74.014594,
+            40.706697
+          ],
+          [
+            -74.005198,
+            40.720395
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T23:53:18",
+        "EndTime": "2017-06-01T00:14:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.017164, latitude=40.635703)",
+        "Point 1 arrival": "5.9 miles away",
+        "Point 1 dist from stop": "9487",
+        "Point 1 time": "2017-05-31T23:53:18",
+        "Point 2 geom": "MyLatLong(longitude=-74.014594, latitude=40.706697)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "331",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.005198, latitude=40.720395)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "768",
+        "Point 3 time": "2017-06-01T00:14:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982689,
+            40.745968
+          ],
+          [
+            -73.994972,
+            40.727559
+          ],
+          [
+            -74.006547,
+            40.71386
+          ],
+          [
+            -74.016007,
+            40.706405
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2219",
+        "PublishedLineName": "X10",
+        "DirectionRef": "1",
+        "OriginName": "E 57 ST/3 AV",
+        "DestinationName": "PT RICHMOND via NARROWS RD via GANNON AV",
+        "StartTime": "2017-06-01T01:44:33",
+        "EndTime": "2017-06-01T02:14:37",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.982689, latitude=40.745968)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "502",
+        "Point 1 time": "2017-06-01T01:44:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.994972, latitude=40.727559)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "326",
+        "Point 2 time": "2017-06-01T01:54:05",
+        "Point 3 geom": "MyLatLong(longitude=-74.006547, latitude=40.71386)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "18",
+        "Point 3 time": "2017-06-01T02:03:30",
+        "Point 4 geom": "MyLatLong(longitude=-74.016007, latitude=40.706405)",
+        "Point 4 arrival": "5.8 miles away",
+        "Point 4 dist from stop": "9366",
+        "Point 4 time": "2017-06-01T02:14:37"
+      }
+    }
+  ]
+}

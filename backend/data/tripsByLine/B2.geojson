@@ -1,0 +1,2241 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93709,
+          40.611648
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T01:34:11",
+        "EndTime": "2017-06-01T01:34:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93709, latitude=40.611648)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "140",
+        "Point 1 time": "2017-06-01T01:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922559,
+            40.610045
+          ],
+          [
+            -73.937815,
+            40.611176
+          ],
+          [
+            -73.955002,
+            40.608608
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4596",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T03:43:57",
+        "EndTime": "2017-06-01T04:03:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922559, latitude=40.610045)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "203",
+        "Point 1 time": "2017-06-01T03:43:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.937815, latitude=40.611176)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "155",
+        "Point 2 time": "2017-06-01T03:54:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.955002, latitude=40.608608)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "180",
+        "Point 3 time": "2017-06-01T04:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937978,
+          40.61107
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T04:14:40",
+        "EndTime": "2017-06-01T04:14:40",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937978, latitude=40.61107)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "81",
+        "Point 1 time": "2017-06-01T04:14:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956771,
+            40.608416
+          ],
+          [
+            -73.957086,
+            40.608383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:34:15",
+        "EndTime": "2017-06-01T00:44:17",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.956771, latitude=40.608416)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-06-01T00:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T00:44:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922685,
+            40.610155
+          ],
+          [
+            -73.9407,
+            40.609312
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T20:53:56",
+        "EndTime": "2017-05-31T21:03:30",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.922685, latitude=40.610155)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-05-31T20:53:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.9407, latitude=40.609312)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T21:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.948162,
+            40.606852
+          ],
+          [
+            -73.923411,
+            40.610447
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T22:23:58",
+        "EndTime": "2017-05-31T22:33:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.948162, latitude=40.606852)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T22:23:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.923411, latitude=40.610447)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "525",
+        "Point 2 time": "2017-05-31T22:33:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92822,
+            40.611768
+          ],
+          [
+            -73.943018,
+            40.607413
+          ],
+          [
+            -73.957086,
+            40.608383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:44:17",
+        "EndTime": "2017-06-01T01:04:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92822, latitude=40.611768)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-06-01T00:44:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.943018, latitude=40.607413)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T00:54:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T01:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95326,
+            40.606289
+          ],
+          [
+            -73.930251,
+            40.610452
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4592",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T23:03:36",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.95326, latitude=40.606289)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "30",
+        "Point 1 time": "2017-05-31T23:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.930251, latitude=40.610452)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "109",
+        "Point 2 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953114,
+            40.608403
+          ],
+          [
+            -73.957086,
+            40.608383
+          ],
+          [
+            -73.957086,
+            40.608383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:44:11",
+        "EndTime": "2017-06-01T02:03:42",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.953114, latitude=40.608403)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "183",
+        "Point 1 time": "2017-06-01T01:44:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T02:03:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937842,
+          40.611158
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T01:13:41",
+        "EndTime": "2017-06-01T01:13:41",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937842, latitude=40.611158)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-06-01T01:13:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92271,
+            40.610177
+          ],
+          [
+            -73.931692,
+            40.610058
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:03:28",
+        "EndTime": "2017-05-31T23:13:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92271, latitude=40.610177)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T23:03:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.931692, latitude=40.610058)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "179",
+        "Point 2 time": "2017-05-31T23:13:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933033,
+            40.611266
+          ],
+          [
+            -73.95552,
+            40.608551
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T02:54:14",
+        "EndTime": "2017-06-01T03:04:18",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.933033, latitude=40.611266)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T02:54:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.95552, latitude=40.608551)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "136",
+        "Point 2 time": "2017-06-01T03:04:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.933258,
+          40.611468
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T01:54:08",
+        "EndTime": "2017-06-01T01:54:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.933258, latitude=40.611468)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:54:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927263,
+            40.612386
+          ],
+          [
+            -73.951426,
+            40.606492
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T02:34:04",
+        "EndTime": "2017-06-01T02:43:32",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.927263, latitude=40.612386)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "122",
+        "Point 1 time": "2017-06-01T02:34:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.951426, latitude=40.606492)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "94",
+        "Point 2 time": "2017-06-01T02:43:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92404,
+            40.611344
+          ],
+          [
+            -73.942941,
+            40.607422
+          ],
+          [
+            -73.957016,
+            40.60839
+          ],
+          [
+            -73.957016,
+            40.60839
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:54:28",
+        "EndTime": "2017-06-01T01:24:12",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.92404, latitude=40.611344)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-06-01T00:54:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.942941, latitude=40.607422)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T01:04:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T01:13:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "8",
+        "Point 4 time": "2017-06-01T01:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957086,
+          40.608383
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:04:33",
+        "EndTime": "2017-06-01T01:04:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T01:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92271,
+            40.610177
+          ],
+          [
+            -73.933014,
+            40.611248
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:24:33",
+        "EndTime": "2017-06-01T01:34:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92271, latitude=40.610177)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-06-01T01:24:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.933014, latitude=40.611248)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T01:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.935147,
+          40.612904
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4574",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T16:03:28",
+        "EndTime": "2017-05-31T16:03:28",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.935147, latitude=40.612904)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-05-31T16:03:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942279,
+          40.608238
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T23:33:59",
+        "EndTime": "2017-05-31T23:33:59",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.942279, latitude=40.608238)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "78",
+        "Point 1 time": "2017-05-31T23:33:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931286,
+            40.609785
+          ],
+          [
+            -73.950593,
+            40.606583
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4588",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T03:14:29",
+        "EndTime": "2017-06-01T03:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931286, latitude=40.609785)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T03:14:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.950593, latitude=40.606583)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-06-01T03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9266,
+            40.612805
+          ],
+          [
+            -73.943018,
+            40.607413
+          ],
+          [
+            -73.957016,
+            40.60839
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:13:23",
+        "EndTime": "2017-06-01T01:34:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.9266, latitude=40.612805)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T01:13:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.943018, latitude=40.607413)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T01:24:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T01:34:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956614,
+          40.608432
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T21:13:30",
+        "EndTime": "2017-05-31T21:13:30",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956614, latitude=40.608432)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-05-31T21:13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92276,
+            40.610221
+          ],
+          [
+            -73.93626,
+            40.612182
+          ],
+          [
+            -73.955129,
+            40.608594
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4592",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:04:17",
+        "EndTime": "2017-06-01T00:23:54",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92276, latitude=40.610221)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "178",
+        "Point 1 time": "2017-06-01T00:04:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.93626, latitude=40.612182)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:14:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.955129, latitude=40.608594)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "169",
+        "Point 3 time": "2017-06-01T00:23:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.942941,
+            40.607422
+          ],
+          [
+            -73.957016,
+            40.60839
+          ],
+          [
+            -73.957016,
+            40.60839
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:04:30",
+        "EndTime": "2017-06-01T01:24:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.942941, latitude=40.607422)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T01:04:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T01:13:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T01:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922785,
+            40.610243
+          ],
+          [
+            -73.93626,
+            40.612182
+          ],
+          [
+            -73.952998,
+            40.607786
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4592",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:24:18",
+        "EndTime": "2017-05-31T23:44:01",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922785, latitude=40.610243)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "174",
+        "Point 1 time": "2017-05-31T23:24:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.93626, latitude=40.612182)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-05-31T23:33:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.952998, latitude=40.607786)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "253",
+        "Point 3 time": "2017-05-31T23:44:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934277,
+            40.612377
+          ],
+          [
+            -73.948548,
+            40.606809
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:44:24",
+        "EndTime": "2017-05-31T23:53:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934277, latitude=40.612377)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "79",
+        "Point 1 time": "2017-05-31T23:44:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.948548, latitude=40.606809)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "178",
+        "Point 2 time": "2017-05-31T23:53:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934291,
+            40.61239
+          ],
+          [
+            -73.956783,
+            40.608414
+          ],
+          [
+            -73.957065,
+            40.608385
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T21:53:38",
+        "EndTime": "2017-05-31T22:13:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.934291, latitude=40.61239)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "77",
+        "Point 1 time": "2017-05-31T21:53:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.956783, latitude=40.608414)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-05-31T22:03:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.957065, latitude=40.608385)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T22:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93709,
+          40.611648
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T01:34:11",
+        "EndTime": "2017-06-01T01:34:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93709, latitude=40.611648)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "140",
+        "Point 1 time": "2017-06-01T01:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92276,
+            40.610221
+          ],
+          [
+            -73.945505,
+            40.607141
+          ],
+          [
+            -73.957065,
+            40.608385
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T21:33:38",
+        "EndTime": "2017-05-31T21:53:43",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92276, latitude=40.610221)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "178",
+        "Point 1 time": "2017-05-31T21:33:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.945505, latitude=40.607141)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-05-31T21:43:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.957065, latitude=40.608385)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T21:53:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.947278,
+          40.606948
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:24:15",
+        "EndTime": "2017-05-31T23:24:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.947278, latitude=40.606948)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-05-31T23:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956228,
+            40.605963
+          ],
+          [
+            -73.934729,
+            40.612781
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T03:04:37",
+        "EndTime": "2017-06-01T03:14:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.956228, latitude=40.605963)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-06-01T03:04:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.934729, latitude=40.612781)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "191",
+        "Point 2 time": "2017-06-01T03:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941466,
+            40.608818
+          ],
+          [
+            -73.957065,
+            40.608385
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5043",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T16:03:25",
+        "EndTime": "2017-05-31T16:13:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.941466, latitude=40.608818)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "79",
+        "Point 1 time": "2017-05-31T16:03:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.957065, latitude=40.608385)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T16:13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931542,
+            40.609922
+          ],
+          [
+            -73.952846,
+            40.606985
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T22:23:49",
+        "EndTime": "2017-05-31T22:33:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931542, latitude=40.609922)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "199",
+        "Point 1 time": "2017-05-31T22:23:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.952846, latitude=40.606985)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "343",
+        "Point 2 time": "2017-05-31T22:33:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.943402,
+            40.607371
+          ],
+          [
+            -73.926093,
+            40.612813
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T00:54:21",
+        "EndTime": "2017-06-01T01:04:28",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.943402, latitude=40.607371)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.926093, latitude=40.612813)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "220",
+        "Point 2 time": "2017-06-01T01:04:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936231,
+            40.612201
+          ],
+          [
+            -73.956352,
+            40.608459
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:53:05",
+        "EndTime": "2017-06-01T00:04:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.936231, latitude=40.612201)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-05-31T23:53:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.956352, latitude=40.608459)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "65",
+        "Point 2 time": "2017-06-01T00:04:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922559,
+            40.610045
+          ],
+          [
+            -73.942786,
+            40.607439
+          ],
+          [
+            -73.957051,
+            40.608386
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4588",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T00:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922559, latitude=40.610045)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "203",
+        "Point 1 time": "2017-06-01T00:23:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.942786, latitude=40.607439)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-06-01T00:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.957051, latitude=40.608386)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T00:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922936,
+          40.610375
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T02:24:26",
+        "EndTime": "2017-06-01T02:24:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.922936, latitude=40.610375)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "155",
+        "Point 1 time": "2017-06-01T02:24:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.944448,
+          40.607257
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T22:03:15",
+        "EndTime": "2017-05-31T22:03:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.944448, latitude=40.607257)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "91",
+        "Point 1 time": "2017-05-31T22:03:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95326,
+            40.606289
+          ],
+          [
+            -73.930251,
+            40.610452
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4592",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T23:03:36",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.95326, latitude=40.606289)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "30",
+        "Point 1 time": "2017-05-31T23:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.930251, latitude=40.610452)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "109",
+        "Point 2 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.934288,
+          40.612387
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4596",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T03:34:29",
+        "EndTime": "2017-06-01T03:34:29",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.934288, latitude=40.612387)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "134",
+        "Point 1 time": "2017-06-01T03:34:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.933325,
+          40.611527
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T02:14:14",
+        "EndTime": "2017-06-01T02:14:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.933325, latitude=40.611527)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T02:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941709,
+            40.607562
+          ],
+          [
+            -73.922819,
+            40.609924
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4588",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T02:54:22",
+        "EndTime": "2017-06-01T03:04:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.941709, latitude=40.607562)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:54:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.922819, latitude=40.609924)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "448",
+        "Point 2 time": "2017-06-01T03:04:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.948302,
+            40.606836
+          ],
+          [
+            -73.926603,
+            40.612804
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4588",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T00:03:58",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.948302, latitude=40.606836)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-06-01T00:03:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.926603, latitude=40.612804)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.948206,
+            40.606847
+          ],
+          [
+            -73.926483,
+            40.612878
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T00:34:11",
+        "EndTime": "2017-06-01T00:44:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.948206, latitude=40.606847)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T00:34:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.926483, latitude=40.612878)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-06-01T00:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95373,
+          40.606238
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T00:14:20",
+        "EndTime": "2017-06-01T00:14:20",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.95373, latitude=40.606238)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "70",
+        "Point 1 time": "2017-06-01T00:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922861,
+            40.610309
+          ],
+          [
+            -73.928333,
+            40.611696
+          ],
+          [
+            -73.951935,
+            40.606436
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T02:03:41",
+        "EndTime": "2017-06-01T02:24:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922861, latitude=40.610309)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "165",
+        "Point 1 time": "2017-06-01T02:03:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.928333, latitude=40.611696)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-06-01T02:14:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.951935, latitude=40.606436)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "51",
+        "Point 3 time": "2017-06-01T02:24:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922886,
+            40.610331
+          ],
+          [
+            -73.932567,
+            40.610845
+          ],
+          [
+            -73.944515,
+            40.607249
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T22:44:06",
+        "EndTime": "2017-05-31T23:03:40",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922886, latitude=40.610331)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "161",
+        "Point 1 time": "2017-05-31T22:44:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.932567, latitude=40.610845)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "65",
+        "Point 2 time": "2017-05-31T22:54:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.944515, latitude=40.607249)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "41",
+        "Point 3 time": "2017-05-31T23:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.949652,
+            40.606688
+          ],
+          [
+            -73.92755,
+            40.612201
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T22:44:06",
+        "EndTime": "2017-05-31T22:54:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.949652, latitude=40.606688)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "131",
+        "Point 1 time": "2017-05-31T22:44:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.92755, latitude=40.612201)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "121",
+        "Point 2 time": "2017-05-31T22:54:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92271,
+            40.610177
+          ],
+          [
+            -73.932981,
+            40.611219
+          ],
+          [
+            -73.947691,
+            40.606903
+          ],
+          [
+            -73.957065,
+            40.608385
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T21:13:39",
+        "EndTime": "2017-05-31T21:43:35",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.92271, latitude=40.610177)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T21:13:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.932981, latitude=40.611219)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T21:23:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.947691, latitude=40.606903)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-05-31T21:33:55",
+        "Point 4 geom": "MyLatLong(longitude=-73.957065, latitude=40.608385)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-05-31T21:43:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.931366,
+          40.609763
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T21:53:39",
+        "EndTime": "2017-05-31T21:53:39",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.931366, latitude=40.609763)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "233",
+        "Point 1 time": "2017-05-31T21:53:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.923965,
+            40.611278
+          ],
+          [
+            -73.940389,
+            40.609514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:14:05",
+        "EndTime": "2017-06-01T00:23:37",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.923965, latitude=40.611278)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-06-01T00:14:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.940389, latitude=40.609514)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "39",
+        "Point 2 time": "2017-06-01T00:23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922685,
+            40.610155
+          ],
+          [
+            -73.931616,
+            40.609989
+          ],
+          [
+            -73.952073,
+            40.60642
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:44:20",
+        "EndTime": "2017-06-01T02:03:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922685, latitude=40.610155)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-06-01T01:44:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.931616, latitude=40.609989)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "189",
+        "Point 2 time": "2017-06-01T01:53:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.952073, latitude=40.60642)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "39",
+        "Point 3 time": "2017-06-01T02:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957074,
+          40.608384
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T22:33:28",
+        "EndTime": "2017-05-31T22:33:28",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957074, latitude=40.608384)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T22:33:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.930843,
+          40.61007
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T00:23:52",
+        "EndTime": "2017-06-01T00:23:52",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.930843, latitude=40.61007)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "174",
+        "Point 1 time": "2017-06-01T00:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92271,
+            40.610177
+          ],
+          [
+            -73.933037,
+            40.611269
+          ],
+          [
+            -73.950168,
+            40.606631
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4229",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T22:03:46",
+        "EndTime": "2017-05-31T22:23:52",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92271, latitude=40.610177)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T22:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.933037, latitude=40.611269)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T22:13:49",
+        "Point 3 geom": "MyLatLong(longitude=-73.950168, latitude=40.606631)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "40",
+        "Point 3 time": "2017-05-31T22:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922785,
+          40.610243
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:44:03",
+        "EndTime": "2017-05-31T23:44:03",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.922785, latitude=40.610243)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "174",
+        "Point 1 time": "2017-05-31T23:44:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92276,
+            40.610221
+          ],
+          [
+            -73.92822,
+            40.611768
+          ],
+          [
+            -73.943018,
+            40.607413
+          ],
+          [
+            -73.957086,
+            40.608383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T00:34:05",
+        "EndTime": "2017-06-01T01:04:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.92276, latitude=40.610221)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "178",
+        "Point 1 time": "2017-06-01T00:34:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.92822, latitude=40.611768)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-06-01T00:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.943018, latitude=40.607413)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T00:54:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T01:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942279,
+          40.608238
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T23:33:59",
+        "EndTime": "2017-05-31T23:33:59",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.942279, latitude=40.608238)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "78",
+        "Point 1 time": "2017-05-31T23:33:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957074,
+          40.608384
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4588",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T02:34:13",
+        "EndTime": "2017-06-01T02:34:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957074, latitude=40.608384)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T02:34:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.938359,
+          40.610825
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T21:23:32",
+        "EndTime": "2017-05-31T21:23:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.938359, latitude=40.610825)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "123",
+        "Point 1 time": "2017-05-31T21:23:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922911,
+            40.610353
+          ],
+          [
+            -73.934726,
+            40.612779
+          ],
+          [
+            -73.953176,
+            40.608725
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4961",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T03:23:49",
+        "EndTime": "2017-06-01T03:44:03",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922911, latitude=40.610353)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "158",
+        "Point 1 time": "2017-06-01T03:23:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.934726, latitude=40.612779)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-06-01T03:34:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.953176, latitude=40.608725)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "147",
+        "Point 3 time": "2017-06-01T03:44:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.927244,
+          40.612399
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5043",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-05-31T16:23:33",
+        "EndTime": "2017-05-31T16:23:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.927244, latitude=40.612399)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-05-31T16:23:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922911,
+            40.610353
+          ],
+          [
+            -73.934024,
+            40.612152
+          ],
+          [
+            -73.944862,
+            40.607211
+          ],
+          [
+            -73.956596,
+            40.608434
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4624",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-05-31T23:53:17",
+        "EndTime": "2017-06-01T00:23:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.922911, latitude=40.610353)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "158",
+        "Point 1 time": "2017-05-31T23:53:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.934024, latitude=40.612152)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-06-01T00:04:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.944862, latitude=40.607211)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T00:13:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.956596, latitude=40.608434)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "44",
+        "Point 4 time": "2017-06-01T00:23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957074,
+          40.608384
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T04:03:33",
+        "EndTime": "2017-06-01T04:03:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957074, latitude=40.608384)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T04:03:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.942212,
+            40.608178
+          ],
+          [
+            -73.921445,
+            40.608684
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4603",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T02:34",
+        "EndTime": "2017-06-01T02:43:40",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.942212, latitude=40.608178)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-06-01T02:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.921445, latitude=40.608684)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "268",
+        "Point 2 time": "2017-06-01T02:43:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957086,
+          40.608383
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:04:33",
+        "EndTime": "2017-06-01T01:04:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957086, latitude=40.608383)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T01:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957016,
+          40.60839
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5042",
+        "PublishedLineName": "B2",
+        "DirectionRef": "1",
+        "OriginName": "FLATBUSH AV/AV U",
+        "DestinationName": "MIDWOOD KINGS HWY STA",
+        "StartTime": "2017-06-01T01:44:31",
+        "EndTime": "2017-06-01T01:44:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957016, latitude=40.60839)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T01:44:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.938537,
+            40.610709
+          ],
+          [
+            -73.921387,
+            40.608631
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5149",
+        "PublishedLineName": "B2",
+        "DirectionRef": "0",
+        "OriginName": "E 16 ST/QUENTIN RD",
+        "DestinationName": "KINGS PLAZA",
+        "StartTime": "2017-06-01T03:54:42",
+        "EndTime": "2017-06-01T04:03:50",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.938537, latitude=40.610709)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "143",
+        "Point 1 time": "2017-06-01T03:54:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.921387, latitude=40.608631)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "260",
+        "Point 2 time": "2017-06-01T04:03:50"
+      }
+    }
+  ]
+}
