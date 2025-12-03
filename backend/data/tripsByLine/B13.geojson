@@ -1,0 +1,5143 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.907917,
+            40.703754
+          ],
+          [
+            -73.892248,
+            40.697879
+          ],
+          [
+            -73.871371,
+            40.680912
+          ],
+          [
+            -73.862996,
+            40.669267
+          ],
+          [
+            -73.866459,
+            40.653174
+          ],
+          [
+            -73.876123,
+            40.652067
+          ],
+          [
+            -73.876422,
+            40.652326
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4244",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T16:23:39",
+        "EndTime": "2017-05-31T17:22:58",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.907917, latitude=40.703754)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "90",
+        "Point 1 time": "2017-05-31T16:23:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.892248, latitude=40.697879)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T16:33:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.871371, latitude=40.680912)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "90",
+        "Point 3 time": "2017-05-31T16:43:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.862996, latitude=40.669267)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "34",
+        "Point 4 time": "2017-05-31T16:53:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.866459, latitude=40.653174)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "471",
+        "Point 5 time": "2017-05-31T17:03:24",
+        "Point 6 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "97",
+        "Point 6 time": "2017-05-31T17:13:58",
+        "Point 7 geom": "MyLatLong(longitude=-73.876422, latitude=40.652326)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "59",
+        "Point 7 time": "2017-05-31T17:22:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.901965,
+            40.705192
+          ],
+          [
+            -73.914757,
+            40.701565
+          ],
+          [
+            -73.919536,
+            40.704501
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:34:21",
+        "EndTime": "2017-06-01T00:54:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.901965, latitude=40.705192)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "202",
+        "Point 1 time": "2017-06-01T00:34:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.914757, latitude=40.701565)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "128",
+        "Point 2 time": "2017-06-01T00:44:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.919536, latitude=40.704501)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "12",
+        "Point 3 time": "2017-06-01T00:54:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867279,
+            40.665506
+          ],
+          [
+            -73.865055,
+            40.669308
+          ],
+          [
+            -73.870656,
+            40.678005
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7237",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T03:54:21",
+        "EndTime": "2017-06-01T04:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.867279, latitude=40.665506)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-06-01T03:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.865055, latitude=40.669308)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "141",
+        "Point 2 time": "2017-06-01T04:03:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.870656, latitude=40.678005)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T04:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902108,
+            40.705117
+          ],
+          [
+            -73.889349,
+            40.69854
+          ],
+          [
+            -73.872681,
+            40.685226
+          ],
+          [
+            -73.871315,
+            40.672988
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:44:23",
+        "EndTime": "2017-06-01T02:14:16",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902108, latitude=40.705117)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "196",
+        "Point 1 time": "2017-06-01T01:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.889349, latitude=40.69854)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "86",
+        "Point 2 time": "2017-06-01T01:53:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.872681, latitude=40.685226)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T02:03:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.871315, latitude=40.672988)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "51",
+        "Point 4 time": "2017-06-01T02:14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866979,
+            40.66903
+          ],
+          [
+            -73.869337,
+            40.677316
+          ],
+          [
+            -73.875363,
+            40.688717
+          ],
+          [
+            -73.895801,
+            40.704183
+          ],
+          [
+            -73.908593,
+            40.703091
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:44:23",
+        "EndTime": "2017-06-01T02:24:38",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.866979, latitude=40.66903)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-06-01T01:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.869337, latitude=40.677316)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "156",
+        "Point 2 time": "2017-06-01T01:53:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.875363, latitude=40.688717)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-06-01T02:03:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.895801, latitude=40.704183)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-06-01T02:14:35",
+        "Point 5 geom": "MyLatLong(longitude=-73.908593, latitude=40.703091)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "14",
+        "Point 5 time": "2017-06-01T02:24:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.868753,
+            40.651323
+          ],
+          [
+            -73.862508,
+            40.668139
+          ],
+          [
+            -73.871204,
+            40.68023
+          ],
+          [
+            -73.893267,
+            40.700313
+          ],
+          [
+            -73.910889,
+            40.700838
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4435",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T16:13:43",
+        "EndTime": "2017-05-31T16:53:05",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.868753, latitude=40.651323)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "320",
+        "Point 1 time": "2017-05-31T16:13:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.862508, latitude=40.668139)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T16:23:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.871204, latitude=40.68023)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "208",
+        "Point 3 time": "2017-05-31T16:33:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.893267, latitude=40.700313)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "53",
+        "Point 4 time": "2017-05-31T16:43:11",
+        "Point 5 geom": "MyLatLong(longitude=-73.910889, latitude=40.700838)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "115",
+        "Point 5 time": "2017-05-31T16:53:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.907401,
+            40.704259
+          ],
+          [
+            -73.894638,
+            40.700995
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4438",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T20:43:58",
+        "EndTime": "2017-05-31T20:53:54",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.907401, latitude=40.704259)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T20:43:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.894638, latitude=40.700995)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T20:53:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865986,
+            40.661031
+          ],
+          [
+            -73.864558,
+            40.669379
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:43:58",
+        "EndTime": "2017-05-31T23:53:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.865986, latitude=40.661031)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T23:43:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.864558, latitude=40.669379)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-05-31T23:53:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8718,
+          40.649402
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4435",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T16:03:48",
+        "EndTime": "2017-05-31T16:03:48",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.8718, latitude=40.649402)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "639",
+        "Point 1 time": "2017-05-31T16:03:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914981,
+            40.701691
+          ],
+          [
+            -73.902519,
+            40.705949
+          ],
+          [
+            -73.893735,
+            40.697251
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:14:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.914981, latitude=40.701691)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.902519, latitude=40.705949)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "86",
+        "Point 2 time": "2017-06-01T00:04:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.893735, latitude=40.697251)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T00:14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866845,
+            40.658438
+          ],
+          [
+            -73.862765,
+            40.669175
+          ],
+          [
+            -73.872097,
+            40.683367
+          ],
+          [
+            -73.89173,
+            40.697995
+          ],
+          [
+            -73.902987,
+            40.706736
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4438",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T21:43:44",
+        "EndTime": "2017-05-31T22:23:46",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.866845, latitude=40.658438)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-05-31T21:43:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.862765, latitude=40.669175)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T21:51:50",
+        "Point 3 geom": "MyLatLong(longitude=-73.872097, latitude=40.683367)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "69",
+        "Point 3 time": "2017-05-31T22:03:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.89173, latitude=40.697995)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "92",
+        "Point 4 time": "2017-05-31T22:13:48",
+        "Point 5 geom": "MyLatLong(longitude=-73.902987, latitude=40.706736)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "223",
+        "Point 5 time": "2017-05-31T22:23:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862195,
+            40.666233
+          ],
+          [
+            -73.871515,
+            40.681474
+          ],
+          [
+            -73.895725,
+            40.704026
+          ],
+          [
+            -73.917621,
+            40.703308
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4244",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T17:33:04",
+        "EndTime": "2017-05-31T18:03:17",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.862195, latitude=40.666233)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "231",
+        "Point 1 time": "2017-05-31T17:33:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.871515, latitude=40.681474)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T17:43:41",
+        "Point 3 geom": "MyLatLong(longitude=-73.895725, latitude=40.704026)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-05-31T17:53:47",
+        "Point 4 geom": "MyLatLong(longitude=-73.917621, latitude=40.703308)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "204",
+        "Point 4 time": "2017-05-31T18:03:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872925,
+            40.689782
+          ],
+          [
+            -73.870341,
+            40.668922
+          ],
+          [
+            -73.866841,
+            40.66268
+          ],
+          [
+            -73.87622,
+            40.652155
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4438",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:03:17",
+        "EndTime": "2017-05-31T21:33:39",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.872925, latitude=40.689782)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T21:03:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.870341, latitude=40.668922)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-05-31T21:13:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.866841, latitude=40.66268)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "89",
+        "Point 3 time": "2017-05-31T21:23:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "85",
+        "Point 4 time": "2017-05-31T21:33:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900573,
+            40.704734
+          ],
+          [
+            -73.874317,
+            40.68918
+          ],
+          [
+            -73.870532,
+            40.669675
+          ],
+          [
+            -73.867035,
+            40.660148
+          ],
+          [
+            -73.876123,
+            40.652067
+          ],
+          [
+            -73.876123,
+            40.652067
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:23:35",
+        "EndTime": "2017-05-31T22:13:48",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.900573, latitude=40.704734)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T21:23:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.874317, latitude=40.68918)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-05-31T21:33:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.870532, latitude=40.669675)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T21:43:44",
+        "Point 4 geom": "MyLatLong(longitude=-73.867035, latitude=40.660148)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "12",
+        "Point 4 time": "2017-05-31T21:53:41",
+        "Point 5 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "97",
+        "Point 5 time": "2017-05-31T22:03:46",
+        "Point 6 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "97",
+        "Point 6 time": "2017-05-31T22:13:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872289,
+            40.649295
+          ],
+          [
+            -73.867114,
+            40.663774
+          ],
+          [
+            -73.865541,
+            40.669239
+          ],
+          [
+            -73.869692,
+            40.674152
+          ],
+          [
+            -73.870984,
+            40.679319
+          ],
+          [
+            -73.880691,
+            40.691195
+          ],
+          [
+            -73.896467,
+            40.705549
+          ],
+          [
+            -73.910168,
+            40.701547
+          ],
+          [
+            -73.918018,
+            40.703555
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T02:33:52",
+        "EndTime": "2017-06-01T03:54:20",
+        "NumOfPoints": "9",
+        "Point 1 geom": "MyLatLong(longitude=-73.872289, latitude=40.649295)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "191",
+        "Point 1 time": "2017-06-01T02:33:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.867114, latitude=40.663774)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "49",
+        "Point 2 time": "2017-06-01T02:43:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.865541, latitude=40.669239)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "100",
+        "Point 3 time": "2017-06-01T02:54:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.869692, latitude=40.674152)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "160",
+        "Point 4 time": "2017-06-01T03:04:25",
+        "Point 5 geom": "MyLatLong(longitude=-73.870984, latitude=40.679319)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "48",
+        "Point 5 time": "2017-06-01T03:14:20",
+        "Point 6 geom": "MyLatLong(longitude=-73.880691, latitude=40.691195)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "240",
+        "Point 6 time": "2017-06-01T03:23:52",
+        "Point 7 geom": "MyLatLong(longitude=-73.896467, latitude=40.705549)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "149",
+        "Point 7 time": "2017-06-01T03:34:27",
+        "Point 8 geom": "MyLatLong(longitude=-73.910168, latitude=40.701547)",
+        "Point 8 arrival": "approaching",
+        "Point 8 dist from stop": "59",
+        "Point 8 time": "2017-06-01T03:43:53",
+        "Point 9 geom": "MyLatLong(longitude=-73.918018, latitude=40.703555)",
+        "Point 9 arrival": "< 1 stop away",
+        "Point 9 dist from stop": "161",
+        "Point 9 time": "2017-06-01T03:54:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.869694,
+            40.674161
+          ],
+          [
+            -73.871996,
+            40.683046
+          ],
+          [
+            -73.887781,
+            40.697882
+          ],
+          [
+            -73.896442,
+            40.705499
+          ],
+          [
+            -73.909469,
+            40.702235
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T01:04:08",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.869694, latitude=40.674161)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "159",
+        "Point 1 time": "2017-06-01T00:23:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.871996, latitude=40.683046)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "105",
+        "Point 2 time": "2017-06-01T00:34:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.887781, latitude=40.697882)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:44:11",
+        "Point 4 geom": "MyLatLong(longitude=-73.896442, latitude=40.705499)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T00:54:11",
+        "Point 5 geom": "MyLatLong(longitude=-73.909469, latitude=40.702235)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "5",
+        "Point 5 time": "2017-06-01T01:04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.912383,
+            40.700256
+          ],
+          [
+            -73.900534,
+            40.704746
+          ],
+          [
+            -73.893848,
+            40.698043
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4997",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:54:06",
+        "EndTime": "2017-05-31T23:13:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.912383, latitude=40.700256)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-05-31T22:54:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.900534, latitude=40.704746)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "352",
+        "Point 2 time": "2017-05-31T23:03:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.893848, latitude=40.698043)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "91",
+        "Point 3 time": "2017-05-31T23:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.916113,
+          40.702367
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:34:11",
+        "EndTime": "2017-06-01T01:34:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.916113, latitude=40.702367)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T01:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.867253,
+          40.652443
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:23:56",
+        "EndTime": "2017-05-31T22:23:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.867253, latitude=40.652443)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "142",
+        "Point 1 time": "2017-05-31T22:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876123,
+          40.652067
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:44:16",
+        "EndTime": "2017-05-31T22:44:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "97",
+        "Point 1 time": "2017-05-31T22:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.868701,
+          40.651498
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:03",
+        "EndTime": "2017-05-31T23:53:03",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.868701, latitude=40.651498)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "205",
+        "Point 1 time": "2017-05-31T23:53:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87065,
+            40.649987
+          ],
+          [
+            -73.862358,
+            40.667546
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T02:14:37",
+        "EndTime": "2017-06-01T02:24:13",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.87065, latitude=40.649987)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "30",
+        "Point 1 time": "2017-06-01T02:14:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.862358, latitude=40.667546)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "72",
+        "Point 2 time": "2017-06-01T02:24:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.870878,
+            40.678902
+          ],
+          [
+            -73.866438,
+            40.668772
+          ],
+          [
+            -73.864812,
+            40.657156
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:44:20",
+        "EndTime": "2017-06-01T02:03:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.870878, latitude=40.678902)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "91",
+        "Point 1 time": "2017-06-01T01:44:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.866438, latitude=40.668772)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T01:53:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.864812, latitude=40.657156)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "120",
+        "Point 3 time": "2017-06-01T02:03:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90644,
+            40.705198
+          ],
+          [
+            -73.894646,
+            40.701017
+          ],
+          [
+            -73.873105,
+            40.686967
+          ],
+          [
+            -73.872002,
+            40.677995
+          ],
+          [
+            -73.866112,
+            40.668819
+          ],
+          [
+            -73.86624,
+            40.653335
+          ],
+          [
+            -73.876422,
+            40.652326
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7237",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:43:46",
+        "EndTime": "2017-06-01T03:44:07",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.90644, latitude=40.705198)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-06-01T02:43:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.894646, latitude=40.701017)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T02:54:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.873105, latitude=40.686967)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "26",
+        "Point 3 time": "2017-06-01T03:04:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.872002, latitude=40.677995)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "83",
+        "Point 4 time": "2017-06-01T03:14:43",
+        "Point 5 geom": "MyLatLong(longitude=-73.866112, latitude=40.668819)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "302",
+        "Point 5 time": "2017-06-01T03:23:49",
+        "Point 6 geom": "MyLatLong(longitude=-73.86624, latitude=40.653335)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "4",
+        "Point 6 time": "2017-06-01T03:34:27",
+        "Point 7 geom": "MyLatLong(longitude=-73.876422, latitude=40.652326)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "59",
+        "Point 7 time": "2017-06-01T03:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866642,
+            40.665596
+          ],
+          [
+            -73.876287,
+            40.652212
+          ],
+          [
+            -73.87622,
+            40.652155
+          ],
+          [
+            -73.87649,
+            40.652383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4440",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:35",
+        "EndTime": "2017-05-31T23:03:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.866642, latitude=40.665596)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "110",
+        "Point 1 time": "2017-05-31T22:33:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.876287, latitude=40.652212)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "76",
+        "Point 2 time": "2017-05-31T22:44:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "85",
+        "Point 3 time": "2017-05-31T22:54:12",
+        "Point 4 geom": "MyLatLong(longitude=-73.87649, latitude=40.652383)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "51",
+        "Point 4 time": "2017-05-31T23:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916131,
+            40.702378
+          ],
+          [
+            -73.901926,
+            40.704682
+          ],
+          [
+            -73.88235,
+            40.692076
+          ],
+          [
+            -73.8715,
+            40.681416
+          ],
+          [
+            -73.869704,
+            40.667995
+          ],
+          [
+            -73.868,
+            40.662062
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7217",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:14:40",
+        "EndTime": "2017-06-01T04:03:37",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.916131, latitude=40.702378)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T03:14:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.901926, latitude=40.704682)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "146",
+        "Point 2 time": "2017-06-01T03:23:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.88235, latitude=40.692076)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "703",
+        "Point 3 time": "2017-06-01T03:34:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.8715, latitude=40.681416)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "147",
+        "Point 4 time": "2017-06-01T03:43:48",
+        "Point 5 geom": "MyLatLong(longitude=-73.869704, latitude=40.667995)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "156",
+        "Point 5 time": "2017-06-01T03:54:32",
+        "Point 6 geom": "MyLatLong(longitude=-73.868, latitude=40.662062)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "281",
+        "Point 6 time": "2017-06-01T04:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.888372,
+            40.698767
+          ],
+          [
+            -73.872323,
+            40.684088
+          ],
+          [
+            -73.871844,
+            40.675124
+          ],
+          [
+            -73.862467,
+            40.667974
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:44:08",
+        "EndTime": "2017-06-01T02:14:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.888372, latitude=40.698767)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:44:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.872323, latitude=40.684088)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "79",
+        "Point 2 time": "2017-06-01T01:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.871844, latitude=40.675124)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T02:03:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.862467, latitude=40.667974)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "35",
+        "Point 4 time": "2017-06-01T02:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919322,
+            40.704368
+          ],
+          [
+            -73.893723,
+            40.697165
+          ],
+          [
+            -73.872806,
+            40.685626
+          ],
+          [
+            -73.872006,
+            40.675776
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T20:53:44",
+        "EndTime": "2017-05-31T23:43:59",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.919322, latitude=40.704368)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T20:53:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.893723, latitude=40.697165)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "175",
+        "Point 2 time": "2017-05-31T23:24:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.872806, latitude=40.685626)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "57",
+        "Point 3 time": "2017-05-31T23:34:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.872006, latitude=40.675776)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "82",
+        "Point 4 time": "2017-05-31T23:43:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.915707,
+            40.702113
+          ],
+          [
+            -73.896951,
+            40.705655
+          ],
+          [
+            -73.876029,
+            40.688847
+          ],
+          [
+            -73.872126,
+            40.676258
+          ],
+          [
+            -73.863272,
+            40.664897
+          ],
+          [
+            -73.875904,
+            40.651809
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4565",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:33:56",
+        "EndTime": "2017-05-31T22:23:48",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.915707, latitude=40.702113)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "124",
+        "Point 1 time": "2017-05-31T21:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.896951, latitude=40.705655)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-05-31T21:43:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.876029, latitude=40.688847)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-05-31T21:53:36",
+        "Point 4 geom": "MyLatLong(longitude=-73.872126, latitude=40.676258)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "137",
+        "Point 4 time": "2017-05-31T22:03:36",
+        "Point 5 geom": "MyLatLong(longitude=-73.863272, latitude=40.664897)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "30",
+        "Point 5 time": "2017-05-31T22:13:42",
+        "Point 6 geom": "MyLatLong(longitude=-73.875904, latitude=40.651809)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "132",
+        "Point 6 time": "2017-05-31T22:23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867255,
+            40.662166
+          ],
+          [
+            -73.876186,
+            40.652127
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:24:24",
+        "EndTime": "2017-06-01T02:43:38",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.867255, latitude=40.662166)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "345",
+        "Point 1 time": "2017-06-01T02:24:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "89",
+        "Point 2 time": "2017-06-01T02:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "89",
+        "Point 3 time": "2017-06-01T02:43:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865571,
+            40.665751
+          ],
+          [
+            -73.870825,
+            40.67085
+          ],
+          [
+            -73.870139,
+            40.677559
+          ],
+          [
+            -73.875233,
+            40.688775
+          ],
+          [
+            -73.896428,
+            40.70547
+          ],
+          [
+            -73.915465,
+            40.701968
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:44:07",
+        "EndTime": "2017-06-01T01:34:07",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.865571, latitude=40.665751)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "347",
+        "Point 1 time": "2017-06-01T00:44:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.870825, latitude=40.67085)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "91",
+        "Point 2 time": "2017-06-01T00:54:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.870139, latitude=40.677559)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "83",
+        "Point 3 time": "2017-06-01T01:04:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.875233, latitude=40.688775)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "31",
+        "Point 4 time": "2017-06-01T01:13:22",
+        "Point 5 geom": "MyLatLong(longitude=-73.896428, latitude=40.70547)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "6",
+        "Point 5 time": "2017-06-01T01:24:34",
+        "Point 6 geom": "MyLatLong(longitude=-73.915465, latitude=40.701968)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "53",
+        "Point 6 time": "2017-06-01T01:34:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866216,
+            40.65871
+          ],
+          [
+            -73.86861,
+            40.668798
+          ],
+          [
+            -73.871102,
+            40.679802
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:13:30",
+        "EndTime": "2017-06-01T01:34:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.866216, latitude=40.65871)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-06-01T01:13:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.86861, latitude=40.668798)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "179",
+        "Point 2 time": "2017-06-01T01:24:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.871102, latitude=40.679802)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "257",
+        "Point 3 time": "2017-06-01T01:34:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862823,
+            40.669292
+          ],
+          [
+            -73.874966,
+            40.650086
+          ],
+          [
+            -73.876152,
+            40.652098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:23:34",
+        "EndTime": "2017-06-01T00:44:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.862823, latitude=40.669292)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-06-01T00:23:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.874966, latitude=40.650086)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "340",
+        "Point 2 time": "2017-06-01T00:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "93",
+        "Point 3 time": "2017-06-01T00:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.871292,
+            40.672737
+          ],
+          [
+            -73.872195,
+            40.683672
+          ],
+          [
+            -73.887705,
+            40.697651
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4440",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:43:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.871292, latitude=40.672737)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "23",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.872195, latitude=40.683672)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-05-31T23:33:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.887705, latitude=40.697651)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "33",
+        "Point 3 time": "2017-05-31T23:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867155,
+            40.653523
+          ],
+          [
+            -73.862733,
+            40.669047
+          ],
+          [
+            -73.870377,
+            40.676901
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:53:47",
+        "EndTime": "2017-06-01T02:14:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.867155, latitude=40.653523)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "532",
+        "Point 1 time": "2017-06-01T01:53:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.862733, latitude=40.669047)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T02:03:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.870377, latitude=40.676901)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "334",
+        "Point 3 time": "2017-06-01T02:14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906525,
+            40.705115
+          ],
+          [
+            -73.919459,
+            40.704453
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:22",
+        "EndTime": "2017-05-31T23:42:52",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.906525, latitude=40.705115)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T23:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.919459, latitude=40.704453)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T23:42:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.895283,
+            40.702817
+          ],
+          [
+            -73.906239,
+            40.705395
+          ],
+          [
+            -73.918888,
+            40.704096
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4440",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:14:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.895283, latitude=40.702817)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.906239, latitude=40.705395)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-06-01T00:04:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.918888, latitude=40.704096)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "66",
+        "Point 3 time": "2017-06-01T00:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.873164,
+            40.686761
+          ],
+          [
+            -73.871413,
+            40.673384
+          ],
+          [
+            -73.866767,
+            40.66238
+          ],
+          [
+            -73.87622,
+            40.652155
+          ],
+          [
+            -73.87622,
+            40.652155
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:31",
+        "EndTime": "2017-05-31T23:13:29",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.873164, latitude=40.686761)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-05-31T22:33:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.871413, latitude=40.673384)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "96",
+        "Point 2 time": "2017-05-31T22:44:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.866767, latitude=40.66238)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "55",
+        "Point 3 time": "2017-05-31T22:54:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "85",
+        "Point 4 time": "2017-05-31T23:03:47",
+        "Point 5 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "85",
+        "Point 5 time": "2017-05-31T23:13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914221,
+            40.701269
+          ],
+          [
+            -73.896413,
+            40.705439
+          ],
+          [
+            -73.87424,
+            40.689214
+          ],
+          [
+            -73.871337,
+            40.673078
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4440",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:53:47",
+        "EndTime": "2017-05-31T22:24:06",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.914221, latitude=40.701269)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-05-31T21:53:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.896413, latitude=40.705439)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "210",
+        "Point 2 time": "2017-05-31T22:03:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.87424, latitude=40.689214)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T22:13:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.871337, latitude=40.673078)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "61",
+        "Point 4 time": "2017-05-31T22:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.912056,
+            40.700075
+          ],
+          [
+            -73.896856,
+            40.705683
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:24:11",
+        "EndTime": "2017-06-01T01:34:08",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.912056, latitude=40.700075)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-06-01T01:24:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.896856, latitude=40.705683)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T01:34:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863105,
+            40.669252
+          ],
+          [
+            -73.868484,
+            40.65166
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:16",
+        "EndTime": "2017-06-01T00:14:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.863105, latitude=40.669252)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-05-31T23:53:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.868484, latitude=40.65166)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "231",
+        "Point 2 time": "2017-06-01T00:04:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "89",
+        "Point 3 time": "2017-06-01T00:14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.867514,
+          40.665447
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4440",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:13:31",
+        "EndTime": "2017-05-31T23:13:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.867514, latitude=40.665447)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "38",
+        "Point 1 time": "2017-05-31T23:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866996,
+            40.663302
+          ],
+          [
+            -73.864958,
+            40.669322
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4997",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:14:09",
+        "EndTime": "2017-06-01T00:23:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.866996, latitude=40.663302)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-06-01T00:14:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.864958, latitude=40.669322)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "150",
+        "Point 2 time": "2017-06-01T00:23:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.913097,
+          40.700648
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7227",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T04:03:44",
+        "EndTime": "2017-06-01T04:03:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.913097, latitude=40.700648)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T04:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872196,
+            40.683676
+          ],
+          [
+            -73.890927,
+            40.698179
+          ],
+          [
+            -73.897175,
+            40.706442
+          ],
+          [
+            -73.913513,
+            40.700877
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T02:24:09",
+        "EndTime": "2017-06-01T02:54:28",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.872196, latitude=40.683676)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-06-01T02:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.890927, latitude=40.698179)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T02:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.897175, latitude=40.706442)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-06-01T02:43:50",
+        "Point 4 geom": "MyLatLong(longitude=-73.913513, latitude=40.700877)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "92",
+        "Point 4 time": "2017-06-01T02:54:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919195,
+            40.704288
+          ],
+          [
+            -73.905306,
+            40.706311
+          ],
+          [
+            -73.893725,
+            40.697176
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:03:34",
+        "EndTime": "2017-05-31T22:23:57",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.919195, latitude=40.704288)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "189",
+        "Point 1 time": "2017-05-31T22:03:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.905306, latitude=40.706311)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "39",
+        "Point 2 time": "2017-05-31T22:13:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.893725, latitude=40.697176)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "176",
+        "Point 3 time": "2017-05-31T22:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.875625,
+            40.651259
+          ],
+          [
+            -73.863253,
+            40.664817
+          ],
+          [
+            -73.870996,
+            40.671539
+          ],
+          [
+            -73.871505,
+            40.681434
+          ],
+          [
+            -73.893058,
+            40.69885
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:54:11",
+        "EndTime": "2017-06-01T01:34:32",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.875625, latitude=40.651259)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "589",
+        "Point 1 time": "2017-06-01T00:54:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.863253, latitude=40.664817)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-06-01T01:04:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.870996, latitude=40.671539)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T01:13:11",
+        "Point 4 geom": "MyLatLong(longitude=-73.871505, latitude=40.681434)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "72",
+        "Point 4 time": "2017-06-01T01:24:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.893058, latitude=40.69885)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "216",
+        "Point 5 time": "2017-06-01T01:34:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865552,
+            40.665753
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4997",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:27",
+        "EndTime": "2017-06-01T00:04:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.865552, latitude=40.665753)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "89",
+        "Point 2 time": "2017-06-01T00:04:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.868807,
+          40.668769
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:14",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.868807, latitude=40.668769)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "162",
+        "Point 1 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916294,
+            40.70248
+          ],
+          [
+            -73.905082,
+            40.70653
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:34:18",
+        "EndTime": "2017-05-31T23:44:21",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.916294, latitude=40.70248)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-05-31T23:34:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.905082, latitude=40.70653)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T23:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.915387,
+          40.701923
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4438",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:32:48",
+        "EndTime": "2017-05-31T22:32:48",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.915387, latitude=40.701923)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-05-31T22:32:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866733,
+            40.659975
+          ],
+          [
+            -73.86907,
+            40.668725
+          ],
+          [
+            -73.871095,
+            40.679773
+          ],
+          [
+            -73.875298,
+            40.688746
+          ],
+          [
+            -73.894545,
+            40.700797
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:33:49",
+        "EndTime": "2017-05-31T23:13:22",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.866733, latitude=40.659975)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-05-31T22:33:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.86907, latitude=40.668725)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "139",
+        "Point 2 time": "2017-05-31T22:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.871095, latitude=40.679773)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "260",
+        "Point 3 time": "2017-05-31T22:54:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.875298, latitude=40.688746)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-05-31T23:03:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.894545, latitude=40.700797)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "48",
+        "Point 5 time": "2017-05-31T23:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.893056,
+            40.697532
+          ],
+          [
+            -73.872657,
+            40.68515
+          ],
+          [
+            -73.871343,
+            40.673101
+          ],
+          [
+            -73.867104,
+            40.663735
+          ],
+          [
+            -73.876123,
+            40.652067
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4449",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:27",
+        "EndTime": "2017-05-31T23:13:16",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.893056, latitude=40.697532)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "93",
+        "Point 1 time": "2017-05-31T22:33:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.872657, latitude=40.68515)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T22:43:58",
+        "Point 3 geom": "MyLatLong(longitude=-73.871343, latitude=40.673101)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "64",
+        "Point 3 time": "2017-05-31T22:53:55",
+        "Point 4 geom": "MyLatLong(longitude=-73.867104, latitude=40.663735)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "17",
+        "Point 4 time": "2017-05-31T23:03:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "97",
+        "Point 5 time": "2017-05-31T23:13:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916531,
+            40.702628
+          ],
+          [
+            -73.907209,
+            40.704445
+          ],
+          [
+            -73.894878,
+            40.701676
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3991",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:43:39",
+        "EndTime": "2017-06-01T04:03:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916531, latitude=40.702628)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "55",
+        "Point 1 time": "2017-06-01T03:43:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.907209, latitude=40.704445)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "150",
+        "Point 2 time": "2017-06-01T03:54:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.894878, latitude=40.701676)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "88",
+        "Point 3 time": "2017-06-01T04:03:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872835,
+            40.689821
+          ],
+          [
+            -73.870739,
+            40.678346
+          ],
+          [
+            -73.862634,
+            40.668646
+          ],
+          [
+            -73.864265,
+            40.654295
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:23:38",
+        "EndTime": "2017-06-01T00:54:09",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.872835, latitude=40.689821)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T00:23:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.870739, latitude=40.678346)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-06-01T00:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.862634, latitude=40.668646)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "111",
+        "Point 3 time": "2017-06-01T00:44:09",
+        "Point 4 geom": "MyLatLong(longitude=-73.864265, latitude=40.654295)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "203",
+        "Point 4 time": "2017-06-01T00:54:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919498,
+          40.704477
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:08",
+        "EndTime": "2017-05-31T23:24:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919498, latitude=40.704477)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-05-31T23:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872576,
+            40.684903
+          ],
+          [
+            -73.871558,
+            40.673968
+          ],
+          [
+            -73.863514,
+            40.665915
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:24:15",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.872576, latitude=40.684903)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "172",
+        "Point 1 time": "2017-05-31T23:24:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.871558, latitude=40.673968)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T23:34:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.863514, latitude=40.665915)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "186",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.909732,
+            40.701978
+          ],
+          [
+            -73.900715,
+            40.704694
+          ],
+          [
+            -73.892093,
+            40.697913
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:24:26",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.909732, latitude=40.701978)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "51",
+        "Point 1 time": "2017-05-31T23:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.900715, latitude=40.704694)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-05-31T23:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.892093, latitude=40.697913)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "155",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.916131,
+          40.702378
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7242",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:14:37",
+        "EndTime": "2017-06-01T02:14:37",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.916131, latitude=40.702378)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T02:14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.864583,
+            40.665891
+          ],
+          [
+            -73.870384,
+            40.676928
+          ],
+          [
+            -73.88806,
+            40.698793
+          ],
+          [
+            -73.907378,
+            40.704281
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4113",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T16:52:53",
+        "EndTime": "2017-05-31T17:23:14",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.864583, latitude=40.665891)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "262",
+        "Point 1 time": "2017-05-31T16:52:53",
+        "Point 2 geom": "MyLatLong(longitude=-73.870384, latitude=40.676928)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "331",
+        "Point 2 time": "2017-05-31T17:03:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.88806, latitude=40.698793)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "105",
+        "Point 3 time": "2017-05-31T17:13:46",
+        "Point 4 geom": "MyLatLong(longitude=-73.907378, latitude=40.704281)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "53",
+        "Point 4 time": "2017-05-31T17:23:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866982,
+          40.660313
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:34:23",
+        "EndTime": "2017-06-01T01:34:23",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.866982, latitude=40.660313)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "179",
+        "Point 1 time": "2017-06-01T01:34:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865392,
+            40.665777
+          ],
+          [
+            -73.866801,
+            40.669056
+          ],
+          [
+            -73.87038,
+            40.676913
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:13:48",
+        "EndTime": "2017-05-31T22:33:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.865392, latitude=40.665777)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "331",
+        "Point 1 time": "2017-05-31T22:13:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.866801, latitude=40.669056)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "148",
+        "Point 2 time": "2017-05-31T22:23:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.87038, latitude=40.676913)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "333",
+        "Point 3 time": "2017-05-31T22:33:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919322,
+            40.704368
+          ],
+          [
+            -73.911262,
+            40.700472
+          ],
+          [
+            -73.896608,
+            40.705755
+          ],
+          [
+            -73.883126,
+            40.692651
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:04:16",
+        "EndTime": "2017-06-01T01:34:11",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.919322, latitude=40.704368)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:04:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.911262, latitude=40.700472)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "262",
+        "Point 2 time": "2017-06-01T01:13:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.896608, latitude=40.705755)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "252",
+        "Point 3 time": "2017-06-01T01:24:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.883126, latitude=40.692651)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "27",
+        "Point 4 time": "2017-06-01T01:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.874418,
+            40.689135
+          ],
+          [
+            -73.871158,
+            40.678116
+          ],
+          [
+            -73.862364,
+            40.66757
+          ],
+          [
+            -73.87126,
+            40.649608
+          ],
+          [
+            -73.876152,
+            40.652098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4424",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:24:30",
+        "EndTime": "2017-06-01T03:04:20",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.874418, latitude=40.689135)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "32",
+        "Point 1 time": "2017-06-01T02:24:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.871158, latitude=40.678116)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "155",
+        "Point 2 time": "2017-06-01T02:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.862364, latitude=40.66757)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "169",
+        "Point 3 time": "2017-06-01T02:43:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.87126, latitude=40.649608)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "690",
+        "Point 4 time": "2017-06-01T02:54:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "93",
+        "Point 5 time": "2017-06-01T03:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.869498,
+            40.673349
+          ],
+          [
+            -73.872259,
+            40.683863
+          ],
+          [
+            -73.89333,
+            40.700762
+          ],
+          [
+            -73.903237,
+            40.707151
+          ],
+          [
+            -73.915485,
+            40.70198
+          ],
+          [
+            -73.91894,
+            40.704593
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T02:33:59",
+        "EndTime": "2017-06-01T03:23:44",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.869498, latitude=40.673349)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "251",
+        "Point 1 time": "2017-06-01T02:33:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.872259, latitude=40.683863)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T02:43:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.89333, latitude=40.700762)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.903237, latitude=40.707151)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "173",
+        "Point 4 time": "2017-06-01T03:04:32",
+        "Point 5 geom": "MyLatLong(longitude=-73.915485, latitude=40.70198)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "51",
+        "Point 5 time": "2017-06-01T03:14:40",
+        "Point 6 geom": "MyLatLong(longitude=-73.91894, latitude=40.704593)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "409",
+        "Point 6 time": "2017-06-01T03:23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876422,
+          40.652326
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:34:01",
+        "EndTime": "2017-06-01T00:34:01",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.876422, latitude=40.652326)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-06-01T00:34:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902523,
+            40.705956
+          ],
+          [
+            -73.888057,
+            40.698419
+          ],
+          [
+            -73.871398,
+            40.681018
+          ],
+          [
+            -73.870504,
+            40.669565
+          ],
+          [
+            -73.866767,
+            40.66238
+          ],
+          [
+            -73.876152,
+            40.652098
+          ],
+          [
+            -73.876152,
+            40.652098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7242",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:24:13",
+        "EndTime": "2017-06-01T03:24:03",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.902523, latitude=40.705956)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-06-01T02:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.888057, latitude=40.698419)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "82",
+        "Point 2 time": "2017-06-01T02:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.871398, latitude=40.681018)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "102",
+        "Point 3 time": "2017-06-01T02:43:47",
+        "Point 4 geom": "MyLatLong(longitude=-73.870504, latitude=40.669565)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "8",
+        "Point 4 time": "2017-06-01T02:54:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.866767, latitude=40.66238)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "55",
+        "Point 5 time": "2017-06-01T03:04:28",
+        "Point 6 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "93",
+        "Point 6 time": "2017-06-01T03:14:29",
+        "Point 7 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "93",
+        "Point 7 time": "2017-06-01T03:24:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866648,
+            40.658523
+          ],
+          [
+            -73.866801,
+            40.669056
+          ],
+          [
+            -73.871095,
+            40.679775
+          ],
+          [
+            -73.887643,
+            40.697541
+          ],
+          [
+            -73.897315,
+            40.706408
+          ],
+          [
+            -73.911997,
+            40.700042
+          ],
+          [
+            -73.91958,
+            40.704528
+          ],
+          [
+            -73.91958,
+            40.704528
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T02:54:21",
+        "EndTime": "2017-06-01T04:03:37",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-73.866648, latitude=40.658523)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "114",
+        "Point 1 time": "2017-06-01T02:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.866801, latitude=40.669056)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "148",
+        "Point 2 time": "2017-06-01T03:04:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.871095, latitude=40.679775)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "260",
+        "Point 3 time": "2017-06-01T03:14:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.887643, latitude=40.697541)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "46",
+        "Point 4 time": "2017-06-01T03:23:41",
+        "Point 5 geom": "MyLatLong(longitude=-73.897315, latitude=40.706408)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "3",
+        "Point 5 time": "2017-06-01T03:34:21",
+        "Point 6 geom": "MyLatLong(longitude=-73.911997, latitude=40.700042)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "250",
+        "Point 6 time": "2017-06-01T03:43:57",
+        "Point 7 geom": "MyLatLong(longitude=-73.91958, latitude=40.704528)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "17",
+        "Point 7 time": "2017-06-01T03:54:32",
+        "Point 8 geom": "MyLatLong(longitude=-73.91958, latitude=40.704528)",
+        "Point 8 arrival": "at stop",
+        "Point 8 dist from stop": "17",
+        "Point 8 time": "2017-06-01T04:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876186,
+          40.652127
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:44:13",
+        "EndTime": "2017-06-01T01:44:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "89",
+        "Point 1 time": "2017-06-01T01:44:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.864783,
+            40.669347
+          ],
+          [
+            -73.869424,
+            40.677346
+          ],
+          [
+            -73.872733,
+            40.685393
+          ],
+          [
+            -73.895363,
+            40.703045
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4437",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T16:13:35",
+        "EndTime": "2017-05-31T16:43:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.864783, latitude=40.669347)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "165",
+        "Point 1 time": "2017-05-31T16:13:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.869424, latitude=40.677346)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "148",
+        "Point 2 time": "2017-05-31T16:23:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.872733, latitude=40.685393)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "36",
+        "Point 3 time": "2017-05-31T16:33:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.895363, latitude=40.703045)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "138",
+        "Point 4 time": "2017-05-31T16:43:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863301,
+            40.665022
+          ],
+          [
+            -73.870273,
+            40.668652
+          ],
+          [
+            -73.870664,
+            40.678037
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:06",
+        "EndTime": "2017-05-31T23:44:02",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.863301, latitude=40.665022)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "57",
+        "Point 1 time": "2017-05-31T23:24:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.870273, latitude=40.668652)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "340",
+        "Point 2 time": "2017-05-31T23:34:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.870664, latitude=40.678037)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-05-31T23:44:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919322,
+            40.704368
+          ],
+          [
+            -73.89578,
+            40.704139
+          ],
+          [
+            -73.872229,
+            40.688343
+          ],
+          [
+            -73.870836,
+            40.670893
+          ],
+          [
+            -73.867391,
+            40.660687
+          ],
+          [
+            -73.876152,
+            40.652098
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:03:34",
+        "EndTime": "2017-05-31T22:03:41",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.919322, latitude=40.704368)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T21:03:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.89578, latitude=40.704139)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "56",
+        "Point 2 time": "2017-05-31T21:13:38",
+        "Point 3 geom": "MyLatLong(longitude=-73.872229, latitude=40.688343)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "251",
+        "Point 3 time": "2017-05-31T21:23:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.870836, latitude=40.670893)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "158",
+        "Point 4 time": "2017-05-31T21:33:50",
+        "Point 5 geom": "MyLatLong(longitude=-73.867391, latitude=40.660687)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "80",
+        "Point 5 time": "2017-05-31T21:43:53",
+        "Point 6 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "93",
+        "Point 6 time": "2017-05-31T21:53:28",
+        "Point 7 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "89",
+        "Point 7 time": "2017-05-31T22:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87622,
+          40.652155
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4565",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:26",
+        "EndTime": "2017-05-31T22:33:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "85",
+        "Point 1 time": "2017-05-31T22:33:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862749,
+            40.669111
+          ],
+          [
+            -73.870038,
+            40.675525
+          ],
+          [
+            -73.872253,
+            40.683842
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4565",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:54:12",
+        "EndTime": "2017-05-31T23:13:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.862749, latitude=40.669111)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-05-31T22:54:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.870038, latitude=40.675525)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T23:03:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.872253, latitude=40.683842)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-05-31T23:13:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.896325,
+            40.705259
+          ],
+          [
+            -73.874282,
+            40.689195
+          ],
+          [
+            -73.870846,
+            40.678777
+          ],
+          [
+            -73.870145,
+            40.668175
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:44:11",
+        "EndTime": "2017-05-31T23:13:32",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.896325, latitude=40.705259)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "189",
+        "Point 1 time": "2017-05-31T22:44:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.874282, latitude=40.689195)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-05-31T22:53:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.870846, latitude=40.678777)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-05-31T23:03:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.870145, latitude=40.668175)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87038,
+            40.677611
+          ],
+          [
+            -73.876696,
+            40.68954
+          ],
+          [
+            -73.895105,
+            40.702316
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4449",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:53:06",
+        "EndTime": "2017-06-01T00:14:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.87038, latitude=40.677611)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-05-31T23:53:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.876696, latitude=40.68954)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "662",
+        "Point 2 time": "2017-06-01T00:04:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.895105, latitude=40.702316)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "62",
+        "Point 3 time": "2017-06-01T00:14:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904043,
+            40.707539
+          ],
+          [
+            -73.894646,
+            40.701017
+          ],
+          [
+            -73.872661,
+            40.689896
+          ],
+          [
+            -73.870798,
+            40.678584
+          ],
+          [
+            -73.870314,
+            40.668816
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4701",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:14:35",
+        "EndTime": "2017-06-01T03:54:37",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.904043, latitude=40.707539)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "34",
+        "Point 1 time": "2017-06-01T03:14:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.894646, latitude=40.701017)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T03:23:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.872661, latitude=40.689896)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "434",
+        "Point 3 time": "2017-06-01T03:34:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.870798, latitude=40.678584)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "55",
+        "Point 4 time": "2017-06-01T03:43:55",
+        "Point 5 geom": "MyLatLong(longitude=-73.870314, latitude=40.668816)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "72",
+        "Point 5 time": "2017-06-01T03:54:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.912471,
+            40.700304
+          ],
+          [
+            -73.895732,
+            40.70404
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4424",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:03:33",
+        "EndTime": "2017-06-01T02:14:32",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.912471, latitude=40.700304)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "96",
+        "Point 1 time": "2017-06-01T02:03:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.895732, latitude=40.70404)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "44",
+        "Point 2 time": "2017-06-01T02:14:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.896191,
+            40.704983
+          ],
+          [
+            -73.874935,
+            40.688907
+          ],
+          [
+            -73.870757,
+            40.678422
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:19",
+        "EndTime": "2017-06-01T00:14:01",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.896191, latitude=40.704983)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "156",
+        "Point 1 time": "2017-05-31T23:53:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.874935, latitude=40.688907)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "82",
+        "Point 2 time": "2017-06-01T00:04:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.870757, latitude=40.678422)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "37",
+        "Point 3 time": "2017-06-01T00:14:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.865586,
+          40.653752
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:24:25",
+        "EndTime": "2017-06-01T02:24:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.865586, latitude=40.653752)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-06-01T02:24:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866666,
+            40.652881
+          ],
+          [
+            -73.862496,
+            40.668091
+          ],
+          [
+            -73.86964,
+            40.673938
+          ],
+          [
+            -73.873774,
+            40.688513
+          ],
+          [
+            -73.895367,
+            40.703054
+          ],
+          [
+            -73.907784,
+            40.703884
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T01:13:36",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.866666, latitude=40.652881)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "73",
+        "Point 1 time": "2017-06-01T00:23:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.862496, latitude=40.668091)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.86964, latitude=40.673938)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "184",
+        "Point 3 time": "2017-06-01T00:44:18",
+        "Point 4 geom": "MyLatLong(longitude=-73.873774, latitude=40.688513)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "78",
+        "Point 4 time": "2017-06-01T00:54:25",
+        "Point 5 geom": "MyLatLong(longitude=-73.895367, latitude=40.703054)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "136",
+        "Point 5 time": "2017-06-01T01:04:33",
+        "Point 6 geom": "MyLatLong(longitude=-73.907784, latitude=40.703884)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "125",
+        "Point 6 time": "2017-06-01T01:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914221,
+            40.701269
+          ],
+          [
+            -73.896793,
+            40.705701
+          ],
+          [
+            -73.875917,
+            40.688716
+          ],
+          [
+            -73.87074,
+            40.678351
+          ],
+          [
+            -73.865503,
+            40.66576
+          ],
+          [
+            -73.876123,
+            40.652067
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:43:45",
+        "EndTime": "2017-05-31T22:33:39",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.914221, latitude=40.701269)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-05-31T21:43:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.896793, latitude=40.705701)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-05-31T21:53:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.875917, latitude=40.688716)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "185",
+        "Point 3 time": "2017-05-31T22:02:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.87074, latitude=40.678351)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "29",
+        "Point 4 time": "2017-05-31T22:13:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.865503, latitude=40.66576)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "4",
+        "Point 5 time": "2017-05-31T22:24:07",
+        "Point 6 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "97",
+        "Point 6 time": "2017-05-31T22:33:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.873993,
+            40.689134
+          ],
+          [
+            -73.893317,
+            40.700665
+          ],
+          [
+            -73.903915,
+            40.707664
+          ],
+          [
+            -73.915925,
+            40.702249
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:44:04",
+        "EndTime": "2017-05-31T23:13:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.873993, latitude=40.689134)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-05-31T22:44:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.893317, latitude=40.700665)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-05-31T22:54:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.903915, latitude=40.707664)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "49",
+        "Point 3 time": "2017-05-31T23:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.915925, latitude=40.702249)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-05-31T23:13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.909748,
+          40.701961
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:35",
+        "EndTime": "2017-05-31T22:33:35",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.909748, latitude=40.701961)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T22:33:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867223,
+            40.664212
+          ],
+          [
+            -73.868767,
+            40.668775
+          ],
+          [
+            -73.871166,
+            40.68007
+          ],
+          [
+            -73.88806,
+            40.698793
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7242",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T03:34:38",
+        "EndTime": "2017-06-01T04:03:48",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.867223, latitude=40.664212)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:34:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.868767, latitude=40.668775)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "165",
+        "Point 2 time": "2017-06-01T03:43:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.871166, latitude=40.68007)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "227",
+        "Point 3 time": "2017-06-01T03:54:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.88806, latitude=40.698793)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "105",
+        "Point 4 time": "2017-06-01T04:03:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867004,
+            40.660343
+          ],
+          [
+            -73.868767,
+            40.668775
+          ],
+          [
+            -73.872128,
+            40.683463
+          ],
+          [
+            -73.892981,
+            40.698351
+          ],
+          [
+            -73.903018,
+            40.706786
+          ],
+          [
+            -73.9159,
+            40.702233
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4424",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T03:14:22",
+        "EndTime": "2017-06-01T04:03:38",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.867004, latitude=40.660343)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "175",
+        "Point 1 time": "2017-06-01T03:14:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.868767, latitude=40.668775)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "165",
+        "Point 2 time": "2017-06-01T03:23:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.872128, latitude=40.683463)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "58",
+        "Point 3 time": "2017-06-01T03:34:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.892981, latitude=40.698351)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "31",
+        "Point 4 time": "2017-06-01T03:43:45",
+        "Point 5 geom": "MyLatLong(longitude=-73.903018, latitude=40.706786)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "217",
+        "Point 5 time": "2017-06-01T03:54:45",
+        "Point 6 geom": "MyLatLong(longitude=-73.9159, latitude=40.702233)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "6",
+        "Point 6 time": "2017-06-01T04:03:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.875509,
+            40.650962
+          ],
+          [
+            -73.863774,
+            40.666008
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4449",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:16",
+        "EndTime": "2017-05-31T23:34:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.875509, latitude=40.650962)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "555",
+        "Point 1 time": "2017-05-31T23:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.863774, latitude=40.666008)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "192",
+        "Point 2 time": "2017-05-31T23:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91969,
+          40.704597
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:04:08",
+        "EndTime": "2017-06-01T00:04:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91969, latitude=40.704597)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-06-01T00:04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.886013,
+            40.696055
+          ],
+          [
+            -73.899647,
+            40.705847
+          ],
+          [
+            -73.911642,
+            40.700099
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:44:36",
+        "EndTime": "2017-06-01T02:03:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.886013, latitude=40.696055)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-06-01T01:44:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.899647, latitude=40.705847)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "183",
+        "Point 2 time": "2017-06-01T01:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.911642, latitude=40.700099)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T02:03:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919485,
+            40.704469
+          ],
+          [
+            -73.919485,
+            40.704469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4244",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T16:03:30",
+        "EndTime": "2017-05-31T16:13:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.919485, latitude=40.704469)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T16:03:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.919485, latitude=40.704469)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-05-31T16:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919459,
+          40.704453
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:23:53",
+        "EndTime": "2017-06-01T00:23:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919459, latitude=40.704453)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T00:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90348,
+          40.707234
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4449",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:24:02",
+        "EndTime": "2017-05-31T22:24:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.90348, latitude=40.707234)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "149",
+        "Point 1 time": "2017-05-31T22:24:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.896758,
+            40.705711
+          ],
+          [
+            -73.872527,
+            40.689604
+          ],
+          [
+            -73.865787,
+            40.668865
+          ],
+          [
+            -73.863177,
+            40.655182
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:03:47",
+        "EndTime": "2017-05-31T21:43:26",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.896758, latitude=40.705711)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T21:03:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.872527, latitude=40.689604)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "393",
+        "Point 2 time": "2017-05-31T21:13:49",
+        "Point 3 geom": "MyLatLong(longitude=-73.865787, latitude=40.668865)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "274",
+        "Point 3 time": "2017-05-31T21:23:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.863177, latitude=40.655182)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "343",
+        "Point 4 time": "2017-05-31T21:33:53",
+        "Point 5 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "89",
+        "Point 5 time": "2017-05-31T21:43:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866731,
+            40.652832
+          ],
+          [
+            -73.862496,
+            40.668091
+          ],
+          [
+            -73.870648,
+            40.677971
+          ],
+          [
+            -73.887705,
+            40.697651
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T21:53:31",
+        "EndTime": "2017-05-31T22:23:48",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.866731, latitude=40.652832)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "81",
+        "Point 1 time": "2017-05-31T21:53:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.862496, latitude=40.668091)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T22:03:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.870648, latitude=40.677971)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-05-31T22:13:47",
+        "Point 4 geom": "MyLatLong(longitude=-73.887705, latitude=40.697651)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "33",
+        "Point 4 time": "2017-05-31T22:23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.875361,
+            40.6506
+          ],
+          [
+            -73.863253,
+            40.664817
+          ],
+          [
+            -73.870485,
+            40.669493
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:54:20",
+        "EndTime": "2017-05-31T23:13:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.875361, latitude=40.6506)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "513",
+        "Point 1 time": "2017-05-31T22:54:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.863253, latitude=40.664817)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-05-31T23:03:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.870485, latitude=40.669493)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "245",
+        "Point 3 time": "2017-05-31T23:13:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87061,
+            40.677811
+          ],
+          [
+            -73.88426,
+            40.693716
+          ],
+          [
+            -73.897319,
+            40.706407
+          ],
+          [
+            -73.912866,
+            40.700522
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4997",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:34:09",
+        "EndTime": "2017-06-01T01:04:18",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.87061, latitude=40.677811)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "27",
+        "Point 1 time": "2017-06-01T00:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.88426, latitude=40.693716)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "199",
+        "Point 2 time": "2017-06-01T00:44:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.897319, latitude=40.706407)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T00:54:15",
+        "Point 4 geom": "MyLatLong(longitude=-73.912866, latitude=40.700522)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "159",
+        "Point 4 time": "2017-06-01T01:04:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.901403,
+            40.705354
+          ],
+          [
+            -73.916567,
+            40.70265
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T01:44:36",
+        "EndTime": "2017-06-01T01:54:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.901403, latitude=40.705354)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T01:44:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.916567, latitude=40.70265)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "74",
+        "Point 2 time": "2017-06-01T01:54:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.870032,
+            40.675504
+          ],
+          [
+            -73.872259,
+            40.683863
+          ],
+          [
+            -73.892872,
+            40.697742
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:04:13",
+        "EndTime": "2017-06-01T00:23:49",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.870032, latitude=40.675504)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T00:04:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.872259, latitude=40.683863)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T00:14:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.892872, latitude=40.697742)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "100",
+        "Point 3 time": "2017-06-01T00:23:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.896767,
+            40.70615
+          ],
+          [
+            -73.913956,
+            40.701122
+          ],
+          [
+            -73.919459,
+            40.704453
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:33:45",
+        "EndTime": "2017-05-31T22:54:01",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.896767, latitude=40.70615)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "77",
+        "Point 1 time": "2017-05-31T22:33:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.913956, latitude=40.701122)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "46",
+        "Point 2 time": "2017-05-31T22:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.919459, latitude=40.704453)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T22:54:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.915664,
+            40.702086
+          ],
+          [
+            -73.902523,
+            40.705956
+          ],
+          [
+            -73.886761,
+            40.696583
+          ],
+          [
+            -73.870871,
+            40.678875
+          ],
+          [
+            -73.870902,
+            40.67116
+          ],
+          [
+            -73.863472,
+            40.655732
+          ],
+          [
+            -73.876186,
+            40.652127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:33:59",
+        "EndTime": "2017-06-01T01:34:06",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.915664, latitude=40.702086)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "119",
+        "Point 1 time": "2017-06-01T00:33:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.902523, latitude=40.705956)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "87",
+        "Point 2 time": "2017-06-01T00:44:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.886761, latitude=40.696583)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "159",
+        "Point 3 time": "2017-06-01T00:54:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.870871, latitude=40.678875)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "88",
+        "Point 4 time": "2017-06-01T01:04:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.870902, latitude=40.67116)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "19",
+        "Point 5 time": "2017-06-01T01:13:21",
+        "Point 6 geom": "MyLatLong(longitude=-73.863472, latitude=40.655732)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "441",
+        "Point 6 time": "2017-06-01T01:24:32",
+        "Point 7 geom": "MyLatLong(longitude=-73.876186, latitude=40.652127)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "89",
+        "Point 7 time": "2017-06-01T01:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.893257,
+            40.697287
+          ],
+          [
+            -73.871912,
+            40.682778
+          ],
+          [
+            -73.862821,
+            40.669292
+          ],
+          [
+            -73.8718,
+            40.649402
+          ],
+          [
+            -73.876152,
+            40.652098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4113",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T16:03:25",
+        "EndTime": "2017-05-31T16:43:29",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.893257, latitude=40.697287)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-05-31T16:03:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.871912, latitude=40.682778)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "152",
+        "Point 2 time": "2017-05-31T16:13:53",
+        "Point 3 geom": "MyLatLong(longitude=-73.862821, latitude=40.669292)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-05-31T16:23:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.8718, latitude=40.649402)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "639",
+        "Point 4 time": "2017-05-31T16:33:43",
+        "Point 5 geom": "MyLatLong(longitude=-73.876152, latitude=40.652098)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "93",
+        "Point 5 time": "2017-05-31T16:43:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863316,
+            40.66509
+          ],
+          [
+            -73.869652,
+            40.673988
+          ],
+          [
+            -73.873954,
+            40.689022
+          ],
+          [
+            -73.894812,
+            40.701488
+          ],
+          [
+            -73.903663,
+            40.707874
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4562",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T22:33:30",
+        "EndTime": "2017-05-31T23:12:17",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.863316, latitude=40.66509)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-05-31T22:33:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.869652, latitude=40.673988)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "178",
+        "Point 2 time": "2017-05-31T22:44:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.873954, latitude=40.689022)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-05-31T22:54:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.894812, latitude=40.701488)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "158",
+        "Point 4 time": "2017-05-31T23:03:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.903663, latitude=40.707874)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "85",
+        "Point 5 time": "2017-05-31T23:12:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887972,
+            40.698614
+          ],
+          [
+            -73.896935,
+            40.706489
+          ],
+          [
+            -73.909286,
+            40.702414
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4565",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:44:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.887972, latitude=40.698614)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-05-31T23:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.896935, latitude=40.706489)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-05-31T23:34:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.909286, latitude=40.702414)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "30",
+        "Point 3 time": "2017-05-31T23:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.873025,
+            40.689739
+          ],
+          [
+            -73.870783,
+            40.678523
+          ],
+          [
+            -73.870052,
+            40.667857
+          ],
+          [
+            -73.868299,
+            40.662021
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4563",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:23:56",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.873025, latitude=40.689739)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.870783, latitude=40.678523)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "48",
+        "Point 2 time": "2017-06-01T00:04:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.870052, latitude=40.667857)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T00:14:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.868299, latitude=40.662021)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "255",
+        "Point 4 time": "2017-06-01T00:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917478,
+            40.703219
+          ],
+          [
+            -73.902513,
+            40.70594
+          ],
+          [
+            -73.894094,
+            40.699758
+          ],
+          [
+            -73.88807,
+            40.698469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4114",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:44:19",
+        "EndTime": "2017-05-31T23:13:35",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.917478, latitude=40.703219)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-05-31T22:44:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.902513, latitude=40.70594)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "85",
+        "Point 2 time": "2017-05-31T22:54:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.894094, latitude=40.699758)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "157",
+        "Point 3 time": "2017-05-31T23:03:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.88807, latitude=40.698469)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "88",
+        "Point 4 time": "2017-05-31T23:13:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87394,
+            40.688983
+          ],
+          [
+            -73.894674,
+            40.701097
+          ],
+          [
+            -73.907681,
+            40.703985
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9674",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:14:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.87394, latitude=40.688983)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.894674, latitude=40.701097)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T00:04:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.907681, latitude=40.703985)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T00:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872093,
+            40.683352
+          ],
+          [
+            -73.888018,
+            40.698723
+          ],
+          [
+            -73.895359,
+            40.703033
+          ],
+          [
+            -73.905381,
+            40.706238
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-05-31T23:24:21",
+        "EndTime": "2017-05-31T23:53:31",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.872093, latitude=40.683352)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "70",
+        "Point 1 time": "2017-05-31T23:24:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.888018, latitude=40.698723)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-05-31T23:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.895359, latitude=40.703033)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "139",
+        "Point 3 time": "2017-05-31T23:43:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.905381, latitude=40.706238)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "17",
+        "Point 4 time": "2017-05-31T23:53:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867717,
+            40.66112
+          ],
+          [
+            -73.87622,
+            40.652155
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4567",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:24:12",
+        "EndTime": "2017-05-31T23:34:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.867717, latitude=40.66112)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-05-31T23:24:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.87622, latitude=40.652155)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "85",
+        "Point 2 time": "2017-05-31T23:34:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.915074,
+            40.701744
+          ],
+          [
+            -73.902956,
+            40.706686
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:14:13",
+        "EndTime": "2017-06-01T00:23:46",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.915074, latitude=40.701744)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-06-01T00:14:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.902956, latitude=40.706686)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-06-01T00:23:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.893642,
+            40.697143
+          ],
+          [
+            -73.872867,
+            40.689807
+          ],
+          [
+            -73.871671,
+            40.678042
+          ],
+          [
+            -73.863011,
+            40.669265
+          ],
+          [
+            -73.867035,
+            40.660148
+          ],
+          [
+            -73.876123,
+            40.652067
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7194",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:34:20",
+        "EndTime": "2017-06-01T01:24:19",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.893642, latitude=40.697143)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "165",
+        "Point 1 time": "2017-06-01T00:34:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.872867, latitude=40.689807)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-06-01T00:44:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.871671, latitude=40.678042)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "111",
+        "Point 3 time": "2017-06-01T00:54:12",
+        "Point 4 geom": "MyLatLong(longitude=-73.863011, latitude=40.669265)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "36",
+        "Point 4 time": "2017-06-01T01:04:16",
+        "Point 5 geom": "MyLatLong(longitude=-73.867035, latitude=40.660148)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "12",
+        "Point 5 time": "2017-06-01T01:13:16",
+        "Point 6 geom": "MyLatLong(longitude=-73.876123, latitude=40.652067)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "97",
+        "Point 6 time": "2017-06-01T01:24:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918284,
+            40.70372
+          ],
+          [
+            -73.903745,
+            40.707386
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:03:36",
+        "EndTime": "2017-05-31T23:13:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.918284, latitude=40.70372)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "90",
+        "Point 1 time": "2017-05-31T23:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.903745, latitude=40.707386)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T23:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.905546,
+          40.706076
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4449",
+        "PublishedLineName": "B13",
+        "DirectionRef": "0",
+        "OriginName": "GATEWAY CTR TERM/GATEWAY DR",
+        "DestinationName": "RIDGEWOOD TERM",
+        "StartTime": "2017-06-01T00:23:37",
+        "EndTime": "2017-06-01T00:23:37",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.905546, latitude=40.706076)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "146",
+        "Point 1 time": "2017-06-01T00:23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.911811,
+            40.699939
+          ],
+          [
+            -73.893991,
+            40.699041
+          ],
+          [
+            -73.873195,
+            40.686946
+          ],
+          [
+            -73.870158,
+            40.668218
+          ],
+          [
+            -73.867056,
+            40.662195
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7254",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:23:39",
+        "EndTime": "2017-05-31T22:03:30",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.911811, latitude=40.699939)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "27",
+        "Point 1 time": "2017-05-31T21:23:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.893991, latitude=40.699041)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "76",
+        "Point 2 time": "2017-05-31T21:34:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.873195, latitude=40.686946)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "18",
+        "Point 3 time": "2017-05-31T21:43:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.870158, latitude=40.668218)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-05-31T21:53:32",
+        "Point 5 geom": "MyLatLong(longitude=-73.867056, latitude=40.662195)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "8",
+        "Point 5 time": "2017-05-31T22:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887828,
+            40.697634
+          ],
+          [
+            -73.871675,
+            40.682029
+          ],
+          [
+            -73.871325,
+            40.673029
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4997",
+        "PublishedLineName": "B13",
+        "DirectionRef": "1",
+        "OriginName": "WYCKOFF AV/DE KALB AV",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:24:16",
+        "EndTime": "2017-05-31T23:43:57",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.887828, latitude=40.697634)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "122",
+        "Point 1 time": "2017-05-31T23:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.871675, latitude=40.682029)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-05-31T23:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.871325, latitude=40.673029)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "55",
+        "Point 3 time": "2017-05-31T23:43:57"
+      }
+    }
+  ]
+}

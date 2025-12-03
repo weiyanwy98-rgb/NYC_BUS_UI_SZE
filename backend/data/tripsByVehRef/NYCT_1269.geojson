@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.942251,
+            40.790877
+          ],
+          [
+            -73.953394,
+            40.77561
+          ],
+          [
+            -73.964014,
+            40.76105
+          ],
+          [
+            -73.972418,
+            40.749531
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-05-31T23:24:10",
+        "EndTime": "2017-05-31T23:53:03",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.942251, latitude=40.790877)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:24:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.953394, latitude=40.77561)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "344",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.964014, latitude=40.76105)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "264",
+        "Point 3 time": "2017-05-31T23:44:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.972418, latitude=40.749531)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-05-31T23:53:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932581,
+            40.80322
+          ],
+          [
+            -73.932581,
+            40.80322
+          ],
+          [
+            -73.932581,
+            40.80322
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-05-31T22:54:05",
+        "EndTime": "2017-05-31T23:13:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "171",
+        "Point 1 time": "2017-05-31T22:54:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "171",
+        "Point 2 time": "2017-05-31T23:03:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "171",
+        "Point 3 time": "2017-05-31T23:13:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980586,
+          40.738319
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-06-01T00:04:02",
+        "EndTime": "2017-06-01T00:04:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.980586, latitude=40.738319)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-06-01T00:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.980586,
+            40.738319
+          ],
+          [
+            -73.989287,
+            40.723044
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-06-01T00:04:02",
+        "EndTime": "2017-06-01T00:23:41",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.980586, latitude=40.738319)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-06-01T00:04:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.989287, latitude=40.723044)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-06-01T00:23:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.942251,
+            40.790877
+          ],
+          [
+            -73.953394,
+            40.77561
+          ],
+          [
+            -73.964014,
+            40.76105
+          ],
+          [
+            -73.972418,
+            40.749531
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-05-31T23:24:10",
+        "EndTime": "2017-05-31T23:53:03",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.942251, latitude=40.790877)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:24:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.953394, latitude=40.77561)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "344",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.964014, latitude=40.76105)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "264",
+        "Point 3 time": "2017-05-31T23:44:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.972418, latitude=40.749531)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-05-31T23:53:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.984258,
+            40.729042
+          ],
+          [
+            -73.975744,
+            40.740721
+          ],
+          [
+            -73.96301,
+            40.758191
+          ],
+          [
+            -73.956677,
+            40.766871
+          ],
+          [
+            -73.944093,
+            40.784115
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "0",
+        "OriginName": "1 AV/E 1 ST",
+        "DestinationName": "SELECT BUS SERVICE 125ST via 1 AV",
+        "StartTime": "2017-06-01T00:34:27",
+        "EndTime": "2017-06-01T01:13:13",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.984258, latitude=40.729042)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "394",
+        "Point 1 time": "2017-06-01T00:34:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.975744, latitude=40.740721)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "440",
+        "Point 2 time": "2017-06-01T00:44:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.96301, latitude=40.758191)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "84",
+        "Point 3 time": "2017-06-01T00:54:22",
+        "Point 4 geom": "MyLatLong(longitude=-73.956677, latitude=40.766871)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "735",
+        "Point 4 time": "2017-06-01T01:04:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.944093, latitude=40.784115)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "77",
+        "Point 5 time": "2017-06-01T01:13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932581,
+            40.80322
+          ],
+          [
+            -73.932581,
+            40.80322
+          ],
+          [
+            -73.932581,
+            40.80322
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1269",
+        "PublishedLineName": "M15-SBS",
+        "DirectionRef": "1",
+        "OriginName": "E 126 ST/2 AV",
+        "DestinationName": "SELECT BUS SERVICE HOUSTON ST via 2 AV",
+        "StartTime": "2017-05-31T22:54:05",
+        "EndTime": "2017-05-31T23:13:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "171",
+        "Point 1 time": "2017-05-31T22:54:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "171",
+        "Point 2 time": "2017-05-31T23:03:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.932581, latitude=40.80322)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "171",
+        "Point 3 time": "2017-05-31T23:13:21"
+      }
+    }
+  ]
+}

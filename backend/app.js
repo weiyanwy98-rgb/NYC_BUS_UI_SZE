@@ -33,7 +33,7 @@ app.get("/api/bus_trip/getVehRef", async (req, res) => {
         const response = await axios.get(`${NYC_API}/getVehRef`);
         const vehRefs = response.data;
         // 2. Save to local file
-        fs.writeFileSync(`${DATA}/vehRef.json`, JSON.stringify(vehRefs, null, 2));
+        fs.writeFileSync(`${DATA}/vehRef.json`, JSON.stringify(vehRefs.sort(), null, 2));
         // 3. Return to client
         res.json(vehRefs);
 
@@ -78,7 +78,7 @@ app.get("/api/bus_trip/getPubLineName", async (req, res) => {
         const response = await axios.get(`${NYC_API}/getPubLineName`);
         const lineNames = response.data;
         // 2. Save to local file
-        fs.writeFileSync(`${DATA}/pubLineName.json`, JSON.stringify(lineNames, null, 2));
+        fs.writeFileSync(`${DATA}/pubLineName.json`, JSON.stringify(lineNames.sort(), null, 2));
         // 3. Return to client
         return res.json(lineNames);
     } catch (error) {

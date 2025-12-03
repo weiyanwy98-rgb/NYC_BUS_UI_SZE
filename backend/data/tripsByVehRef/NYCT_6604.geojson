@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.923065,
+            40.666961
+          ],
+          [
+            -73.937826,
+            40.662364
+          ],
+          [
+            -73.946004,
+            40.655663
+          ],
+          [
+            -73.961346,
+            40.654232
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6604",
+        "PublishedLineName": "B12",
+        "DirectionRef": "1",
+        "OriginName": "ALABAMA AV / FULTON ST",
+        "DestinationName": "LEFFRTS GDNS OCEAN AV",
+        "StartTime": "2017-06-01T00:23:46",
+        "EndTime": "2017-06-01T00:54:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.923065, latitude=40.666961)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:23:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.937826, latitude=40.662364)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "229",
+        "Point 2 time": "2017-06-01T00:34:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.946004, latitude=40.655663)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "85",
+        "Point 3 time": "2017-06-01T00:44:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.961346, latitude=40.654232)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "23",
+        "Point 4 time": "2017-06-01T00:54:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.960227,
+            40.655526
+          ],
+          [
+            -73.940787,
+            40.655985
+          ],
+          [
+            -73.92662,
+            40.66541
+          ],
+          [
+            -73.905669,
+            40.674537
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6604",
+        "PublishedLineName": "B12",
+        "DirectionRef": "0",
+        "OriginName": "PARKSIDE AV/OCEAN AV",
+        "DestinationName": "EAST NY ALABAMA AV",
+        "StartTime": "2017-06-01T01:04:27",
+        "EndTime": "2017-06-01T01:34:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.960227, latitude=40.655526)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T01:04:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.940787, latitude=40.655985)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "141",
+        "Point 2 time": "2017-06-01T01:13:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.92662, latitude=40.66541)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "59",
+        "Point 3 time": "2017-06-01T01:24:33",
+        "Point 4 geom": "MyLatLong(longitude=-73.905669, latitude=40.674537)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "112",
+        "Point 4 time": "2017-06-01T01:34:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906728,
+          40.674081
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6604",
+        "PublishedLineName": "B12",
+        "DirectionRef": "1",
+        "OriginName": "ALABAMA AV / FULTON ST",
+        "DestinationName": "LEFFRTS GDNS OCEAN AV",
+        "StartTime": "2017-06-01T00:14:09",
+        "EndTime": "2017-06-01T00:14:09",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.906728, latitude=40.674081)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "196",
+        "Point 1 time": "2017-06-01T00:14:09"
+      }
+    }
+  ]
+}

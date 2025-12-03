@@ -1,0 +1,165 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144626,
+            40.607238
+          ],
+          [
+            -74.120805,
+            40.608873
+          ],
+          [
+            -74.077159,
+            40.606041
+          ],
+          [
+            -74.015895,
+            40.633395
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2214",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T23:13:26",
+        "EndTime": "2017-05-31T23:44:06",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.144626, latitude=40.607238)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "353",
+        "Point 1 time": "2017-05-31T23:13:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.120805, latitude=40.608873)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-05-31T23:24:19",
+        "Point 3 geom": "MyLatLong(longitude=-74.077159, latitude=40.606041)",
+        "Point 3 arrival": "4.5 miles away",
+        "Point 3 dist from stop": "7290",
+        "Point 3 time": "2017-05-31T23:34:13",
+        "Point 4 geom": "MyLatLong(longitude=-74.015895, latitude=40.633395)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "231",
+        "Point 4 time": "2017-05-31T23:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.01086,
+            40.690984
+          ],
+          [
+            -74.008967,
+            40.714623
+          ],
+          [
+            -74.001916,
+            40.730181
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2214",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T23:53:08",
+        "EndTime": "2017-06-01T00:13:59",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.01086, latitude=40.690984)",
+        "Point 1 arrival": "1.3 miles away",
+        "Point 1 dist from stop": "2156",
+        "Point 1 time": "2017-05-31T23:53:08",
+        "Point 2 geom": "MyLatLong(longitude=-74.008967, latitude=40.714623)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "151",
+        "Point 2 time": "2017-06-01T00:04:26",
+        "Point 3 geom": "MyLatLong(longitude=-74.001916, latitude=40.730181)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "360",
+        "Point 3 time": "2017-06-01T00:13:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987229,
+            40.741916
+          ],
+          [
+            -73.982197,
+            40.748812
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2214",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-06-01T00:23:53",
+        "EndTime": "2017-06-01T00:34:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.987229, latitude=40.741916)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T00:23:53",
+        "Point 2 geom": "MyLatLong(longitude=-73.982197, latitude=40.748812)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "461",
+        "Point 2 time": "2017-06-01T00:34:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.135841,
+            40.634367
+          ],
+          [
+            -74.157672,
+            40.614363
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2214",
+        "PublishedLineName": "X10B",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "E MIDTOWN 57 ST via WEST ST via MADISON",
+        "StartTime": "2017-05-31T22:54:07",
+        "EndTime": "2017-05-31T23:03:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.135841, latitude=40.634367)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "396",
+        "Point 1 time": "2017-05-31T22:54:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.157672, latitude=40.614363)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "206",
+        "Point 2 time": "2017-05-31T23:03:36"
+      }
+    }
+  ]
+}

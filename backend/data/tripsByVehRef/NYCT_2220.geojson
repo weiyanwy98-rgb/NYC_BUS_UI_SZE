@@ -1,0 +1,147 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.004006,
+            40.67984
+          ],
+          [
+            -74.014339,
+            40.703872
+          ],
+          [
+            -74.000761,
+            40.709288
+          ],
+          [
+            -73.97454,
+            40.734526
+          ],
+          [
+            -73.987964,
+            40.741047
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2220",
+        "PublishedLineName": "X14",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "W.MIDTOWN 57 ST via WATER ST via MADISON",
+        "StartTime": "2017-06-01T00:23:43",
+        "EndTime": "2017-06-01T01:04:21",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.004006, latitude=40.67984)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:23:43",
+        "Point 2 geom": "MyLatLong(longitude=-74.014339, latitude=40.703872)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "280",
+        "Point 2 time": "2017-06-01T00:34:21",
+        "Point 3 geom": "MyLatLong(longitude=-74.000761, latitude=40.709288)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "477",
+        "Point 3 time": "2017-06-01T00:44:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.97454, latitude=40.734526)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "487",
+        "Point 4 time": "2017-06-01T00:54:17",
+        "Point 5 geom": "MyLatLong(longitude=-73.987964, latitude=40.741047)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "340",
+        "Point 5 time": "2017-06-01T01:04:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.135074,
+            40.63556
+          ],
+          [
+            -74.130621,
+            40.62635
+          ],
+          [
+            -74.117029,
+            40.624514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2220",
+        "PublishedLineName": "X14",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "W.MIDTOWN 57 ST via WATER ST via MADISON",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:44:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.135074, latitude=40.63556)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "108",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-74.130621, latitude=40.62635)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "190",
+        "Point 2 time": "2017-05-31T23:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.117029, latitude=40.624514)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "459",
+        "Point 3 time": "2017-05-31T23:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.099265,
+            40.612313
+          ],
+          [
+            -74.078478,
+            40.605678
+          ],
+          [
+            -74.036852,
+            40.609027
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2220",
+        "PublishedLineName": "X14",
+        "DirectionRef": "0",
+        "OriginName": "CASTLETON AV/JEWETT AV",
+        "DestinationName": "W.MIDTOWN 57 ST via WATER ST via MADISON",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-06-01T00:14:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.099265, latitude=40.612313)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "313",
+        "Point 1 time": "2017-05-31T23:53:15",
+        "Point 2 geom": "MyLatLong(longitude=-74.078478, latitude=40.605678)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "205",
+        "Point 2 time": "2017-06-01T00:04:26",
+        "Point 3 geom": "MyLatLong(longitude=-74.036852, latitude=40.609027)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "514",
+        "Point 3 time": "2017-06-01T00:14:11"
+      }
+    }
+  ]
+}

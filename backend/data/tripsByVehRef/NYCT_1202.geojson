@@ -1,0 +1,363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.896841,
+            40.896772
+          ],
+          [
+            -73.905469,
+            40.877965
+          ],
+          [
+            -73.901399,
+            40.868371
+          ],
+          [
+            -73.885352,
+            40.858537
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "1",
+        "OriginName": "BROADWAY/W 262 ST",
+        "DestinationName": "WEST FARMS",
+        "StartTime": "2017-05-31T21:53:40",
+        "EndTime": "2017-05-31T22:23:57",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.896841, latitude=40.896772)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "98",
+        "Point 1 time": "2017-05-31T21:53:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.905469, latitude=40.877965)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-05-31T22:03:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.901399, latitude=40.868371)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-05-31T22:13:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.885352, latitude=40.858537)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "233",
+        "Point 4 time": "2017-05-31T22:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902969,
+            40.881478
+          ],
+          [
+            -73.896479,
+            40.906041
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "0",
+        "OriginName": "E TREMONT AV/E 177 ST",
+        "DestinationName": "RIVERDALE 262 ST",
+        "StartTime": "2017-05-31T23:24",
+        "EndTime": "2017-05-31T23:34:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.902969, latitude=40.881478)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T23:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.896479, latitude=40.906041)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "152",
+        "Point 2 time": "2017-05-31T23:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.901033,
+            40.884389
+          ],
+          [
+            -73.896603,
+            40.91008
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "0",
+        "OriginName": "W 225 ST/BROADWAY",
+        "DestinationName": "RIVERDALE 262 ST",
+        "StartTime": "2017-05-31T21:33:52",
+        "EndTime": "2017-05-31T21:43:46",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.901033, latitude=40.884389)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-05-31T21:33:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.896603, latitude=40.91008)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-05-31T21:43:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897747,
+            40.89071
+          ],
+          [
+            -73.907977,
+            40.87595
+          ],
+          [
+            -73.902778,
+            40.868905
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "1",
+        "OriginName": "BROADWAY/W 262 ST",
+        "DestinationName": "WEST FARMS",
+        "StartTime": "2017-05-31T23:53:11",
+        "EndTime": "2017-06-01T00:14:02",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.897747, latitude=40.89071)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "83",
+        "Point 1 time": "2017-05-31T23:53:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.907977, latitude=40.87595)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "31",
+        "Point 2 time": "2017-06-01T00:04:07",
+        "Point 3 geom": "MyLatLong(longitude=-73.902778, latitude=40.868905)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "148",
+        "Point 3 time": "2017-06-01T00:14:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.877106,
+            40.842383
+          ],
+          [
+            -73.880796,
+            40.856393
+          ],
+          [
+            -73.894002,
+            40.862293
+          ],
+          [
+            -73.901546,
+            40.868409
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "0",
+        "OriginName": "E TREMONT AV/E 177 ST",
+        "DestinationName": "RIVERDALE 262 ST",
+        "StartTime": "2017-05-31T22:44:18",
+        "EndTime": "2017-05-31T23:13:31",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.877106, latitude=40.842383)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "135",
+        "Point 1 time": "2017-05-31T22:44:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.880796, latitude=40.856393)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-05-31T22:54:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.894002, latitude=40.862293)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "172",
+        "Point 3 time": "2017-05-31T23:03:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.901546, latitude=40.868409)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "217",
+        "Point 4 time": "2017-05-31T23:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.879425,
+            40.840016
+          ],
+          [
+            -73.883989,
+            40.845746
+          ],
+          [
+            -73.885521,
+            40.858626
+          ],
+          [
+            -73.894908,
+            40.866463
+          ],
+          [
+            -73.90934,
+            40.874346
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "0",
+        "OriginName": "E TREMONT AV/E 177 ST",
+        "DestinationName": "BWAY - 225 ST",
+        "StartTime": "2017-06-01T00:54:13",
+        "EndTime": "2017-06-01T01:34:33",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.879425, latitude=40.840016)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "367",
+        "Point 1 time": "2017-06-01T00:54:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.883989, latitude=40.845746)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:04:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.885521, latitude=40.858626)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "31",
+        "Point 3 time": "2017-06-01T01:13:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.894908, latitude=40.866463)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "132",
+        "Point 4 time": "2017-06-01T01:24:33",
+        "Point 5 geom": "MyLatLong(longitude=-73.90934, latitude=40.874346)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "14",
+        "Point 5 time": "2017-06-01T01:34:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.896599,
+          40.909844
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "1",
+        "OriginName": "BROADWAY/W 262 ST",
+        "DestinationName": "WEST FARMS",
+        "StartTime": "2017-05-31T23:44:17",
+        "EndTime": "2017-05-31T23:44:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.896599, latitude=40.909844)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "296",
+        "Point 1 time": "2017-05-31T23:44:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8948,
+            40.86616
+          ],
+          [
+            -73.882904,
+            40.857704
+          ],
+          [
+            -73.881109,
+            40.844278
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "1",
+        "OriginName": "BROADWAY/W 262 ST",
+        "DestinationName": "WEST FARMS",
+        "StartTime": "2017-06-01T00:23:55",
+        "EndTime": "2017-06-01T00:44:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.8948, latitude=40.86616)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-06-01T00:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.882904, latitude=40.857704)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T00:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.881109, latitude=40.844278)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "320",
+        "Point 3 time": "2017-06-01T00:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88085,
+          40.84413
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1202",
+        "PublishedLineName": "Bx9",
+        "DirectionRef": "1",
+        "OriginName": "BROADWAY/W 262 ST",
+        "DestinationName": "WEST FARMS",
+        "StartTime": "2017-05-31T22:33:51",
+        "EndTime": "2017-05-31T22:33:51",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.88085, latitude=40.84413)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "292",
+        "Point 1 time": "2017-05-31T22:33:51"
+      }
+    }
+  ]
+}

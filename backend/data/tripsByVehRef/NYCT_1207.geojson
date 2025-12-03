@@ -1,0 +1,403 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927722,
+            40.810114
+          ],
+          [
+            -73.927722,
+            40.810114
+          ],
+          [
+            -73.923778,
+            40.824757
+          ],
+          [
+            -73.914781,
+            40.837263
+          ],
+          [
+            -73.904307,
+            40.851285
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-06-01T01:44:07",
+        "EndTime": "2017-06-01T02:24:21",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.927722, latitude=40.810114)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "489",
+        "Point 1 time": "2017-06-01T01:44:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.927722, latitude=40.810114)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "489",
+        "Point 2 time": "2017-06-01T01:53:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.923778, latitude=40.824757)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "207",
+        "Point 3 time": "2017-06-01T02:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.914781, latitude=40.837263)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "228",
+        "Point 4 time": "2017-06-01T02:14:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.904307, latitude=40.851285)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "108",
+        "Point 5 time": "2017-06-01T02:24:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92769,
+          40.810141
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "KNGSBRDG HTS FT INDEP ST via CONCOURSE",
+        "StartTime": "2017-05-31T23:03:30",
+        "EndTime": "2017-05-31T23:03:30",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.92769, latitude=40.810141)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "322",
+        "Point 1 time": "2017-05-31T23:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.892336,
+            40.869044
+          ],
+          [
+            -73.902256,
+            40.85438
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-05-31T22:23:40",
+        "EndTime": "2017-05-31T22:33:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.892336, latitude=40.869044)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-05-31T22:23:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.902256, latitude=40.85438)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-05-31T22:33:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90939,
+            40.881224
+          ],
+          [
+            -73.90939,
+            40.881224
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "1",
+        "OriginName": "RIVERDALE AV/W 231 ST",
+        "DestinationName": "LTD MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:14:06",
+        "EndTime": "2017-06-01T00:23:48",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.90939, latitude=40.881224)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:14:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.90939, latitude=40.881224)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8974,
+            40.86157
+          ],
+          [
+            -73.887947,
+            40.871797
+          ],
+          [
+            -73.893346,
+            40.88277
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-06-01T02:33:55",
+        "EndTime": "2017-06-01T02:54:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.8974, latitude=40.86157)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "188",
+        "Point 1 time": "2017-06-01T02:33:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.887947, latitude=40.871797)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-06-01T02:43:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.893346, latitude=40.88277)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:54:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.901606,
+          40.877719
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:03:59",
+        "EndTime": "2017-06-01T00:03:59",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.901606, latitude=40.877719)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "208",
+        "Point 1 time": "2017-06-01T00:03:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914747,
+            40.837299
+          ],
+          [
+            -73.904249,
+            40.851358
+          ],
+          [
+            -73.893708,
+            40.866649
+          ],
+          [
+            -73.885477,
+            40.879344
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-05-31T23:24:22",
+        "EndTime": "2017-05-31T23:53:04",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.914747, latitude=40.837299)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "224",
+        "Point 1 time": "2017-05-31T23:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.904249, latitude=40.851358)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "99",
+        "Point 2 time": "2017-05-31T23:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.893708, latitude=40.866649)",
+        "Point 3 arrival": "0.5 miles away",
+        "Point 3 dist from stop": "833",
+        "Point 3 time": "2017-05-31T23:44:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.885477, latitude=40.879344)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "19",
+        "Point 4 time": "2017-05-31T23:53:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.926894,
+          40.819273
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-05-31T23:13:25",
+        "EndTime": "2017-05-31T23:13:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.926894, latitude=40.819273)",
+        "Point 1 arrival": "0.5 miles away",
+        "Point 1 dist from stop": "878",
+        "Point 1 time": "2017-05-31T23:13:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.908948,
+            40.881126
+          ],
+          [
+            -73.895435,
+            40.882491
+          ],
+          [
+            -73.886255,
+            40.881047
+          ],
+          [
+            -73.896497,
+            40.863567
+          ],
+          [
+            -73.906412,
+            40.849234
+          ],
+          [
+            -73.922707,
+            40.827249
+          ],
+          [
+            -73.927778,
+            40.81146
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "1",
+        "OriginName": "RIVERDALE AV/W 231 ST",
+        "DestinationName": "LTD MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:34:27",
+        "EndTime": "2017-06-01T01:34:02",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.908948, latitude=40.881126)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "174",
+        "Point 1 time": "2017-06-01T00:34:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.895435, latitude=40.882491)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "102",
+        "Point 2 time": "2017-06-01T00:44:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.886255, latitude=40.881047)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "199",
+        "Point 3 time": "2017-06-01T00:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.896497, latitude=40.863567)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "171",
+        "Point 4 time": "2017-06-01T01:04:16",
+        "Point 5 geom": "MyLatLong(longitude=-73.906412, latitude=40.849234)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "35",
+        "Point 5 time": "2017-06-01T01:13:10",
+        "Point 6 geom": "MyLatLong(longitude=-73.922707, latitude=40.827249)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "115",
+        "Point 6 time": "2017-06-01T01:24:09",
+        "Point 7 geom": "MyLatLong(longitude=-73.927778, latitude=40.81146)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "72",
+        "Point 7 time": "2017-06-01T01:34:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917873,
+            40.834591
+          ],
+          [
+            -73.922422,
+            40.8173
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1207",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-05-31T22:44:09",
+        "EndTime": "2017-05-31T22:54:05",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.917873, latitude=40.834591)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T22:44:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.922422, latitude=40.8173)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-05-31T22:54:05"
+      }
+    }
+  ]
+}

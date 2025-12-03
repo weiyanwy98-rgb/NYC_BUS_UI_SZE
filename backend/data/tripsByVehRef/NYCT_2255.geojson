@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96938,
+            40.757719
+          ],
+          [
+            -73.974478,
+            40.762265
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2255",
+        "PublishedLineName": "X63",
+        "DirectionRef": "1",
+        "OriginName": "149 AV/253 ST",
+        "DestinationName": "MIDTOWN 23 ST - 1 AV",
+        "StartTime": "2017-06-01T01:44:28",
+        "EndTime": "2017-06-01T01:54:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.96938, latitude=40.757719)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "194",
+        "Point 1 time": "2017-06-01T01:44:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.974478, latitude=40.762265)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-06-01T01:54:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.726671,
+          40.654927
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2255",
+        "PublishedLineName": "X63",
+        "DirectionRef": "1",
+        "OriginName": "149 AV/253 ST",
+        "DestinationName": "MIDTOWN 23 ST - 1 AV",
+        "StartTime": "2017-06-01T00:14:15",
+        "EndTime": "2017-06-01T00:14:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.726671, latitude=40.654927)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-06-01T00:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.729108,
+            40.668651
+          ],
+          [
+            -73.768885,
+            40.683386
+          ],
+          [
+            -73.79593,
+            40.685726
+          ],
+          [
+            -73.825765,
+            40.712237
+          ],
+          [
+            -73.852537,
+            40.726604
+          ],
+          [
+            -73.92314,
+            40.735005
+          ],
+          [
+            -73.971396,
+            40.746454
+          ],
+          [
+            -73.976233,
+            40.748319
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2255",
+        "PublishedLineName": "X63",
+        "DirectionRef": "1",
+        "OriginName": "149 AV/253 ST",
+        "DestinationName": "MIDTOWN 23 ST - 1 AV",
+        "StartTime": "2017-06-01T00:23:51",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-73.729108, latitude=40.668651)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "661",
+        "Point 1 time": "2017-06-01T00:23:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.768885, latitude=40.683386)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "133",
+        "Point 2 time": "2017-06-01T00:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.79593, latitude=40.685726)",
+        "Point 3 arrival": "0.5 miles away",
+        "Point 3 dist from stop": "824",
+        "Point 3 time": "2017-06-01T00:44:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.825765, latitude=40.712237)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "698",
+        "Point 4 time": "2017-06-01T00:54:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.852537, latitude=40.726604)",
+        "Point 5 arrival": "1.1 miles away",
+        "Point 5 dist from stop": "1709",
+        "Point 5 time": "2017-06-01T01:04:08",
+        "Point 6 geom": "MyLatLong(longitude=-73.92314, latitude=40.735005)",
+        "Point 6 arrival": "2.7 miles away",
+        "Point 6 dist from stop": "4337",
+        "Point 6 time": "2017-06-01T01:13:39",
+        "Point 7 geom": "MyLatLong(longitude=-73.971396, latitude=40.746454)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "582",
+        "Point 7 time": "2017-06-01T01:24:20",
+        "Point 8 geom": "MyLatLong(longitude=-73.976233, latitude=40.748319)",
+        "Point 8 arrival": "< 1 stop away",
+        "Point 8 dist from stop": "355",
+        "Point 8 time": "2017-06-01T01:34:25"
+      }
+    }
+  ]
+}

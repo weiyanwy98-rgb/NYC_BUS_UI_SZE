@@ -1,0 +1,483 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.890969,
+            40.860305
+          ],
+          [
+            -73.893747,
+            40.851057
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-06-01T02:33:48",
+        "EndTime": "2017-06-01T02:43:42",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.890969, latitude=40.860305)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "143",
+        "Point 1 time": "2017-06-01T02:33:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.893747, latitude=40.851057)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-06-01T02:43:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.917521,
+          40.816116
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-06-01T00:04:07",
+        "EndTime": "2017-06-01T00:04:07",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.917521, latitude=40.816116)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:04:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89247,
+            40.852441
+          ],
+          [
+            -73.900992,
+            40.838453
+          ],
+          [
+            -73.908866,
+            40.823798
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-06-01T01:04:25",
+        "EndTime": "2017-06-01T01:24:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.89247, latitude=40.852441)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "223",
+        "Point 1 time": "2017-06-01T01:04:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.900992, latitude=40.838453)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-06-01T01:13:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.908866, latitude=40.823798)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "159",
+        "Point 3 time": "2017-06-01T01:24:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.912246,
+          40.821362
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/WESTCHESTER AV",
+        "DestinationName": "FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T00:23:35",
+        "EndTime": "2017-06-01T00:23:35",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.912246, latitude=40.821362)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-06-01T00:23:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.892405,
+          40.852512
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-05-31T23:34:15",
+        "EndTime": "2017-05-31T23:34:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.892405, latitude=40.852512)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "232",
+        "Point 1 time": "2017-05-31T23:34:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91826,
+          40.815374
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "ST CLAIRE PL/W 125 ST",
+        "DestinationName": "LIMITED FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T00:14:13",
+        "EndTime": "2017-06-01T00:14:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91826, latitude=40.815374)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "266",
+        "Point 1 time": "2017-06-01T00:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.892405,
+            40.852512
+          ],
+          [
+            -73.902655,
+            40.836257
+          ],
+          [
+            -73.90825,
+            40.825187
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-05-31T23:34:15",
+        "EndTime": "2017-05-31T23:53:10",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.892405, latitude=40.852512)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "232",
+        "Point 1 time": "2017-05-31T23:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.902655, latitude=40.836257)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "77",
+        "Point 2 time": "2017-05-31T23:44:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.90825, latitude=40.825187)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "322",
+        "Point 3 time": "2017-05-31T23:53:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904823,
+            40.833039
+          ],
+          [
+            -73.896319,
+            40.846377
+          ],
+          [
+            -73.891133,
+            40.859743
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/WESTCHESTER AV",
+        "DestinationName": "FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T00:34",
+        "EndTime": "2017-06-01T00:54:26",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.904823, latitude=40.833039)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T00:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.896319, latitude=40.846377)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "79",
+        "Point 2 time": "2017-06-01T00:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.891133, latitude=40.859743)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-06-01T00:54:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91749,
+          40.816134
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "ST CLAIRE PL/W 125 ST",
+        "DestinationName": "LIMITED FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T03:43:47",
+        "EndTime": "2017-06-01T03:43:47",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91749, latitude=40.816134)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "156",
+        "Point 1 time": "2017-06-01T03:43:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.917121,
+          40.816349
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "ST CLAIRE PL/W 125 ST",
+        "DestinationName": "LIMITED FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T01:44:14",
+        "EndTime": "2017-06-01T01:44:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.917121, latitude=40.816349)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-06-01T01:44:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90853,
+            40.824472
+          ],
+          [
+            -73.906045,
+            40.83061
+          ],
+          [
+            -73.897724,
+            40.843588
+          ],
+          [
+            -73.890673,
+            40.855574
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/WESTCHESTER AV",
+        "DestinationName": "FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T01:54:08",
+        "EndTime": "2017-06-01T02:24:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.90853, latitude=40.824472)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "480",
+        "Point 1 time": "2017-06-01T01:54:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.906045, latitude=40.83061)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "88",
+        "Point 2 time": "2017-06-01T02:03:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.897724, latitude=40.843588)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "107",
+        "Point 3 time": "2017-06-01T02:14:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.890673, latitude=40.855574)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "186",
+        "Point 4 time": "2017-06-01T02:24:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.890969,
+            40.860305
+          ],
+          [
+            -73.893747,
+            40.851057
+          ],
+          [
+            -73.903092,
+            40.835648
+          ],
+          [
+            -73.908336,
+            40.824963
+          ],
+          [
+            -73.916429,
+            40.816832
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-06-01T02:33:48",
+        "EndTime": "2017-06-01T03:14:29",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.890969, latitude=40.860305)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "143",
+        "Point 1 time": "2017-06-01T02:33:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.893747, latitude=40.851057)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-06-01T02:43:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.903092, latitude=40.835648)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:54:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.908336, latitude=40.824963)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "296",
+        "Point 4 time": "2017-06-01T03:04:37",
+        "Point 5 geom": "MyLatLong(longitude=-73.916429, latitude=40.816832)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "122",
+        "Point 5 time": "2017-06-01T03:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.909385,
+            40.822897
+          ],
+          [
+            -73.904893,
+            40.832932
+          ],
+          [
+            -73.896178,
+            40.846654
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/WESTCHESTER AV",
+        "DestinationName": "FORDHAM PLZ via 3 AV",
+        "StartTime": "2017-06-01T03:54:42",
+        "EndTime": "2017-06-01T04:14:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.909385, latitude=40.822897)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "183",
+        "Point 1 time": "2017-06-01T03:54:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.904893, latitude=40.832932)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T04:03:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.896178, latitude=40.846654)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "46",
+        "Point 3 time": "2017-06-01T04:14:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89247,
+          40.852441
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1201",
+        "PublishedLineName": "Bx15",
+        "DirectionRef": "1",
+        "OriginName": "3 AV/E FORDHAM RD",
+        "DestinationName": "149 ST",
+        "StartTime": "2017-06-01T01:04:25",
+        "EndTime": "2017-06-01T01:04:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.89247, latitude=40.852441)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "223",
+        "Point 1 time": "2017-06-01T01:04:25"
+      }
+    }
+  ]
+}

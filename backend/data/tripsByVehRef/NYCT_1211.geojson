@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926972,
+            40.819109
+          ],
+          [
+            -73.918322,
+            40.833633
+          ],
+          [
+            -73.913367,
+            40.839018
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "LTD RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-06-01T03:54:16",
+        "EndTime": "2017-06-01T04:14:35",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.926972, latitude=40.819109)",
+        "Point 1 arrival": "0.6 miles away",
+        "Point 1 dist from stop": "897",
+        "Point 1 time": "2017-06-01T03:54:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.918322, latitude=40.833633)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "160",
+        "Point 2 time": "2017-06-01T04:03:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.913367, latitude=40.839018)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T04:14:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906581,
+            40.84904
+          ],
+          [
+            -73.914788,
+            40.837758
+          ],
+          [
+            -73.922872,
+            40.826618
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:04:07",
+        "EndTime": "2017-06-01T00:23:57",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.906581, latitude=40.84904)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-06-01T00:04:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.914788, latitude=40.837758)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "143",
+        "Point 2 time": "2017-06-01T00:14:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.922872, latitude=40.826618)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "42",
+        "Point 3 time": "2017-06-01T00:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922816,
+          40.817402
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:33:57",
+        "EndTime": "2017-06-01T00:33:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.922816, latitude=40.817402)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "42",
+        "Point 1 time": "2017-06-01T00:33:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.886226,
+            40.875746
+          ],
+          [
+            -73.894682,
+            40.865963
+          ],
+          [
+            -73.900731,
+            40.85647
+          ],
+          [
+            -73.910853,
+            40.845566
+          ],
+          [
+            -73.919848,
+            40.832283
+          ],
+          [
+            -73.924133,
+            40.817741
+          ],
+          [
+            -73.928358,
+            40.809712
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T02:33:55",
+        "EndTime": "2017-06-01T03:34:37",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.886226, latitude=40.875746)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T02:33:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.894682, latitude=40.865963)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-06-01T02:43:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.900731, latitude=40.85647)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "83",
+        "Point 3 time": "2017-06-01T02:54:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.910853, latitude=40.845566)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "97",
+        "Point 4 time": "2017-06-01T03:04:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.919848, latitude=40.832283)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "138",
+        "Point 5 time": "2017-06-01T03:14:14",
+        "Point 6 geom": "MyLatLong(longitude=-73.924133, latitude=40.817741)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "159",
+        "Point 6 time": "2017-06-01T03:23:39",
+        "Point 7 geom": "MyLatLong(longitude=-73.928358, latitude=40.809712)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "2",
+        "Point 7 time": "2017-06-01T03:34:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897252,
+            40.879235
+          ],
+          [
+            -73.88577,
+            40.879316
+          ],
+          [
+            -73.897024,
+            40.862866
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-05-31T23:34:15",
+        "EndTime": "2017-05-31T23:53:10",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.897252, latitude=40.879235)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "264",
+        "Point 1 time": "2017-05-31T23:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.88577, latitude=40.879316)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T23:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.897024, latitude=40.862866)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "81",
+        "Point 3 time": "2017-05-31T23:53:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.889373,
+          40.882589
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "1",
+        "OriginName": "SEDGWICK AV/FT INDEPENDENCE ST",
+        "DestinationName": "MOTT HAVEN 136 ST via CONCOURSE",
+        "StartTime": "2017-06-01T02:24:30",
+        "EndTime": "2017-06-01T02:24:30",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.889373, latitude=40.882589)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-06-01T02:24:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897247,
+            40.861857
+          ],
+          [
+            -73.886565,
+            40.874074
+          ],
+          [
+            -73.89334,
+            40.882769
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "KNGSBRDG HTS FT INDEP ST via CONCOURSE",
+        "StartTime": "2017-06-01T01:44:13",
+        "EndTime": "2017-06-01T02:03:39",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.897247, latitude=40.861857)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "154",
+        "Point 1 time": "2017-06-01T01:44:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.886565, latitude=40.874074)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T01:54:07",
+        "Point 3 geom": "MyLatLong(longitude=-73.89334, latitude=40.882769)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:03:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927707,
+            40.810124
+          ],
+          [
+            -73.922893,
+            40.813305
+          ],
+          [
+            -73.91845,
+            40.816282
+          ],
+          [
+            -73.922763,
+            40.826435
+          ],
+          [
+            -73.913367,
+            40.839018
+          ],
+          [
+            -73.903069,
+            40.852816
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1211",
+        "PublishedLineName": "Bx2",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "KNGSBRDG HTS FT INDEP ST via CONCOURSE",
+        "StartTime": "2017-06-01T00:44:23",
+        "EndTime": "2017-06-01T01:34:19",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.927707, latitude=40.810124)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "324",
+        "Point 1 time": "2017-06-01T00:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.922893, latitude=40.813305)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "43",
+        "Point 2 time": "2017-06-01T00:54:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.91845, latitude=40.816282)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "129",
+        "Point 3 time": "2017-06-01T01:04:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.922763, latitude=40.826435)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T01:13:23",
+        "Point 5 geom": "MyLatLong(longitude=-73.913367, latitude=40.839018)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-06-01T01:24:25",
+        "Point 6 geom": "MyLatLong(longitude=-73.903069, latitude=40.852816)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "121",
+        "Point 6 time": "2017-06-01T01:34:19"
+      }
+    }
+  ]
+}
