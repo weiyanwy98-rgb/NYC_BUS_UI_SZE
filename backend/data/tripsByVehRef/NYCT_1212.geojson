@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.856846,
+            40.894362
+          ],
+          [
+            -73.865976,
+            40.878416
+          ],
+          [
+            -73.867414,
+            40.863558
+          ],
+          [
+            -73.867812,
+            40.850554
+          ],
+          [
+            -73.863062,
+            40.834997
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "1",
+        "OriginName": "E 241 ST/CRANFORD AV",
+        "DestinationName": "CLASON PT",
+        "StartTime": "2017-05-31T22:33:45",
+        "EndTime": "2017-05-31T23:13:24",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.856846, latitude=40.894362)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-05-31T22:33:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.865976, latitude=40.878416)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "85",
+        "Point 2 time": "2017-05-31T22:44:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.867414, latitude=40.863558)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-05-31T22:54:03",
+        "Point 4 geom": "MyLatLong(longitude=-73.867812, latitude=40.850554)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "385",
+        "Point 4 time": "2017-05-31T23:03:25",
+        "Point 5 geom": "MyLatLong(longitude=-73.863062, latitude=40.834997)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "217",
+        "Point 5 time": "2017-05-31T23:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86704,
+            40.86064
+          ],
+          [
+            -73.867175,
+            40.871221
+          ],
+          [
+            -73.862548,
+            40.884039
+          ],
+          [
+            -73.853718,
+            40.898223
+          ],
+          [
+            -73.849314,
+            40.902937
+          ],
+          [
+            -73.849314,
+            40.902937
+          ],
+          [
+            -73.849314,
+            40.902937
+          ],
+          [
+            -73.849314,
+            40.902937
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "0",
+        "OriginName": "SOUNDVIEW AV/STEPHENS AV",
+        "DestinationName": "WAKEFIELD 241 ST via WHITE PLS RD",
+        "StartTime": "2017-06-01T00:23:56",
+        "EndTime": "2017-06-01T01:34:05",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-73.86704, latitude=40.86064)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "121",
+        "Point 1 time": "2017-06-01T00:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.867175, latitude=40.871221)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T00:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.862548, latitude=40.884039)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "182",
+        "Point 3 time": "2017-06-01T00:44:16",
+        "Point 4 geom": "MyLatLong(longitude=-73.853718, latitude=40.898223)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "93",
+        "Point 4 time": "2017-06-01T00:54:13",
+        "Point 5 geom": "MyLatLong(longitude=-73.849314, latitude=40.902937)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "65",
+        "Point 5 time": "2017-06-01T01:04:07",
+        "Point 6 geom": "MyLatLong(longitude=-73.849314, latitude=40.902937)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "65",
+        "Point 6 time": "2017-06-01T01:13:13",
+        "Point 7 geom": "MyLatLong(longitude=-73.849314, latitude=40.902937)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "65",
+        "Point 7 time": "2017-06-01T01:24:21",
+        "Point 8 geom": "MyLatLong(longitude=-73.849314, latitude=40.902937)",
+        "Point 8 arrival": "approaching",
+        "Point 8 dist from stop": "65",
+        "Point 8 time": "2017-06-01T01:34:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.857224,
+            40.817573
+          ],
+          [
+            -73.855373,
+            40.809582
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "1",
+        "OriginName": "E 241 ST/CRANFORD AV",
+        "DestinationName": "CLASON PT",
+        "StartTime": "2017-05-31T23:23:52",
+        "EndTime": "2017-05-31T23:34:07",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.857224, latitude=40.817573)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T23:23:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.855373, latitude=40.809582)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-05-31T23:34:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.849314,
+          40.902937
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "0",
+        "OriginName": "SOUNDVIEW AV/STEPHENS AV",
+        "DestinationName": "WAKEFIELD 241 ST via WHITE PLS RD",
+        "StartTime": "2017-06-01T01:44:14",
+        "EndTime": "2017-06-01T01:44:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.849314, latitude=40.902937)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-06-01T01:44:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929025,
+            40.814326
+          ],
+          [
+            -73.92053,
+            40.830416
+          ],
+          [
+            -73.91265,
+            40.840505
+          ],
+          [
+            -73.900422,
+            40.856277
+          ],
+          [
+            -73.886348,
+            40.874569
+          ],
+          [
+            -73.902408,
+            40.876857
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx1",
+        "DirectionRef": "0",
+        "OriginName": "LINCOLN AV/E 137 ST",
+        "DestinationName": "RIVERDALE 231 ST via CONCOURSE",
+        "StartTime": "2017-05-31T16:03:46",
+        "EndTime": "2017-05-31T16:53:10",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.929025, latitude=40.814326)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "289",
+        "Point 1 time": "2017-05-31T16:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.92053, latitude=40.830416)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-05-31T16:13:41",
+        "Point 3 geom": "MyLatLong(longitude=-73.91265, latitude=40.840505)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "75",
+        "Point 3 time": "2017-05-31T16:23:46",
+        "Point 4 geom": "MyLatLong(longitude=-73.900422, latitude=40.856277)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T16:33:42",
+        "Point 5 geom": "MyLatLong(longitude=-73.886348, latitude=40.874569)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "205",
+        "Point 5 time": "2017-05-31T16:43:10",
+        "Point 6 geom": "MyLatLong(longitude=-73.902408, latitude=40.876857)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "91",
+        "Point 6 time": "2017-05-31T16:53:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.854024,
+            40.898775
+          ],
+          [
+            -73.860684,
+            40.887401
+          ],
+          [
+            -73.86652,
+            40.877909
+          ],
+          [
+            -73.867272,
+            40.868261
+          ],
+          [
+            -73.867574,
+            40.858054
+          ],
+          [
+            -73.866034,
+            40.844986
+          ],
+          [
+            -73.860732,
+            40.828546
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "1",
+        "OriginName": "E 241 ST/CRANFORD AV",
+        "DestinationName": "CLASON PT",
+        "StartTime": "2017-06-01T02:43:42",
+        "EndTime": "2017-06-01T03:43:45",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.854024, latitude=40.898775)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T02:43:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.860684, latitude=40.887401)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "190",
+        "Point 2 time": "2017-06-01T02:54:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.86652, latitude=40.877909)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T03:04:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.867272, latitude=40.868261)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "30",
+        "Point 4 time": "2017-06-01T03:14:33",
+        "Point 5 geom": "MyLatLong(longitude=-73.867574, latitude=40.858054)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "131",
+        "Point 5 time": "2017-06-01T03:23:54",
+        "Point 6 geom": "MyLatLong(longitude=-73.866034, latitude=40.844986)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "12",
+        "Point 6 time": "2017-06-01T03:34:20",
+        "Point 7 geom": "MyLatLong(longitude=-73.860732, latitude=40.828546)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "48",
+        "Point 7 time": "2017-06-01T03:43:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.855528,
+          40.810247
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "0",
+        "OriginName": "SOUNDVIEW AV/STEPHENS AV",
+        "DestinationName": "WAKEFIELD 241 ST via WHITE PLS RD",
+        "StartTime": "2017-05-31T23:44:10",
+        "EndTime": "2017-05-31T23:44:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.855528, latitude=40.810247)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "175",
+        "Point 1 time": "2017-05-31T23:44:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.859172,
+            40.825102
+          ],
+          [
+            -73.862709,
+            40.833312
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "0",
+        "OriginName": "SOUNDVIEW AV/STEPHENS AV",
+        "DestinationName": "WAKEFIELD 241 ST via WHITE PLS RD",
+        "StartTime": "2017-06-01T03:54:17",
+        "EndTime": "2017-06-01T04:03:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.859172, latitude=40.825102)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "171",
+        "Point 1 time": "2017-06-01T03:54:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.862709, latitude=40.833312)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T04:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.857224,
+          40.817573
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "1",
+        "OriginName": "E 241 ST/CRANFORD AV",
+        "DestinationName": "CLASON PT",
+        "StartTime": "2017-05-31T23:23:52",
+        "EndTime": "2017-05-31T23:23:52",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.857224, latitude=40.817573)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T23:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.858489,
+            40.822937
+          ],
+          [
+            -73.862721,
+            40.833392
+          ],
+          [
+            -73.866245,
+            40.845569
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1212",
+        "PublishedLineName": "Bx39",
+        "DirectionRef": "0",
+        "OriginName": "SOUNDVIEW AV/STEPHENS AV",
+        "DestinationName": "WAKEFIELD 241 ST via WHITE PLS RD",
+        "StartTime": "2017-05-31T23:53:11",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.858489, latitude=40.822937)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "160",
+        "Point 1 time": "2017-05-31T23:53:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.862721, latitude=40.833392)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "275",
+        "Point 2 time": "2017-06-01T00:04:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.866245, latitude=40.845569)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T00:14:04"
+      }
+    }
+  ]
+}

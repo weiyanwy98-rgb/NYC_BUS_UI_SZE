@@ -1,0 +1,331 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.898165,
+            40.87042
+          ],
+          [
+            -73.890242,
+            40.877229
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "0",
+        "OriginName": "CASTLE HILL AV/NORTON AV",
+        "DestinationName": "BEDFORD PARK PAUL AV - 205 ST",
+        "StartTime": "2017-05-31T23:53:33",
+        "EndTime": "2017-06-01T00:04:09",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.898165, latitude=40.87042)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-05-31T23:53:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.890242, latitude=40.877229)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T00:04:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.849479,
+            40.825236
+          ],
+          [
+            -73.855515,
+            40.836
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "0",
+        "OriginName": "CASTLE HILL AV/NORTON AV",
+        "DestinationName": "BEDFORD PARK PAUL AV - 205 ST",
+        "StartTime": "2017-05-31T23:03:25",
+        "EndTime": "2017-05-31T23:13:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.849479, latitude=40.825236)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "94",
+        "Point 1 time": "2017-05-31T23:03:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.855515, latitude=40.836)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-05-31T23:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.869698,
+          40.8562
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "1",
+        "OriginName": "BOSTON RD/PELHAM PKY",
+        "DestinationName": "CASTLE HILL ZEREGA AV",
+        "StartTime": "2017-05-31T22:24:08",
+        "EndTime": "2017-05-31T22:24:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.869698, latitude=40.8562)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "261",
+        "Point 1 time": "2017-05-31T22:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863907,
+            40.841521
+          ],
+          [
+            -73.850593,
+            40.830075
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "1",
+        "OriginName": "BOSTON RD/PELHAM PKY",
+        "DestinationName": "CASTLE HILL ZEREGA AV",
+        "StartTime": "2017-05-31T22:33:32",
+        "EndTime": "2017-05-31T22:43:57",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.863907, latitude=40.841521)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-05-31T22:33:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.850593, latitude=40.830075)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "230",
+        "Point 2 time": "2017-05-31T22:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.84837,
+            40.820479
+          ],
+          [
+            -73.851579,
+            40.833983
+          ],
+          [
+            -73.866735,
+            40.846911
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "0",
+        "OriginName": "CASTLE HILL AV/NORTON AV",
+        "DestinationName": "PELHAM PKY",
+        "StartTime": "2017-05-31T21:43:32",
+        "EndTime": "2017-05-31T22:03:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.84837, latitude=40.820479)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "109",
+        "Point 1 time": "2017-05-31T21:43:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.851579, latitude=40.833983)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "64",
+        "Point 2 time": "2017-05-31T21:53:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.866735, latitude=40.846911)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "105",
+        "Point 3 time": "2017-05-31T22:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.895689,
+            40.862516
+          ],
+          [
+            -73.878876,
+            40.855931
+          ],
+          [
+            -73.866637,
+            40.846645
+          ],
+          [
+            -73.852593,
+            40.836323
+          ],
+          [
+            -73.849085,
+            40.823549
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "1",
+        "OriginName": "W 205 ST/PAUL AV",
+        "DestinationName": "CASTLE HILL ZEREGA AV",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T01:04:28",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.895689, latitude=40.862516)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.878876, latitude=40.855931)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "853",
+        "Point 2 time": "2017-06-01T00:34:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.866637, latitude=40.846645)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "204",
+        "Point 3 time": "2017-06-01T00:44:02",
+        "Point 4 geom": "MyLatLong(longitude=-73.852593, latitude=40.836323)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "318",
+        "Point 4 time": "2017-06-01T00:54:30",
+        "Point 5 geom": "MyLatLong(longitude=-73.849085, latitude=40.823549)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "153",
+        "Point 5 time": "2017-06-01T01:04:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.869698,
+          40.8562
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "1",
+        "OriginName": "BOSTON RD/PELHAM PKY",
+        "DestinationName": "CASTLE HILL ZEREGA AV",
+        "StartTime": "2017-05-31T22:24:08",
+        "EndTime": "2017-05-31T22:24:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.869698, latitude=40.8562)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "261",
+        "Point 1 time": "2017-05-31T22:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863907,
+            40.841521
+          ],
+          [
+            -73.850593,
+            40.830075
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "1",
+        "OriginName": "BOSTON RD/PELHAM PKY",
+        "DestinationName": "CASTLE HILL ZEREGA AV",
+        "StartTime": "2017-05-31T22:33:32",
+        "EndTime": "2017-05-31T22:43:57",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.863907, latitude=40.841521)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-05-31T22:33:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.850593, latitude=40.830075)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "230",
+        "Point 2 time": "2017-05-31T22:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866207,
+            40.845463
+          ],
+          [
+            -73.872131,
+            40.856478
+          ],
+          [
+            -73.889988,
+            40.860957
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1222",
+        "PublishedLineName": "Bx22",
+        "DirectionRef": "0",
+        "OriginName": "CASTLE HILL AV/NORTON AV",
+        "DestinationName": "BEDFORD PARK PAUL AV - 205 ST",
+        "StartTime": "2017-05-31T23:24:19",
+        "EndTime": "2017-05-31T23:44:09",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.866207, latitude=40.845463)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T23:24:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.872131, latitude=40.856478)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "795",
+        "Point 2 time": "2017-05-31T23:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.889988, latitude=40.860957)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-05-31T23:44:09"
+      }
+    }
+  ]
+}

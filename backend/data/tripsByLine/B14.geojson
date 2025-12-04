@@ -1,0 +1,4851 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862747,
+            40.669103
+          ],
+          [
+            -73.875636,
+            40.672251
+          ],
+          [
+            -73.894397,
+            40.669493
+          ],
+          [
+            -73.902988,
+            40.665042
+          ],
+          [
+            -73.91429,
+            40.669156
+          ],
+          [
+            -73.925037,
+            40.668682
+          ],
+          [
+            -73.933573,
+            40.66872
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:23:44",
+        "EndTime": "2017-06-01T01:24:28",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.862747, latitude=40.669103)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-06-01T00:23:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.875636, latitude=40.672251)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "26",
+        "Point 2 time": "2017-06-01T00:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.894397, latitude=40.669493)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "107",
+        "Point 3 time": "2017-06-01T00:44:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.902988, latitude=40.665042)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "18",
+        "Point 4 time": "2017-06-01T00:54:09",
+        "Point 5 geom": "MyLatLong(longitude=-73.91429, latitude=40.669156)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "52",
+        "Point 5 time": "2017-06-01T01:04:15",
+        "Point 6 geom": "MyLatLong(longitude=-73.925037, latitude=40.668682)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "14",
+        "Point 6 time": "2017-06-01T01:13:17",
+        "Point 7 geom": "MyLatLong(longitude=-73.933573, latitude=40.66872)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "174",
+        "Point 7 time": "2017-06-01T01:24:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.930133,
+          40.668959
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:23:57",
+        "EndTime": "2017-05-31T23:23:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.930133, latitude=40.668959)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-05-31T23:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863265,
+            40.664865
+          ],
+          [
+            -73.863265,
+            40.664865
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7094",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T16:03:46",
+        "EndTime": "2017-05-31T16:13:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.863265, latitude=40.664865)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "27",
+        "Point 1 time": "2017-05-31T16:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.863265, latitude=40.664865)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "27",
+        "Point 2 time": "2017-05-31T16:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.875687,
+            40.672244
+          ],
+          [
+            -73.862201,
+            40.667815
+          ],
+          [
+            -73.863266,
+            40.664873
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:24:11",
+        "EndTime": "2017-06-01T02:43:39",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.875687, latitude=40.672244)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "121",
+        "Point 1 time": "2017-06-01T02:24:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.862201, latitude=40.667815)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "32",
+        "Point 2 time": "2017-06-01T02:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.863266, latitude=40.664873)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-06-01T02:43:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.871047,
+            40.672909
+          ],
+          [
+            -73.892304,
+            40.669805
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T22:13:41",
+        "EndTime": "2017-05-31T22:23:41",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.871047, latitude=40.672909)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T22:13:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.892304, latitude=40.669805)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "119",
+        "Point 2 time": "2017-05-31T22:23:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925804,
+            40.668293
+          ],
+          [
+            -73.905585,
+            40.664683
+          ],
+          [
+            -73.881871,
+            40.67135
+          ],
+          [
+            -73.860931,
+            40.669601
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7138",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T17:33:17",
+        "EndTime": "2017-05-31T18:03:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.925804, latitude=40.668293)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "301",
+        "Point 1 time": "2017-05-31T17:33:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.905585, latitude=40.664683)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "41",
+        "Point 2 time": "2017-05-31T17:43:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.881871, latitude=40.67135)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "177",
+        "Point 3 time": "2017-05-31T17:53:54",
+        "Point 4 geom": "MyLatLong(longitude=-73.860931, latitude=40.669601)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "211",
+        "Point 4 time": "2017-05-31T18:03:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86257,
+            40.668391
+          ],
+          [
+            -73.88349,
+            40.671111
+          ],
+          [
+            -73.906749,
+            40.669272
+          ],
+          [
+            -73.933261,
+            40.669128
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T17:23:25",
+        "EndTime": "2017-05-31T17:53:45",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.86257, latitude=40.668391)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T17:23:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.88349, latitude=40.671111)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "108",
+        "Point 2 time": "2017-05-31T17:32:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.906749, latitude=40.669272)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T17:43:37",
+        "Point 4 geom": "MyLatLong(longitude=-73.933261, latitude=40.669128)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "39",
+        "Point 4 time": "2017-05-31T17:53:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.884835,
+            40.670911
+          ],
+          [
+            -73.861814,
+            40.673158
+          ],
+          [
+            -73.863217,
+            40.666088
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:44:29",
+        "EndTime": "2017-06-01T02:03:34",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.884835, latitude=40.670911)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-06-01T01:44:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.861814, latitude=40.673158)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "259",
+        "Point 2 time": "2017-06-01T01:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.863217, latitude=40.666088)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "188",
+        "Point 3 time": "2017-06-01T02:03:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920408,
+            40.668118
+          ],
+          [
+            -73.903509,
+            40.667869
+          ],
+          [
+            -73.879721,
+            40.671664
+          ],
+          [
+            -73.862077,
+            40.66641
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T21:53:32",
+        "EndTime": "2017-05-31T22:23:42",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.920408, latitude=40.668118)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-05-31T21:53:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.903509, latitude=40.667869)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T22:03:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.879721, latitude=40.671664)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "150",
+        "Point 3 time": "2017-05-31T22:13:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.862077, latitude=40.66641)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "38",
+        "Point 4 time": "2017-05-31T22:23:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862921,
+            40.664708
+          ],
+          [
+            -73.864545,
+            40.669381
+          ],
+          [
+            -73.881576,
+            40.671394
+          ],
+          [
+            -73.895583,
+            40.669316
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:04:17",
+        "EndTime": "2017-06-01T01:34:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.862921, latitude=40.664708)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:04:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.864545, latitude=40.669381)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T01:13:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.881576, latitude=40.671394)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "132",
+        "Point 3 time": "2017-06-01T01:24:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.895583, latitude=40.669316)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "5",
+        "Point 4 time": "2017-06-01T01:34:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.903541,
+            40.667995
+          ],
+          [
+            -73.89021,
+            40.670112
+          ],
+          [
+            -73.870941,
+            40.672925
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:34:21",
+        "EndTime": "2017-06-01T00:54:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.903541, latitude=40.667995)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-06-01T00:34:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.89021, latitude=40.670112)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T00:44:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.870941, latitude=40.672925)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "110",
+        "Point 3 time": "2017-06-01T00:54:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867933,
+            40.673363
+          ],
+          [
+            -73.883012,
+            40.671182
+          ],
+          [
+            -73.895575,
+            40.669317
+          ],
+          [
+            -73.906435,
+            40.668032
+          ],
+          [
+            -73.916984,
+            40.668756
+          ],
+          [
+            -73.929273,
+            40.668912
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:23:50",
+        "EndTime": "2017-06-01T01:13:13",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.867933, latitude=40.673363)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:23:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.883012, latitude=40.671182)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:34:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.895575, latitude=40.669317)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:44:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.906435, latitude=40.668032)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T00:54:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.916984, latitude=40.668756)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "99",
+        "Point 5 time": "2017-06-01T01:04:09",
+        "Point 6 geom": "MyLatLong(longitude=-73.929273, latitude=40.668912)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "176",
+        "Point 6 time": "2017-06-01T01:13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925875,
+            40.668297
+          ],
+          [
+            -73.91044,
+            40.669729
+          ],
+          [
+            -73.901379,
+            40.668457
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:03:46",
+        "EndTime": "2017-06-01T02:24:26",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.925875, latitude=40.668297)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T02:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.91044, latitude=40.669729)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T02:14:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.901379, latitude=40.668457)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T02:24:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.916977,
+            40.668757
+          ],
+          [
+            -73.909983,
+            40.669798
+          ],
+          [
+            -73.901442,
+            40.668447
+          ],
+          [
+            -73.885383,
+            40.67083
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T03:24",
+        "EndTime": "2017-06-01T04:03:40",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.916977, latitude=40.668757)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-06-01T03:34:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.909983, latitude=40.669798)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T03:44:02",
+        "Point 4 geom": "MyLatLong(longitude=-73.901442, latitude=40.668447)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "10",
+        "Point 4 time": "2017-06-01T03:54:39",
+        "Point 5 geom": "MyLatLong(longitude=-73.885383, latitude=40.67083)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "43",
+        "Point 5 time": "2017-06-01T04:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.910921,
+            40.669656
+          ],
+          [
+            -73.896394,
+            40.669197
+          ],
+          [
+            -73.865218,
+            40.673758
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T19:13:42",
+        "EndTime": "2017-05-31T19:33:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.910921, latitude=40.669656)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "48",
+        "Point 1 time": "2017-05-31T19:13:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.896394, latitude=40.669197)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "137",
+        "Point 2 time": "2017-05-31T19:23:35",
+        "Point 3 geom": "MyLatLong(longitude=-73.865218, latitude=40.673758)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "60",
+        "Point 3 time": "2017-05-31T19:33:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.903067,
+            40.66503
+          ],
+          [
+            -73.907247,
+            40.670204
+          ],
+          [
+            -73.91998,
+            40.668954
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:23:58",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.903067, latitude=40.66503)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T23:23:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.907247, latitude=40.670204)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-05-31T23:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.91998, latitude=40.668954)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "358",
+        "Point 3 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866588,
+          40.67324
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T04:03:53",
+        "EndTime": "2017-06-01T04:03:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.866588, latitude=40.67324)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "152",
+        "Point 1 time": "2017-06-01T04:03:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.871064,
+            40.672907
+          ],
+          [
+            -73.894641,
+            40.669456
+          ],
+          [
+            -73.90618,
+            40.667014
+          ],
+          [
+            -73.916046,
+            40.668896
+          ],
+          [
+            -73.931297,
+            40.669022
+          ],
+          [
+            -73.931504,
+            40.668606
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:54:14",
+        "EndTime": "2017-06-01T03:44:04",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.871064, latitude=40.672907)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T02:54:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.894641, latitude=40.669456)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "86",
+        "Point 2 time": "2017-06-01T03:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.90618, latitude=40.667014)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "117",
+        "Point 3 time": "2017-06-01T03:14:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.916046, latitude=40.668896)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "60",
+        "Point 4 time": "2017-06-01T03:23:54",
+        "Point 5 geom": "MyLatLong(longitude=-73.931297, latitude=40.669022)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "5",
+        "Point 5 time": "2017-06-01T03:34:31",
+        "Point 6 geom": "MyLatLong(longitude=-73.931504, latitude=40.668606)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T03:44:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.913401,
+            40.669286
+          ],
+          [
+            -73.903136,
+            40.666377
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T22:44:01",
+        "EndTime": "2017-05-31T23:03:45",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:01",
+        "Point 2 geom": "MyLatLong(longitude=-73.913401, latitude=40.669286)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-05-31T22:54:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.903136, latitude=40.666377)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "62",
+        "Point 3 time": "2017-05-31T23:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862482,
+            40.668037
+          ],
+          [
+            -73.884859,
+            40.670907
+          ],
+          [
+            -73.90649,
+            40.668249
+          ],
+          [
+            -73.93384,
+            40.669159
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T19:43:46",
+        "EndTime": "2017-05-31T20:13:31",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.862482, latitude=40.668037)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T19:43:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.884859, latitude=40.670907)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "139",
+        "Point 2 time": "2017-05-31T19:53:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.90649, latitude=40.668249)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "120",
+        "Point 3 time": "2017-05-31T20:03:56",
+        "Point 4 geom": "MyLatLong(longitude=-73.93384, latitude=40.669159)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "252",
+        "Point 4 time": "2017-05-31T20:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918996,
+            40.668458
+          ],
+          [
+            -73.903467,
+            40.667697
+          ],
+          [
+            -73.884986,
+            40.670889
+          ],
+          [
+            -73.861737,
+            40.672845
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T21:34:07",
+        "EndTime": "2017-05-31T22:03:28",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.918996, latitude=40.668458)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-05-31T21:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.903467, latitude=40.667697)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "87",
+        "Point 2 time": "2017-05-31T21:43:41",
+        "Point 3 geom": "MyLatLong(longitude=-73.884986, latitude=40.670889)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-05-31T21:53:51",
+        "Point 4 geom": "MyLatLong(longitude=-73.861737, latitude=40.672845)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "224",
+        "Point 4 time": "2017-05-31T22:03:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.931603,
+          40.668611
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:34:29",
+        "EndTime": "2017-06-01T00:34:29",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.931603, latitude=40.668611)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T00:34:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.88229,
+            40.671289
+          ],
+          [
+            -73.861505,
+            40.671907
+          ],
+          [
+            -73.863324,
+            40.665123
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T22:33:51",
+        "EndTime": "2017-05-31T22:53:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.88229, latitude=40.671289)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T22:33:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.861505, latitude=40.671907)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "117",
+        "Point 2 time": "2017-05-31T22:43:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.863324, latitude=40.665123)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "56",
+        "Point 3 time": "2017-05-31T22:53:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930436,
+            40.668547
+          ],
+          [
+            -73.915082,
+            40.669038
+          ],
+          [
+            -73.910524,
+            40.669716
+          ],
+          [
+            -73.903404,
+            40.667448
+          ],
+          [
+            -73.892658,
+            40.669751
+          ],
+          [
+            -73.86976,
+            40.673098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7093",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:54:26",
+        "EndTime": "2017-06-01T03:43:52",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.930436, latitude=40.668547)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "212",
+        "Point 1 time": "2017-06-01T02:54:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.915082, latitude=40.669038)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T03:04:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.910524, latitude=40.669716)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T03:14:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.903404, latitude=40.667448)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "115",
+        "Point 4 time": "2017-06-01T03:23:39",
+        "Point 5 geom": "MyLatLong(longitude=-73.892658, latitude=40.669751)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "54",
+        "Point 5 time": "2017-06-01T03:34:18",
+        "Point 6 geom": "MyLatLong(longitude=-73.86976, latitude=40.673098)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "8",
+        "Point 6 time": "2017-06-01T03:43:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919515,
+            40.668381
+          ],
+          [
+            -73.902818,
+            40.665061
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T22:13:46",
+        "EndTime": "2017-05-31T22:23:49",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.919515, latitude=40.668381)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "229",
+        "Point 1 time": "2017-05-31T22:13:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.902818, latitude=40.665061)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-05-31T22:23:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862547,
+            40.668298
+          ],
+          [
+            -73.872506,
+            40.672686
+          ],
+          [
+            -73.89827,
+            40.668919
+          ],
+          [
+            -73.90643,
+            40.668013
+          ],
+          [
+            -73.914851,
+            40.669073
+          ],
+          [
+            -73.925628,
+            40.668714
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:33:54",
+        "EndTime": "2017-06-01T03:23:43",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.862547, latitude=40.668298)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "194",
+        "Point 1 time": "2017-06-01T02:33:54",
+        "Point 2 geom": "MyLatLong(longitude=-73.872506, latitude=40.672686)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "172",
+        "Point 2 time": "2017-06-01T02:43:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.89827, latitude=40.668919)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T02:54:36",
+        "Point 4 geom": "MyLatLong(longitude=-73.90643, latitude=40.668013)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-06-01T03:04:36",
+        "Point 5 geom": "MyLatLong(longitude=-73.914851, latitude=40.669073)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "4",
+        "Point 5 time": "2017-06-01T03:14:42",
+        "Point 6 geom": "MyLatLong(longitude=-73.925628, latitude=40.668714)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "218",
+        "Point 6 time": "2017-06-01T03:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.929973,
+          40.668522
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:34:21",
+        "EndTime": "2017-06-01T01:34:21",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.929973, latitude=40.668522)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T01:34:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.862547,
+          40.668298
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:03:30",
+        "EndTime": "2017-05-31T23:03:30",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.862547, latitude=40.668298)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "194",
+        "Point 1 time": "2017-05-31T23:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922401,
+            40.668571
+          ],
+          [
+            -73.932831,
+            40.669105
+          ],
+          [
+            -73.93365,
+            40.669149
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:53:20",
+        "EndTime": "2017-06-01T00:13:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922401, latitude=40.668571)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "54",
+        "Point 1 time": "2017-05-31T23:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.932831, latitude=40.669105)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "75",
+        "Point 2 time": "2017-06-01T00:04:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.93365, latitude=40.669149)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:13:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.874271,
+            40.672435
+          ],
+          [
+            -73.860871,
+            40.669367
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:53:24",
+        "EndTime": "2017-06-01T00:04:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.874271, latitude=40.672435)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.860871, latitude=40.669367)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "185",
+        "Point 2 time": "2017-06-01T00:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897388,
+            40.66905
+          ],
+          [
+            -73.907376,
+            40.670185
+          ],
+          [
+            -73.921491,
+            40.668912
+          ],
+          [
+            -73.931331,
+            40.669023
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:24:15",
+        "EndTime": "2017-06-01T02:54:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.897388, latitude=40.66905)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "88",
+        "Point 1 time": "2017-06-01T02:24:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.907376, latitude=40.670185)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T02:33:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.921491, latitude=40.668912)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "140",
+        "Point 3 time": "2017-06-01T02:43:22",
+        "Point 4 geom": "MyLatLong(longitude=-73.931331, latitude=40.669023)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T02:54:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90634,
+            40.667651
+          ],
+          [
+            -73.917982,
+            40.66861
+          ],
+          [
+            -73.930734,
+            40.668991
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T22:33:44",
+        "EndTime": "2017-05-31T22:53:53",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.90634, latitude=40.667651)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "45",
+        "Point 1 time": "2017-05-31T22:33:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.917982, latitude=40.66861)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-05-31T22:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.930734, latitude=40.668991)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "53",
+        "Point 3 time": "2017-05-31T22:53:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891262,
+            40.669957
+          ],
+          [
+            -73.907345,
+            40.67019
+          ],
+          [
+            -73.930681,
+            40.668988
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T21:03:40",
+        "EndTime": "2017-05-31T21:23:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.891262, latitude=40.669957)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T21:03:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.907345, latitude=40.67019)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-05-31T21:13:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.930681, latitude=40.668988)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "57",
+        "Point 3 time": "2017-05-31T21:23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.912675,
+            40.669394
+          ],
+          [
+            -73.924001,
+            40.668624
+          ],
+          [
+            -73.931366,
+            40.669025
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:23:34",
+        "EndTime": "2017-06-01T00:44:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.912675, latitude=40.669394)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-06-01T00:23:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.924001, latitude=40.668624)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "102",
+        "Point 2 time": "2017-06-01T00:34:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.931366, latitude=40.669025)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T00:44:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.861436,
+          40.671625
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:34:08",
+        "EndTime": "2017-06-01T01:34:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.861436, latitude=40.671625)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "86",
+        "Point 1 time": "2017-06-01T01:34:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862948,
+            40.664699
+          ],
+          [
+            -73.870439,
+            40.673
+          ],
+          [
+            -73.892059,
+            40.66984
+          ],
+          [
+            -73.902045,
+            40.665172
+          ],
+          [
+            -73.911063,
+            40.669636
+          ],
+          [
+            -73.922456,
+            40.668569
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:44:21",
+        "EndTime": "2017-06-01T01:34:16",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.862948, latitude=40.664699)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:44:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.870439, latitude=40.673)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T00:54:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.892059, latitude=40.66984)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "140",
+        "Point 3 time": "2017-06-01T01:04:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.902045, latitude=40.665172)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "23",
+        "Point 4 time": "2017-06-01T01:13:33",
+        "Point 5 geom": "MyLatLong(longitude=-73.911063, latitude=40.669636)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "11",
+        "Point 5 time": "2017-06-01T01:24:09",
+        "Point 6 geom": "MyLatLong(longitude=-73.922456, latitude=40.668569)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "49",
+        "Point 6 time": "2017-06-01T01:34:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922667,
+            40.667361
+          ],
+          [
+            -73.903138,
+            40.666388
+          ],
+          [
+            -73.876186,
+            40.672173
+          ],
+          [
+            -73.862412,
+            40.666202
+          ],
+          [
+            -73.863253,
+            40.664817
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7138",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T16:13:35",
+        "EndTime": "2017-05-31T16:52:54",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.922667, latitude=40.667361)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "111",
+        "Point 1 time": "2017-05-31T16:13:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.903138, latitude=40.666388)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "60",
+        "Point 2 time": "2017-05-31T16:23:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.876186, latitude=40.672173)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T16:33:47",
+        "Point 4 geom": "MyLatLong(longitude=-73.862412, latitude=40.666202)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "257",
+        "Point 4 time": "2017-05-31T16:43:19",
+        "Point 5 geom": "MyLatLong(longitude=-73.863253, latitude=40.664817)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "21",
+        "Point 5 time": "2017-05-31T16:52:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904127,
+            40.664874
+          ],
+          [
+            -73.891595,
+            40.669908
+          ],
+          [
+            -73.86983,
+            40.673088
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:44:22",
+        "EndTime": "2017-06-01T02:03:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.904127, latitude=40.664874)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "150",
+        "Point 1 time": "2017-06-01T01:44:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.891595, latitude=40.669908)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "122",
+        "Point 2 time": "2017-06-01T01:53:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.86983, latitude=40.673088)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T02:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863318,
+          40.665098
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:24:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.863318, latitude=40.665098)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T23:24:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.874615,
+          40.672388
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:24:11",
+        "EndTime": "2017-06-01T01:24:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.874615, latitude=40.672388)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-06-01T01:24:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.917568,
+            40.66867
+          ],
+          [
+            -73.905681,
+            40.665056
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:34:03",
+        "EndTime": "2017-05-31T23:53:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:34:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.917568, latitude=40.66867)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "62",
+        "Point 2 time": "2017-05-31T23:44:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.905681, latitude=40.665056)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "83",
+        "Point 3 time": "2017-05-31T23:53:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.865733,
+          40.669839
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:44",
+        "EndTime": "2017-05-31T23:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.865733, latitude=40.669839)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "243",
+        "Point 1 time": "2017-05-31T23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921304,
+            40.667728
+          ],
+          [
+            -73.907468,
+            40.670171
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:14:05",
+        "EndTime": "2017-06-01T00:23:41",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.921304, latitude=40.667728)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "163",
+        "Point 1 time": "2017-06-01T00:14:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.907468, latitude=40.670171)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "75",
+        "Point 2 time": "2017-06-01T00:23:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866492,
+            40.672872
+          ],
+          [
+            -73.88834,
+            40.670391
+          ],
+          [
+            -73.902571,
+            40.66828
+          ],
+          [
+            -73.907325,
+            40.670193
+          ],
+          [
+            -73.918032,
+            40.668603
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T03:04:40",
+        "EndTime": "2017-06-01T03:43:51",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.866492, latitude=40.672872)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "194",
+        "Point 1 time": "2017-06-01T03:04:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.88834, latitude=40.670391)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T03:14:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.902571, latitude=40.66828)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "34",
+        "Point 3 time": "2017-06-01T03:23:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.907325, latitude=40.670193)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "13",
+        "Point 4 time": "2017-06-01T03:34:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.918032, latitude=40.668603)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "9",
+        "Point 5 time": "2017-06-01T03:43:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863101,
+          40.669584
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:34:15",
+        "EndTime": "2017-06-01T01:34:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.863101, latitude=40.669584)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T01:34:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920845,
+            40.667928
+          ],
+          [
+            -73.906118,
+            40.666771
+          ],
+          [
+            -73.896806,
+            40.669136
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:13:25",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.920845, latitude=40.667928)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "119",
+        "Point 1 time": "2017-06-01T01:13:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.906118, latitude=40.666771)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "51",
+        "Point 2 time": "2017-06-01T01:24:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.896806, latitude=40.669136)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T01:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90961,
+            40.669853
+          ],
+          [
+            -73.901347,
+            40.668462
+          ],
+          [
+            -73.880941,
+            40.671487
+          ],
+          [
+            -73.860578,
+            40.66819
+          ],
+          [
+            -73.863305,
+            40.66504
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:44:31",
+        "EndTime": "2017-06-01T02:24:15",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.90961, latitude=40.669853)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "95",
+        "Point 1 time": "2017-06-01T01:44:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.901347, latitude=40.668462)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:54:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.880941, latitude=40.671487)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "97",
+        "Point 3 time": "2017-06-01T02:03:35",
+        "Point 4 geom": "MyLatLong(longitude=-73.860578, latitude=40.66819)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "51",
+        "Point 4 time": "2017-06-01T02:14:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.863305, latitude=40.66504)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "47",
+        "Point 5 time": "2017-06-01T02:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.88227,
+            40.671291
+          ],
+          [
+            -73.900346,
+            40.668612
+          ],
+          [
+            -73.907247,
+            40.670204
+          ],
+          [
+            -73.919871,
+            40.668368
+          ],
+          [
+            -73.932952,
+            40.668686
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:44:17",
+        "EndTime": "2017-06-01T02:24:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.88227, latitude=40.671291)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "73",
+        "Point 1 time": "2017-06-01T01:44:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.900346, latitude=40.668612)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "148",
+        "Point 2 time": "2017-06-01T01:53:49",
+        "Point 3 geom": "MyLatLong(longitude=-73.907247, latitude=40.670204)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-06-01T02:03:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.919871, latitude=40.668368)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "437",
+        "Point 4 time": "2017-06-01T02:14:29",
+        "Point 5 geom": "MyLatLong(longitude=-73.932952, latitude=40.668686)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "122",
+        "Point 5 time": "2017-06-01T02:24:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86293,
+            40.664705
+          ],
+          [
+            -73.874437,
+            40.672412
+          ],
+          [
+            -73.888261,
+            40.670402
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-06-01T00:13:59",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86293, latitude=40.664705)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.874437, latitude=40.672412)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T00:04:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.888261, latitude=40.670402)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:13:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931515,
+            40.669033
+          ],
+          [
+            -73.931504,
+            40.668606
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-06-01T00:04:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931515, latitude=40.669033)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "186",
+        "Point 1 time": "2017-05-31T23:53:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.931504, latitude=40.668606)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922673,
+            40.667952
+          ],
+          [
+            -73.906643,
+            40.668858
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:03:31",
+        "EndTime": "2017-05-31T23:13:33",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.922673, latitude=40.667952)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T23:03:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.906643, latitude=40.668858)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-05-31T23:13:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866297,
+            40.672098
+          ],
+          [
+            -73.877754,
+            40.671947
+          ],
+          [
+            -73.898392,
+            40.6689
+          ],
+          [
+            -73.90643,
+            40.668013
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7093",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:53:48",
+        "EndTime": "2017-06-01T02:24:10",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.866297, latitude=40.672098)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "281",
+        "Point 1 time": "2017-06-01T01:53:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.877754, latitude=40.671947)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T02:03:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.898392, latitude=40.6689)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T02:14:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.90643, latitude=40.668013)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-06-01T02:24:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891418,
+            40.669934
+          ],
+          [
+            -73.89991,
+            40.668677
+          ],
+          [
+            -73.906019,
+            40.666377
+          ],
+          [
+            -73.912935,
+            40.669355
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:53:25",
+        "EndTime": "2017-06-01T00:24",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.891418, latitude=40.669934)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-05-31T23:53:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.89991, latitude=40.668677)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-06-01T00:04:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.906019, latitude=40.666377)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T00:13:58",
+        "Point 4 geom": "MyLatLong(longitude=-73.912935, latitude=40.669355)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-06-01T00:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.907412,
+            40.67018
+          ],
+          [
+            -73.903478,
+            40.667742
+          ],
+          [
+            -73.890238,
+            40.670107
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:44:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.907412, latitude=40.67018)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "70",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.903478, latitude=40.667742)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "82",
+        "Point 2 time": "2017-05-31T23:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.890238, latitude=40.670107)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-05-31T23:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862921,
+            40.664708
+          ],
+          [
+            -73.872632,
+            40.672667
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7093",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T03:54:30",
+        "EndTime": "2017-06-01T04:04:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.862921, latitude=40.664708)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:54:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.872632, latitude=40.672667)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "161",
+        "Point 2 time": "2017-06-01T04:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865276,
+            40.669276
+          ],
+          [
+            -73.875775,
+            40.672231
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:34:13",
+        "EndTime": "2017-05-31T23:44:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.865276, latitude=40.669276)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "337",
+        "Point 1 time": "2017-05-31T23:34:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.875775, latitude=40.672231)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-05-31T23:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86629,
+            40.67207
+          ],
+          [
+            -73.885814,
+            40.670767
+          ],
+          [
+            -73.902581,
+            40.6681
+          ],
+          [
+            -73.910778,
+            40.669678
+          ],
+          [
+            -73.919629,
+            40.668364
+          ],
+          [
+            -73.931747,
+            40.669046
+          ],
+          [
+            -73.931747,
+            40.669046
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T03:23:56",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.86629, latitude=40.67207)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "284",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.885814, latitude=40.670767)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "57",
+        "Point 2 time": "2017-06-01T02:33:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.902581, latitude=40.6681)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T02:43:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.910778, latitude=40.669678)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "35",
+        "Point 4 time": "2017-06-01T02:54:42",
+        "Point 5 geom": "MyLatLong(longitude=-73.919629, latitude=40.668364)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "457",
+        "Point 5 time": "2017-06-01T03:04:17",
+        "Point 6 geom": "MyLatLong(longitude=-73.931747, latitude=40.669046)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "167",
+        "Point 6 time": "2017-06-01T03:14:20",
+        "Point 7 geom": "MyLatLong(longitude=-73.931747, latitude=40.669046)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "167",
+        "Point 7 time": "2017-06-01T03:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920105,
+            40.668249
+          ],
+          [
+            -73.906237,
+            40.667245
+          ],
+          [
+            -73.896337,
+            40.669206
+          ],
+          [
+            -73.875514,
+            40.672268
+          ],
+          [
+            -73.862717,
+            40.666159
+          ],
+          [
+            -73.863335,
+            40.665171
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T01:13:36",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.920105, latitude=40.668249)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "47",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.906237, latitude=40.667245)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "104",
+        "Point 2 time": "2017-06-01T00:34:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.896337, latitude=40.669206)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "132",
+        "Point 3 time": "2017-06-01T00:44:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.875514, latitude=40.672268)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "106",
+        "Point 4 time": "2017-06-01T00:54:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.862717, latitude=40.666159)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "231",
+        "Point 5 time": "2017-06-01T01:04:05",
+        "Point 6 geom": "MyLatLong(longitude=-73.863335, latitude=40.665171)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "61",
+        "Point 6 time": "2017-06-01T01:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919502,
+          40.668383
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:34:12",
+        "EndTime": "2017-06-01T01:34:12",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919502, latitude=40.668383)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "228",
+        "Point 1 time": "2017-06-01T01:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863193,
+          40.665185
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:13:04",
+        "EndTime": "2017-05-31T23:13:04",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.863193, latitude=40.665185)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-05-31T23:13:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862795,
+            40.669297
+          ],
+          [
+            -73.875997,
+            40.6722
+          ],
+          [
+            -73.894142,
+            40.669531
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T22:54:11",
+        "EndTime": "2017-05-31T23:13:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.862795, latitude=40.669297)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "81",
+        "Point 1 time": "2017-05-31T22:54:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.875997, latitude=40.6722)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "153",
+        "Point 2 time": "2017-05-31T23:03:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.894142, latitude=40.669531)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "129",
+        "Point 3 time": "2017-05-31T23:13:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92893,
+          40.668894
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:44:19",
+        "EndTime": "2017-06-01T01:44:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.92893, latitude=40.668894)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "205",
+        "Point 1 time": "2017-06-01T01:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916984,
+            40.668756
+          ],
+          [
+            -73.929911,
+            40.668947
+          ],
+          [
+            -73.931504,
+            40.668606
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:24:23",
+        "EndTime": "2017-05-31T23:43:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916984, latitude=40.668756)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-05-31T23:24:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.929911, latitude=40.668947)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "122",
+        "Point 2 time": "2017-05-31T23:34:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.931504, latitude=40.668606)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T23:43:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87441,
+            40.672416
+          ],
+          [
+            -73.90228,
+            40.666925
+          ],
+          [
+            -73.916221,
+            40.66887
+          ],
+          [
+            -73.932028,
+            40.669061
+          ],
+          [
+            -73.933195,
+            40.669124
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T21:23:40",
+        "EndTime": "2017-05-31T22:03:42",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.87441, latitude=40.672416)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T21:23:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.90228, latitude=40.666925)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-05-31T21:33:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.916221, latitude=40.66887)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "45",
+        "Point 3 time": "2017-05-31T21:43:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.932028, latitude=40.669061)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "143",
+        "Point 4 time": "2017-05-31T21:53:42",
+        "Point 5 geom": "MyLatLong(longitude=-73.933195, latitude=40.669124)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "44",
+        "Point 5 time": "2017-05-31T22:03:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.862938,
+          40.664702
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:14:10",
+        "EndTime": "2017-06-01T02:14:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.862938, latitude=40.664702)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "1",
+        "Point 1 time": "2017-06-01T02:14:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866601,
+            40.673286
+          ],
+          [
+            -73.882354,
+            40.671279
+          ],
+          [
+            -73.902098,
+            40.668349
+          ],
+          [
+            -73.90704,
+            40.670234
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:24:17",
+        "EndTime": "2017-05-31T23:53:22",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.866601, latitude=40.673286)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "147",
+        "Point 1 time": "2017-05-31T23:24:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.882354, latitude=40.671279)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "65",
+        "Point 2 time": "2017-05-31T23:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.902098, latitude=40.668349)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "75",
+        "Point 3 time": "2017-05-31T23:44:22",
+        "Point 4 geom": "MyLatLong(longitude=-73.90704, latitude=40.670234)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "37",
+        "Point 4 time": "2017-05-31T23:53:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914494,
+            40.669126
+          ],
+          [
+            -73.922324,
+            40.668593
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7093",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:34:15",
+        "EndTime": "2017-06-01T02:43:50",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.914494, latitude=40.669126)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T02:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.922324, latitude=40.668593)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T02:43:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918525,
+            40.668529
+          ],
+          [
+            -73.927152,
+            40.668797
+          ],
+          [
+            -73.933451,
+            40.669138
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:04:26",
+        "EndTime": "2017-06-01T00:23:55",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.918525, latitude=40.668529)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "552",
+        "Point 1 time": "2017-06-01T00:04:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.927152, latitude=40.668797)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "89",
+        "Point 2 time": "2017-06-01T00:14:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.933451, latitude=40.669138)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "23",
+        "Point 3 time": "2017-06-01T00:23:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92395,
+            40.668196
+          ],
+          [
+            -73.910068,
+            40.669785
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:34:25",
+        "EndTime": "2017-05-31T23:43:57",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92395, latitude=40.668196)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "144",
+        "Point 1 time": "2017-05-31T23:34:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.910068, latitude=40.669785)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "135",
+        "Point 2 time": "2017-05-31T23:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926106,
+            40.668309
+          ],
+          [
+            -73.905984,
+            40.666238
+          ],
+          [
+            -73.879396,
+            40.671712
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T18:03:27",
+        "EndTime": "2017-05-31T18:23:42",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.926106, latitude=40.668309)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-05-31T18:03:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.905984, latitude=40.666238)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "217",
+        "Point 2 time": "2017-05-31T18:13:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.879396, latitude=40.671712)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "122",
+        "Point 3 time": "2017-05-31T18:23:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.865943,
+            40.670675
+          ],
+          [
+            -73.888236,
+            40.670406
+          ],
+          [
+            -73.902146,
+            40.665157
+          ],
+          [
+            -73.907387,
+            40.670184
+          ],
+          [
+            -73.917519,
+            40.668677
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T22:33:48",
+        "EndTime": "2017-05-31T23:13:17",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.865943, latitude=40.670675)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "148",
+        "Point 1 time": "2017-05-31T22:33:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.888236, latitude=40.670406)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T22:44:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.902146, latitude=40.665157)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-05-31T22:54:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.907387, latitude=40.670184)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-05-31T23:03:49",
+        "Point 5 geom": "MyLatLong(longitude=-73.917519, latitude=40.668677)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "53",
+        "Point 5 time": "2017-05-31T23:13:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919556,
+            40.668375
+          ],
+          [
+            -73.910581,
+            40.669708
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T03:54:43",
+        "EndTime": "2017-06-01T04:03:43",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.919556, latitude=40.668375)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "232",
+        "Point 1 time": "2017-06-01T03:54:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.910581, latitude=40.669708)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-06-01T04:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919621,
+            40.668365
+          ],
+          [
+            -73.908751,
+            40.669979
+          ],
+          [
+            -73.896869,
+            40.669127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T01:53:52",
+        "EndTime": "2017-06-01T02:14:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.919621, latitude=40.668365)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T01:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.908751, latitude=40.669979)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T02:03:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.896869, latitude=40.669127)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T02:14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876165,
+          40.672176
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T02:14:13",
+        "EndTime": "2017-06-01T02:14:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.876165, latitude=40.672176)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "139",
+        "Point 1 time": "2017-06-01T02:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.886602,
+            40.670648
+          ],
+          [
+            -73.86266,
+            40.674121
+          ],
+          [
+            -73.863257,
+            40.664831
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:33:57",
+        "EndTime": "2017-06-01T02:54:39",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.886602, latitude=40.670648)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:33:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.86266, latitude=40.674121)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-06-01T02:43:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.863257, latitude=40.664831)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "23",
+        "Point 3 time": "2017-06-01T02:54:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863138,
+            40.669579
+          ],
+          [
+            -73.882995,
+            40.671185
+          ],
+          [
+            -73.899594,
+            40.668723
+          ],
+          [
+            -73.911167,
+            40.669621
+          ],
+          [
+            -73.92814,
+            40.668851
+          ],
+          [
+            -73.931504,
+            40.668606
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:34:31",
+        "EndTime": "2017-06-01T01:24:16",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.863138, latitude=40.669579)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-06-01T00:34:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.882995, latitude=40.671185)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-06-01T00:44:32",
+        "Point 3 geom": "MyLatLong(longitude=-73.899594, latitude=40.668723)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "61",
+        "Point 3 time": "2017-06-01T00:54:05",
+        "Point 4 geom": "MyLatLong(longitude=-73.911167, latitude=40.669621)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "2",
+        "Point 4 time": "2017-06-01T01:04:07",
+        "Point 5 geom": "MyLatLong(longitude=-73.92814, latitude=40.668851)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "5",
+        "Point 5 time": "2017-06-01T01:13:41",
+        "Point 6 geom": "MyLatLong(longitude=-73.931504, latitude=40.668606)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T01:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867317,
+            40.673451
+          ],
+          [
+            -73.891781,
+            40.669881
+          ],
+          [
+            -73.906305,
+            40.667511
+          ],
+          [
+            -73.919759,
+            40.668366
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7094",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T16:23:36",
+        "EndTime": "2017-05-31T16:53:02",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.867317, latitude=40.673451)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-05-31T16:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.891781, latitude=40.669881)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T16:33:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.906305, latitude=40.667511)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "61",
+        "Point 3 time": "2017-05-31T16:43:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.919759, latitude=40.668366)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "447",
+        "Point 4 time": "2017-05-31T16:53:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.87795,
+            40.671919
+          ],
+          [
+            -73.893462,
+            40.66963
+          ],
+          [
+            -73.901865,
+            40.665311
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:53:11",
+        "EndTime": "2017-06-01T00:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.87795, latitude=40.671919)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "145",
+        "Point 1 time": "2017-05-31T23:53:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.893462, latitude=40.66963)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.901865, latitude=40.665311)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "53",
+        "Point 3 time": "2017-06-01T00:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.871301,
+            40.672861
+          ],
+          [
+            -73.901839,
+            40.66521
+          ],
+          [
+            -73.925324,
+            40.668698
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7138",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T17:03:36",
+        "EndTime": "2017-05-31T17:23:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.871301, latitude=40.672861)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "276",
+        "Point 1 time": "2017-05-31T17:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.901839, latitude=40.66521)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "42",
+        "Point 2 time": "2017-05-31T17:13:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.925324, latitude=40.668698)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "243",
+        "Point 3 time": "2017-05-31T17:23:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920826,
+            40.667936
+          ],
+          [
+            -73.906547,
+            40.668472
+          ],
+          [
+            -73.89839,
+            40.6689
+          ],
+          [
+            -73.876239,
+            40.672165
+          ],
+          [
+            -73.863276,
+            40.664915
+          ],
+          [
+            -73.863276,
+            40.664915
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:24:25",
+        "EndTime": "2017-06-01T03:14:37",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.920826, latitude=40.667936)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-06-01T02:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.906547, latitude=40.668472)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "120",
+        "Point 2 time": "2017-06-01T02:33:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.89839, latitude=40.6689)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "144",
+        "Point 3 time": "2017-06-01T02:43:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.876239, latitude=40.672165)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "8",
+        "Point 4 time": "2017-06-01T02:54:29",
+        "Point 5 geom": "MyLatLong(longitude=-73.863276, latitude=40.664915)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "32",
+        "Point 5 time": "2017-06-01T03:04:34",
+        "Point 6 geom": "MyLatLong(longitude=-73.863276, latitude=40.664915)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "32",
+        "Point 6 time": "2017-06-01T03:14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.865252,
+          40.66928
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T20:54:02",
+        "EndTime": "2017-05-31T20:54:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.865252, latitude=40.66928)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "339",
+        "Point 1 time": "2017-05-31T20:54:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.915025,
+            40.669047
+          ],
+          [
+            -73.905157,
+            40.664722
+          ],
+          [
+            -73.894673,
+            40.669451
+          ],
+          [
+            -73.870907,
+            40.67293
+          ],
+          [
+            -73.863335,
+            40.665171
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:44:32",
+        "EndTime": "2017-06-01T01:24:12",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.915025, latitude=40.669047)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "162",
+        "Point 1 time": "2017-06-01T00:44:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.905157, latitude=40.664722)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T00:54:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.894673, latitude=40.669451)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "227",
+        "Point 3 time": "2017-06-01T01:04:08",
+        "Point 4 geom": "MyLatLong(longitude=-73.870907, latitude=40.67293)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "107",
+        "Point 4 time": "2017-06-01T01:13:39",
+        "Point 5 geom": "MyLatLong(longitude=-73.863335, latitude=40.665171)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "61",
+        "Point 5 time": "2017-06-01T01:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.913772,
+            40.669231
+          ],
+          [
+            -73.898162,
+            40.668935
+          ],
+          [
+            -73.867313,
+            40.673452
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T20:23:38",
+        "EndTime": "2017-05-31T20:43:54",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.913772, latitude=40.669231)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "55",
+        "Point 1 time": "2017-05-31T20:23:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.898162, latitude=40.668935)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "124",
+        "Point 2 time": "2017-05-31T20:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.867313, latitude=40.673452)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "81",
+        "Point 3 time": "2017-05-31T20:43:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89492,
+            40.669414
+          ],
+          [
+            -73.904872,
+            40.664764
+          ],
+          [
+            -73.909843,
+            40.669819
+          ],
+          [
+            -73.922832,
+            40.668559
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:34:16",
+        "EndTime": "2017-06-01T02:03:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.89492, latitude=40.669414)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-06-01T01:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.904872, latitude=40.664764)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "44",
+        "Point 2 time": "2017-06-01T01:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.909843, latitude=40.669819)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "116",
+        "Point 3 time": "2017-06-01T01:53:47",
+        "Point 4 geom": "MyLatLong(longitude=-73.922832, latitude=40.668559)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "17",
+        "Point 4 time": "2017-06-01T02:03:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.894211,
+            40.669521
+          ],
+          [
+            -73.874478,
+            40.672407
+          ],
+          [
+            -73.860853,
+            40.669294
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:04:11",
+        "EndTime": "2017-06-01T00:23:55",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.894211, latitude=40.669521)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-06-01T00:04:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.874478, latitude=40.672407)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:14:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.860853, latitude=40.669294)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "176",
+        "Point 3 time": "2017-06-01T00:23:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.886779,
+            40.670621
+          ],
+          [
+            -73.861596,
+            40.672278
+          ],
+          [
+            -73.863259,
+            40.664842
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:13:36",
+        "EndTime": "2017-05-31T23:34:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.886779, latitude=40.670621)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T23:13:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.861596, latitude=40.672278)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "159",
+        "Point 2 time": "2017-05-31T23:24:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.863259, latitude=40.664842)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-05-31T23:34:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86228,
+            40.667241
+          ],
+          [
+            -73.875847,
+            40.672221
+          ],
+          [
+            -73.894781,
+            40.669435
+          ],
+          [
+            -73.905569,
+            40.66466
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T03:43:41",
+        "EndTime": "2017-06-01T04:14:28",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.86228, latitude=40.667241)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-06-01T03:43:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.875847, latitude=40.672221)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T03:54:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.894781, latitude=40.669435)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "74",
+        "Point 3 time": "2017-06-01T04:03:52",
+        "Point 4 geom": "MyLatLong(longitude=-73.905569, latitude=40.66466)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "208",
+        "Point 4 time": "2017-06-01T04:14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919664,
+            40.668365
+          ],
+          [
+            -73.903129,
+            40.666351
+          ],
+          [
+            -73.88369,
+            40.671081
+          ],
+          [
+            -73.862159,
+            40.674195
+          ],
+          [
+            -73.863318,
+            40.665098
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T22:33:43",
+        "EndTime": "2017-05-31T23:13:35",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.919664, latitude=40.668365)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-05-31T22:33:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.903129, latitude=40.666351)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "64",
+        "Point 2 time": "2017-05-31T22:43:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.88369, latitude=40.671081)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "40",
+        "Point 3 time": "2017-05-31T22:53:56",
+        "Point 4 geom": "MyLatLong(longitude=-73.862159, latitude=40.674195)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-05-31T23:03:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.863318, latitude=40.665098)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "53",
+        "Point 5 time": "2017-05-31T23:13:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.898284,
+            40.668916
+          ],
+          [
+            -73.879181,
+            40.671743
+          ],
+          [
+            -73.862592,
+            40.674131
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:24:05",
+        "EndTime": "2017-05-31T23:44:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.898284, latitude=40.668916)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "134",
+        "Point 1 time": "2017-05-31T23:24:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.879181, latitude=40.671743)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "104",
+        "Point 2 time": "2017-05-31T23:34:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.862592, latitude=40.674131)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "78",
+        "Point 3 time": "2017-05-31T23:44:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872202,
+            40.67273
+          ],
+          [
+            -73.891911,
+            40.669862
+          ],
+          [
+            -73.900477,
+            40.668592
+          ],
+          [
+            -73.911479,
+            40.669574
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T23:13:32",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.872202, latitude=40.67273)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "198",
+        "Point 1 time": "2017-05-31T23:13:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.891911, latitude=40.669862)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "153",
+        "Point 2 time": "2017-05-31T23:24:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.900477, latitude=40.668592)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "137",
+        "Point 3 time": "2017-05-31T23:34:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.911479, latitude=40.669574)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "129",
+        "Point 4 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926073,
+            40.668308
+          ],
+          [
+            -73.913963,
+            40.669203
+          ],
+          [
+            -73.902837,
+            40.665196
+          ],
+          [
+            -73.888583,
+            40.670356
+          ],
+          [
+            -73.863424,
+            40.674011
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6822",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T03:33:50",
+        "EndTime": "2017-06-01T04:14:41",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.926073, latitude=40.668308)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-06-01T03:33:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.913963, latitude=40.669203)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-06-01T03:43:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.902837, latitude=40.665196)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "21",
+        "Point 3 time": "2017-06-01T03:54:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.888583, latitude=40.670356)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "14",
+        "Point 4 time": "2017-06-01T04:04",
+        "Point 5 geom": "MyLatLong(longitude=-73.863424, latitude=40.674011)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "149",
+        "Point 5 time": "2017-06-01T04:14:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.918435,
+          40.668543
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T04:14:36",
+        "EndTime": "2017-06-01T04:14:36",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.918435, latitude=40.668543)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-06-01T04:14:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925709,
+            40.668287
+          ],
+          [
+            -73.910694,
+            40.66969
+          ],
+          [
+            -73.903511,
+            40.667876
+          ],
+          [
+            -73.894463,
+            40.669483
+          ],
+          [
+            -73.870108,
+            40.673048
+          ],
+          [
+            -73.863333,
+            40.665165
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T03:04:38",
+        "EndTime": "2017-06-01T03:54:21",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.925709, latitude=40.668287)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "293",
+        "Point 1 time": "2017-06-01T03:04:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.910694, latitude=40.66969)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-06-01T03:14:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.903511, latitude=40.667876)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-06-01T03:23:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.894463, latitude=40.669483)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "209",
+        "Point 4 time": "2017-06-01T03:34:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.870108, latitude=40.673048)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "38",
+        "Point 5 time": "2017-06-01T03:43:48",
+        "Point 6 geom": "MyLatLong(longitude=-73.863333, latitude=40.665165)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "61",
+        "Point 6 time": "2017-06-01T03:54:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928594,
+            40.668445
+          ],
+          [
+            -73.910553,
+            40.669712
+          ],
+          [
+            -73.902885,
+            40.665386
+          ],
+          [
+            -73.883859,
+            40.671056
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4852",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:54:03",
+        "EndTime": "2017-06-01T01:24:34",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.928594, latitude=40.668445)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-06-01T00:54:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.910553, latitude=40.669712)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T01:04:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.902885, latitude=40.665386)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T01:13:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.883859, latitude=40.671056)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "54",
+        "Point 4 time": "2017-06-01T01:24:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.871095,
+            40.672902
+          ],
+          [
+            -73.890445,
+            40.670076
+          ],
+          [
+            -73.901856,
+            40.665274
+          ],
+          [
+            -73.911089,
+            40.669632
+          ],
+          [
+            -73.918883,
+            40.668475
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6593",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T03:23:48",
+        "EndTime": "2017-06-01T04:04:01",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.871095, latitude=40.672902)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-06-01T03:23:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.890445, latitude=40.670076)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "123",
+        "Point 2 time": "2017-06-01T03:34:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.901856, latitude=40.665274)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "49",
+        "Point 3 time": "2017-06-01T03:43:53",
+        "Point 4 geom": "MyLatLong(longitude=-73.911089, latitude=40.669632)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "8",
+        "Point 4 time": "2017-06-01T03:54:29",
+        "Point 5 geom": "MyLatLong(longitude=-73.918883, latitude=40.668475)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "522",
+        "Point 5 time": "2017-06-01T04:04:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.916912,
+            40.668767
+          ],
+          [
+            -73.908694,
+            40.669988
+          ],
+          [
+            -73.903517,
+            40.667899
+          ],
+          [
+            -73.891595,
+            40.669908
+          ],
+          [
+            -73.869547,
+            40.67313
+          ],
+          [
+            -73.863257,
+            40.664831
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4926",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T02:34:04",
+        "EndTime": "2017-06-01T03:34:42",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:34:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.916912, latitude=40.668767)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T02:43:35",
+        "Point 3 geom": "MyLatLong(longitude=-73.908694, latitude=40.669988)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-06-01T02:54:43",
+        "Point 4 geom": "MyLatLong(longitude=-73.903517, latitude=40.667899)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "64",
+        "Point 4 time": "2017-06-01T03:04:26",
+        "Point 5 geom": "MyLatLong(longitude=-73.891595, latitude=40.669908)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "122",
+        "Point 5 time": "2017-06-01T03:14:31",
+        "Point 6 geom": "MyLatLong(longitude=-73.869547, latitude=40.67313)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "273",
+        "Point 6 time": "2017-06-01T03:24:02",
+        "Point 7 geom": "MyLatLong(longitude=-73.863257, latitude=40.664831)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "23",
+        "Point 7 time": "2017-06-01T03:34:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900852,
+            40.668537
+          ],
+          [
+            -73.912852,
+            40.669368
+          ],
+          [
+            -73.931366,
+            40.669025
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6617",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T16:03:46",
+        "EndTime": "2017-05-31T16:23:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.900852, latitude=40.668537)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-05-31T16:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.912852, latitude=40.669368)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-05-31T16:13:56",
+        "Point 3 geom": "MyLatLong(longitude=-73.931366, latitude=40.669025)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T16:23:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863408,
+            40.665481
+          ],
+          [
+            -73.884332,
+            40.670984
+          ],
+          [
+            -73.906992,
+            40.670213
+          ],
+          [
+            -73.93384,
+            40.669159
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T18:33:46",
+        "EndTime": "2017-05-31T19:03:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.863408, latitude=40.665481)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-05-31T18:33:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.884332, latitude=40.670984)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-05-31T18:43:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.906992, latitude=40.670213)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "44",
+        "Point 3 time": "2017-05-31T18:53:37",
+        "Point 4 geom": "MyLatLong(longitude=-73.93384, latitude=40.669159)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "252",
+        "Point 4 time": "2017-05-31T19:03:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916078,
+            40.668891
+          ],
+          [
+            -73.903523,
+            40.667923
+          ],
+          [
+            -73.89,
+            40.670143
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:53:30",
+        "EndTime": "2017-06-01T00:14:13",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916078, latitude=40.668891)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "88",
+        "Point 1 time": "2017-05-31T23:53:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.903523, latitude=40.667923)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T00:04:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.89, latitude=40.670143)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "136",
+        "Point 3 time": "2017-06-01T00:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.899639,
+            40.668716
+          ],
+          [
+            -73.907714,
+            40.670136
+          ],
+          [
+            -73.919965,
+            40.669112
+          ],
+          [
+            -73.929959,
+            40.668949
+          ],
+          [
+            -73.931676,
+            40.668615
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7091",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:23:29",
+        "EndTime": "2017-06-01T01:04:28",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.899639, latitude=40.668716)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-06-01T00:23:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.907714, latitude=40.670136)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "133",
+        "Point 2 time": "2017-06-01T00:34:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.919965, latitude=40.669112)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "341",
+        "Point 3 time": "2017-06-01T00:44:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.929959, latitude=40.668949)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "118",
+        "Point 4 time": "2017-06-01T00:54:17",
+        "Point 5 geom": "MyLatLong(longitude=-73.931676, latitude=40.668615)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "14",
+        "Point 5 time": "2017-06-01T01:04:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924247,
+            40.668638
+          ],
+          [
+            -73.931415,
+            40.669028
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:34:07",
+        "EndTime": "2017-06-01T00:44:21",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.924247, latitude=40.668638)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "81",
+        "Point 1 time": "2017-06-01T00:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.931415, latitude=40.669028)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-06-01T00:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.905723,
+            40.66522
+          ],
+          [
+            -73.911635,
+            40.669551
+          ],
+          [
+            -73.92452,
+            40.668653
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5023",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T02:03:49",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.905723, latitude=40.66522)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "144",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.911635, latitude=40.669551)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-06-01T01:54:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.92452, latitude=40.668653)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "58",
+        "Point 3 time": "2017-06-01T02:03:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.923716,
+            40.668184
+          ],
+          [
+            -73.907395,
+            40.670182
+          ],
+          [
+            -73.894727,
+            40.669443
+          ],
+          [
+            -73.865726,
+            40.673681
+          ],
+          [
+            -73.862348,
+            40.666211
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7094",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T17:03:45",
+        "EndTime": "2017-05-31T17:43:53",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.923716, latitude=40.668184)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-05-31T17:03:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.907395, latitude=40.670182)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-05-31T17:13:58",
+        "Point 3 geom": "MyLatLong(longitude=-73.894727, latitude=40.669443)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "231",
+        "Point 3 time": "2017-05-31T17:23:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.865726, latitude=40.673681)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "103",
+        "Point 4 time": "2017-05-31T17:33:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.862348, latitude=40.666211)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "262",
+        "Point 5 time": "2017-05-31T17:43:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89266,
+            40.669751
+          ],
+          [
+            -73.867365,
+            40.673444
+          ],
+          [
+            -73.863102,
+            40.666104
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4831",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:53:25",
+        "EndTime": "2017-06-01T00:14:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.89266, latitude=40.669751)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "54",
+        "Point 1 time": "2017-05-31T23:53:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.867365, latitude=40.673444)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "86",
+        "Point 2 time": "2017-06-01T00:04:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.863102, latitude=40.666104)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "198",
+        "Point 3 time": "2017-06-01T00:14:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929763,
+            40.66851
+          ],
+          [
+            -73.906432,
+            40.668018
+          ],
+          [
+            -73.889875,
+            40.670162
+          ],
+          [
+            -73.864194,
+            40.673904
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6617",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T16:33:41",
+        "EndTime": "2017-05-31T17:02:35",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.929763, latitude=40.66851)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "155",
+        "Point 1 time": "2017-05-31T16:33:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.906432, latitude=40.668018)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T16:43:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.889875, latitude=40.670162)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "125",
+        "Point 3 time": "2017-05-31T16:52:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.864194, latitude=40.673904)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "215",
+        "Point 4 time": "2017-05-31T17:02:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.862952,
+            40.664699
+          ],
+          [
+            -73.864958,
+            40.669322
+          ],
+          [
+            -73.886896,
+            40.670604
+          ],
+          [
+            -73.90636,
+            40.667729
+          ],
+          [
+            -73.918319,
+            40.66856
+          ],
+          [
+            -73.933778,
+            40.669156
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4828",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T21:23:42",
+        "EndTime": "2017-05-31T22:23:42",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.862952, latitude=40.664699)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-05-31T21:23:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.864958, latitude=40.669322)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "365",
+        "Point 2 time": "2017-05-31T21:43:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.886896, latitude=40.670604)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "124",
+        "Point 3 time": "2017-05-31T21:53:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.90636, latitude=40.667729)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "36",
+        "Point 4 time": "2017-05-31T22:03:27",
+        "Point 5 geom": "MyLatLong(longitude=-73.918319, latitude=40.66856)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "570",
+        "Point 5 time": "2017-05-31T22:13:34",
+        "Point 6 geom": "MyLatLong(longitude=-73.933778, latitude=40.669156)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "257",
+        "Point 6 time": "2017-05-31T22:23:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925959,
+          40.668301
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-05-31T23:13:18",
+        "EndTime": "2017-05-31T23:13:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.925959, latitude=40.668301)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:13:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867795,
+            40.673382
+          ],
+          [
+            -73.86307,
+            40.664696
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "0",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "SPRING CREEK STANLEY AV POSTAL FAC",
+        "StartTime": "2017-06-01T00:23:43",
+        "EndTime": "2017-06-01T00:34:18",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.867795, latitude=40.673382)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "122",
+        "Point 1 time": "2017-06-01T00:23:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.86307, latitude=40.664696)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:34:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.88104,
+            40.671473
+          ],
+          [
+            -73.896783,
+            40.66914
+          ],
+          [
+            -73.906164,
+            40.666954
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4827",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-05-31T22:53:58",
+        "EndTime": "2017-05-31T23:13:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.88104, latitude=40.671473)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-05-31T22:53:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.896783, latitude=40.66914)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "140",
+        "Point 2 time": "2017-05-31T23:03:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.906164, latitude=40.666954)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "124",
+        "Point 3 time": "2017-05-31T23:13:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.863493,
+          40.665832
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7131",
+        "PublishedLineName": "B14",
+        "DirectionRef": "1",
+        "OriginName": "POSTAL FACILITY RD/IN FRONT OF FACILITY",
+        "DestinationName": "CROWN HTS UTICA AV",
+        "StartTime": "2017-06-01T00:14:11",
+        "EndTime": "2017-06-01T00:14:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.863493, latitude=40.665832)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "36",
+        "Point 1 time": "2017-06-01T00:14:11"
+      }
+    }
+  ]
+}

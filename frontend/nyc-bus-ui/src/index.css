@@ -2,9 +2,7 @@
 @import "leaflet/dist/leaflet.css";
 
 /* 2️⃣ Tailwind directives */
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 /* 3️⃣ Optional: global styles for the map container */
 html, body, #root {

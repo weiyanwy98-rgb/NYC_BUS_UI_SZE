@@ -1,0 +1,4469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.923239,
+          40.67016
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:44:23",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.923239, latitude=40.67016)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927274,
+            40.67038
+          ],
+          [
+            -73.947288,
+            40.671473
+          ],
+          [
+            -73.960238,
+            40.673967
+          ],
+          [
+            -73.975693,
+            40.683456
+          ],
+          [
+            -73.983495,
+            40.688756
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:23:44",
+        "EndTime": "2017-06-01T01:13:41",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.927274, latitude=40.67038)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "112",
+        "Point 1 time": "2017-06-01T00:23:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.947288, latitude=40.671473)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-06-01T00:34:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.960238, latitude=40.673967)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T00:44:11",
+        "Point 4 geom": "MyLatLong(longitude=-73.975693, latitude=40.683456)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "248",
+        "Point 4 time": "2017-06-01T00:54:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.983495, latitude=40.688756)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "49",
+        "Point 5 time": "2017-06-01T01:04:04",
+        "Point 6 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "28",
+        "Point 6 time": "2017-06-01T01:13:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964172,
+            40.679892
+          ],
+          [
+            -73.950813,
+            40.671663
+          ],
+          [
+            -73.932409,
+            40.67066
+          ],
+          [
+            -73.922365,
+            40.671199
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:33:56",
+        "EndTime": "2017-06-01T03:04:28",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.964172, latitude=40.679892)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-06-01T02:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.950813, latitude=40.671663)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-06-01T02:43:32",
+        "Point 3 geom": "MyLatLong(longitude=-73.932409, latitude=40.67066)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "113",
+        "Point 3 time": "2017-06-01T02:54:12",
+        "Point 4 geom": "MyLatLong(longitude=-73.922365, latitude=40.671199)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "10",
+        "Point 4 time": "2017-06-01T03:04:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986976,
+            40.690114
+          ],
+          [
+            -73.990261,
+            40.692437
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:24:23",
+        "EndTime": "2017-06-01T02:34",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.986976, latitude=40.690114)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-06-01T02:24:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.990261, latitude=40.692437)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-06-01T02:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990992,
+          40.692529
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:33:54",
+        "EndTime": "2017-05-31T22:33:54",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.990992, latitude=40.692529)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "137",
+        "Point 1 time": "2017-05-31T22:33:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.978168,
+            40.685055
+          ],
+          [
+            -73.965295,
+            40.681219
+          ],
+          [
+            -73.954994,
+            40.671921
+          ],
+          [
+            -73.941835,
+            40.671175
+          ],
+          [
+            -73.925624,
+            40.67029
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:44:10",
+        "EndTime": "2017-06-01T01:34:08",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.978168, latitude=40.685055)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "215",
+        "Point 1 time": "2017-06-01T00:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.965295, latitude=40.681219)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "118",
+        "Point 2 time": "2017-06-01T00:54:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.954994, latitude=40.671921)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T01:04:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.941835, latitude=40.671175)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "18",
+        "Point 4 time": "2017-06-01T01:13:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.925624, latitude=40.67029)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "63",
+        "Point 5 time": "2017-06-01T01:24:05",
+        "Point 6 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T01:34:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987593,
+            40.690353
+          ],
+          [
+            -73.976297,
+            40.683604
+          ],
+          [
+            -73.957914,
+            40.672535
+          ],
+          [
+            -73.941835,
+            40.671175
+          ],
+          [
+            -73.928703,
+            40.670458
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:54:33",
+        "EndTime": "2017-06-01T03:43:47",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.987593, latitude=40.690353)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-06-01T02:54:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.976297, latitude=40.683604)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "382",
+        "Point 2 time": "2017-06-01T03:04:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.957914, latitude=40.672535)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "68",
+        "Point 3 time": "2017-06-01T03:14:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.941835, latitude=40.671175)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "18",
+        "Point 4 time": "2017-06-01T03:23:45",
+        "Point 5 geom": "MyLatLong(longitude=-73.928703, latitude=40.670458)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "83",
+        "Point 5 time": "2017-06-01T03:34:18",
+        "Point 6 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T03:43:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953042,
+            40.672453
+          ],
+          [
+            -73.963567,
+            40.676751
+          ],
+          [
+            -73.977677,
+            40.684365
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:53:25",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.953042, latitude=40.672453)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "172",
+        "Point 1 time": "2017-05-31T23:53:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.963567, latitude=40.676751)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T00:03:58",
+        "Point 3 geom": "MyLatLong(longitude=-73.977677, latitude=40.684365)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "45",
+        "Point 3 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953047,
+            40.671786
+          ],
+          [
+            -73.968378,
+            40.682028
+          ],
+          [
+            -73.988575,
+            40.690733
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:03:33",
+        "EndTime": "2017-05-31T22:23:46",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.953047, latitude=40.671786)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "251",
+        "Point 1 time": "2017-05-31T22:03:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.968378, latitude=40.682028)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "248",
+        "Point 2 time": "2017-05-31T22:13:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.988575, latitude=40.690733)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "345",
+        "Point 3 time": "2017-05-31T22:23:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964483,
+            40.681049
+          ],
+          [
+            -73.957606,
+            40.67247
+          ],
+          [
+            -73.942318,
+            40.671202
+          ],
+          [
+            -73.931245,
+            40.670597
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T03:34:40",
+        "EndTime": "2017-06-01T04:03:49",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.964483, latitude=40.681049)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "47",
+        "Point 1 time": "2017-06-01T03:34:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.957606, latitude=40.67247)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "41",
+        "Point 2 time": "2017-06-01T03:43:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.942318, latitude=40.671202)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "59",
+        "Point 3 time": "2017-06-01T03:54:19",
+        "Point 4 geom": "MyLatLong(longitude=-73.931245, latitude=40.670597)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "15",
+        "Point 4 time": "2017-06-01T04:03:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933957,
+            40.670744
+          ],
+          [
+            -73.952706,
+            40.671767
+          ],
+          [
+            -73.963922,
+            40.678627
+          ],
+          [
+            -73.978439,
+            40.685419
+          ],
+          [
+            -73.987742,
+            40.690411
+          ],
+          [
+            -73.990356,
+            40.692451
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:24:10",
+        "EndTime": "2017-06-01T03:14:39",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.933957, latitude=40.670744)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T02:24:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.952706, latitude=40.671767)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T02:33:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.963922, latitude=40.678627)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-06-01T02:43:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.978439, latitude=40.685419)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "382",
+        "Point 4 time": "2017-06-01T02:54:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.987742, latitude=40.690411)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-06-01T03:04:33",
+        "Point 6 geom": "MyLatLong(longitude=-73.990356, latitude=40.692451)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "27",
+        "Point 6 time": "2017-06-01T03:14:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.976796,
+            40.683797
+          ],
+          [
+            -73.991166,
+            40.691499
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:33:43",
+        "EndTime": "2017-05-31T22:54:22",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.976796, latitude=40.683797)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "147",
+        "Point 1 time": "2017-05-31T22:33:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-05-31T22:44:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-05-31T22:54:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92246,
+          40.670193
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T22:44:03",
+        "EndTime": "2017-05-31T22:44:03",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927426,
+            40.670388
+          ],
+          [
+            -73.941857,
+            40.671176
+          ],
+          [
+            -73.954687,
+            40.672805
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:43:49",
+        "EndTime": "2017-06-01T04:03:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.927426, latitude=40.670388)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-06-01T03:43:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.941857, latitude=40.671176)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T03:54:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.954687, latitude=40.672805)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T04:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986085,
+          40.689766
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:53:08",
+        "EndTime": "2017-05-31T23:53:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986085, latitude=40.689766)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T23:53:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97348,
+            40.683001
+          ],
+          [
+            -73.962992,
+            40.673787
+          ],
+          [
+            -73.941984,
+            40.671183
+          ],
+          [
+            -73.931301,
+            40.6706
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:53:31",
+        "EndTime": "2017-06-01T00:23:52",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.97348, latitude=40.683001)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "135",
+        "Point 1 time": "2017-05-31T23:53:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.962992, latitude=40.673787)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "70",
+        "Point 2 time": "2017-06-01T00:04:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.941984, latitude=40.671183)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "31",
+        "Point 3 time": "2017-06-01T00:14:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.931301, latitude=40.6706)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-06-01T00:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.971601,
+            40.682541
+          ],
+          [
+            -73.945168,
+            40.671356
+          ],
+          [
+            -73.928149,
+            40.670427
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4835",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T17:23:02",
+        "EndTime": "2017-05-31T17:43:55",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.971601, latitude=40.682541)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-05-31T17:23:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.945168, latitude=40.671356)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T17:33:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.928149, latitude=40.670427)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "36",
+        "Point 3 time": "2017-05-31T17:43:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956653,
+            40.672271
+          ],
+          [
+            -73.941798,
+            40.671173
+          ],
+          [
+            -73.932251,
+            40.670651
+          ],
+          [
+            -73.92228,
+            40.6721
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:23:57",
+        "EndTime": "2017-06-01T00:54:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.956653, latitude=40.672271)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "159",
+        "Point 1 time": "2017-06-01T00:23:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.941798, latitude=40.671173)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T00:34:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.932251, latitude=40.670651)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "100",
+        "Point 3 time": "2017-06-01T00:44:08",
+        "Point 4 geom": "MyLatLong(longitude=-73.92228, latitude=40.6721)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "110",
+        "Point 4 time": "2017-06-01T00:54:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.927896,
+          40.670413
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:14:35",
+        "EndTime": "2017-06-01T02:14:35",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.927896, latitude=40.670413)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-06-01T02:14:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.949719,
+            40.671604
+          ],
+          [
+            -73.96294,
+            40.674531
+          ],
+          [
+            -73.975772,
+            40.683472
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:24:07",
+        "EndTime": "2017-05-31T23:44:22",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.949719, latitude=40.671604)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "41",
+        "Point 1 time": "2017-05-31T23:24:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.96294, latitude=40.674531)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T23:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.975772, latitude=40.683472)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "241",
+        "Point 3 time": "2017-05-31T23:44:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954152,
+            40.672744
+          ],
+          [
+            -73.967482,
+            40.68184
+          ],
+          [
+            -73.990132,
+            40.692417
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:54:17",
+        "EndTime": "2017-05-31T23:13:31",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.954152, latitude=40.672744)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "51",
+        "Point 1 time": "2017-05-31T22:54:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.967482, latitude=40.68184)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "53",
+        "Point 2 time": "2017-05-31T23:03:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.990132, latitude=40.692417)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "47",
+        "Point 3 time": "2017-05-31T23:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932943,
+            40.670689
+          ],
+          [
+            -73.952939,
+            40.67178
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:54:21",
+        "EndTime": "2017-06-01T04:03:54",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.932943, latitude=40.670689)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "100",
+        "Point 1 time": "2017-06-01T03:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.952939, latitude=40.67178)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T04:03:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.950568,
+            40.67165
+          ],
+          [
+            -73.930866,
+            40.670576
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:24:09",
+        "EndTime": "2017-05-31T23:34:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.950568, latitude=40.67165)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-05-31T23:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.930866, latitude=40.670576)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "266",
+        "Point 2 time": "2017-05-31T23:34:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.983082,
+            40.688598
+          ],
+          [
+            -73.99124,
+            40.691519
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4930",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T16:03:46",
+        "EndTime": "2017-05-31T16:13:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.983082, latitude=40.688598)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "88",
+        "Point 1 time": "2017-05-31T16:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.99124, latitude=40.691519)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T16:13:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933501,
+            40.670719
+          ],
+          [
+            -73.952882,
+            40.671777
+          ],
+          [
+            -73.963678,
+            40.677351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:14:03",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.933501, latitude=40.670719)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.952882, latitude=40.671777)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T00:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.963678, latitude=40.677351)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "166",
+        "Point 3 time": "2017-06-01T00:14:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981076,
+            40.68782
+          ],
+          [
+            -73.966919,
+            40.681559
+          ],
+          [
+            -73.953191,
+            40.671794
+          ],
+          [
+            -73.927364,
+            40.670385
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:44:27",
+        "EndTime": "2017-06-01T02:14:13",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.981076, latitude=40.68782)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T01:44:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.966919, latitude=40.681559)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "260",
+        "Point 2 time": "2017-06-01T01:54:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.953191, latitude=40.671794)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "44",
+        "Point 3 time": "2017-06-01T02:03:37",
+        "Point 4 geom": "MyLatLong(longitude=-73.927364, latitude=40.670385)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "210",
+        "Point 4 time": "2017-06-01T02:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.978541,
+            40.685556
+          ],
+          [
+            -73.964,
+            40.679016
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:34:26",
+        "EndTime": "2017-05-31T23:44:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.978541, latitude=40.685556)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T23:34:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.964, latitude=40.679016)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "87",
+        "Point 2 time": "2017-05-31T23:44:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937299,
+            40.670929
+          ],
+          [
+            -73.963263,
+            40.675214
+          ],
+          [
+            -73.986886,
+            40.690079
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4835",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T16:43:17",
+        "EndTime": "2017-05-31T17:03:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.937299, latitude=40.670929)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "200",
+        "Point 1 time": "2017-05-31T16:43:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.963263, latitude=40.675214)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "188",
+        "Point 2 time": "2017-05-31T16:53:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.986886, latitude=40.690079)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "81",
+        "Point 3 time": "2017-05-31T17:03:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.970264,
+            40.682257
+          ],
+          [
+            -73.960476,
+            40.673072
+          ],
+          [
+            -73.942763,
+            40.671226
+          ],
+          [
+            -73.926099,
+            40.670316
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:34:14",
+        "EndTime": "2017-06-01T01:04:11",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.970264, latitude=40.682257)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:34:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.960476, latitude=40.673072)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-06-01T00:44:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.942763, latitude=40.671226)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "97",
+        "Point 3 time": "2017-06-01T00:54:01",
+        "Point 4 geom": "MyLatLong(longitude=-73.926099, latitude=40.670316)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "103",
+        "Point 4 time": "2017-06-01T01:04:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92724,
+            40.670378
+          ],
+          [
+            -73.944475,
+            40.671318
+          ],
+          [
+            -73.963853,
+            40.678269
+          ],
+          [
+            -73.977582,
+            40.684229
+          ],
+          [
+            -73.986424,
+            40.689898
+          ],
+          [
+            -73.991418,
+            40.691661
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:34:11",
+        "EndTime": "2017-06-01T03:24",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.92724, latitude=40.670378)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "115",
+        "Point 1 time": "2017-06-01T02:34:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.944475, latitude=40.671318)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-06-01T02:43:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.963853, latitude=40.678269)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "63",
+        "Point 3 time": "2017-06-01T02:54:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.977582, latitude=40.684229)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "62",
+        "Point 4 time": "2017-06-01T03:04:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.986424, latitude=40.689898)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "124",
+        "Point 5 time": "2017-06-01T03:14:22",
+        "Point 6 geom": "MyLatLong(longitude=-73.991418, latitude=40.691661)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "34",
+        "Point 6 time": "2017-06-01T03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941888,
+            40.671178
+          ],
+          [
+            -73.963032,
+            40.674551
+          ],
+          [
+            -73.977729,
+            40.68444
+          ],
+          [
+            -73.990383,
+            40.692455
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:33:28",
+        "EndTime": "2017-05-31T23:03:42",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.941888, latitude=40.671178)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:33:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.963032, latitude=40.674551)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "269",
+        "Point 2 time": "2017-05-31T22:44:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.977729, latitude=40.68444)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "36",
+        "Point 3 time": "2017-05-31T22:54:09",
+        "Point 4 geom": "MyLatLong(longitude=-73.990383, latitude=40.692455)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-05-31T23:03:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.950699,
+            40.671657
+          ],
+          [
+            -73.925358,
+            40.670851
+          ],
+          [
+            -73.92246,
+            40.670193
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4835",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T16:03:55",
+        "EndTime": "2017-05-31T16:33:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.950699, latitude=40.671657)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T16:03:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.925358, latitude=40.670851)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "269",
+        "Point 2 time": "2017-05-31T16:13:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T16:23:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T16:33:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990845,
+            40.691413
+          ],
+          [
+            -73.985417,
+            40.689506
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:04",
+        "EndTime": "2017-06-01T00:14:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.990845, latitude=40.691413)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.985417, latitude=40.689506)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "439",
+        "Point 2 time": "2017-06-01T00:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922457,
+          40.670225
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:44:06",
+        "EndTime": "2017-06-01T01:44:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.922457, latitude=40.670225)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T01:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991222,
+          40.691515
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:53:10",
+        "EndTime": "2017-05-31T23:53:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.991222, latitude=40.691515)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T23:53:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93944,
+            40.671043
+          ],
+          [
+            -73.953024,
+            40.672638
+          ],
+          [
+            -73.964305,
+            40.680602
+          ],
+          [
+            -73.977677,
+            40.684365
+          ],
+          [
+            -73.987657,
+            40.690378
+          ],
+          [
+            -73.990776,
+            40.692508
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:23:57",
+        "EndTime": "2017-06-01T01:13:15",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.93944, latitude=40.671043)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-06-01T00:23:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.953024, latitude=40.672638)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "152",
+        "Point 2 time": "2017-06-01T00:34:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.964305, latitude=40.680602)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "203",
+        "Point 3 time": "2017-06-01T00:44:06",
+        "Point 4 geom": "MyLatLong(longitude=-73.977677, latitude=40.684365)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "45",
+        "Point 4 time": "2017-06-01T00:54:10",
+        "Point 5 geom": "MyLatLong(longitude=-73.987657, latitude=40.690378)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "8",
+        "Point 5 time": "2017-06-01T01:04:16",
+        "Point 6 geom": "MyLatLong(longitude=-73.990776, latitude=40.692508)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "155",
+        "Point 6 time": "2017-06-01T01:13:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.969731,
+            40.682312
+          ],
+          [
+            -73.983937,
+            40.688929
+          ],
+          [
+            -73.987657,
+            40.690378
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:44:06",
+        "EndTime": "2017-06-01T02:03:43",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.969731, latitude=40.682312)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "129",
+        "Point 1 time": "2017-06-01T01:44:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.983937, latitude=40.688929)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T01:53:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.987657, latitude=40.690378)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T02:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96552,
+            40.681266
+          ],
+          [
+            -73.950883,
+            40.671667
+          ],
+          [
+            -73.925249,
+            40.672008
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T22:33:49",
+        "EndTime": "2017-05-31T23:03:43",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.96552, latitude=40.681266)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-05-31T22:33:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.950883, latitude=40.671667)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-05-31T22:44:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.925249, latitude=40.672008)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "140",
+        "Point 3 time": "2017-05-31T22:54:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953365,
+            40.671803
+          ],
+          [
+            -73.941835,
+            40.671175
+          ],
+          [
+            -73.925782,
+            40.670299
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T02:03:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.953365, latitude=40.671803)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.941835, latitude=40.671175)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T01:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.925782, latitude=40.670299)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "76",
+        "Point 3 time": "2017-06-01T02:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990806,
+          40.691402
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:13:25",
+        "EndTime": "2017-05-31T23:13:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.990806, latitude=40.691402)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "311",
+        "Point 1 time": "2017-05-31T23:13:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925917,
+            40.670306
+          ],
+          [
+            -73.939469,
+            40.671044
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:34:19",
+        "EndTime": "2017-05-31T23:44:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.925917, latitude=40.670306)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T23:34:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.939469, latitude=40.671044)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-05-31T23:44:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961426,
+            40.674215
+          ],
+          [
+            -73.977128,
+            40.683925
+          ],
+          [
+            -73.979839,
+            40.687341
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:23:41",
+        "EndTime": "2017-06-01T00:54:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.961426, latitude=40.674215)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "137",
+        "Point 1 time": "2017-06-01T00:23:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.977128, latitude=40.683925)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-06-01T00:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.979839, latitude=40.687341)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "138",
+        "Point 3 time": "2017-06-01T00:44:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "28",
+        "Point 4 time": "2017-06-01T00:54:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987949,
+            40.690491
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T00:34:07",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.987949, latitude=40.690491)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "404",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-06-01T00:34:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.922418,
+          40.673698
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:24:16",
+        "EndTime": "2017-05-31T23:24:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.922418, latitude=40.673698)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-05-31T23:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92238,
+            40.671044
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6622",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T16:03:48",
+        "EndTime": "2017-05-31T16:13:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92238, latitude=40.671044)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "94",
+        "Point 1 time": "2017-05-31T16:03:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T16:13:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92702,
+            40.670366
+          ],
+          [
+            -73.944613,
+            40.671325
+          ],
+          [
+            -73.960238,
+            40.673967
+          ],
+          [
+            -73.977665,
+            40.684347
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:44:25",
+        "EndTime": "2017-06-01T02:14:18",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.92702, latitude=40.670366)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-06-01T01:44:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.944613, latitude=40.671325)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:54:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.960238, latitude=40.673967)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T02:03:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.977665, latitude=40.684347)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "47",
+        "Point 4 time": "2017-06-01T02:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.974738,
+            40.683258
+          ],
+          [
+            -73.953353,
+            40.671802
+          ],
+          [
+            -73.928577,
+            40.670451
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T21:43:34",
+        "EndTime": "2017-05-31T22:03:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.974738, latitude=40.683258)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "245",
+        "Point 1 time": "2017-05-31T21:43:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.953353, latitude=40.671802)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "57",
+        "Point 2 time": "2017-05-31T21:53:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.928577, latitude=40.670451)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "72",
+        "Point 3 time": "2017-05-31T22:03:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98024,
+            40.687497
+          ],
+          [
+            -73.964286,
+            40.680499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:03:27",
+        "EndTime": "2017-05-31T23:13:33",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.98024, latitude=40.687497)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "272",
+        "Point 1 time": "2017-05-31T23:03:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.964286, latitude=40.680499)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "112",
+        "Point 2 time": "2017-05-31T23:13:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.978034,
+            40.684874
+          ],
+          [
+            -73.963557,
+            40.676691
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:24:25",
+        "EndTime": "2017-06-01T01:34:35",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.978034, latitude=40.684874)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "192",
+        "Point 1 time": "2017-06-01T01:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.963557, latitude=40.676691)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-06-01T01:34:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933068,
+            40.670696
+          ],
+          [
+            -73.949858,
+            40.671611
+          ],
+          [
+            -73.963668,
+            40.677298
+          ],
+          [
+            -73.978791,
+            40.685889
+          ],
+          [
+            -73.983853,
+            40.688895
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:23:41",
+        "EndTime": "2017-06-01T04:03:40",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.933068, latitude=40.670696)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "89",
+        "Point 1 time": "2017-06-01T03:23:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.949858, latitude=40.671611)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-06-01T03:34:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.963668, latitude=40.677298)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "172",
+        "Point 3 time": "2017-06-01T03:44",
+        "Point 4 geom": "MyLatLong(longitude=-73.978791, latitude=40.685889)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "322",
+        "Point 4 time": "2017-06-01T03:54:41",
+        "Point 5 geom": "MyLatLong(longitude=-73.983853, latitude=40.688895)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "15",
+        "Point 5 time": "2017-06-01T04:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.940257,
+            40.671088
+          ],
+          [
+            -73.952851,
+            40.671775
+          ],
+          [
+            -73.963687,
+            40.677398
+          ],
+          [
+            -73.97769,
+            40.684383
+          ],
+          [
+            -73.986043,
+            40.689749
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:24:09",
+        "EndTime": "2017-06-01T03:04:35",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.940257, latitude=40.671088)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "137",
+        "Point 1 time": "2017-06-01T02:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.952851, latitude=40.671775)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-06-01T02:33:53",
+        "Point 3 geom": "MyLatLong(longitude=-73.963687, latitude=40.677398)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "161",
+        "Point 3 time": "2017-06-01T02:43:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.97769, latitude=40.684383)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "43",
+        "Point 4 time": "2017-06-01T02:54:30",
+        "Point 5 geom": "MyLatLong(longitude=-73.986043, latitude=40.689749)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "7",
+        "Point 5 time": "2017-06-01T03:04:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986114,
+          40.689777
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T00:23:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986114, latitude=40.689777)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T00:23:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95002,
+            40.67162
+          ],
+          [
+            -73.967975,
+            40.681944
+          ],
+          [
+            -73.988749,
+            40.6908
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T21:33:56",
+        "EndTime": "2017-05-31T21:53:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.95002, latitude=40.67162)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T21:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.967975, latitude=40.681944)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-05-31T21:43:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.988749, latitude=40.6908)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "328",
+        "Point 3 time": "2017-05-31T21:53:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953712,
+            40.671822
+          ],
+          [
+            -73.933953,
+            40.670744
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:53:14",
+        "EndTime": "2017-06-01T00:04:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.953712, latitude=40.671822)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "88",
+        "Point 1 time": "2017-05-31T23:53:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.933953, latitude=40.670744)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-06-01T00:04:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963378,
+            40.675791
+          ],
+          [
+            -73.947816,
+            40.671501
+          ],
+          [
+            -73.925286,
+            40.671618
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:44:35",
+        "EndTime": "2017-06-01T02:14:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.963378, latitude=40.675791)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "177",
+        "Point 1 time": "2017-06-01T01:44:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.947816, latitude=40.671501)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "49",
+        "Point 2 time": "2017-06-01T01:54:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.925286, latitude=40.671618)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "183",
+        "Point 3 time": "2017-06-01T02:03:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-06-01T02:14:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.989771,
+            40.691121
+          ],
+          [
+            -73.97817,
+            40.684648
+          ],
+          [
+            -73.964286,
+            40.680497
+          ],
+          [
+            -73.948918,
+            40.67156
+          ],
+          [
+            -73.932923,
+            40.670688
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T03:23:44",
+        "EndTime": "2017-06-01T04:03:45",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.989771, latitude=40.691121)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "218",
+        "Point 1 time": "2017-06-01T03:23:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.97817, latitude=40.684648)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "163",
+        "Point 2 time": "2017-06-01T03:34:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.964286, latitude=40.680497)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "112",
+        "Point 3 time": "2017-06-01T03:44:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.948918, latitude=40.67156)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "142",
+        "Point 4 time": "2017-06-01T03:54:41",
+        "Point 5 geom": "MyLatLong(longitude=-73.932923, latitude=40.670688)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "157",
+        "Point 5 time": "2017-06-01T04:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930785,
+            40.670572
+          ],
+          [
+            -73.956516,
+            40.673187
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:13:26",
+        "EndTime": "2017-05-31T22:24:01",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.930785, latitude=40.670572)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T22:13:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.956516, latitude=40.673187)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "78",
+        "Point 2 time": "2017-05-31T22:24:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.978101,
+            40.684965
+          ],
+          [
+            -73.962976,
+            40.673701
+          ],
+          [
+            -73.932752,
+            40.670678
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6622",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T16:53:20",
+        "EndTime": "2017-05-31T17:13:34",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.978101, latitude=40.684965)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "203",
+        "Point 1 time": "2017-05-31T16:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.962976, latitude=40.673701)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-05-31T17:03:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.932752, latitude=40.670678)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "142",
+        "Point 3 time": "2017-05-31T17:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942095,
+          40.67119
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4923",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T04:03:32",
+        "EndTime": "2017-06-01T04:03:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.942095, latitude=40.67119)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-06-01T04:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936784,
+            40.670902
+          ],
+          [
+            -73.950101,
+            40.671625
+          ],
+          [
+            -73.963117,
+            40.674569
+          ],
+          [
+            -73.977703,
+            40.684401
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T02:14:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.936784, latitude=40.670902)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.950101, latitude=40.671625)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T01:53:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.963117, latitude=40.674569)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "262",
+        "Point 3 time": "2017-06-01T02:03:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.977703, latitude=40.684401)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-06-01T02:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991166,
+          40.691499
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:44:06",
+        "EndTime": "2017-06-01T01:44:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T01:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.943302,
+          40.671255
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:13:07",
+        "EndTime": "2017-05-31T23:13:07",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.943302, latitude=40.671255)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-05-31T23:13:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986106,
+          40.689774
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:24:24",
+        "EndTime": "2017-06-01T02:24:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986106, latitude=40.689774)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "1",
+        "Point 1 time": "2017-06-01T02:24:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.942164,
+            40.671193
+          ],
+          [
+            -73.962774,
+            40.674497
+          ],
+          [
+            -73.977791,
+            40.684528
+          ],
+          [
+            -73.989397,
+            40.692274
+          ],
+          [
+            -73.991313,
+            40.691539
+          ],
+          [
+            -73.991313,
+            40.691539
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5016",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:14:27",
+        "EndTime": "2017-06-01T04:03:47",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.942164, latitude=40.671193)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "210",
+        "Point 1 time": "2017-06-01T03:14:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.962774, latitude=40.674497)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-06-01T03:23:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.977791, latitude=40.684528)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "25",
+        "Point 3 time": "2017-06-01T03:34:39",
+        "Point 4 geom": "MyLatLong(longitude=-73.989397, latitude=40.692274)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "111",
+        "Point 4 time": "2017-06-01T03:43:42",
+        "Point 5 geom": "MyLatLong(longitude=-73.991313, latitude=40.691539)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "12",
+        "Point 5 time": "2017-06-01T03:54:15",
+        "Point 6 geom": "MyLatLong(longitude=-73.991313, latitude=40.691539)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "12",
+        "Point 6 time": "2017-06-01T04:03:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.952687,
+            40.671766
+          ],
+          [
+            -73.977032,
+            40.683888
+          ],
+          [
+            -73.991241,
+            40.692024
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6622",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T16:23:25",
+        "EndTime": "2017-05-31T16:43:38",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.952687, latitude=40.671766)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-05-31T16:23:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.977032, latitude=40.683888)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "125",
+        "Point 2 time": "2017-05-31T16:33:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.991241, latitude=40.692024)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-05-31T16:43:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.970993,
+            40.682412
+          ],
+          [
+            -73.962958,
+            40.673603
+          ],
+          [
+            -73.950568,
+            40.67165
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.970993, latitude=40.682412)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.962958, latitude=40.673603)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-05-31T23:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.950568, latitude=40.67165)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.976392,
+            40.683641
+          ],
+          [
+            -73.9533,
+            40.6718
+          ],
+          [
+            -73.932362,
+            40.670657
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4930",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T16:23:47",
+        "EndTime": "2017-05-31T16:43:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.976392, latitude=40.683641)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "391",
+        "Point 1 time": "2017-05-31T16:23:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.9533, latitude=40.6718)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "53",
+        "Point 2 time": "2017-05-31T16:33:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.932362, latitude=40.670657)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "109",
+        "Point 3 time": "2017-05-31T16:43:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981812,
+          40.688106
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T22:24:06",
+        "EndTime": "2017-05-31T22:24:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.981812, latitude=40.688106)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "97",
+        "Point 1 time": "2017-05-31T22:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990845,
+            40.691413
+          ],
+          [
+            -73.987427,
+            40.690288
+          ],
+          [
+            -73.980995,
+            40.687788
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:54:04",
+        "EndTime": "2017-06-01T02:14:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.990845, latitude=40.691413)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:54:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.987427, latitude=40.690288)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:03:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.980995, latitude=40.687788)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T02:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.971492,
+            40.682518
+          ],
+          [
+            -73.957026,
+            40.672349
+          ],
+          [
+            -73.941177,
+            40.671139
+          ],
+          [
+            -73.925294,
+            40.671528
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:54:27",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.971492, latitude=40.682518)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.957026, latitude=40.672349)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "192",
+        "Point 2 time": "2017-06-01T02:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.941177, latitude=40.671139)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "197",
+        "Point 3 time": "2017-06-01T02:43:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.925294, latitude=40.671528)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "193",
+        "Point 4 time": "2017-06-01T02:54:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930739,
+            40.670569
+          ],
+          [
+            -73.949824,
+            40.671609
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:04:08",
+        "EndTime": "2017-06-01T00:14:11",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.930739, latitude=40.670569)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T00:04:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.949824, latitude=40.671609)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "32",
+        "Point 2 time": "2017-06-01T00:14:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93419,
+            40.670757
+          ],
+          [
+            -73.952873,
+            40.671777
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4923",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:34:19",
+        "EndTime": "2017-06-01T03:43:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.93419, latitude=40.670757)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "228",
+        "Point 1 time": "2017-06-01T03:34:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.952873, latitude=40.671777)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T03:43:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988979,
+          40.690889
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:43:56",
+        "EndTime": "2017-05-31T23:43:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.988979, latitude=40.690889)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "146",
+        "Point 1 time": "2017-05-31T23:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933458,
+            40.670717
+          ],
+          [
+            -73.960174,
+            40.673953
+          ],
+          [
+            -73.981298,
+            40.687905
+          ],
+          [
+            -73.991204,
+            40.69151
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T21:03:36",
+        "EndTime": "2017-05-31T21:33:57",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.933458, latitude=40.670717)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-05-31T21:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.960174, latitude=40.673953)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T21:13:35",
+        "Point 3 geom": "MyLatLong(longitude=-73.981298, latitude=40.687905)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T21:23:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.991204, latitude=40.69151)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-05-31T21:33:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941367,
+            40.671149
+          ],
+          [
+            -73.95962,
+            40.673836
+          ],
+          [
+            -73.972269,
+            40.682839
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T22:54:07",
+        "EndTime": "2017-05-31T23:13:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.941367, latitude=40.671149)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-05-31T22:54:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.95962, latitude=40.673836)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "56",
+        "Point 2 time": "2017-05-31T23:03:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.972269, latitude=40.682839)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "549",
+        "Point 3 time": "2017-05-31T23:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.940735,
+            40.671114
+          ],
+          [
+            -73.960209,
+            40.673961
+          ],
+          [
+            -73.977627,
+            40.684293
+          ],
+          [
+            -73.986169,
+            40.689799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:04:27",
+        "EndTime": "2017-06-01T01:34:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.940735, latitude=40.671114)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "97",
+        "Point 1 time": "2017-06-01T01:04:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.960209, latitude=40.673961)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T01:13:32",
+        "Point 3 geom": "MyLatLong(longitude=-73.977627, latitude=40.684293)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "54",
+        "Point 3 time": "2017-06-01T01:24:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.986169, latitude=40.689799)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "148",
+        "Point 4 time": "2017-06-01T01:34:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.979143,
+            40.686358
+          ],
+          [
+            -73.989019,
+            40.691759
+          ],
+          [
+            -73.991165,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:23:35",
+        "EndTime": "2017-06-01T00:44:16",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.979143, latitude=40.686358)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "262",
+        "Point 1 time": "2017-06-01T00:23:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.989019, latitude=40.691759)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "194",
+        "Point 2 time": "2017-06-01T00:34:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.991165, latitude=40.691499)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-06-01T00:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963555,
+            40.676683
+          ],
+          [
+            -73.974434,
+            40.683195
+          ],
+          [
+            -73.988952,
+            40.690879
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:24:22",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.963555, latitude=40.676683)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "23",
+        "Point 1 time": "2017-05-31T23:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.974434, latitude=40.683195)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "358",
+        "Point 2 time": "2017-05-31T23:33:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.988952, latitude=40.690879)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "309",
+        "Point 3 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.929053,
+          40.670477
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:13:13",
+        "EndTime": "2017-05-31T23:13:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.929053, latitude=40.670477)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "149",
+        "Point 1 time": "2017-05-31T23:13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928231,
+            40.670432
+          ],
+          [
+            -73.92246,
+            40.670193
+          ],
+          [
+            -73.92246,
+            40.670193
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:24:36",
+        "EndTime": "2017-06-01T02:43:47",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.928231, latitude=40.670432)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-06-01T02:24:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 2 time": "2017-06-01T02:34:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 3 time": "2017-06-01T02:43:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.923465,
+            40.670172
+          ],
+          [
+            -73.93259,
+            40.67067
+          ],
+          [
+            -73.947219,
+            40.671469
+          ],
+          [
+            -73.957856,
+            40.673466
+          ],
+          [
+            -73.971009,
+            40.682576
+          ],
+          [
+            -73.983664,
+            40.688821
+          ],
+          [
+            -73.991378,
+            40.691743
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:34:27",
+        "EndTime": "2017-06-01T01:34:20",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.923465, latitude=40.670172)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "214",
+        "Point 1 time": "2017-06-01T00:34:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.93259, latitude=40.67067)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "130",
+        "Point 2 time": "2017-06-01T00:44:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.947219, latitude=40.671469)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T00:54:02",
+        "Point 4 geom": "MyLatLong(longitude=-73.957856, latitude=40.673466)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "211",
+        "Point 4 time": "2017-06-01T01:04:05",
+        "Point 5 geom": "MyLatLong(longitude=-73.971009, latitude=40.682576)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "18",
+        "Point 5 time": "2017-06-01T01:13:36",
+        "Point 6 geom": "MyLatLong(longitude=-73.983664, latitude=40.688821)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "33",
+        "Point 6 time": "2017-06-01T01:24:13",
+        "Point 7 geom": "MyLatLong(longitude=-73.991378, latitude=40.691743)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "43",
+        "Point 7 time": "2017-06-01T01:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991166,
+          40.691499
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:24:40",
+        "EndTime": "2017-05-31T23:24:40",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-05-31T23:24:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92246,
+          40.670193
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T03:14:39",
+        "EndTime": "2017-06-01T03:14:39",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.92246, latitude=40.670193)",
+        "Point 1 time": "2017-06-01T03:14:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986087,
+            40.689766
+          ],
+          [
+            -73.97034,
+            40.682273
+          ],
+          [
+            -73.954512,
+            40.671865
+          ],
+          [
+            -73.931261,
+            40.670597
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T22:44:04",
+        "EndTime": "2017-05-31T23:13:38",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.986087, latitude=40.689766)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-05-31T22:44:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.97034, latitude=40.682273)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:54:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.954512, latitude=40.671865)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "155",
+        "Point 3 time": "2017-05-31T23:03:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.931261, latitude=40.670597)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "16",
+        "Point 4 time": "2017-05-31T23:13:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982931,
+            40.688541
+          ],
+          [
+            -73.964241,
+            40.68025
+          ],
+          [
+            -73.945168,
+            40.671356
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T22:03:36",
+        "EndTime": "2017-05-31T22:23:47",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.982931, latitude=40.688541)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "203",
+        "Point 1 time": "2017-05-31T22:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.964241, latitude=40.68025)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-05-31T22:13:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.945168, latitude=40.671356)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "68",
+        "Point 3 time": "2017-05-31T22:23:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990845,
+            40.691413
+          ],
+          [
+            -73.979547,
+            40.686939
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:14:19",
+        "EndTime": "2017-06-01T02:24:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.990845, latitude=40.691413)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:14:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.979547, latitude=40.686939)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "183",
+        "Point 2 time": "2017-06-01T02:24:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.989142,
+            40.691243
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4818",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:24:09",
+        "EndTime": "2017-05-31T23:34:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.989142, latitude=40.691243)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "253",
+        "Point 1 time": "2017-05-31T23:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-05-31T23:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930605,
+            40.670562
+          ],
+          [
+            -73.944648,
+            40.671327
+          ],
+          [
+            -73.962196,
+            40.674376
+          ],
+          [
+            -73.979322,
+            40.686612
+          ],
+          [
+            -73.990204,
+            40.692428
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T03:04:36",
+        "EndTime": "2017-06-01T03:43:57",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.930605, latitude=40.670562)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-06-01T03:04:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.944648, latitude=40.671327)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T03:14:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.962196, latitude=40.674376)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "70",
+        "Point 3 time": "2017-06-01T03:23:37",
+        "Point 4 geom": "MyLatLong(longitude=-73.979322, latitude=40.686612)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "230",
+        "Point 4 time": "2017-06-01T03:34:42",
+        "Point 5 geom": "MyLatLong(longitude=-73.990204, latitude=40.692428)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "40",
+        "Point 5 time": "2017-06-01T03:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.97107,
+            40.682428
+          ],
+          [
+            -73.960543,
+            40.673086
+          ],
+          [
+            -73.937269,
+            40.670927
+          ],
+          [
+            -73.922964,
+            40.673728
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:23:50",
+        "EndTime": "2017-06-01T00:54:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.97107, latitude=40.682428)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "70",
+        "Point 1 time": "2017-06-01T00:23:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.960543, latitude=40.673086)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-06-01T00:34:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.937269, latitude=40.670927)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "99",
+        "Point 3 time": "2017-06-01T00:44:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.922964, latitude=40.673728)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "59",
+        "Point 4 time": "2017-06-01T00:54:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936219,
+            40.670871
+          ],
+          [
+            -73.953074,
+            40.672106
+          ],
+          [
+            -73.964268,
+            40.6804
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:54:09",
+        "EndTime": "2017-06-01T02:14:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.936219, latitude=40.670871)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "57",
+        "Point 1 time": "2017-06-01T01:54:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.953074, latitude=40.672106)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "211",
+        "Point 2 time": "2017-06-01T02:03:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.964268, latitude=40.6804)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T02:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925598,
+          40.670289
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T04:03:32",
+        "EndTime": "2017-06-01T04:03:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.925598, latitude=40.670289)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "34",
+        "Point 1 time": "2017-06-01T04:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987537,
+            40.690331
+          ],
+          [
+            -73.97644,
+            40.683659
+          ],
+          [
+            -73.962568,
+            40.673507
+          ],
+          [
+            -73.944506,
+            40.67132
+          ],
+          [
+            -73.934309,
+            40.670764
+          ],
+          [
+            -73.926336,
+            40.670329
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:43:49",
+        "EndTime": "2017-06-01T03:34:14",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.987537, latitude=40.690331)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-06-01T02:43:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.97644, latitude=40.683659)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "395",
+        "Point 2 time": "2017-06-01T02:54:36",
+        "Point 3 geom": "MyLatLong(longitude=-73.962568, latitude=40.673507)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T03:04:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.944506, latitude=40.67132)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "12",
+        "Point 4 time": "2017-06-01T03:14:23",
+        "Point 5 geom": "MyLatLong(longitude=-73.934309, latitude=40.670764)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "40",
+        "Point 5 time": "2017-06-01T03:24:01",
+        "Point 6 geom": "MyLatLong(longitude=-73.926336, latitude=40.670329)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "123",
+        "Point 6 time": "2017-06-01T03:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987742,
+            40.690411
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:04:22",
+        "EndTime": "2017-06-01T00:14:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.987742, latitude=40.690411)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:04:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-06-01T00:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930113,
+            40.670535
+          ],
+          [
+            -73.956038,
+            40.673087
+          ],
+          [
+            -73.97768,
+            40.684369
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T21:43:50",
+        "EndTime": "2017-05-31T22:13:34",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.930113, latitude=40.670535)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-05-31T21:43:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.956038, latitude=40.673087)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "120",
+        "Point 2 time": "2017-05-31T21:53:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.97768, latitude=40.684369)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "45",
+        "Point 3 time": "2017-05-31T22:03:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "28",
+        "Point 4 time": "2017-05-31T22:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928772,
+            40.670461
+          ],
+          [
+            -73.946246,
+            40.671415
+          ],
+          [
+            -73.96018,
+            40.673954
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:13:13",
+        "EndTime": "2017-06-01T01:34:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.928772, latitude=40.670461)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T01:13:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.946246, latitude=40.671415)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "102",
+        "Point 2 time": "2017-06-01T01:24:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.96018, latitude=40.673954)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T01:34:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.977753,
+            40.684474
+          ],
+          [
+            -73.987657,
+            40.690378
+          ],
+          [
+            -73.991166,
+            40.691499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T02:24:16",
+        "EndTime": "2017-06-01T02:43:48",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.977753, latitude=40.684474)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "31",
+        "Point 1 time": "2017-06-01T02:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.987657, latitude=40.690378)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T02:33:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.991166, latitude=40.691499)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-06-01T02:43:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.980806,
+            40.687715
+          ],
+          [
+            -73.96423,
+            40.680195
+          ],
+          [
+            -73.950498,
+            40.671646
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:53:44",
+        "EndTime": "2017-06-01T02:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.980806, latitude=40.687715)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T01:53:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.96423, latitude=40.680195)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "78",
+        "Point 2 time": "2017-06-01T02:03:50",
+        "Point 3 geom": "MyLatLong(longitude=-73.950498, latitude=40.671646)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T02:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981831,
+            40.688113
+          ],
+          [
+            -73.964321,
+            40.680681
+          ],
+          [
+            -73.950533,
+            40.671648
+          ],
+          [
+            -73.931142,
+            40.670591
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7132",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:04:25",
+        "EndTime": "2017-06-01T01:34:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.981831, latitude=40.688113)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-06-01T01:04:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.964321, latitude=40.680681)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:13:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.950533, latitude=40.671648)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T01:24:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.931142, latitude=40.670591)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-06-01T01:34:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.988738,
+            40.690796
+          ],
+          [
+            -73.973402,
+            40.682985
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7099",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T01:24:29",
+        "EndTime": "2017-06-01T01:34:05",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.988738, latitude=40.690796)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "124",
+        "Point 1 time": "2017-06-01T01:24:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.973402, latitude=40.682985)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "128",
+        "Point 2 time": "2017-06-01T01:34:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990845,
+            40.691413
+          ],
+          [
+            -73.978377,
+            40.685337
+          ],
+          [
+            -73.962977,
+            40.673708
+          ],
+          [
+            -73.943617,
+            40.671272
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T03:34:41",
+        "EndTime": "2017-06-01T04:03:54",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.990845, latitude=40.691413)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:34:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.978377, latitude=40.685337)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "251",
+        "Point 2 time": "2017-06-01T03:43:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.962977, latitude=40.673708)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "62",
+        "Point 3 time": "2017-06-01T03:54:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.943617, latitude=40.671272)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "169",
+        "Point 4 time": "2017-06-01T04:03:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927811,
+            40.670409
+          ],
+          [
+            -73.94701,
+            40.671457
+          ],
+          [
+            -73.960091,
+            40.673936
+          ],
+          [
+            -73.970331,
+            40.682436
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6831",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-05-31T23:23:56",
+        "EndTime": "2017-05-31T23:53:12",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.927811, latitude=40.670409)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-05-31T23:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.94701, latitude=40.671457)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "38",
+        "Point 2 time": "2017-05-31T23:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.960091, latitude=40.673936)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T23:44:06",
+        "Point 4 geom": "MyLatLong(longitude=-73.970331, latitude=40.682436)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "77",
+        "Point 4 time": "2017-05-31T23:53:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981588,
+            40.688018
+          ],
+          [
+            -73.967696,
+            40.68172
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7117",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:04:13",
+        "EndTime": "2017-06-01T00:14:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.981588, latitude=40.688018)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-06-01T00:04:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.967696, latitude=40.68172)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "44",
+        "Point 2 time": "2017-06-01T00:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.927981,
+          40.670418
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T00:14:24",
+        "EndTime": "2017-06-01T00:14:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.927981, latitude=40.670418)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-06-01T00:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935179,
+            40.670813
+          ],
+          [
+            -73.92521,
+            40.672427
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6601",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:04:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.935179, latitude=40.670813)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.92521, latitude=40.672427)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "93",
+        "Point 2 time": "2017-06-01T00:04:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9875,
+            40.690317
+          ],
+          [
+            -73.971652,
+            40.682552
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T03:54:45",
+        "EndTime": "2017-06-01T04:03:40",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.9875, latitude=40.690317)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T03:54:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.971652, latitude=40.682552)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "121",
+        "Point 2 time": "2017-06-01T04:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932703,
+            40.670676
+          ],
+          [
+            -73.950206,
+            40.67163
+          ],
+          [
+            -73.96294,
+            40.674531
+          ],
+          [
+            -73.977639,
+            40.684311
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6590",
+        "PublishedLineName": "B45",
+        "DirectionRef": "1",
+        "OriginName": "ST JOHNS PL/RALPH AV",
+        "DestinationName": "DNTWN BKLYN COURT ST",
+        "StartTime": "2017-06-01T01:04:32",
+        "EndTime": "2017-06-01T01:34:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.932703, latitude=40.670676)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "120",
+        "Point 1 time": "2017-06-01T01:04:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.950206, latitude=40.67163)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:13:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.96294, latitude=40.674531)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T01:24:06",
+        "Point 4 geom": "MyLatLong(longitude=-73.977639, latitude=40.684311)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "52",
+        "Point 4 time": "2017-06-01T01:34:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987556,
+            40.690338
+          ],
+          [
+            -73.978334,
+            40.684401
+          ],
+          [
+            -73.963516,
+            40.676478
+          ],
+          [
+            -73.947448,
+            40.671481
+          ],
+          [
+            -73.930434,
+            40.670553
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6813",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T00:54:20",
+        "EndTime": "2017-06-01T01:34:26",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.987556, latitude=40.690338)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-06-01T00:54:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.978334, latitude=40.684401)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "133",
+        "Point 2 time": "2017-06-01T01:04:32",
+        "Point 3 geom": "MyLatLong(longitude=-73.963516, latitude=40.676478)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "35",
+        "Point 3 time": "2017-06-01T01:13:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.947448, latitude=40.671481)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "18",
+        "Point 4 time": "2017-06-01T01:24:21",
+        "Point 5 geom": "MyLatLong(longitude=-73.930434, latitude=40.670553)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "229",
+        "Point 5 time": "2017-06-01T01:34:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964102,
+            40.679527
+          ],
+          [
+            -73.945315,
+            40.671364
+          ],
+          [
+            -73.928585,
+            40.670451
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B45",
+        "DirectionRef": "0",
+        "OriginName": "LIVINGSTON ST/ COURT ST",
+        "DestinationName": "CROWN HTS RALPH AV",
+        "StartTime": "2017-06-01T02:43:25",
+        "EndTime": "2017-06-01T03:04:34",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.964102, latitude=40.679527)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T02:43:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.945315, latitude=40.671364)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "80",
+        "Point 2 time": "2017-06-01T02:54:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.928585, latitude=40.670451)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "73",
+        "Point 3 time": "2017-06-01T03:04:34"
+      }
+    }
+  ]
+}

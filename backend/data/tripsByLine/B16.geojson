@@ -1,0 +1,5867 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.033406,
+            40.624018
+          ],
+          [
+            -74.016595,
+            40.625706
+          ],
+          [
+            -74.005617,
+            40.633049
+          ],
+          [
+            -73.988565,
+            40.634994
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:13:19",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.033406, latitude=40.624018)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T23:13:19",
+        "Point 2 geom": "MyLatLong(longitude=-74.016595, latitude=40.625706)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-05-31T23:23:56",
+        "Point 3 geom": "MyLatLong(longitude=-74.005617, latitude=40.633049)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "124",
+        "Point 3 time": "2017-05-31T23:34",
+        "Point 4 geom": "MyLatLong(longitude=-73.988565, latitude=40.634994)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.988587,
+          40.634972
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_463",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:14:17",
+        "EndTime": "2017-06-01T02:14:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.988587, latitude=40.634972)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-06-01T02:14:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964929,
+            40.650776
+          ],
+          [
+            -73.981233,
+            40.647193
+          ],
+          [
+            -73.993137,
+            40.634046
+          ],
+          [
+            -74.004281,
+            40.633944
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:23:53",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.964929, latitude=40.650776)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.981233, latitude=40.647193)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "156",
+        "Point 2 time": "2017-06-01T00:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.993137, latitude=40.634046)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "133",
+        "Point 3 time": "2017-06-01T00:14:23",
+        "Point 4 geom": "MyLatLong(longitude=-74.004281, latitude=40.633944)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "15",
+        "Point 4 time": "2017-06-01T00:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006886,
+            40.632199
+          ],
+          [
+            -74.016957,
+            40.625469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:04:22",
+        "EndTime": "2017-06-01T00:14:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.006886, latitude=40.632199)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:04:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.016957, latitude=40.625469)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "167",
+        "Point 2 time": "2017-06-01T00:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.994505,
+            40.632734
+          ],
+          [
+            -74.009034,
+            40.630759
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:03:19",
+        "EndTime": "2017-05-31T23:13:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.994505, latitude=40.632734)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-05-31T23:03:19",
+        "Point 2 geom": "MyLatLong(longitude=-74.009034, latitude=40.630759)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "147",
+        "Point 2 time": "2017-05-31T23:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035299,
+            40.611814
+          ],
+          [
+            -74.039734,
+            40.623839
+          ],
+          [
+            -74.023131,
+            40.621328
+          ],
+          [
+            -74.005667,
+            40.633016
+          ],
+          [
+            -73.991001,
+            40.632651
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:54:14",
+        "EndTime": "2017-06-01T01:34:24",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.035299, latitude=40.611814)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-06-01T00:54:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.039734, latitude=40.623839)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "161",
+        "Point 2 time": "2017-06-01T01:04:29",
+        "Point 3 geom": "MyLatLong(longitude=-74.023131, latitude=40.621328)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "88",
+        "Point 3 time": "2017-06-01T01:13:33",
+        "Point 4 geom": "MyLatLong(longitude=-74.005667, latitude=40.633016)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-06-01T01:24:17",
+        "Point 5 geom": "MyLatLong(longitude=-73.991001, latitude=40.632651)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "101",
+        "Point 5 time": "2017-06-01T01:34:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.004281,
+          40.633944
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:53",
+        "EndTime": "2017-06-01T00:23:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.004281, latitude=40.633944)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-06-01T00:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.015198,
+            40.626637
+          ],
+          [
+            -74.027728,
+            40.622403
+          ],
+          [
+            -74.036527,
+            40.613003
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_450",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:22",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.015198, latitude=40.626637)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "131",
+        "Point 1 time": "2017-05-31T23:53:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.027728, latitude=40.622403)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "110",
+        "Point 2 time": "2017-06-01T00:03:58",
+        "Point 3 geom": "MyLatLong(longitude=-74.036527, latitude=40.613003)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "81",
+        "Point 3 time": "2017-06-01T00:14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99495,
+            40.632311
+          ],
+          [
+            -74.007061,
+            40.632083
+          ],
+          [
+            -74.02576,
+            40.621217
+          ],
+          [
+            -74.037431,
+            40.614596
+          ],
+          [
+            -73.967668,
+            40.649692
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:24:20",
+        "EndTime": "2017-06-01T04:03:48",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.99495, latitude=40.632311)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:24:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.007061, latitude=40.632083)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "170",
+        "Point 2 time": "2017-06-01T02:33:51",
+        "Point 3 geom": "MyLatLong(longitude=-74.02576, latitude=40.621217)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-06-01T02:43:22",
+        "Point 4 geom": "MyLatLong(longitude=-74.037431, latitude=40.614596)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "117",
+        "Point 4 time": "2017-06-01T02:54:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.967668, latitude=40.649692)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "52",
+        "Point 5 time": "2017-06-01T04:03:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00869,
+          40.63099
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:24:06",
+        "EndTime": "2017-05-31T22:24:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.00869, latitude=40.63099)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "185",
+        "Point 1 time": "2017-05-31T22:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.02803,
+            40.622585
+          ],
+          [
+            -74.011124,
+            40.629365
+          ],
+          [
+            -73.995945,
+            40.630951
+          ],
+          [
+            -73.981268,
+            40.645669
+          ],
+          [
+            -73.963286,
+            40.651426
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:34:12",
+        "EndTime": "2017-06-01T03:14:16",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.02803, latitude=40.622585)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "41",
+        "Point 1 time": "2017-06-01T02:34:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.011124, latitude=40.629365)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:43:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.995945, latitude=40.630951)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-06-01T02:54:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.981268, latitude=40.645669)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-06-01T03:04:21",
+        "Point 5 geom": "MyLatLong(longitude=-73.963286, latitude=40.651426)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "57",
+        "Point 5 time": "2017-06-01T03:14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040174,
+            40.621963
+          ],
+          [
+            -74.024193,
+            40.620618
+          ],
+          [
+            -74.013967,
+            40.627461
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:14:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.040174, latitude=40.621963)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.024193, latitude=40.620618)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:04:05",
+        "Point 3 geom": "MyLatLong(longitude=-74.013967, latitude=40.627461)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "192",
+        "Point 3 time": "2017-06-01T00:14:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.016272,
+            40.62592
+          ],
+          [
+            -74.035592,
+            40.624535
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T00:34:05",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.016272, latitude=40.62592)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T00:23:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.035592, latitude=40.624535)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "112",
+        "Point 2 time": "2017-06-01T00:34:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040175,
+            40.622004
+          ],
+          [
+            -74.024087,
+            40.620689
+          ],
+          [
+            -74.005815,
+            40.632916
+          ],
+          [
+            -73.995126,
+            40.630458
+          ],
+          [
+            -73.98617,
+            40.643235
+          ],
+          [
+            -73.965285,
+            40.650634
+          ],
+          [
+            -73.960954,
+            40.661003
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_337",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T03:04:36",
+        "EndTime": "2017-06-01T04:03:36",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.040175, latitude=40.622004)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:04:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.024087, latitude=40.620689)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-06-01T03:14:35",
+        "Point 3 geom": "MyLatLong(longitude=-74.005815, latitude=40.632916)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "16",
+        "Point 3 time": "2017-06-01T03:23:57",
+        "Point 4 geom": "MyLatLong(longitude=-73.995126, latitude=40.630458)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "152",
+        "Point 4 time": "2017-06-01T03:34:21",
+        "Point 5 geom": "MyLatLong(longitude=-73.98617, latitude=40.643235)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "41",
+        "Point 5 time": "2017-06-01T03:43:43",
+        "Point 6 geom": "MyLatLong(longitude=-73.965285, latitude=40.650634)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "33",
+        "Point 6 time": "2017-06-01T03:54:42",
+        "Point 7 geom": "MyLatLong(longitude=-73.960954, latitude=40.661003)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "55",
+        "Point 7 time": "2017-06-01T04:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.03946,
+            40.618308
+          ],
+          [
+            -74.024498,
+            40.620456
+          ],
+          [
+            -74.011327,
+            40.62923
+          ],
+          [
+            -73.995939,
+            40.630947
+          ],
+          [
+            -73.985303,
+            40.642699
+          ],
+          [
+            -73.972583,
+            40.647829
+          ],
+          [
+            -73.961706,
+            40.652051
+          ],
+          [
+            -73.961119,
+            40.660843
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:23:30",
+        "EndTime": "2017-06-01T01:34:36",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-74.03946, latitude=40.618308)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "131",
+        "Point 1 time": "2017-06-01T00:23:30",
+        "Point 2 geom": "MyLatLong(longitude=-74.024498, latitude=40.620456)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "43",
+        "Point 2 time": "2017-06-01T00:34:24",
+        "Point 3 geom": "MyLatLong(longitude=-74.011327, latitude=40.62923)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-06-01T00:44:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.995939, latitude=40.630947)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "67",
+        "Point 4 time": "2017-06-01T00:54:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.985303, latitude=40.642699)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "11",
+        "Point 5 time": "2017-06-01T01:04:27",
+        "Point 6 geom": "MyLatLong(longitude=-73.972583, latitude=40.647829)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "92",
+        "Point 6 time": "2017-06-01T01:13:27",
+        "Point 7 geom": "MyLatLong(longitude=-73.961706, latitude=40.652051)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "64",
+        "Point 7 time": "2017-06-01T01:24:34",
+        "Point 8 geom": "MyLatLong(longitude=-73.961119, latitude=40.660843)",
+        "Point 8 arrival": "at stop",
+        "Point 8 dist from stop": "20",
+        "Point 8 time": "2017-06-01T01:34:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006528,
+            40.632436
+          ],
+          [
+            -74.018362,
+            40.624524
+          ],
+          [
+            -74.033326,
+            40.623999
+          ],
+          [
+            -74.037133,
+            40.613946
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:23:56",
+        "EndTime": "2017-05-31T23:53:02",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.006528, latitude=40.632436)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "42",
+        "Point 1 time": "2017-05-31T23:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-74.018362, latitude=40.624524)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-05-31T23:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.033326, latitude=40.623999)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "74",
+        "Point 3 time": "2017-05-31T23:44:04",
+        "Point 4 geom": "MyLatLong(longitude=-74.037133, latitude=40.613946)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-05-31T23:53:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.994199,
+            40.633026
+          ],
+          [
+            -74.010289,
+            40.629922
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_401",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T23:03:22",
+        "EndTime": "2017-05-31T23:13:31",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.994199, latitude=40.633026)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "101",
+        "Point 1 time": "2017-05-31T23:03:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.010289, latitude=40.629922)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T23:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.972238,
+            40.647964
+          ],
+          [
+            -73.962664,
+            40.659572
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:03:58",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.972238, latitude=40.647964)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.962664, latitude=40.659572)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "144",
+        "Point 2 time": "2017-06-01T00:03:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.005771,
+            40.632944
+          ],
+          [
+            -74.008152,
+            40.631352
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:14:15",
+        "EndTime": "2017-06-01T00:23:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.005771, latitude=40.632944)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T00:14:15",
+        "Point 2 geom": "MyLatLong(longitude=-74.008152, latitude=40.631352)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-06-01T00:23:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961447,
+            40.652389
+          ],
+          [
+            -73.98543,
+            40.641929
+          ],
+          [
+            -74.014289,
+            40.627244
+          ],
+          [
+            -74.035016,
+            40.614179
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_240",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T16:23:26",
+        "EndTime": "2017-05-31T16:53:14",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.961447, latitude=40.652389)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T16:23:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.98543, latitude=40.641929)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-05-31T16:33:33",
+        "Point 3 geom": "MyLatLong(longitude=-74.014289, latitude=40.627244)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "68",
+        "Point 3 time": "2017-05-31T16:43:07",
+        "Point 4 geom": "MyLatLong(longitude=-74.035016, latitude=40.614179)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "80",
+        "Point 4 time": "2017-05-31T16:53:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014122,
+          40.627356
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:33:56",
+        "EndTime": "2017-05-31T22:33:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.014122, latitude=40.627356)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-05-31T22:33:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.038893,
+            40.617383
+          ],
+          [
+            -74.024738,
+            40.6206
+          ],
+          [
+            -74.009536,
+            40.630424
+          ],
+          [
+            -73.992086,
+            40.63161
+          ],
+          [
+            -73.986432,
+            40.643394
+          ],
+          [
+            -73.966563,
+            40.650131
+          ],
+          [
+            -73.961566,
+            40.661887
+          ],
+          [
+            -73.961278,
+            40.660812
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:43:07",
+        "EndTime": "2017-06-01T03:54:23",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-74.038893, latitude=40.617383)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T02:43:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.024738, latitude=40.6206)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-06-01T02:54:14",
+        "Point 3 geom": "MyLatLong(longitude=-74.009536, latitude=40.630424)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "156",
+        "Point 3 time": "2017-06-01T03:04:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.992086, latitude=40.63161)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "10",
+        "Point 4 time": "2017-06-01T03:14:29",
+        "Point 5 geom": "MyLatLong(longitude=-73.986432, latitude=40.643394)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "12",
+        "Point 5 time": "2017-06-01T03:24:04",
+        "Point 6 geom": "MyLatLong(longitude=-73.966563, latitude=40.650131)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "155",
+        "Point 6 time": "2017-06-01T03:34:40",
+        "Point 7 geom": "MyLatLong(longitude=-73.961566, latitude=40.661887)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "166",
+        "Point 7 time": "2017-06-01T03:43:40",
+        "Point 8 geom": "MyLatLong(longitude=-73.961278, latitude=40.660812)",
+        "Point 8 arrival": "at stop",
+        "Point 8 dist from stop": "6",
+        "Point 8 time": "2017-06-01T03:54:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962766,
+            40.651632
+          ],
+          [
+            -73.989212,
+            40.637816
+          ],
+          [
+            -74.01206,
+            40.628737
+          ],
+          [
+            -74.037698,
+            40.625035
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:43:31",
+        "EndTime": "2017-05-31T22:13:42",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.962766, latitude=40.651632)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "57",
+        "Point 1 time": "2017-05-31T21:43:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.989212, latitude=40.637816)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-05-31T21:53:34",
+        "Point 3 geom": "MyLatLong(longitude=-74.01206, latitude=40.628737)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-05-31T22:03:42",
+        "Point 4 geom": "MyLatLong(longitude=-74.037698, latitude=40.625035)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "254",
+        "Point 4 time": "2017-05-31T22:13:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.003177,
+            40.63441
+          ],
+          [
+            -74.013455,
+            40.627806
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T22:54:10",
+        "EndTime": "2017-05-31T23:03:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.003177, latitude=40.63441)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-05-31T22:54:10",
+        "Point 2 geom": "MyLatLong(longitude=-74.013455, latitude=40.627806)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "162",
+        "Point 2 time": "2017-05-31T23:03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.014122,
+            40.627356
+          ],
+          [
+            -74.028717,
+            40.622904
+          ],
+          [
+            -74.033008,
+            40.614194
+          ],
+          [
+            -74.035075,
+            40.611568
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:33:56",
+        "EndTime": "2017-05-31T23:03:40",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.014122, latitude=40.627356)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-05-31T22:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-74.028717, latitude=40.622904)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T22:44:07",
+        "Point 3 geom": "MyLatLong(longitude=-74.033008, latitude=40.614194)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T22:54:09",
+        "Point 4 geom": "MyLatLong(longitude=-74.035075, latitude=40.611568)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "13",
+        "Point 4 time": "2017-05-31T23:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.035166,
+          40.611669
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:53:46",
+        "EndTime": "2017-06-01T01:53:46",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.035166, latitude=40.611669)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:53:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996637,
+            40.630683
+          ],
+          [
+            -74.006861,
+            40.632216
+          ],
+          [
+            -74.016297,
+            40.625903
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_487",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T03:43:39",
+        "EndTime": "2017-06-01T04:03:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.996637, latitude=40.630683)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "289",
+        "Point 1 time": "2017-06-01T03:43:39",
+        "Point 2 geom": "MyLatLong(longitude=-74.006861, latitude=40.632216)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T03:54:16",
+        "Point 3 geom": "MyLatLong(longitude=-74.016297, latitude=40.625903)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-06-01T04:03:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.993559,
+            40.630196
+          ],
+          [
+            -73.98642,
+            40.643386
+          ],
+          [
+            -73.97279,
+            40.647747
+          ],
+          [
+            -73.961528,
+            40.652811
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:19",
+        "EndTime": "2017-06-01T00:23:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.993559, latitude=40.630196)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "210",
+        "Point 1 time": "2017-05-31T23:53:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.98642, latitude=40.643386)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-06-01T00:04:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.97279, latitude=40.647747)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T00:14:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.961528, latitude=40.652811)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "260",
+        "Point 4 time": "2017-06-01T00:23:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962144,
+            40.656375
+          ],
+          [
+            -73.980066,
+            40.647322
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:24:29",
+        "EndTime": "2017-06-01T01:34:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.962144, latitude=40.656375)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "208",
+        "Point 1 time": "2017-06-01T01:24:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.980066, latitude=40.647322)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-06-01T01:34:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.969845,
+            40.64883
+          ],
+          [
+            -73.993505,
+            40.633692
+          ],
+          [
+            -74.008434,
+            40.631162
+          ],
+          [
+            -74.028387,
+            40.622816
+          ],
+          [
+            -74.033812,
+            40.612642
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:23:49",
+        "EndTime": "2017-05-31T22:03:29",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.969845, latitude=40.64883)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "130",
+        "Point 1 time": "2017-05-31T21:23:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.993505, latitude=40.633692)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "83",
+        "Point 2 time": "2017-05-31T21:33:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.008434, latitude=40.631162)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T21:43:53",
+        "Point 4 geom": "MyLatLong(longitude=-74.028387, latitude=40.622816)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "38",
+        "Point 4 time": "2017-05-31T21:53:27",
+        "Point 5 geom": "MyLatLong(longitude=-74.033812, latitude=40.612642)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "6",
+        "Point 5 time": "2017-05-31T22:03:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.027901,
+            40.622507
+          ],
+          [
+            -74.013477,
+            40.627791
+          ],
+          [
+            -73.99489,
+            40.630316
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_753",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T03:54:36",
+        "EndTime": "2017-06-01T04:14:40",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.027901, latitude=40.622507)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "27",
+        "Point 1 time": "2017-06-01T03:54:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.013477, latitude=40.627791)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "137",
+        "Point 2 time": "2017-06-01T04:03:35",
+        "Point 3 geom": "MyLatLong(longitude=-73.99489, latitude=40.630316)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T04:14:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.966916,
+          40.64999
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:24:02",
+        "EndTime": "2017-05-31T23:24:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.966916, latitude=40.64999)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T23:24:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.035208,
+          40.611715
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:44:24",
+        "EndTime": "2017-05-31T23:44:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.035208, latitude=40.611715)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:44:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.016679,
+            40.625651
+          ],
+          [
+            -74.002866,
+            40.634889
+          ],
+          [
+            -73.986299,
+            40.63717
+          ],
+          [
+            -73.981285,
+            40.646948
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:23:52",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.016679, latitude=40.625651)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-74.002866, latitude=40.634889)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "62",
+        "Point 2 time": "2017-06-01T00:04:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.986299, latitude=40.63717)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "175",
+        "Point 3 time": "2017-06-01T00:14:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.981285, latitude=40.646948)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "151",
+        "Point 4 time": "2017-06-01T00:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035532,
+            40.612032
+          ],
+          [
+            -74.025351,
+            40.620969
+          ],
+          [
+            -74.01295,
+            40.628144
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:54:17",
+        "EndTime": "2017-05-31T23:13:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.035532, latitude=40.612032)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-05-31T22:54:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.025351, latitude=40.620969)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "135",
+        "Point 2 time": "2017-05-31T23:03:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.01295, latitude=40.628144)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-05-31T23:13:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961443,
+            40.66078
+          ],
+          [
+            -73.961443,
+            40.66078
+          ],
+          [
+            -73.967796,
+            40.649642
+          ],
+          [
+            -73.986221,
+            40.643738
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:44:12",
+        "EndTime": "2017-06-01T02:14:23",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.961443, latitude=40.66078)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.961443, latitude=40.66078)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:53:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.967796, latitude=40.649642)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "40",
+        "Point 3 time": "2017-06-01T02:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.986221, latitude=40.643738)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "157",
+        "Point 4 time": "2017-06-01T02:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033008,
+          40.614194
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:33:50",
+        "EndTime": "2017-05-31T22:33:50",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.033008, latitude=40.614194)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-05-31T22:33:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.024522,
+            40.62047
+          ],
+          [
+            -74.008601,
+            40.63105
+          ],
+          [
+            -73.993336,
+            40.630411
+          ],
+          [
+            -73.986708,
+            40.643561
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:44:17",
+        "EndTime": "2017-05-31T23:13:27",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.024522, latitude=40.62047)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "45",
+        "Point 1 time": "2017-05-31T22:44:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.008601, latitude=40.63105)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "51",
+        "Point 2 time": "2017-05-31T22:54:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.993336, latitude=40.630411)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "180",
+        "Point 3 time": "2017-05-31T23:03:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.986708, latitude=40.643561)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "253",
+        "Point 4 time": "2017-05-31T23:13:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.039684,
+          40.618679
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:33:36",
+        "EndTime": "2017-05-31T22:33:36",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.039684, latitude=40.618679)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "86",
+        "Point 1 time": "2017-05-31T22:33:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.040249,
+          40.621472
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7620",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:34:03",
+        "EndTime": "2017-06-01T00:34:03",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.040249, latitude=40.621472)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-06-01T00:34:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.017511,
+            40.625101
+          ],
+          [
+            -73.983181,
+            40.6414
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_422",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T16:23:52",
+        "EndTime": "2017-05-31T16:33:31",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.017511, latitude=40.625101)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-05-31T16:23:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.983181, latitude=40.6414)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "242",
+        "Point 2 time": "2017-05-31T16:33:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.007864,
+            40.631545
+          ],
+          [
+            -73.993995,
+            40.629777
+          ],
+          [
+            -73.98439,
+            40.64445
+          ],
+          [
+            -73.968137,
+            40.649506
+          ],
+          [
+            -73.962351,
+            40.651796
+          ],
+          [
+            -73.961199,
+            40.660828
+          ],
+          [
+            -73.961199,
+            40.660828
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:34:28",
+        "EndTime": "2017-06-01T01:34:21",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.007864, latitude=40.631545)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-06-01T00:34:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.993995, latitude=40.629777)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "30",
+        "Point 2 time": "2017-06-01T00:43:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.98439, latitude=40.64445)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "30",
+        "Point 3 time": "2017-06-01T00:54:02",
+        "Point 4 geom": "MyLatLong(longitude=-73.968137, latitude=40.649506)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "134",
+        "Point 4 time": "2017-06-01T01:04:05",
+        "Point 5 geom": "MyLatLong(longitude=-73.962351, latitude=40.651796)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "125",
+        "Point 5 time": "2017-06-01T01:13:38",
+        "Point 6 geom": "MyLatLong(longitude=-73.961199, latitude=40.660828)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "13",
+        "Point 6 time": "2017-06-01T01:24:18",
+        "Point 7 geom": "MyLatLong(longitude=-73.961199, latitude=40.660828)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "13",
+        "Point 7 time": "2017-06-01T01:34:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.974117,
+            40.647693
+          ],
+          [
+            -73.985576,
+            40.641313
+          ],
+          [
+            -74.003154,
+            40.634397
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:44:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.974117, latitude=40.647693)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "37",
+        "Point 1 time": "2017-05-31T23:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.985576, latitude=40.641313)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "134",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.003154, latitude=40.634397)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-05-31T23:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963226,
+            40.65145
+          ],
+          [
+            -73.984634,
+            40.644355
+          ],
+          [
+            -73.992577,
+            40.634586
+          ],
+          [
+            -74.003612,
+            40.63439
+          ],
+          [
+            -74.014818,
+            40.626891
+          ],
+          [
+            -74.035003,
+            40.624394
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:44:11",
+        "EndTime": "2017-06-01T01:34:34",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.963226, latitude=40.65145)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T00:44:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.984634, latitude=40.644355)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T00:54:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.992577, latitude=40.634586)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "47",
+        "Point 3 time": "2017-06-01T01:04:23",
+        "Point 4 geom": "MyLatLong(longitude=-74.003612, latitude=40.63439)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "90",
+        "Point 4 time": "2017-06-01T01:13:22",
+        "Point 5 geom": "MyLatLong(longitude=-74.014818, latitude=40.626891)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "9",
+        "Point 5 time": "2017-06-01T01:24:32",
+        "Point 6 geom": "MyLatLong(longitude=-74.035003, latitude=40.624394)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "165",
+        "Point 6 time": "2017-06-01T01:34:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.000527,
+            40.633721
+          ],
+          [
+            -73.985347,
+            40.642727
+          ],
+          [
+            -73.969857,
+            40.648825
+          ],
+          [
+            -73.961962,
+            40.655267
+          ],
+          [
+            -73.961239,
+            40.66082
+          ],
+          [
+            -73.961239,
+            40.66082
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:23:40",
+        "EndTime": "2017-06-01T01:13:20",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.000527, latitude=40.633721)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T00:23:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.985347, latitude=40.642727)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T00:34:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.969857, latitude=40.648825)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "130",
+        "Point 3 time": "2017-06-01T00:44:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.961962, latitude=40.655267)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "229",
+        "Point 4 time": "2017-06-01T00:54:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.961239, latitude=40.66082)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "10",
+        "Point 5 time": "2017-06-01T01:04:19",
+        "Point 6 geom": "MyLatLong(longitude=-73.961239, latitude=40.66082)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "10",
+        "Point 6 time": "2017-06-01T01:13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033005,
+          40.613582
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:24:05",
+        "EndTime": "2017-05-31T23:24:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.033005, latitude=40.613582)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-05-31T23:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.037133,
+          40.613946
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_470",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:24",
+        "EndTime": "2017-06-01T00:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.037133, latitude=40.613946)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "41",
+        "Point 1 time": "2017-06-01T00:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.005519,
+            40.633115
+          ],
+          [
+            -74.020272,
+            40.624048
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:54:25",
+        "EndTime": "2017-06-01T03:04:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.005519, latitude=40.633115)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "156",
+        "Point 1 time": "2017-06-01T02:54:25",
+        "Point 2 geom": "MyLatLong(longitude=-74.020272, latitude=40.624048)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T03:04:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961441,
+            40.66078
+          ],
+          [
+            -73.971131,
+            40.648324
+          ],
+          [
+            -73.997652,
+            40.631073
+          ],
+          [
+            -74.015564,
+            40.626391
+          ],
+          [
+            -74.039618,
+            40.61857
+          ],
+          [
+            -74.033812,
+            40.612642
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:23:29",
+        "EndTime": "2017-05-31T22:13:42",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.961441, latitude=40.66078)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T21:23:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.971131, latitude=40.648324)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T21:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.997652, latitude=40.631073)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "175",
+        "Point 3 time": "2017-05-31T21:43:35",
+        "Point 4 geom": "MyLatLong(longitude=-74.015564, latitude=40.626391)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "90",
+        "Point 4 time": "2017-05-31T21:53:38",
+        "Point 5 geom": "MyLatLong(longitude=-74.039618, latitude=40.61857)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "197",
+        "Point 5 time": "2017-05-31T22:03:39",
+        "Point 6 geom": "MyLatLong(longitude=-74.033812, latitude=40.612642)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "6",
+        "Point 6 time": "2017-05-31T22:13:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.007612,
+          40.631714
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:13:42",
+        "EndTime": "2017-05-31T22:13:42",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.007612, latitude=40.631714)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "108",
+        "Point 1 time": "2017-05-31T22:13:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.012031,
+          40.628757
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:44:02",
+        "EndTime": "2017-05-31T22:44:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.012031, latitude=40.628757)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040134,
+            40.619421
+          ],
+          [
+            -74.024789,
+            40.62063
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:13:31",
+        "EndTime": "2017-05-31T22:24:08",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.040134, latitude=40.619421)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "296",
+        "Point 1 time": "2017-05-31T22:13:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.024789, latitude=40.62063)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "74",
+        "Point 2 time": "2017-05-31T22:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981328,
+            40.647172
+          ],
+          [
+            -73.968213,
+            40.649476
+          ],
+          [
+            -73.962186,
+            40.662782
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:14:16",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.981328, latitude=40.647172)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.968213, latitude=40.649476)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "141",
+        "Point 2 time": "2017-06-01T00:04:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.962186, latitude=40.662782)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-06-01T00:14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.974363,
+            40.647725
+          ],
+          [
+            -73.99079,
+            40.636304
+          ],
+          [
+            -74.003917,
+            40.634188
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_230",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:53:52",
+        "EndTime": "2017-05-31T23:13:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.974363, latitude=40.647725)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T22:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.99079, latitude=40.636304)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "55",
+        "Point 2 time": "2017-05-31T23:03:23",
+        "Point 3 geom": "MyLatLong(longitude=-74.003917, latitude=40.634188)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "56",
+        "Point 3 time": "2017-05-31T23:13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.984273,
+            40.642066
+          ],
+          [
+            -73.973278,
+            40.647576
+          ],
+          [
+            -73.962844,
+            40.660679
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:24:07",
+        "EndTime": "2017-05-31T23:44:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.984273, latitude=40.642066)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "123",
+        "Point 1 time": "2017-05-31T23:24:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.973278, latitude=40.647576)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "60",
+        "Point 2 time": "2017-05-31T23:34:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.962844, latitude=40.660679)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T23:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961441,
+          40.66078
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_454",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:43:34",
+        "EndTime": "2017-05-31T21:43:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.961441, latitude=40.66078)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T21:43:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.023353,
+            40.62118
+          ],
+          [
+            -74.040722,
+            40.62459
+          ],
+          [
+            -74.033858,
+            40.61259
+          ],
+          [
+            -74.033858,
+            40.61259
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:44:29",
+        "EndTime": "2017-06-01T02:14:11",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.023353, latitude=40.62118)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "165",
+        "Point 1 time": "2017-06-01T01:44:29",
+        "Point 2 geom": "MyLatLong(longitude=-74.040722, latitude=40.62459)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-06-01T01:53:41",
+        "Point 3 geom": "MyLatLong(longitude=-74.033858, latitude=40.61259)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:03:28",
+        "Point 4 geom": "MyLatLong(longitude=-74.033858, latitude=40.61259)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-06-01T02:14:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.022501,
+            40.621781
+          ],
+          [
+            -74.031447,
+            40.623554
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:34:11",
+        "EndTime": "2017-06-01T00:44:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.022501, latitude=40.621781)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:34:11",
+        "Point 2 geom": "MyLatLong(longitude=-74.031447, latitude=40.623554)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "240",
+        "Point 2 time": "2017-06-01T00:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963226,
+            40.65145
+          ],
+          [
+            -73.98448,
+            40.644415
+          ],
+          [
+            -73.996778,
+            40.630548
+          ],
+          [
+            -74.007019,
+            40.632111
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:04:18",
+        "EndTime": "2017-06-01T01:34:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.963226, latitude=40.65145)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T01:04:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.98448, latitude=40.644415)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T01:13:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.996778, latitude=40.630548)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "269",
+        "Point 3 time": "2017-06-01T01:24:09",
+        "Point 4 geom": "MyLatLong(longitude=-74.007019, latitude=40.632111)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "174",
+        "Point 4 time": "2017-06-01T01:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.003439,
+            40.634505
+          ],
+          [
+            -74.013187,
+            40.627985
+          ],
+          [
+            -74.028765,
+            40.622916
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7620",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T22:44:09",
+        "EndTime": "2017-05-31T23:03:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.003439, latitude=40.634505)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "110",
+        "Point 1 time": "2017-05-31T22:44:09",
+        "Point 2 geom": "MyLatLong(longitude=-74.013187, latitude=40.627985)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "192",
+        "Point 2 time": "2017-05-31T22:54:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.028765, latitude=40.622916)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T23:03:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.008875,
+            40.630866
+          ],
+          [
+            -74.024765,
+            40.620616
+          ],
+          [
+            -74.040173,
+            40.621894
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_401",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-06-01T00:14:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.008875, latitude=40.630866)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "165",
+        "Point 1 time": "2017-05-31T23:53:15",
+        "Point 2 geom": "MyLatLong(longitude=-74.024765, latitude=40.620616)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T00:04:21",
+        "Point 3 geom": "MyLatLong(longitude=-74.040173, latitude=40.621894)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-06-01T00:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.013882,
+          40.627518
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_470",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:54:15",
+        "EndTime": "2017-06-01T00:54:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.013882, latitude=40.627518)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "114",
+        "Point 1 time": "2017-06-01T00:54:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962737,
+          40.651643
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:24:15",
+        "EndTime": "2017-06-01T02:24:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.962737, latitude=40.651643)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-06-01T02:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.024724,
+            40.620591
+          ],
+          [
+            -74.010073,
+            40.630068
+          ],
+          [
+            -73.995833,
+            40.630883
+          ],
+          [
+            -73.98623,
+            40.643734
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:33:45",
+        "EndTime": "2017-05-31T23:03:19",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.024724, latitude=40.620591)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "67",
+        "Point 1 time": "2017-05-31T22:33:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.010073, latitude=40.630068)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "43",
+        "Point 2 time": "2017-05-31T22:44:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.995833, latitude=40.630883)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "55",
+        "Point 3 time": "2017-05-31T22:54:19",
+        "Point 4 geom": "MyLatLong(longitude=-73.98623, latitude=40.643734)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "205",
+        "Point 4 time": "2017-05-31T23:03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01206,
+          40.628737
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:03:42",
+        "EndTime": "2017-05-31T22:03:42",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.01206, latitude=40.628737)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "123",
+        "Point 1 time": "2017-05-31T22:03:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.004331,
+            40.63391
+          ],
+          [
+            -74.016126,
+            40.626017
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:44:17",
+        "EndTime": "2017-06-01T00:54:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.004331, latitude=40.63391)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:44:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.016126, latitude=40.626017)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "27",
+        "Point 2 time": "2017-06-01T00:54:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00062,
+            40.63287
+          ],
+          [
+            -74.015552,
+            40.626399
+          ],
+          [
+            -74.019369,
+            40.624264
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:54:14",
+        "EndTime": "2017-06-01T01:13:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.00062, latitude=40.63287)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-06-01T00:54:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.015552, latitude=40.626399)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "92",
+        "Point 2 time": "2017-06-01T01:04:11",
+        "Point 3 geom": "MyLatLong(longitude=-74.019369, latitude=40.624264)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "95",
+        "Point 3 time": "2017-06-01T01:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.967747,
+            40.649661
+          ],
+          [
+            -73.979844,
+            40.647347
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:34:09",
+        "EndTime": "2017-05-31T23:44:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.967747, latitude=40.649661)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-05-31T23:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.979844, latitude=40.647347)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-05-31T23:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.015796,
+            40.626236
+          ],
+          [
+            -74.030125,
+            40.62324
+          ],
+          [
+            -74.032688,
+            40.614034
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:14",
+        "EndTime": "2017-06-01T00:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.015796, latitude=40.626236)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "64",
+        "Point 1 time": "2017-05-31T23:53:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.030125, latitude=40.62324)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-06-01T00:04:21",
+        "Point 3 geom": "MyLatLong(longitude=-74.032688, latitude=40.614034)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "75",
+        "Point 3 time": "2017-06-01T00:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.033623,
+            40.624069
+          ],
+          [
+            -74.032976,
+            40.614178
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:56",
+        "EndTime": "2017-06-01T00:34:01",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.033623, latitude=40.624069)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "48",
+        "Point 1 time": "2017-06-01T00:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-74.032976, latitude=40.614178)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:34:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.971302,
+          40.648277
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:33:39",
+        "EndTime": "2017-05-31T22:33:39",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.971302, latitude=40.648277)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "295",
+        "Point 1 time": "2017-05-31T22:33:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.004355,
+            40.633894
+          ],
+          [
+            -73.987077,
+            40.636421
+          ],
+          [
+            -73.981261,
+            40.645672
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:23:58",
+        "EndTime": "2017-05-31T23:44:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.004355, latitude=40.633894)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "229",
+        "Point 1 time": "2017-05-31T23:23:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.987077, latitude=40.636421)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "44",
+        "Point 2 time": "2017-05-31T23:34:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.981261, latitude=40.645672)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-05-31T23:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.971641,
+            40.648199
+          ],
+          [
+            -73.961846,
+            40.654574
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T01:34:14",
+        "EndTime": "2017-06-01T01:44:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.971641, latitude=40.648199)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T01:34:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.961846, latitude=40.654574)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "62",
+        "Point 2 time": "2017-06-01T01:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961358,
+            40.660797
+          ],
+          [
+            -73.961358,
+            40.660797
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:53:26",
+        "EndTime": "2017-06-01T00:04:09",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.961358, latitude=40.660797)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.961358, latitude=40.660797)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:04:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035166,
+            40.611669
+          ],
+          [
+            -74.035166,
+            40.611669
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_422",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T16:03:35",
+        "EndTime": "2017-05-31T16:13:42",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.035166, latitude=40.611669)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T16:03:35",
+        "Point 2 geom": "MyLatLong(longitude=-74.035166, latitude=40.611669)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T16:13:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962799,
+            40.660396
+          ],
+          [
+            -73.980336,
+            40.647292
+          ],
+          [
+            -73.994783,
+            40.632469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:13:25",
+        "EndTime": "2017-05-31T22:33:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.962799, latitude=40.660396)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-05-31T22:13:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.980336, latitude=40.647292)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "233",
+        "Point 2 time": "2017-05-31T22:23:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.994783, latitude=40.632469)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-05-31T22:33:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006125,
+            40.632706
+          ],
+          [
+            -74.021247,
+            40.622917
+          ],
+          [
+            -74.037503,
+            40.624989
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_363",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:26",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.006125, latitude=40.632706)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "88",
+        "Point 1 time": "2017-05-31T23:53:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.021247, latitude=40.622917)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:04:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.037503, latitude=40.624989)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "271",
+        "Point 3 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96112,
+          40.660843
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:34:06",
+        "EndTime": "2017-06-01T00:34:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.96112, latitude=40.660843)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-06-01T00:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.009812,
+            40.630241
+          ],
+          [
+            -74.036342,
+            40.624714
+          ],
+          [
+            -74.033055,
+            40.613525
+          ],
+          [
+            -74.033055,
+            40.613525
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_451",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T16:03:55",
+        "EndTime": "2017-05-31T16:33:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.009812, latitude=40.630241)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-05-31T16:03:55",
+        "Point 2 geom": "MyLatLong(longitude=-74.036342, latitude=40.624714)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "46",
+        "Point 2 time": "2017-05-31T16:13:30",
+        "Point 3 geom": "MyLatLong(longitude=-74.033055, latitude=40.613525)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-05-31T16:23:26",
+        "Point 4 geom": "MyLatLong(longitude=-74.033055, latitude=40.613525)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "5",
+        "Point 4 time": "2017-05-31T16:33:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96705,
+            40.649937
+          ],
+          [
+            -73.985682,
+            40.641211
+          ],
+          [
+            -74.00869,
+            40.63099
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:03:27",
+        "EndTime": "2017-05-31T22:24:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.96705, latitude=40.649937)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "111",
+        "Point 1 time": "2017-05-31T22:03:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.985682, latitude=40.641211)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "120",
+        "Point 2 time": "2017-05-31T22:13:31",
+        "Point 3 geom": "MyLatLong(longitude=-74.00869, latitude=40.63099)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "185",
+        "Point 3 time": "2017-05-31T22:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962118,
+            40.656216
+          ],
+          [
+            -73.976847,
+            40.647672
+          ],
+          [
+            -73.987593,
+            40.639373
+          ],
+          [
+            -74.004648,
+            40.633697
+          ],
+          [
+            -74.018117,
+            40.624691
+          ],
+          [
+            -74.040847,
+            40.623601
+          ],
+          [
+            -74.03286,
+            40.614121
+          ],
+          [
+            -74.03286,
+            40.614121
+          ],
+          [
+            -74.032979,
+            40.613612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_344",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:43:27",
+        "EndTime": "2017-06-01T04:03:31",
+        "NumOfPoints": "9",
+        "Point 1 geom": "MyLatLong(longitude=-73.962118, latitude=40.656216)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "190",
+        "Point 1 time": "2017-06-01T02:43:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.976847, latitude=40.647672)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "144",
+        "Point 2 time": "2017-06-01T02:54:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.987593, latitude=40.639373)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T03:04:19",
+        "Point 4 geom": "MyLatLong(longitude=-74.004648, latitude=40.633697)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "95",
+        "Point 4 time": "2017-06-01T03:14:17",
+        "Point 5 geom": "MyLatLong(longitude=-74.018117, latitude=40.624691)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "36",
+        "Point 5 time": "2017-06-01T03:23:42",
+        "Point 6 geom": "MyLatLong(longitude=-74.040847, latitude=40.623601)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "105",
+        "Point 6 time": "2017-06-01T03:34:45",
+        "Point 7 geom": "MyLatLong(longitude=-74.03286, latitude=40.614121)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "5",
+        "Point 7 time": "2017-06-01T03:43:44",
+        "Point 8 geom": "MyLatLong(longitude=-74.03286, latitude=40.614121)",
+        "Point 8 arrival": "at stop",
+        "Point 8 dist from stop": "5",
+        "Point 8 time": "2017-06-01T03:54:22",
+        "Point 9 geom": "MyLatLong(longitude=-74.032979, latitude=40.613612)",
+        "Point 9 arrival": "at stop",
+        "Point 9 dist from stop": "17",
+        "Point 9 time": "2017-06-01T04:03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.965361,
+            40.650604
+          ],
+          [
+            -73.961358,
+            40.660797
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:34:25",
+        "EndTime": "2017-06-01T00:54:07",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.965361, latitude=40.650604)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-06-01T00:34:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.961358, latitude=40.660797)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:54:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.025869,
+            40.621283
+          ],
+          [
+            -73.996475,
+            40.631274
+          ],
+          [
+            -73.981289,
+            40.646969
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_240",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T17:13:57",
+        "EndTime": "2017-05-31T17:33:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.025869, latitude=40.621283)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "191",
+        "Point 1 time": "2017-05-31T17:13:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.996475, latitude=40.631274)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-05-31T17:22:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.981289, latitude=40.646969)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "148",
+        "Point 3 time": "2017-05-31T17:33:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.039098,
+          40.617715
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:24:37",
+        "EndTime": "2017-06-01T02:24:37",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.039098, latitude=40.617715)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "204",
+        "Point 1 time": "2017-06-01T02:24:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.03032,
+            40.623286
+          ],
+          [
+            -74.033207,
+            40.614294
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:33:44",
+        "EndTime": "2017-06-01T02:43:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.03032, latitude=40.623286)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "51",
+        "Point 1 time": "2017-06-01T02:33:44",
+        "Point 2 geom": "MyLatLong(longitude=-74.033207, latitude=40.614294)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "40",
+        "Point 2 time": "2017-06-01T02:43:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.965145,
+            40.650689
+          ],
+          [
+            -73.987013,
+            40.642884
+          ],
+          [
+            -73.996637,
+            40.630683
+          ],
+          [
+            -74.006861,
+            40.632216
+          ],
+          [
+            -74.016297,
+            40.625903
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_487",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T03:24",
+        "EndTime": "2017-06-01T04:03:51",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.965145, latitude=40.650689)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "292",
+        "Point 1 time": "2017-06-01T03:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.987013, latitude=40.642884)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T03:34:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.996637, latitude=40.630683)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "289",
+        "Point 3 time": "2017-06-01T03:43:39",
+        "Point 4 geom": "MyLatLong(longitude=-74.006861, latitude=40.632216)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "5",
+        "Point 4 time": "2017-06-01T03:54:16",
+        "Point 5 geom": "MyLatLong(longitude=-74.016297, latitude=40.625903)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "8",
+        "Point 5 time": "2017-06-01T04:03:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.016272,
+          40.62592
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:31",
+        "EndTime": "2017-06-01T00:23:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.016272, latitude=40.62592)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T00:23:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.997652,
+            40.631073
+          ],
+          [
+            -74.015564,
+            40.626391
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:43:35",
+        "EndTime": "2017-05-31T21:53:38",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.997652, latitude=40.631073)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "175",
+        "Point 1 time": "2017-05-31T21:43:35",
+        "Point 2 geom": "MyLatLong(longitude=-74.015564, latitude=40.626391)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "90",
+        "Point 2 time": "2017-05-31T21:53:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.004293,
+            40.633936
+          ],
+          [
+            -74.020613,
+            40.623667
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:53:56",
+        "EndTime": "2017-05-31T23:03:37",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.004293, latitude=40.633936)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-05-31T22:53:56",
+        "Point 2 geom": "MyLatLong(longitude=-74.020613, latitude=40.623667)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-05-31T23:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.009371,
+            40.630534
+          ],
+          [
+            -73.993541,
+            40.630214
+          ],
+          [
+            -73.981157,
+            40.645713
+          ],
+          [
+            -73.967961,
+            40.649576
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:33:38",
+        "EndTime": "2017-05-31T23:03:18",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.009371, latitude=40.630534)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "137",
+        "Point 1 time": "2017-05-31T22:33:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.993541, latitude=40.630214)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "208",
+        "Point 2 time": "2017-05-31T22:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.981157, latitude=40.645713)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "295",
+        "Point 3 time": "2017-05-31T22:54:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.967961, latitude=40.649576)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "117",
+        "Point 4 time": "2017-05-31T23:03:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962766,
+            40.660198
+          ],
+          [
+            -73.976599,
+            40.647699
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:33:56",
+        "EndTime": "2017-05-31T23:44:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.962766, latitude=40.660198)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T23:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.976599, latitude=40.647699)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T23:44:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964253,
+            40.651044
+          ],
+          [
+            -73.979899,
+            40.647341
+          ],
+          [
+            -73.991053,
+            40.636053
+          ],
+          [
+            -74.005739,
+            40.632966
+          ],
+          [
+            -74.017003,
+            40.625438
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:44:24",
+        "EndTime": "2017-06-01T02:24:12",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.964253, latitude=40.651044)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-06-01T01:44:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.979899, latitude=40.647341)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T01:53:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.991053, latitude=40.636053)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T02:03:27",
+        "Point 4 geom": "MyLatLong(longitude=-74.005739, latitude=40.632966)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "131",
+        "Point 4 time": "2017-06-01T02:14:10",
+        "Point 5 geom": "MyLatLong(longitude=-74.017003, latitude=40.625438)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "162",
+        "Point 5 time": "2017-06-01T02:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961953,
+          40.660682
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_369",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.961953, latitude=40.660682)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "115",
+        "Point 1 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996168,
+            40.631131
+          ],
+          [
+            -74.006759,
+            40.632283
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:03:58",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.996168, latitude=40.631131)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "37",
+        "Point 1 time": "2017-06-01T00:03:58",
+        "Point 2 geom": "MyLatLong(longitude=-74.006759, latitude=40.632283)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.990358,
+          40.636718
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:13:24",
+        "EndTime": "2017-05-31T23:13:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.990358, latitude=40.636718)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "114",
+        "Point 1 time": "2017-05-31T23:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961494,
+            40.66077
+          ],
+          [
+            -73.962812,
+            40.660475
+          ],
+          [
+            -73.974523,
+            40.647746
+          ],
+          [
+            -73.986498,
+            40.64043
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7567",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T03:34:39",
+        "EndTime": "2017-06-01T04:03:35",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.961494, latitude=40.66077)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "155",
+        "Point 1 time": "2017-06-01T03:34:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.962812, latitude=40.660475)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-06-01T03:44:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.974523, latitude=40.647746)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-06-01T03:54:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.986498, latitude=40.64043)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T04:03:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.039795,
+            40.618865
+          ],
+          [
+            -74.026048,
+            40.621392
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T01:24:20",
+        "EndTime": "2017-06-01T01:34:34",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.039795, latitude=40.618865)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-06-01T01:24:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.026048, latitude=40.621392)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:34:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037053,
+            40.613789
+          ],
+          [
+            -74.024746,
+            40.620605
+          ],
+          [
+            -74.010094,
+            40.630053
+          ],
+          [
+            -73.994199,
+            40.6299
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:43:58",
+        "EndTime": "2017-05-31T23:13:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.037053, latitude=40.613789)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "31",
+        "Point 1 time": "2017-05-31T22:43:58",
+        "Point 2 geom": "MyLatLong(longitude=-74.024746, latitude=40.620605)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-05-31T22:54:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.010094, latitude=40.630053)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "45",
+        "Point 3 time": "2017-05-31T23:03:46",
+        "Point 4 geom": "MyLatLong(longitude=-73.994199, latitude=40.6299)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "52",
+        "Point 4 time": "2017-05-31T23:13:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.005771,
+            40.632944
+          ],
+          [
+            -74.008152,
+            40.631352
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:14:15",
+        "EndTime": "2017-06-01T00:23:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.005771, latitude=40.632944)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T00:14:15",
+        "Point 2 geom": "MyLatLong(longitude=-74.008152, latitude=40.631352)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-06-01T00:23:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.035331,
+          40.611845
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T22:23:44",
+        "EndTime": "2017-05-31T22:23:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.035331, latitude=40.611845)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-05-31T22:23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987924,
+            40.639057
+          ],
+          [
+            -74.007612,
+            40.631714
+          ],
+          [
+            -74.028526,
+            40.622857
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:03:38",
+        "EndTime": "2017-05-31T22:23:44",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.987924, latitude=40.639057)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-05-31T22:03:38",
+        "Point 2 geom": "MyLatLong(longitude=-74.007612, latitude=40.631714)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "108",
+        "Point 2 time": "2017-05-31T22:13:42",
+        "Point 3 geom": "MyLatLong(longitude=-74.028526, latitude=40.622857)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "25",
+        "Point 3 time": "2017-05-31T22:23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033711,
+          40.612759
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:04:08",
+        "EndTime": "2017-06-01T00:04:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.033711, latitude=40.612759)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-06-01T00:04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96152,
+            40.652768
+          ],
+          [
+            -73.977589,
+            40.647591
+          ],
+          [
+            -73.987557,
+            40.639407
+          ],
+          [
+            -74.00307,
+            40.634346
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_450",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:13:30",
+        "EndTime": "2017-05-31T23:44:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.96152, latitude=40.652768)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "51",
+        "Point 1 time": "2017-05-31T23:13:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.977589, latitude=40.647591)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "81",
+        "Point 2 time": "2017-05-31T23:24:09",
+        "Point 3 geom": "MyLatLong(longitude=-73.987557, latitude=40.639407)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-05-31T23:34:15",
+        "Point 4 geom": "MyLatLong(longitude=-74.00307, latitude=40.634346)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-05-31T23:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.008003,
+            40.631452
+          ],
+          [
+            -74.020446,
+            40.623861
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7620",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:14:12",
+        "EndTime": "2017-06-01T00:23:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.008003, latitude=40.631452)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "64",
+        "Point 1 time": "2017-06-01T00:14:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.020446, latitude=40.623861)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "141",
+        "Point 2 time": "2017-06-01T00:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.022501,
+          40.621781
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_385",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:34:11",
+        "EndTime": "2017-06-01T00:34:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.022501, latitude=40.621781)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.017511,
+            40.625101
+          ],
+          [
+            -73.983181,
+            40.6414
+          ],
+          [
+            -73.961692,
+            40.653701
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_422",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T16:23:52",
+        "EndTime": "2017-05-31T16:43:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.017511, latitude=40.625101)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-05-31T16:23:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.983181, latitude=40.6414)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "242",
+        "Point 2 time": "2017-05-31T16:33:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.961692, latitude=40.653701)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "160",
+        "Point 3 time": "2017-05-31T16:43:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.040029,
+            40.623104
+          ],
+          [
+            -74.023016,
+            40.621404
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_345",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:14:17",
+        "EndTime": "2017-06-01T00:23:56",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.040029, latitude=40.623104)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:14:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.023016, latitude=40.621404)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "75",
+        "Point 2 time": "2017-06-01T00:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.036922,
+            40.613563
+          ],
+          [
+            -74.027966,
+            40.622546
+          ],
+          [
+            -74.00981,
+            40.630242
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:03:20",
+        "EndTime": "2017-06-01T02:24:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.036922, latitude=40.613563)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-06-01T02:03:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.027966, latitude=40.622546)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-06-01T02:14:29",
+        "Point 3 geom": "MyLatLong(longitude=-74.00981, latitude=40.630242)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T02:24:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982866,
+            40.641293
+          ],
+          [
+            -73.961739,
+            40.653961
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_668",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T16:03:28",
+        "EndTime": "2017-05-31T16:13:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.982866, latitude=40.641293)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "271",
+        "Point 1 time": "2017-05-31T16:03:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.961739, latitude=40.653961)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "131",
+        "Point 2 time": "2017-05-31T16:13:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.026802,
+          40.621846
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_401",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T23:24:08",
+        "EndTime": "2017-05-31T23:24:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.026802, latitude=40.621846)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "210",
+        "Point 1 time": "2017-05-31T23:24:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986385,
+            40.643365
+          ],
+          [
+            -73.971669,
+            40.648188
+          ],
+          [
+            -73.961815,
+            40.652008
+          ],
+          [
+            -73.961119,
+            40.660843
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T01:44:33",
+        "EndTime": "2017-06-01T02:14:24",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.986385, latitude=40.643365)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-06-01T01:44:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.971669, latitude=40.648188)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T01:54:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.961815, latitude=40.652008)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "74",
+        "Point 3 time": "2017-06-01T02:03:51",
+        "Point 4 geom": "MyLatLong(longitude=-73.961119, latitude=40.660843)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-06-01T02:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.970418,
+          40.648604
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:14:09",
+        "EndTime": "2017-06-01T00:14:09",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.970418, latitude=40.648604)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "75",
+        "Point 1 time": "2017-06-01T00:14:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990574,
+            40.636511
+          ],
+          [
+            -74.003874,
+            40.634216
+          ],
+          [
+            -74.016344,
+            40.625871
+          ],
+          [
+            -74.035248,
+            40.624452
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:44:34",
+        "EndTime": "2017-06-01T02:14:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.990574, latitude=40.636511)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "85",
+        "Point 1 time": "2017-06-01T01:44:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.003874, latitude=40.634216)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T01:53:43",
+        "Point 3 geom": "MyLatLong(longitude=-74.016344, latitude=40.625871)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-74.035248, latitude=40.624452)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "143",
+        "Point 4 time": "2017-06-01T02:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.033017,
+            40.613569
+          ],
+          [
+            -74.033055,
+            40.613525
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:24:31",
+        "EndTime": "2017-06-01T02:34:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.033017, latitude=40.613569)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T02:24:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.033055, latitude=40.613525)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T02:34:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.012031,
+            40.628757
+          ],
+          [
+            -74.03721,
+            40.62492
+          ],
+          [
+            -74.033676,
+            40.612799
+          ],
+          [
+            -74.035166,
+            40.611669
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:44:02",
+        "EndTime": "2017-05-31T23:12:56",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.012031, latitude=40.628757)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:02",
+        "Point 2 geom": "MyLatLong(longitude=-74.03721, latitude=40.62492)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "297",
+        "Point 2 time": "2017-05-31T22:54:05",
+        "Point 3 geom": "MyLatLong(longitude=-74.033676, latitude=40.612799)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "27",
+        "Point 3 time": "2017-05-31T23:03:19",
+        "Point 4 geom": "MyLatLong(longitude=-74.035166, latitude=40.611669)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:12:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.033855,
+            40.624124
+          ],
+          [
+            -74.009337,
+            40.630556
+          ],
+          [
+            -73.981329,
+            40.647176
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_451",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T16:43:19",
+        "EndTime": "2017-05-31T17:03:40",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.033855, latitude=40.624124)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-05-31T16:43:19",
+        "Point 2 geom": "MyLatLong(longitude=-74.009337, latitude=40.630556)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "134",
+        "Point 2 time": "2017-05-31T16:52:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.981329, latitude=40.647176)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "125",
+        "Point 3 time": "2017-05-31T17:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986298,
+            40.643707
+          ],
+          [
+            -73.996168,
+            40.631131
+          ],
+          [
+            -74.006759,
+            40.632283
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:26",
+        "EndTime": "2017-06-01T00:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.986298, latitude=40.643707)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "150",
+        "Point 1 time": "2017-05-31T23:53:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.996168, latitude=40.631131)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-06-01T00:03:58",
+        "Point 3 geom": "MyLatLong(longitude=-74.006759, latitude=40.632283)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-06-01T00:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.025132,
+            40.620837
+          ],
+          [
+            -74.036633,
+            40.613138
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:34:30",
+        "EndTime": "2017-06-01T00:44:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.025132, latitude=40.620837)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "135",
+        "Point 1 time": "2017-06-01T00:34:30",
+        "Point 2 geom": "MyLatLong(longitude=-74.036633, latitude=40.613138)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "98",
+        "Point 2 time": "2017-06-01T00:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.024815,
+            40.620646
+          ],
+          [
+            -74.040504,
+            40.622884
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_747",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:24",
+        "EndTime": "2017-05-31T23:34:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.024815, latitude=40.620646)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T23:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.040504, latitude=40.622884)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-05-31T23:34:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986246,
+            40.643728
+          ],
+          [
+            -73.969871,
+            40.648819
+          ],
+          [
+            -73.962079,
+            40.655979
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_463",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:24:19",
+        "EndTime": "2017-06-01T02:43:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.986246, latitude=40.643728)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "206",
+        "Point 1 time": "2017-06-01T02:24:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.969871, latitude=40.648819)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "131",
+        "Point 2 time": "2017-06-01T02:33:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.962079, latitude=40.655979)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "149",
+        "Point 3 time": "2017-06-01T02:43:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035832,
+            40.612312
+          ],
+          [
+            -74.028063,
+            40.622605
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:34:16",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.035832, latitude=40.612312)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-05-31T23:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.028063, latitude=40.622605)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "45",
+        "Point 2 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996778,
+            40.630548
+          ],
+          [
+            -74.007019,
+            40.632111
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:24:09",
+        "EndTime": "2017-06-01T01:34:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.996778, latitude=40.630548)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "269",
+        "Point 1 time": "2017-06-01T01:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-74.007019, latitude=40.632111)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "174",
+        "Point 2 time": "2017-06-01T01:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961358,
+          40.660797
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:24:02",
+        "EndTime": "2017-05-31T23:24:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.961358, latitude=40.660797)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:24:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.009935,
+            40.630159
+          ],
+          [
+            -74.024309,
+            40.620541
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7620",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T23:34:20",
+        "EndTime": "2017-05-31T23:44:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.009935, latitude=40.630159)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "45",
+        "Point 1 time": "2017-05-31T23:34:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.024309, latitude=40.620541)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "58",
+        "Point 2 time": "2017-05-31T23:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.009636,
+            40.630358
+          ],
+          [
+            -73.994323,
+            40.629974
+          ],
+          [
+            -73.982597,
+            40.641134
+          ],
+          [
+            -73.972856,
+            40.647721
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T01:44:14",
+        "EndTime": "2017-06-01T02:14:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.009636, latitude=40.630358)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "167",
+        "Point 1 time": "2017-06-01T01:44:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.994323, latitude=40.629974)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-06-01T01:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.982597, latitude=40.641134)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T02:03:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.972856, latitude=40.647721)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-06-01T02:14:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.966916,
+            40.64999
+          ],
+          [
+            -73.961011,
+            40.661086
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_247",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:13:19",
+        "EndTime": "2017-05-31T23:24:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.966916, latitude=40.64999)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T23:13:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.961011, latitude=40.661086)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "65",
+        "Point 2 time": "2017-05-31T23:24:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.003177,
+            40.63441
+          ],
+          [
+            -74.013455,
+            40.627806
+          ],
+          [
+            -74.030855,
+            40.623413
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-05-31T22:54:10",
+        "EndTime": "2017-05-31T23:13:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.003177, latitude=40.63441)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-05-31T22:54:10",
+        "Point 2 geom": "MyLatLong(longitude=-74.013455, latitude=40.627806)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "162",
+        "Point 2 time": "2017-05-31T23:03:19",
+        "Point 3 geom": "MyLatLong(longitude=-74.030855, latitude=40.623413)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T23:13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008434,
+          40.631162
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T21:43:53",
+        "EndTime": "2017-05-31T21:43:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.008434, latitude=40.631162)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T21:43:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.995432,
+            40.630642
+          ],
+          [
+            -73.986409,
+            40.643379
+          ],
+          [
+            -73.971724,
+            40.648166
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T02:34:07",
+        "EndTime": "2017-06-01T02:54:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.995432, latitude=40.630642)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-06-01T02:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.986409, latitude=40.643379)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T02:43:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.971724, latitude=40.648166)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T02:54:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996422,
+          40.630889
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:23:53",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.996422, latitude=40.630889)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.003612,
+            40.63439
+          ],
+          [
+            -74.014818,
+            40.626891
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T01:13:22",
+        "EndTime": "2017-06-01T01:24:32",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.003612, latitude=40.63439)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "90",
+        "Point 1 time": "2017-06-01T01:13:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.014818, latitude=40.626891)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T01:24:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.018362,
+            40.624524
+          ],
+          [
+            -74.04053,
+            40.625696
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_230",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:24:06",
+        "EndTime": "2017-05-31T23:34:08",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.018362, latitude=40.624524)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:24:06",
+        "Point 2 geom": "MyLatLong(longitude=-74.04053, latitude=40.625696)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T23:34:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98653,
+            40.643617
+          ],
+          [
+            -73.99135,
+            40.635766
+          ],
+          [
+            -74.004331,
+            40.63391
+          ],
+          [
+            -74.016126,
+            40.626017
+          ],
+          [
+            -74.040225,
+            40.622318
+          ],
+          [
+            -74.033055,
+            40.613525
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_373",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:33",
+        "EndTime": "2017-06-01T01:13:41",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.98653, latitude=40.643617)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T00:23:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.99135, latitude=40.635766)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "133",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.004331, latitude=40.63391)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T00:44:17",
+        "Point 4 geom": "MyLatLong(longitude=-74.016126, latitude=40.626017)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "27",
+        "Point 4 time": "2017-06-01T00:54:22",
+        "Point 5 geom": "MyLatLong(longitude=-74.040225, latitude=40.622318)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "124",
+        "Point 5 time": "2017-06-01T01:03:58",
+        "Point 6 geom": "MyLatLong(longitude=-74.033055, latitude=40.613525)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "5",
+        "Point 6 time": "2017-06-01T01:13:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.035832,
+            40.612312
+          ],
+          [
+            -74.028128,
+            40.622644
+          ],
+          [
+            -74.011205,
+            40.629311
+          ],
+          [
+            -73.997993,
+            40.632192
+          ],
+          [
+            -73.984748,
+            40.638661
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T00:44:04",
+        "EndTime": "2017-06-01T01:24:13",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.035832, latitude=40.612312)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-06-01T00:44:04",
+        "Point 2 geom": "MyLatLong(longitude=-74.028128, latitude=40.622644)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "52",
+        "Point 2 time": "2017-06-01T00:54:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.011205, latitude=40.629311)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T01:04:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.997993, latitude=40.632192)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "181",
+        "Point 4 time": "2017-06-01T01:13:36",
+        "Point 5 geom": "MyLatLong(longitude=-73.984748, latitude=40.638661)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "122",
+        "Point 5 time": "2017-06-01T01:24:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961843,
+            40.654554
+          ],
+          [
+            -73.978468,
+            40.647496
+          ],
+          [
+            -73.992511,
+            40.634649
+          ],
+          [
+            -74.00062,
+            40.63287
+          ],
+          [
+            -74.015552,
+            40.626399
+          ],
+          [
+            -74.019369,
+            40.624264
+          ],
+          [
+            -74.040401,
+            40.62272
+          ],
+          [
+            -74.032904,
+            40.613699
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T00:23:56",
+        "EndTime": "2017-06-01T01:34:28",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-73.961843, latitude=40.654554)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T00:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.978468, latitude=40.647496)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T00:34:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.992511, latitude=40.634649)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "56",
+        "Point 3 time": "2017-06-01T00:44:08",
+        "Point 4 geom": "MyLatLong(longitude=-74.00062, latitude=40.63287)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "99",
+        "Point 4 time": "2017-06-01T00:54:14",
+        "Point 5 geom": "MyLatLong(longitude=-74.015552, latitude=40.626399)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "92",
+        "Point 5 time": "2017-06-01T01:04:11",
+        "Point 6 geom": "MyLatLong(longitude=-74.019369, latitude=40.624264)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "95",
+        "Point 6 time": "2017-06-01T01:13:12",
+        "Point 7 geom": "MyLatLong(longitude=-74.040401, latitude=40.62272)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "0",
+        "Point 7 time": "2017-06-01T01:24:21",
+        "Point 8 geom": "MyLatLong(longitude=-74.032904, latitude=40.613699)",
+        "Point 8 arrival": "at stop",
+        "Point 8 dist from stop": "28",
+        "Point 8 time": "2017-06-01T01:34:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.990336,
+            40.636739
+          ],
+          [
+            -74.004293,
+            40.633936
+          ],
+          [
+            -74.020613,
+            40.623667
+          ],
+          [
+            -74.040175,
+            40.622005
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_404",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:44:22",
+        "EndTime": "2017-05-31T23:13:12",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.990336, latitude=40.636739)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-05-31T22:44:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.004293, latitude=40.633936)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-05-31T22:53:56",
+        "Point 3 geom": "MyLatLong(longitude=-74.020613, latitude=40.623667)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "116",
+        "Point 3 time": "2017-05-31T23:03:37",
+        "Point 4 geom": "MyLatLong(longitude=-74.040175, latitude=40.622005)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "89",
+        "Point 4 time": "2017-05-31T23:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.012005,
+            40.628774
+          ],
+          [
+            -74.028023,
+            40.622581
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_470",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "FT HAMILTON PY/60 ST",
+        "DestinationName": "NARROWS AV",
+        "StartTime": "2017-06-01T00:04:22",
+        "EndTime": "2017-06-01T00:14:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.012005, latitude=40.628774)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:04:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.028023, latitude=40.622581)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "78",
+        "Point 2 time": "2017-06-01T00:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995114,
+          40.632154
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_363",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:44:27",
+        "EndTime": "2017-05-31T23:44:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.995114, latitude=40.632154)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "182",
+        "Point 1 time": "2017-05-31T23:44:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037676,
+            40.62503
+          ],
+          [
+            -74.017403,
+            40.625174
+          ],
+          [
+            -74.004556,
+            40.633758
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_433",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:44:16",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.037676, latitude=40.62503)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "139",
+        "Point 1 time": "2017-05-31T23:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.017403, latitude=40.625174)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "124",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.004556, latitude=40.633758)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-05-31T23:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.972136,
+            40.648004
+          ],
+          [
+            -73.987139,
+            40.64296
+          ],
+          [
+            -73.991146,
+            40.635963
+          ],
+          [
+            -74.005519,
+            40.633115
+          ],
+          [
+            -74.020272,
+            40.624048
+          ],
+          [
+            -74.037601,
+            40.625012
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_773",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:24:35",
+        "EndTime": "2017-06-01T03:14:30",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.972136, latitude=40.648004)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "217",
+        "Point 1 time": "2017-06-01T02:24:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.987139, latitude=40.64296)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T02:34:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.991146, latitude=40.635963)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T02:43:44",
+        "Point 4 geom": "MyLatLong(longitude=-74.005519, latitude=40.633115)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "156",
+        "Point 4 time": "2017-06-01T02:54:25",
+        "Point 5 geom": "MyLatLong(longitude=-74.020272, latitude=40.624048)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "8",
+        "Point 5 time": "2017-06-01T03:04:24",
+        "Point 6 geom": "MyLatLong(longitude=-74.037601, latitude=40.625012)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "263",
+        "Point 6 time": "2017-06-01T03:14:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961443,
+            40.66078
+          ],
+          [
+            -73.962483,
+            40.651744
+          ],
+          [
+            -73.981069,
+            40.64582
+          ],
+          [
+            -73.990967,
+            40.636135
+          ],
+          [
+            -74.005212,
+            40.63332
+          ],
+          [
+            -74.017135,
+            40.625352
+          ],
+          [
+            -74.030855,
+            40.623413
+          ],
+          [
+            -74.036284,
+            40.612749
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_463",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-06-01T02:54:34",
+        "EndTime": "2017-06-01T04:03:50",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-73.961443, latitude=40.66078)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:54:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.962483, latitude=40.651744)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-06-01T03:04:38",
+        "Point 3 geom": "MyLatLong(longitude=-73.981069, latitude=40.64582)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "354",
+        "Point 3 time": "2017-06-01T03:14:43",
+        "Point 4 geom": "MyLatLong(longitude=-73.990967, latitude=40.636135)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "31",
+        "Point 4 time": "2017-06-01T03:23:45",
+        "Point 5 geom": "MyLatLong(longitude=-74.005212, latitude=40.63332)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "31",
+        "Point 5 time": "2017-06-01T03:34:40",
+        "Point 6 geom": "MyLatLong(longitude=-74.017135, latitude=40.625352)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "147",
+        "Point 6 time": "2017-06-01T03:43:40",
+        "Point 7 geom": "MyLatLong(longitude=-74.030855, latitude=40.623413)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "4",
+        "Point 7 time": "2017-06-01T03:54:16",
+        "Point 8 geom": "MyLatLong(longitude=-74.036284, latitude=40.612749)",
+        "Point 8 arrival": "approaching",
+        "Point 8 dist from stop": "46",
+        "Point 8 time": "2017-06-01T04:03:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.028669,
+            40.622892
+          ],
+          [
+            -74.033812,
+            40.612642
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_434",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:33:41",
+        "EndTime": "2017-05-31T22:44:10",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.028669, latitude=40.622892)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T22:33:41",
+        "Point 2 geom": "MyLatLong(longitude=-74.033812, latitude=40.612642)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:44:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.996422,
+          40.630889
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_755",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "37 ST/13 AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T22:23:53",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.996422, latitude=40.630889)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.989254,
+            40.637776
+          ],
+          [
+            -74.006886,
+            40.632199
+          ],
+          [
+            -74.016957,
+            40.625469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_481",
+        "PublishedLineName": "B16",
+        "DirectionRef": "1",
+        "OriginName": "LINCOLN RD/FLATBUSH AV",
+        "DestinationName": "BAY RIDGE SHORE RD",
+        "StartTime": "2017-05-31T23:53:16",
+        "EndTime": "2017-06-01T00:14:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.989254, latitude=40.637776)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "105",
+        "Point 1 time": "2017-05-31T23:53:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.006886, latitude=40.632199)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.016957, latitude=40.625469)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "167",
+        "Point 3 time": "2017-06-01T00:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.037811,
+            40.615525
+          ],
+          [
+            -74.027673,
+            40.622371
+          ],
+          [
+            -74.007805,
+            40.631585
+          ],
+          [
+            -73.990739,
+            40.632903
+          ],
+          [
+            -73.975708,
+            40.647799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_460",
+        "PublishedLineName": "B16",
+        "DirectionRef": "0",
+        "OriginName": "SHORE RD/4 AV",
+        "DestinationName": "LEFRTS GDNS PROSPCT PK STA",
+        "StartTime": "2017-06-01T03:34:16",
+        "EndTime": "2017-06-01T04:14:43",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.037811, latitude=40.615525)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "239",
+        "Point 1 time": "2017-06-01T03:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.027673, latitude=40.622371)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T03:43:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.007805, latitude=40.631585)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "120",
+        "Point 3 time": "2017-06-01T03:54:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.990739, latitude=40.632903)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "66",
+        "Point 4 time": "2017-06-01T04:03:32",
+        "Point 5 geom": "MyLatLong(longitude=-73.975708, latitude=40.647799)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "25",
+        "Point 5 time": "2017-06-01T04:14:43"
+      }
+    }
+  ]
+}

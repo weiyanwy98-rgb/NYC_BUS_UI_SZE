@@ -1,0 +1,3795 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.192614,
+            40.588963
+          ],
+          [
+            -74.201355,
+            40.648581
+          ],
+          [
+            -74.141757,
+            40.713184
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2727",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:11",
+        "EndTime": "2017-05-31T23:43:59",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.192614, latitude=40.588963)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "270",
+        "Point 1 time": "2017-05-31T23:24:11",
+        "Point 2 geom": "MyLatLong(longitude=-74.201355, latitude=40.648581)",
+        "Point 2 arrival": "17.1 miles away",
+        "Point 2 dist from stop": "27581",
+        "Point 2 time": "2017-05-31T23:34:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.141757, latitude=40.713184)",
+        "Point 3 arrival": "11.6 miles away",
+        "Point 3 dist from stop": "18639",
+        "Point 3 time": "2017-05-31T23:43:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.250725,
+          40.503001
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2491",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:34",
+        "EndTime": "2017-05-31T23:13:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.250725, latitude=40.503001)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-05-31T23:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.057334,
+            40.777866
+          ],
+          [
+            -74.037079,
+            40.774601
+          ],
+          [
+            -73.997085,
+            40.75461
+          ],
+          [
+            -73.984446,
+            40.748391
+          ],
+          [
+            -73.977172,
+            40.755689
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4319",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:57",
+        "EndTime": "2017-06-01T01:13:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.057334, latitude=40.777866)",
+        "Point 1 arrival": "4.7 miles away",
+        "Point 1 dist from stop": "7633",
+        "Point 1 time": "2017-06-01T00:23:57",
+        "Point 2 geom": "MyLatLong(longitude=-74.037079, latitude=40.774601)",
+        "Point 2 arrival": "3.5 miles away",
+        "Point 2 dist from stop": "5637",
+        "Point 2 time": "2017-06-01T00:34:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.997085, latitude=40.75461)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "94",
+        "Point 3 time": "2017-06-01T00:54:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.984446, latitude=40.748391)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "30",
+        "Point 4 time": "2017-06-01T01:04:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.977172, latitude=40.755689)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "108",
+        "Point 5 time": "2017-06-01T01:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.232791,
+          40.516409
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2292",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:15",
+        "EndTime": "2017-05-31T23:13:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.232791, latitude=40.516409)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "604",
+        "Point 1 time": "2017-05-31T23:13:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.232607,
+            40.516576
+          ],
+          [
+            -74.215215,
+            40.541357
+          ],
+          [
+            -74.204183,
+            40.556773
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2298",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:43:53",
+        "EndTime": "2017-05-31T23:03:40",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.232607, latitude=40.516576)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "580",
+        "Point 1 time": "2017-05-31T22:43:53",
+        "Point 2 geom": "MyLatLong(longitude=-74.215215, latitude=40.541357)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-05-31T22:53:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.204183, latitude=40.556773)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "45",
+        "Point 3 time": "2017-05-31T23:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.976221,
+          40.756991
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2717",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:14",
+        "EndTime": "2017-05-31T23:24:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.976221, latitude=40.756991)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "336",
+        "Point 1 time": "2017-05-31T23:24:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.170674,
+            40.677925
+          ],
+          [
+            -74.072416,
+            40.763702
+          ],
+          [
+            -74.036557,
+            40.774414
+          ],
+          [
+            -74.021924,
+            40.76454
+          ],
+          [
+            -73.996346,
+            40.755643
+          ],
+          [
+            -73.991893,
+            40.751526
+          ],
+          [
+            -73.98004,
+            40.75177
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2501",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:34:13",
+        "EndTime": "2017-06-01T01:34:27",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.170674, latitude=40.677925)",
+        "Point 1 arrival": "14.5 miles away",
+        "Point 1 dist from stop": "23356",
+        "Point 1 time": "2017-06-01T00:34:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.072416, latitude=40.763702)",
+        "Point 2 arrival": "6.0 miles away",
+        "Point 2 dist from stop": "9702",
+        "Point 2 time": "2017-06-01T00:44:16",
+        "Point 3 geom": "MyLatLong(longitude=-74.036557, latitude=40.774414)",
+        "Point 3 arrival": "3.5 miles away",
+        "Point 3 dist from stop": "5589",
+        "Point 3 time": "2017-06-01T00:53:53",
+        "Point 4 geom": "MyLatLong(longitude=-74.021924, latitude=40.76454)",
+        "Point 4 arrival": "2.3 miles away",
+        "Point 4 dist from stop": "3763",
+        "Point 4 time": "2017-06-01T01:04:06",
+        "Point 5 geom": "MyLatLong(longitude=-73.996346, latitude=40.755643)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "225",
+        "Point 5 time": "2017-06-01T01:13:40",
+        "Point 6 geom": "MyLatLong(longitude=-73.991893, latitude=40.751526)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "142",
+        "Point 6 time": "2017-06-01T01:24:19",
+        "Point 7 geom": "MyLatLong(longitude=-73.98004, latitude=40.75177)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "36",
+        "Point 7 time": "2017-06-01T01:34:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.208194,
+            40.541659
+          ],
+          [
+            -74.194408,
+            40.565185
+          ],
+          [
+            -74.206191,
+            40.640391
+          ],
+          [
+            -74.122994,
+            40.740594
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2499",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "BLOOMINGDALE RD/SOUTH SERVICE RD",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:45",
+        "EndTime": "2017-05-31T23:03:27",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.208194, latitude=40.541659)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-05-31T22:33:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.194408, latitude=40.565185)",
+        "Point 2 arrival": "1.9 miles away",
+        "Point 2 dist from stop": "3036",
+        "Point 2 time": "2017-05-31T22:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.206191, latitude=40.640391)",
+        "Point 3 arrival": "17.8 miles away",
+        "Point 3 dist from stop": "28582",
+        "Point 3 time": "2017-05-31T22:53:53",
+        "Point 4 geom": "MyLatLong(longitude=-74.122994, latitude=40.740594)",
+        "Point 4 arrival": "9.3 miles away",
+        "Point 4 dist from stop": "15044",
+        "Point 4 time": "2017-05-31T23:03:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.251259,
+            40.502898
+          ],
+          [
+            -74.2169,
+            40.528803
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4323",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:03:38",
+        "EndTime": "2017-05-31T23:13:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.251259, latitude=40.502898)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T23:03:38",
+        "Point 2 geom": "MyLatLong(longitude=-74.2169, latitude=40.528803)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "297",
+        "Point 2 time": "2017-05-31T23:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.251692,
+            40.503826
+          ],
+          [
+            -74.218158,
+            40.536043
+          ],
+          [
+            -74.213457,
+            40.555566
+          ],
+          [
+            -74.152749,
+            40.704231
+          ],
+          [
+            -74.05365,
+            40.780296
+          ],
+          [
+            -73.995873,
+            40.756273
+          ],
+          [
+            -73.979623,
+            40.752341
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2501",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:03:27",
+        "EndTime": "2017-05-31T22:13:46",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.251692, latitude=40.503826)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "414",
+        "Point 1 time": "2017-05-31T21:03:27",
+        "Point 2 geom": "MyLatLong(longitude=-74.218158, latitude=40.536043)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "167",
+        "Point 2 time": "2017-05-31T21:13:36",
+        "Point 3 geom": "MyLatLong(longitude=-74.213457, latitude=40.555566)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "587",
+        "Point 3 time": "2017-05-31T21:23:42",
+        "Point 4 geom": "MyLatLong(longitude=-74.152749, latitude=40.704231)",
+        "Point 4 arrival": "12.5 miles away",
+        "Point 4 dist from stop": "20062",
+        "Point 4 time": "2017-05-31T21:43:53",
+        "Point 5 geom": "MyLatLong(longitude=-74.05365, latitude=40.780296)",
+        "Point 5 arrival": "4.5 miles away",
+        "Point 5 dist from stop": "7184",
+        "Point 5 time": "2017-05-31T21:52:21",
+        "Point 6 geom": "MyLatLong(longitude=-73.995873, latitude=40.756273)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "305",
+        "Point 6 time": "2017-05-31T22:03:40",
+        "Point 7 geom": "MyLatLong(longitude=-73.979623, latitude=40.752341)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "534",
+        "Point 7 time": "2017-05-31T22:13:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.012377,
+            40.763474
+          ],
+          [
+            -73.996482,
+            40.755466
+          ],
+          [
+            -73.984785,
+            40.748532
+          ],
+          [
+            -73.979516,
+            40.752487
+          ],
+          [
+            -73.972733,
+            40.761777
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2300",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:34:21",
+        "EndTime": "2017-06-01T01:13:17",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.012377, latitude=40.763474)",
+        "Point 1 arrival": "1.2 miles away",
+        "Point 1 dist from stop": "1942",
+        "Point 1 time": "2017-06-01T00:34:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.996482, latitude=40.755466)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "202",
+        "Point 2 time": "2017-06-01T00:43:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.984785, latitude=40.748532)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "62",
+        "Point 3 time": "2017-06-01T00:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.979516, latitude=40.752487)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "515",
+        "Point 4 time": "2017-06-01T01:04:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.972733, latitude=40.761777)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "602",
+        "Point 5 time": "2017-06-01T01:13:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.248914,
+            40.503371
+          ],
+          [
+            -74.215605,
+            40.525038
+          ],
+          [
+            -74.211132,
+            40.549675
+          ],
+          [
+            -74.190681,
+            40.578437
+          ],
+          [
+            -74.196421,
+            40.651717
+          ],
+          [
+            -74.090651,
+            40.757133
+          ],
+          [
+            -74.008135,
+            40.761602
+          ],
+          [
+            -73.983466,
+            40.747978
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4306",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:13:31",
+        "EndTime": "2017-05-31T22:23:54",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-74.248914, latitude=40.503371)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "223",
+        "Point 1 time": "2017-05-31T21:13:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.215605, latitude=40.525038)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "344",
+        "Point 2 time": "2017-05-31T21:23:31",
+        "Point 3 geom": "MyLatLong(longitude=-74.211132, latitude=40.549675)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-05-31T21:33:51",
+        "Point 4 geom": "MyLatLong(longitude=-74.190681, latitude=40.578437)",
+        "Point 4 arrival": "0.9 miles away",
+        "Point 4 dist from stop": "1454",
+        "Point 4 time": "2017-05-31T21:43:45",
+        "Point 5 geom": "MyLatLong(longitude=-74.196421, latitude=40.651717)",
+        "Point 5 arrival": "16.8 miles away",
+        "Point 5 dist from stop": "27037",
+        "Point 5 time": "2017-05-31T21:53:20",
+        "Point 6 geom": "MyLatLong(longitude=-74.090651, latitude=40.757133)",
+        "Point 6 arrival": "7.1 miles away",
+        "Point 6 dist from stop": "11426",
+        "Point 6 time": "2017-05-31T22:03:18",
+        "Point 7 geom": "MyLatLong(longitude=-74.008135, latitude=40.761602)",
+        "Point 7 arrival": "0.9 miles away",
+        "Point 7 dist from stop": "1528",
+        "Point 7 time": "2017-05-31T22:13:47",
+        "Point 8 geom": "MyLatLong(longitude=-73.983466, latitude=40.747978)",
+        "Point 8 arrival": "approaching",
+        "Point 8 dist from stop": "125",
+        "Point 8 time": "2017-05-31T22:23:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.010179,
+            40.762461
+          ],
+          [
+            -74.000834,
+            40.758531
+          ],
+          [
+            -73.996294,
+            40.75571
+          ],
+          [
+            -73.990953,
+            40.751129
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2289",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:44:20",
+        "EndTime": "2017-06-01T02:14:27",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.010179, latitude=40.762461)",
+        "Point 1 arrival": "1.1 miles away",
+        "Point 1 dist from stop": "1725",
+        "Point 1 time": "2017-06-01T01:44:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.000834, latitude=40.758531)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "825",
+        "Point 2 time": "2017-06-01T01:53:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.996294, latitude=40.75571)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "233",
+        "Point 3 time": "2017-06-01T02:03:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.990953, latitude=40.751129)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "51",
+        "Point 4 time": "2017-06-01T02:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.236442,
+            40.505876
+          ],
+          [
+            -74.217015,
+            40.521684
+          ],
+          [
+            -74.208331,
+            40.542597
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2727",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:54:17",
+        "EndTime": "2017-05-31T23:13:31",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.236442, latitude=40.505876)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "134",
+        "Point 1 time": "2017-05-31T22:54:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.217015, latitude=40.521684)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "744",
+        "Point 2 time": "2017-05-31T23:03:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.208331, latitude=40.542597)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-05-31T23:13:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.192493,
+            40.633447
+          ],
+          [
+            -74.141901,
+            40.713131
+          ],
+          [
+            -74.046552,
+            40.777438
+          ],
+          [
+            -73.996321,
+            40.755675
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2298",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:38",
+        "EndTime": "2017-05-31T23:44:10",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.192493, latitude=40.633447)",
+        "Point 1 arrival": "1.2 miles away",
+        "Point 1 dist from stop": "1859",
+        "Point 1 time": "2017-05-31T23:13:38",
+        "Point 2 geom": "MyLatLong(longitude=-74.141901, latitude=40.713131)",
+        "Point 2 arrival": "11.6 miles away",
+        "Point 2 dist from stop": "18652",
+        "Point 2 time": "2017-05-31T23:24:07",
+        "Point 3 geom": "MyLatLong(longitude=-74.046552, latitude=40.777438)",
+        "Point 3 arrival": "4.0 miles away",
+        "Point 3 dist from stop": "6500",
+        "Point 3 time": "2017-05-31T23:34:03",
+        "Point 4 geom": "MyLatLong(longitude=-73.996321, latitude=40.755675)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "229",
+        "Point 4 time": "2017-05-31T23:44:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.212496,
+            40.55322
+          ],
+          [
+            -74.181917,
+            40.609932
+          ],
+          [
+            -74.171598,
+            40.676614
+          ],
+          [
+            -74.085457,
+            40.757885
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2719",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:12",
+        "EndTime": "2017-05-31T23:44:13",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.212496, latitude=40.55322)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "152",
+        "Point 1 time": "2017-05-31T23:13:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.181917, latitude=40.609932)",
+        "Point 2 arrival": "3.2 miles away",
+        "Point 2 dist from stop": "5200",
+        "Point 2 time": "2017-05-31T23:24:02",
+        "Point 3 geom": "MyLatLong(longitude=-74.171598, latitude=40.676614)",
+        "Point 3 arrival": "14.6 miles away",
+        "Point 3 dist from stop": "23521",
+        "Point 3 time": "2017-05-31T23:34:11",
+        "Point 4 geom": "MyLatLong(longitude=-74.085457, latitude=40.757885)",
+        "Point 4 arrival": "6.8 miles away",
+        "Point 4 dist from stop": "10978",
+        "Point 4 time": "2017-05-31T23:44:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.190375,
+            40.57707
+          ],
+          [
+            -74.202661,
+            40.64692
+          ],
+          [
+            -74.096871,
+            40.757062
+          ],
+          [
+            -74.017417,
+            40.765799
+          ],
+          [
+            -73.993049,
+            40.752014
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2717",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:39",
+        "EndTime": "2017-05-31T23:13:36",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.190375, latitude=40.57707)",
+        "Point 1 arrival": "1.0 miles away",
+        "Point 1 dist from stop": "1608",
+        "Point 1 time": "2017-05-31T22:33:39",
+        "Point 2 geom": "MyLatLong(longitude=-74.202661, latitude=40.64692)",
+        "Point 2 arrival": "17.3 miles away",
+        "Point 2 dist from stop": "27796",
+        "Point 2 time": "2017-05-31T22:43:52",
+        "Point 3 geom": "MyLatLong(longitude=-74.096871, latitude=40.757062)",
+        "Point 3 arrival": "7.4 miles away",
+        "Point 3 dist from stop": "11950",
+        "Point 3 time": "2017-05-31T22:53:43",
+        "Point 4 geom": "MyLatLong(longitude=-74.017417, latitude=40.765799)",
+        "Point 4 arrival": "1.5 miles away",
+        "Point 4 dist from stop": "2439",
+        "Point 4 time": "2017-05-31T23:03:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.993049, latitude=40.752014)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "253",
+        "Point 5 time": "2017-05-31T23:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.217591,
+            40.530945
+          ],
+          [
+            -74.209363,
+            40.545182
+          ],
+          [
+            -74.198868,
+            40.560873
+          ],
+          [
+            -74.207491,
+            40.642404
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4317",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:44:04",
+        "EndTime": "2017-05-31T23:13:15",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.217591, latitude=40.530945)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-05-31T22:44:04",
+        "Point 2 geom": "MyLatLong(longitude=-74.209363, latitude=40.545182)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "135",
+        "Point 2 time": "2017-05-31T22:54:11",
+        "Point 3 geom": "MyLatLong(longitude=-74.198868, latitude=40.560873)",
+        "Point 3 arrival": "2.3 miles away",
+        "Point 3 dist from stop": "3646",
+        "Point 3 time": "2017-05-31T23:03:47",
+        "Point 4 geom": "MyLatLong(longitude=-74.207491, latitude=40.642404)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "245",
+        "Point 4 time": "2017-05-31T23:13:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.991428,
+            40.75133
+          ],
+          [
+            -73.982302,
+            40.748667
+          ],
+          [
+            -73.97396,
+            40.760097
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4317",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:32",
+        "EndTime": "2017-06-01T00:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.991428, latitude=40.75133)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "97",
+        "Point 1 time": "2017-05-31T23:53:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.982302, latitude=40.748667)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "431",
+        "Point 2 time": "2017-06-01T00:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.97396, latitude=40.760097)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "182",
+        "Point 3 time": "2017-06-01T00:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.159843,
+            40.693441
+          ],
+          [
+            -74.056575,
+            40.779069
+          ],
+          [
+            -74.054807,
+            40.780197
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2300",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:04",
+        "EndTime": "2017-06-01T00:23:52",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.159843, latitude=40.693441)",
+        "Point 1 arrival": "13.3 miles away",
+        "Point 1 dist from stop": "21404",
+        "Point 1 time": "2017-06-01T00:04",
+        "Point 2 geom": "MyLatLong(longitude=-74.056575, latitude=40.779069)",
+        "Point 2 arrival": "4.7 miles away",
+        "Point 2 dist from stop": "7485",
+        "Point 2 time": "2017-06-01T00:13:57",
+        "Point 3 geom": "MyLatLong(longitude=-74.054807, latitude=40.780197)",
+        "Point 3 arrival": "4.5 miles away",
+        "Point 3 dist from stop": "7283",
+        "Point 3 time": "2017-06-01T00:23:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.056821,
+            40.778621
+          ],
+          [
+            -74.024617,
+            40.769144
+          ],
+          [
+            -73.996081,
+            40.755991
+          ],
+          [
+            -73.993956,
+            40.752398
+          ],
+          [
+            -73.979935,
+            40.751914
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2774",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:49",
+        "EndTime": "2017-06-01T01:04:08",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.056821, latitude=40.778621)",
+        "Point 1 arrival": "4.7 miles away",
+        "Point 1 dist from stop": "7539",
+        "Point 1 time": "2017-06-01T00:23:49",
+        "Point 2 geom": "MyLatLong(longitude=-74.024617, latitude=40.769144)",
+        "Point 2 arrival": "2.7 miles away",
+        "Point 2 dist from stop": "4423",
+        "Point 2 time": "2017-06-01T00:34:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.996081, latitude=40.755991)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "269",
+        "Point 3 time": "2017-06-01T00:44:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.993956, latitude=40.752398)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "69",
+        "Point 4 time": "2017-06-01T00:54:08",
+        "Point 5 geom": "MyLatLong(longitude=-73.979935, latitude=40.751914)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "18",
+        "Point 5 time": "2017-06-01T01:04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.234394,
+            40.506311
+          ],
+          [
+            -74.234394,
+            40.506311
+          ],
+          [
+            -74.234394,
+            40.506311
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2774",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:43:54",
+        "EndTime": "2017-05-31T23:03:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.234394, latitude=40.506311)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "314",
+        "Point 1 time": "2017-05-31T22:43:54",
+        "Point 2 geom": "MyLatLong(longitude=-74.234394, latitude=40.506311)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "314",
+        "Point 2 time": "2017-05-31T22:53:58",
+        "Point 3 geom": "MyLatLong(longitude=-74.234394, latitude=40.506311)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "314",
+        "Point 3 time": "2017-05-31T23:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.972708,
+          40.761811
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2565",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:16",
+        "EndTime": "2017-05-31T23:53:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.972708, latitude=40.761811)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "598",
+        "Point 1 time": "2017-05-31T23:53:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.229994,
+            40.518989
+          ],
+          [
+            -74.208766,
+            40.541626
+          ],
+          [
+            -74.199098,
+            40.560663
+          ],
+          [
+            -74.209623,
+            40.643403
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2768",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:53:45",
+        "EndTime": "2017-05-31T22:24:01",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.229994, latitude=40.518989)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "229",
+        "Point 1 time": "2017-05-31T21:53:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.208766, latitude=40.541626)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "185",
+        "Point 2 time": "2017-05-31T22:03:18",
+        "Point 3 geom": "MyLatLong(longitude=-74.199098, latitude=40.560663)",
+        "Point 3 arrival": "2.3 miles away",
+        "Point 3 dist from stop": "3677",
+        "Point 3 time": "2017-05-31T22:13:23",
+        "Point 4 geom": "MyLatLong(longitude=-74.209623, latitude=40.643403)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "32",
+        "Point 4 time": "2017-05-31T22:24:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.20346,
+            40.556963
+          ],
+          [
+            -74.192449,
+            40.633423
+          ],
+          [
+            -74.152833,
+            40.704087
+          ],
+          [
+            -74.057094,
+            40.77822
+          ],
+          [
+            -74.04415,
+            40.776939
+          ],
+          [
+            -74.020389,
+            40.767038
+          ],
+          [
+            -73.996495,
+            40.755448
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4306",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T01:24:05",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.20346, latitude=40.556963)",
+        "Point 1 arrival": "2.6 miles away",
+        "Point 1 dist from stop": "4230",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.192449, latitude=40.633423)",
+        "Point 2 arrival": "1.2 miles away",
+        "Point 2 dist from stop": "1863",
+        "Point 2 time": "2017-06-01T00:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.152833, latitude=40.704087)",
+        "Point 3 arrival": "12.5 miles away",
+        "Point 3 dist from stop": "20080",
+        "Point 3 time": "2017-06-01T00:44:05",
+        "Point 4 geom": "MyLatLong(longitude=-74.057094, latitude=40.77822)",
+        "Point 4 arrival": "4.7 miles away",
+        "Point 4 dist from stop": "7589",
+        "Point 4 time": "2017-06-01T00:54:02",
+        "Point 5 geom": "MyLatLong(longitude=-74.04415, latitude=40.776939)",
+        "Point 5 arrival": "3.9 miles away",
+        "Point 5 dist from stop": "6289",
+        "Point 5 time": "2017-06-01T01:04:25",
+        "Point 6 geom": "MyLatLong(longitude=-74.020389, latitude=40.767038)",
+        "Point 6 arrival": "1.7 miles away",
+        "Point 6 dist from stop": "2725",
+        "Point 6 time": "2017-06-01T01:13:23",
+        "Point 7 geom": "MyLatLong(longitude=-73.996495, latitude=40.755448)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "200",
+        "Point 7 time": "2017-06-01T01:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.192888,
+            40.59016
+          ],
+          [
+            -74.181694,
+            40.6657
+          ],
+          [
+            -74.121953,
+            40.743704
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4319",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:04",
+        "EndTime": "2017-06-01T00:14:03",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.192888, latitude=40.59016)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "135",
+        "Point 1 time": "2017-05-31T23:53:04",
+        "Point 2 geom": "MyLatLong(longitude=-74.181694, latitude=40.6657)",
+        "Point 2 arrival": "15.5 miles away",
+        "Point 2 dist from stop": "25005",
+        "Point 2 time": "2017-06-01T00:04:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.121953, latitude=40.743704)",
+        "Point 3 arrival": "9.1 miles away",
+        "Point 3 dist from stop": "14687",
+        "Point 3 time": "2017-06-01T00:14:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.21206,
+            40.55208
+          ],
+          [
+            -74.188367,
+            40.601765
+          ],
+          [
+            -74.169222,
+            40.680014
+          ],
+          [
+            -74.098685,
+            40.757013
+          ],
+          [
+            -74.041938,
+            40.776319
+          ],
+          [
+            -73.996197,
+            40.755837
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4307",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:34:17",
+        "EndTime": "2017-06-01T01:34:35",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.21206, latitude=40.55208)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "284",
+        "Point 1 time": "2017-06-01T00:34:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.188367, latitude=40.601765)",
+        "Point 2 arrival": "3.9 miles away",
+        "Point 2 dist from stop": "6266",
+        "Point 2 time": "2017-06-01T00:44:23",
+        "Point 3 geom": "MyLatLong(longitude=-74.169222, latitude=40.680014)",
+        "Point 3 arrival": "14.3 miles away",
+        "Point 3 dist from stop": "23093",
+        "Point 3 time": "2017-06-01T00:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-74.098685, latitude=40.757013)",
+        "Point 4 arrival": "7.5 miles away",
+        "Point 4 dist from stop": "12103",
+        "Point 4 time": "2017-06-01T01:04:24",
+        "Point 5 geom": "MyLatLong(longitude=-74.041938, latitude=40.776319)",
+        "Point 5 arrival": "3.8 miles away",
+        "Point 5 dist from stop": "6089",
+        "Point 5 time": "2017-06-01T01:13:18",
+        "Point 6 geom": "MyLatLong(longitude=-73.996197, latitude=40.755837)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "250",
+        "Point 6 time": "2017-06-01T01:34:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.233612,
+            40.506566
+          ],
+          [
+            -74.222159,
+            40.518738
+          ],
+          [
+            -74.208327,
+            40.542586
+          ],
+          [
+            -74.189793,
+            40.572678
+          ],
+          [
+            -74.203686,
+            40.645172
+          ],
+          [
+            -74.096677,
+            40.757061
+          ],
+          [
+            -74.013267,
+            40.763885
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2766",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:33:54",
+        "EndTime": "2017-05-31T22:33:55",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.233612, latitude=40.506566)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "386",
+        "Point 1 time": "2017-05-31T21:33:54",
+        "Point 2 geom": "MyLatLong(longitude=-74.222159, latitude=40.518738)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "542",
+        "Point 2 time": "2017-05-31T21:43:30",
+        "Point 3 geom": "MyLatLong(longitude=-74.208327, latitude=40.542586)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-05-31T21:53:28",
+        "Point 4 geom": "MyLatLong(longitude=-74.189793, latitude=40.572678)",
+        "Point 4 arrival": "1.3 miles away",
+        "Point 4 dist from stop": "2101",
+        "Point 4 time": "2017-05-31T22:03:29",
+        "Point 5 geom": "MyLatLong(longitude=-74.203686, latitude=40.645172)",
+        "Point 5 arrival": "17.4 miles away",
+        "Point 5 dist from stop": "28009",
+        "Point 5 time": "2017-05-31T22:13:30",
+        "Point 6 geom": "MyLatLong(longitude=-74.096677, latitude=40.757061)",
+        "Point 6 arrival": "7.4 miles away",
+        "Point 6 dist from stop": "11933",
+        "Point 6 time": "2017-05-31T22:23:38",
+        "Point 7 geom": "MyLatLong(longitude=-74.013267, latitude=40.763885)",
+        "Point 7 arrival": "1.3 miles away",
+        "Point 7 dist from stop": "2029",
+        "Point 7 time": "2017-05-31T22:33:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.23654,
+            40.513938
+          ],
+          [
+            -74.213399,
+            40.54134
+          ],
+          [
+            -74.196019,
+            40.563561
+          ],
+          [
+            -74.203638,
+            40.645272
+          ],
+          [
+            -74.123516,
+            40.736175
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:54:25",
+        "EndTime": "2017-06-01T01:34:14",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.23654, latitude=40.513938)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "401",
+        "Point 1 time": "2017-06-01T00:54:25",
+        "Point 2 geom": "MyLatLong(longitude=-74.213399, latitude=40.54134)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "280",
+        "Point 2 time": "2017-06-01T01:04:29",
+        "Point 3 geom": "MyLatLong(longitude=-74.196019, latitude=40.563561)",
+        "Point 3 arrival": "2.0 miles away",
+        "Point 3 dist from stop": "3263",
+        "Point 3 time": "2017-06-01T01:13:36",
+        "Point 4 geom": "MyLatLong(longitude=-74.203638, latitude=40.645272)",
+        "Point 4 arrival": "17.4 miles away",
+        "Point 4 dist from stop": "27997",
+        "Point 4 time": "2017-06-01T01:24:13",
+        "Point 5 geom": "MyLatLong(longitude=-74.123516, latitude=40.736175)",
+        "Point 5 arrival": "9.7 miles away",
+        "Point 5 dist from stop": "15539",
+        "Point 5 time": "2017-06-01T01:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.191289,
+            40.597817
+          ],
+          [
+            -74.158056,
+            40.695871
+          ],
+          [
+            -74.031187,
+            40.772027
+          ],
+          [
+            -73.988195,
+            40.749962
+          ],
+          [
+            -73.968212,
+            40.76054
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2774",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:03:36",
+        "EndTime": "2017-05-31T21:43:36",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.191289, latitude=40.597817)",
+        "Point 1 arrival": "4.2 miles away",
+        "Point 1 dist from stop": "6773",
+        "Point 1 time": "2017-05-31T21:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.158056, latitude=40.695871)",
+        "Point 2 arrival": "13.1 miles away",
+        "Point 2 dist from stop": "21094",
+        "Point 2 time": "2017-05-31T21:13:34",
+        "Point 3 geom": "MyLatLong(longitude=-74.031187, latitude=40.772027)",
+        "Point 3 arrival": "3.1 miles away",
+        "Point 3 dist from stop": "5063",
+        "Point 3 time": "2017-05-31T21:23:41",
+        "Point 4 geom": "MyLatLong(longitude=-73.988195, latitude=40.749962)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "60",
+        "Point 4 time": "2017-05-31T21:33:54",
+        "Point 5 geom": "MyLatLong(longitude=-73.968212, latitude=40.76054)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "137",
+        "Point 5 time": "2017-05-31T21:43:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.160841,
+            40.692094
+          ],
+          [
+            -74.056108,
+            40.779617
+          ],
+          [
+            -74.015133,
+            40.764746
+          ],
+          [
+            -73.996376,
+            40.755603
+          ],
+          [
+            -73.983515,
+            40.747999
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4328",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:44:29",
+        "EndTime": "2017-06-01T02:24:15",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.160841, latitude=40.692094)",
+        "Point 1 arrival": "13.4 miles away",
+        "Point 1 dist from stop": "21575",
+        "Point 1 time": "2017-06-01T01:44:29",
+        "Point 2 geom": "MyLatLong(longitude=-74.056108, latitude=40.779617)",
+        "Point 2 arrival": "4.6 miles away",
+        "Point 2 dist from stop": "7411",
+        "Point 2 time": "2017-06-01T01:53:58",
+        "Point 3 geom": "MyLatLong(longitude=-74.015133, latitude=40.764746)",
+        "Point 3 arrival": "1.4 miles away",
+        "Point 3 dist from stop": "2213",
+        "Point 3 time": "2017-06-01T02:03:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.996376, latitude=40.755603)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "220",
+        "Point 4 time": "2017-06-01T02:14:17",
+        "Point 5 geom": "MyLatLong(longitude=-73.983515, latitude=40.747999)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "129",
+        "Point 5 time": "2017-06-01T02:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.236675,
+            40.513871
+          ],
+          [
+            -74.217753,
+            40.540855
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2719",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:54:10",
+        "EndTime": "2017-05-31T23:03:43",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.236675, latitude=40.513871)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "414",
+        "Point 1 time": "2017-05-31T22:54:10",
+        "Point 2 geom": "MyLatLong(longitude=-74.217753, latitude=40.540855)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "269",
+        "Point 2 time": "2017-05-31T23:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.203434,
+            40.55698
+          ],
+          [
+            -74.199174,
+            40.636978
+          ],
+          [
+            -74.157556,
+            40.696638
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2774",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:14:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.203434, latitude=40.55698)",
+        "Point 1 arrival": "2.6 miles away",
+        "Point 1 dist from stop": "4227",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.199174, latitude=40.636978)",
+        "Point 2 arrival": "0.7 miles away",
+        "Point 2 dist from stop": "1172",
+        "Point 2 time": "2017-06-01T00:04:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.157556, latitude=40.696638)",
+        "Point 3 arrival": "13.0 miles away",
+        "Point 3 dist from stop": "20999",
+        "Point 3 time": "2017-06-01T00:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.001784,
+            40.75893
+          ],
+          [
+            -73.989713,
+            40.750605
+          ],
+          [
+            -73.981623,
+            40.749596
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2565",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:12",
+        "EndTime": "2017-05-31T23:44:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.001784, latitude=40.75893)",
+        "Point 1 arrival": "0.6 miles away",
+        "Point 1 dist from stop": "916",
+        "Point 1 time": "2017-05-31T23:24:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.989713, latitude=40.750605)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "207",
+        "Point 2 time": "2017-05-31T23:34:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.981623, latitude=40.749596)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "312",
+        "Point 3 time": "2017-05-31T23:44:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.180525,
+            40.667
+          ],
+          [
+            -74.105253,
+            40.75575
+          ],
+          [
+            -74.055681,
+            40.779902
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2491",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:29",
+        "EndTime": "2017-06-01T00:14:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.180525, latitude=40.667)",
+        "Point 1 arrival": "15.4 miles away",
+        "Point 1 dist from stop": "24829",
+        "Point 1 time": "2017-05-31T23:53:29",
+        "Point 2 geom": "MyLatLong(longitude=-74.105253, latitude=40.75575)",
+        "Point 2 arrival": "7.9 miles away",
+        "Point 2 dist from stop": "12677",
+        "Point 2 time": "2017-06-01T00:04:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.055681, latitude=40.779902)",
+        "Point 3 arrival": "4.6 miles away",
+        "Point 3 dist from stop": "7363",
+        "Point 3 time": "2017-06-01T00:14:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.162078,
+            40.690378
+          ],
+          [
+            -74.057366,
+            40.77782
+          ],
+          [
+            -74.033787,
+            40.773336
+          ],
+          [
+            -73.998628,
+            40.757603
+          ],
+          [
+            -73.997359,
+            40.754271
+          ],
+          [
+            -73.985197,
+            40.748703
+          ],
+          [
+            -73.977147,
+            40.755723
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4302",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:41",
+        "EndTime": "2017-06-01T01:24:06",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.162078, latitude=40.690378)",
+        "Point 1 arrival": "13.5 miles away",
+        "Point 1 dist from stop": "21793",
+        "Point 1 time": "2017-06-01T00:23:41",
+        "Point 2 geom": "MyLatLong(longitude=-74.057366, latitude=40.77782)",
+        "Point 2 arrival": "4.7 miles away",
+        "Point 2 dist from stop": "7639",
+        "Point 2 time": "2017-06-01T00:34:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.033787, latitude=40.773336)",
+        "Point 3 arrival": "3.3 miles away",
+        "Point 3 dist from stop": "5326",
+        "Point 3 time": "2017-06-01T00:44:19",
+        "Point 4 geom": "MyLatLong(longitude=-73.998628, latitude=40.757603)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "612",
+        "Point 4 time": "2017-06-01T00:54:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.997359, latitude=40.754271)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "50",
+        "Point 5 time": "2017-06-01T01:04:16",
+        "Point 6 geom": "MyLatLong(longitude=-73.985197, latitude=40.748703)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "102",
+        "Point 6 time": "2017-06-01T01:13:40",
+        "Point 7 geom": "MyLatLong(longitude=-73.977147, latitude=40.755723)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "104",
+        "Point 7 time": "2017-06-01T01:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.240144,
+            40.505129
+          ],
+          [
+            -74.21588,
+            40.523648
+          ],
+          [
+            -74.209139,
+            40.544558
+          ],
+          [
+            -74.190627,
+            40.569796
+          ],
+          [
+            -74.205717,
+            40.641145
+          ],
+          [
+            -74.107182,
+            40.755025
+          ],
+          [
+            -74.018453,
+            40.766277
+          ],
+          [
+            -73.989579,
+            40.750548
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4307",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:23:27",
+        "EndTime": "2017-05-31T22:33:45",
+        "NumOfPoints": "8",
+        "Point 1 geom": "MyLatLong(longitude=-74.240144, latitude=40.505129)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "161",
+        "Point 1 time": "2017-05-31T21:23:27",
+        "Point 2 geom": "MyLatLong(longitude=-74.21588, latitude=40.523648)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "504",
+        "Point 2 time": "2017-05-31T21:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.209139, latitude=40.544558)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-05-31T21:43:19",
+        "Point 4 geom": "MyLatLong(longitude=-74.190627, latitude=40.569796)",
+        "Point 4 arrival": "1.5 miles away",
+        "Point 4 dist from stop": "2430",
+        "Point 4 time": "2017-05-31T21:53:27",
+        "Point 5 geom": "MyLatLong(longitude=-74.205717, latitude=40.641145)",
+        "Point 5 arrival": "17.7 miles away",
+        "Point 5 dist from stop": "28489",
+        "Point 5 time": "2017-05-31T22:03:23",
+        "Point 6 geom": "MyLatLong(longitude=-74.107182, latitude=40.755025)",
+        "Point 6 arrival": "8.0 miles away",
+        "Point 6 dist from stop": "12859",
+        "Point 6 time": "2017-05-31T22:13:18",
+        "Point 7 geom": "MyLatLong(longitude=-74.018453, latitude=40.766277)",
+        "Point 7 arrival": "1.6 miles away",
+        "Point 7 dist from stop": "2541",
+        "Point 7 time": "2017-05-31T22:23:42",
+        "Point 8 geom": "MyLatLong(longitude=-73.989579, latitude=40.750548)",
+        "Point 8 arrival": "< 1 stop away",
+        "Point 8 dist from stop": "194",
+        "Point 8 time": "2017-05-31T22:33:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97977,
+          40.752141
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2289",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:24:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.97977, latitude=40.752141)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "559",
+        "Point 1 time": "2017-06-01T02:24:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.027522,
+            40.770428
+          ],
+          [
+            -73.996321,
+            40.755675
+          ],
+          [
+            -73.985222,
+            40.748713
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2719",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:03",
+        "EndTime": "2017-06-01T00:14:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.027522, latitude=40.770428)",
+        "Point 1 arrival": "2.9 miles away",
+        "Point 1 dist from stop": "4707",
+        "Point 1 time": "2017-05-31T23:53:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.996321, latitude=40.755675)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "229",
+        "Point 2 time": "2017-06-01T00:04:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.985222, latitude=40.748713)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "104",
+        "Point 3 time": "2017-06-01T00:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.236339,
+            40.505897
+          ],
+          [
+            -74.219227,
+            40.520077
+          ],
+          [
+            -74.208313,
+            40.542551
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2538",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:44:21",
+        "EndTime": "2017-05-31T23:03:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.236339, latitude=40.505897)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "143",
+        "Point 1 time": "2017-05-31T22:44:21",
+        "Point 2 geom": "MyLatLong(longitude=-74.219227, latitude=40.520077)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "253",
+        "Point 2 time": "2017-05-31T22:53:57",
+        "Point 3 geom": "MyLatLong(longitude=-74.208313, latitude=40.542551)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T23:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.218243,
+            40.534513
+          ],
+          [
+            -74.21206,
+            40.55208
+          ],
+          [
+            -74.187359,
+            40.602728
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2491",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:25",
+        "EndTime": "2017-05-31T23:43:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.218243, latitude=40.534513)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "339",
+        "Point 1 time": "2017-05-31T23:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-74.21206, latitude=40.55208)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "284",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.187359, latitude=40.602728)",
+        "Point 3 arrival": "3.8 miles away",
+        "Point 3 dist from stop": "6129",
+        "Point 3 time": "2017-05-31T23:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.2182,
+            40.533594
+          ],
+          [
+            -74.212114,
+            40.552211
+          ],
+          [
+            -74.192932,
+            40.590777
+          ],
+          [
+            -74.18887,
+            40.656191
+          ],
+          [
+            -74.085889,
+            40.757768
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2565",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:26",
+        "EndTime": "2017-05-31T23:13:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.2182, latitude=40.533594)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "441",
+        "Point 1 time": "2017-05-31T22:33:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.212114, latitude=40.552211)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "269",
+        "Point 2 time": "2017-05-31T22:44:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.192932, latitude=40.590777)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "65",
+        "Point 3 time": "2017-05-31T22:54:07",
+        "Point 4 geom": "MyLatLong(longitude=-74.18887, latitude=40.656191)",
+        "Point 4 arrival": "16.3 miles away",
+        "Point 4 dist from stop": "26225",
+        "Point 4 time": "2017-05-31T23:02:36",
+        "Point 5 geom": "MyLatLong(longitude=-74.085889, latitude=40.757768)",
+        "Point 5 arrival": "6.8 miles away",
+        "Point 5 dist from stop": "11017",
+        "Point 5 time": "2017-05-31T23:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981134,
+          40.750267
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2719",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:34",
+        "EndTime": "2017-06-01T00:23:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.981134, latitude=40.750267)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "227",
+        "Point 1 time": "2017-06-01T00:23:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99757,
+            40.753974
+          ],
+          [
+            -73.984155,
+            40.748268
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4307",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:44:32",
+        "EndTime": "2017-06-01T01:53:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.99757, latitude=40.753974)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-06-01T01:44:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.984155, latitude=40.748268)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T01:53:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.245743,
+            40.509392
+          ],
+          [
+            -74.217693,
+            40.538486
+          ],
+          [
+            -74.208747,
+            40.557343
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2501",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:03",
+        "EndTime": "2017-06-01T00:14:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.245743, latitude=40.509392)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "335",
+        "Point 1 time": "2017-05-31T23:53:03",
+        "Point 2 geom": "MyLatLong(longitude=-74.217693, latitude=40.538486)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "533",
+        "Point 2 time": "2017-06-01T00:04:12",
+        "Point 3 geom": "MyLatLong(longitude=-74.208747, latitude=40.557343)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "125",
+        "Point 3 time": "2017-06-01T00:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97398,
+          40.76007
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4328",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T02:34:15",
+        "EndTime": "2017-06-01T02:34:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.97398, latitude=40.76007)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "186",
+        "Point 1 time": "2017-06-01T02:34:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.022286,
+            40.76363
+          ],
+          [
+            -74.012205,
+            40.763395
+          ],
+          [
+            -73.997225,
+            40.757111
+          ],
+          [
+            -73.993457,
+            40.752187
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:44:14",
+        "EndTime": "2017-06-01T02:14:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.022286, latitude=40.76363)",
+        "Point 1 arrival": "2.3 miles away",
+        "Point 1 dist from stop": "3657",
+        "Point 1 time": "2017-06-01T01:44:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.012205, latitude=40.763395)",
+        "Point 2 arrival": "1.2 miles away",
+        "Point 2 dist from stop": "1925",
+        "Point 2 time": "2017-06-01T01:53:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.997225, latitude=40.757111)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "481",
+        "Point 3 time": "2017-06-01T02:03:46",
+        "Point 4 geom": "MyLatLong(longitude=-73.993457, latitude=40.752187)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "21",
+        "Point 4 time": "2017-06-01T02:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.232934,
+            40.5068
+          ],
+          [
+            -74.252124,
+            40.507404
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2565",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:13:47",
+        "EndTime": "2017-05-31T22:23:49",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.232934, latitude=40.5068)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:13:47",
+        "Point 2 geom": "MyLatLong(longitude=-74.252124, latitude=40.507404)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T22:23:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.221923,
+            40.51884
+          ],
+          [
+            -74.212657,
+            40.553644
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4328",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:13:18",
+        "EndTime": "2017-06-01T01:24:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.221923, latitude=40.51884)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "519",
+        "Point 1 time": "2017-06-01T01:13:18",
+        "Point 2 geom": "MyLatLong(longitude=-74.212657, latitude=40.553644)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "103",
+        "Point 2 time": "2017-06-01T01:24:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.974167,
+          40.759816
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:15",
+        "EndTime": "2017-05-31T23:24:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.974167, latitude=40.759816)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "218",
+        "Point 1 time": "2017-05-31T23:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.242096,
+            40.50474
+          ],
+          [
+            -74.216113,
+            40.527106
+          ],
+          [
+            -74.209835,
+            40.546303
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2717",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:03:16",
+        "EndTime": "2017-05-31T22:23:48",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.242096, latitude=40.50474)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "225",
+        "Point 1 time": "2017-05-31T22:03:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.216113, latitude=40.527106)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "106",
+        "Point 2 time": "2017-05-31T22:13:42",
+        "Point 3 geom": "MyLatLong(longitude=-74.209835, latitude=40.546303)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-05-31T22:23:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.233148,
+          40.5161
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4302",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:44:01",
+        "EndTime": "2017-05-31T23:44:01",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.233148, latitude=40.5161)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-05-31T23:44:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.179023,
+            40.614677
+          ],
+          [
+            -74.15594,
+            40.699117
+          ],
+          [
+            -74.048581,
+            40.778546
+          ],
+          [
+            -73.99734,
+            40.757122
+          ],
+          [
+            -73.988455,
+            40.750072
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:32",
+        "EndTime": "2017-05-31T23:13:08",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.179023, latitude=40.614677)",
+        "Point 1 arrival": "2.9 miles away",
+        "Point 1 dist from stop": "4618",
+        "Point 1 time": "2017-05-31T22:33:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.15594, latitude=40.699117)",
+        "Point 2 arrival": "12.9 miles away",
+        "Point 2 dist from stop": "20692",
+        "Point 2 time": "2017-05-31T22:44:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.048581, latitude=40.778546)",
+        "Point 3 arrival": "4.2 miles away",
+        "Point 3 dist from stop": "6711",
+        "Point 3 time": "2017-05-31T22:54:03",
+        "Point 4 geom": "MyLatLong(longitude=-73.99734, latitude=40.757122)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "491",
+        "Point 4 time": "2017-05-31T23:03:33",
+        "Point 5 geom": "MyLatLong(longitude=-73.988455, latitude=40.750072)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "85",
+        "Point 5 time": "2017-05-31T23:13:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.208503,
+            40.543033
+          ],
+          [
+            -74.203192,
+            40.557139
+          ],
+          [
+            -74.199952,
+            40.637402
+          ],
+          [
+            -74.17032,
+            40.678434
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2292",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:07",
+        "EndTime": "2017-05-31T23:53:12",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.208503, latitude=40.543033)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "189",
+        "Point 1 time": "2017-05-31T23:24:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.203192, latitude=40.557139)",
+        "Point 2 arrival": "2.6 miles away",
+        "Point 2 dist from stop": "4200",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.199952, latitude=40.637402)",
+        "Point 3 arrival": "0.7 miles away",
+        "Point 3 dist from stop": "1091",
+        "Point 3 time": "2017-05-31T23:44:07",
+        "Point 4 geom": "MyLatLong(longitude=-74.17032, latitude=40.678434)",
+        "Point 4 arrival": "14.5 miles away",
+        "Point 4 dist from stop": "23292",
+        "Point 4 time": "2017-05-31T23:53:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.983342,
+            40.747926
+          ],
+          [
+            -73.981441,
+            40.749846
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2727",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:24",
+        "EndTime": "2017-06-01T00:34:14",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.983342, latitude=40.747926)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-06-01T00:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.981441, latitude=40.749846)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "281",
+        "Point 2 time": "2017-06-01T00:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.126046,
+            40.730467
+          ],
+          [
+            -74.034393,
+            40.773607
+          ],
+          [
+            -73.996321,
+            40.755675
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4317",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:44:13",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.126046, latitude=40.730467)",
+        "Point 1 arrival": "10.1 miles away",
+        "Point 1 dist from stop": "16222",
+        "Point 1 time": "2017-05-31T23:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.034393, latitude=40.773607)",
+        "Point 2 arrival": "3.3 miles away",
+        "Point 2 dist from stop": "5385",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.996321, latitude=40.755675)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "229",
+        "Point 3 time": "2017-05-31T23:44:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.061202,
+            40.772566
+          ],
+          [
+            -74.050584,
+            40.779398
+          ],
+          [
+            -74.03301,
+            40.772923
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2292",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:04:07",
+        "EndTime": "2017-06-01T00:23:53",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.061202, latitude=40.772566)",
+        "Point 1 arrival": "5.2 miles away",
+        "Point 1 dist from stop": "8308",
+        "Point 1 time": "2017-06-01T00:04:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.050584, latitude=40.779398)",
+        "Point 2 arrival": "4.3 miles away",
+        "Point 2 dist from stop": "6905",
+        "Point 2 time": "2017-06-01T00:13:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.03301, latitude=40.772923)",
+        "Point 3 arrival": "3.3 miles away",
+        "Point 3 dist from stop": "5246",
+        "Point 3 time": "2017-06-01T00:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.192929,
+            40.590339
+          ],
+          [
+            -74.18196,
+            40.665351
+          ],
+          [
+            -74.05945,
+            40.775126
+          ],
+          [
+            -73.995844,
+            40.753195
+          ],
+          [
+            -73.972527,
+            40.762058
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2569",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T21:13:48",
+        "EndTime": "2017-05-31T21:53:24",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.192929, latitude=40.590339)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "114",
+        "Point 1 time": "2017-05-31T21:13:48",
+        "Point 2 geom": "MyLatLong(longitude=-74.18196, latitude=40.665351)",
+        "Point 2 arrival": "15.6 miles away",
+        "Point 2 dist from stop": "25050",
+        "Point 2 time": "2017-05-31T21:23:54",
+        "Point 3 geom": "MyLatLong(longitude=-74.05945, latitude=40.775126)",
+        "Point 3 arrival": "5.0 miles away",
+        "Point 3 dist from stop": "7986",
+        "Point 3 time": "2017-05-31T21:34:06",
+        "Point 4 geom": "MyLatLong(longitude=-73.995844, latitude=40.753195)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "251",
+        "Point 4 time": "2017-05-31T21:43:48",
+        "Point 5 geom": "MyLatLong(longitude=-73.972527, latitude=40.762058)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "566",
+        "Point 5 time": "2017-05-31T21:53:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967365,
+          40.760183
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4306",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:34",
+        "EndTime": "2017-05-31T22:33:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.967365, latitude=40.760183)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-05-31T22:33:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.021508,
+            40.767482
+          ],
+          [
+            -73.996938,
+            40.754825
+          ],
+          [
+            -73.98339,
+            40.747946
+          ],
+          [
+            -73.979143,
+            40.752993
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4323",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:48",
+        "EndTime": "2017-06-01T00:54:16",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.021508, latitude=40.767482)",
+        "Point 1 arrival": "2.5 miles away",
+        "Point 1 dist from stop": "4100",
+        "Point 1 time": "2017-06-01T00:23:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.996938, latitude=40.754825)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "121",
+        "Point 2 time": "2017-06-01T00:32:49",
+        "Point 3 geom": "MyLatLong(longitude=-73.98339, latitude=40.747946)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "117",
+        "Point 3 time": "2017-06-01T00:44:19",
+        "Point 4 geom": "MyLatLong(longitude=-73.979143, latitude=40.752993)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "451",
+        "Point 4 time": "2017-06-01T00:54:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.244849,
+            40.509664
+          ],
+          [
+            -74.217817,
+            40.537574
+          ],
+          [
+            -74.207403,
+            40.557535
+          ],
+          [
+            -74.180052,
+            40.626512
+          ],
+          [
+            -74.164342,
+            40.687088
+          ],
+          [
+            -74.108675,
+            40.754393
+          ],
+          [
+            -74.030939,
+            40.771909
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2289",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:34:13",
+        "EndTime": "2017-06-01T01:34:23",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.244849, latitude=40.509664)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "254",
+        "Point 1 time": "2017-06-01T00:34:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.217817, latitude=40.537574)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "635",
+        "Point 2 time": "2017-06-01T00:44:10",
+        "Point 3 geom": "MyLatLong(longitude=-74.207403, latitude=40.557535)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T00:54:31",
+        "Point 4 geom": "MyLatLong(longitude=-74.180052, latitude=40.626512)",
+        "Point 4 arrival": "2.0 miles away",
+        "Point 4 dist from stop": "3164",
+        "Point 4 time": "2017-06-01T01:04:33",
+        "Point 5 geom": "MyLatLong(longitude=-74.164342, latitude=40.687088)",
+        "Point 5 arrival": "13.8 miles away",
+        "Point 5 dist from stop": "22205",
+        "Point 5 time": "2017-06-01T01:13:26",
+        "Point 6 geom": "MyLatLong(longitude=-74.108675, latitude=40.754393)",
+        "Point 6 arrival": "8.1 miles away",
+        "Point 6 dist from stop": "13003",
+        "Point 6 time": "2017-06-01T01:24:27",
+        "Point 7 geom": "MyLatLong(longitude=-74.030939, latitude=40.771909)",
+        "Point 7 arrival": "3.1 miles away",
+        "Point 7 dist from stop": "5038",
+        "Point 7 time": "2017-06-01T01:34:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.991736,
+            40.75146
+          ],
+          [
+            -73.979723,
+            40.752205
+          ],
+          [
+            -73.967639,
+            40.760299
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4306",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T01:34:11",
+        "EndTime": "2017-06-01T01:54:03",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.991736, latitude=40.75146)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-06-01T01:34:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.979723, latitude=40.752205)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "551",
+        "Point 2 time": "2017-06-01T01:44:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.967639, latitude=40.760299)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "82",
+        "Point 3 time": "2017-06-01T01:54:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.192019,
+            40.567746
+          ],
+          [
+            -74.20501,
+            40.642409
+          ],
+          [
+            -74.13284,
+            40.723943
+          ],
+          [
+            -74.04334,
+            40.776748
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2538",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:12",
+        "EndTime": "2017-05-31T23:44:02",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.192019, latitude=40.567746)",
+        "Point 1 arrival": "1.7 miles away",
+        "Point 1 dist from stop": "2687",
+        "Point 1 time": "2017-05-31T23:13:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.20501, latitude=40.642409)",
+        "Point 2 arrival": "17.6 miles away",
+        "Point 2 dist from stop": "28336",
+        "Point 2 time": "2017-05-31T23:24:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.13284, latitude=40.723943)",
+        "Point 3 arrival": "10.7 miles away",
+        "Point 3 dist from stop": "17155",
+        "Point 3 time": "2017-05-31T23:33:59",
+        "Point 4 geom": "MyLatLong(longitude=-74.04334, latitude=40.776748)",
+        "Point 4 arrival": "3.9 miles away",
+        "Point 4 dist from stop": "6217",
+        "Point 4 time": "2017-05-31T23:44:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.050584,
+            40.779398
+          ],
+          [
+            -74.001508,
+            40.758814
+          ],
+          [
+            -73.990032,
+            40.75074
+          ],
+          [
+            -73.980962,
+            40.750505
+          ],
+          [
+            -73.972576,
+            40.761991
+          ],
+          [
+            -73.966783,
+            40.759937
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2491",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:23:40",
+        "EndTime": "2017-06-01T01:13:22",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.050584, latitude=40.779398)",
+        "Point 1 arrival": "4.3 miles away",
+        "Point 1 dist from stop": "6905",
+        "Point 1 time": "2017-06-01T00:23:40",
+        "Point 2 geom": "MyLatLong(longitude=-74.001508, latitude=40.758814)",
+        "Point 2 arrival": "0.6 miles away",
+        "Point 2 dist from stop": "890",
+        "Point 2 time": "2017-06-01T00:34:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.990032, latitude=40.75074)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "237",
+        "Point 3 time": "2017-06-01T00:44:11",
+        "Point 4 geom": "MyLatLong(longitude=-73.980962, latitude=40.750505)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "197",
+        "Point 4 time": "2017-06-01T00:54:13",
+        "Point 5 geom": "MyLatLong(longitude=-73.972576, latitude=40.761991)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "575",
+        "Point 5 time": "2017-06-01T01:04:20",
+        "Point 6 geom": "MyLatLong(longitude=-73.966783, latitude=40.759937)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T01:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.995381,
+            40.752999
+          ],
+          [
+            -73.982453,
+            40.748457
+          ],
+          [
+            -73.975996,
+            40.757297
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2298",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:13",
+        "EndTime": "2017-06-01T00:14:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.995381, latitude=40.752999)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "207",
+        "Point 1 time": "2017-05-31T23:53:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.982453, latitude=40.748457)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "457",
+        "Point 2 time": "2017-06-01T00:04:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.975996, latitude=40.757297)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "297",
+        "Point 3 time": "2017-06-01T00:14:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.209885,
+            40.546433
+          ],
+          [
+            -74.190078,
+            40.571186
+          ],
+          [
+            -74.196204,
+            40.651832
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4323",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:16",
+        "EndTime": "2017-05-31T23:44:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.209885, latitude=40.546433)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "393",
+        "Point 1 time": "2017-05-31T23:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.190078, latitude=40.571186)",
+        "Point 2 arrival": "1.4 miles away",
+        "Point 2 dist from stop": "2269",
+        "Point 2 time": "2017-05-31T23:32:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.196204, latitude=40.651832)",
+        "Point 3 arrival": "16.8 miles away",
+        "Point 3 dist from stop": "27014",
+        "Point 3 time": "2017-05-31T23:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.99624,
+            40.75578
+          ],
+          [
+            -73.98875,
+            40.750197
+          ],
+          [
+            -73.980922,
+            40.75056
+          ],
+          [
+            -73.969854,
+            40.761232
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2292",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:34:24",
+        "EndTime": "2017-06-01T01:04:15",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.99624, latitude=40.75578)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "242",
+        "Point 1 time": "2017-06-01T00:34:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.98875, latitude=40.750197)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-06-01T00:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.980922, latitude=40.75056)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "190",
+        "Point 3 time": "2017-06-01T00:54:10",
+        "Point 4 geom": "MyLatLong(longitude=-73.969854, latitude=40.761232)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "296",
+        "Point 4 time": "2017-06-01T01:04:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996401,
+            40.755571
+          ],
+          [
+            -73.984037,
+            40.748218
+          ],
+          [
+            -73.975371,
+            40.758161
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2538",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.996401, latitude=40.755571)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "215",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.984037, latitude=40.748218)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "180",
+        "Point 2 time": "2017-06-01T00:04:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.975371, latitude=40.758161)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "188",
+        "Point 3 time": "2017-06-01T00:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.233031,
+            40.506767
+          ],
+          [
+            -74.217128,
+            40.521432
+          ],
+          [
+            -74.209775,
+            40.546147
+          ],
+          [
+            -74.234394,
+            40.506311
+          ],
+          [
+            -74.234394,
+            40.506311
+          ],
+          [
+            -74.232791,
+            40.516409
+          ],
+          [
+            -74.21009,
+            40.541514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2774",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T20:34:09",
+        "EndTime": "2017-05-31T23:44:22",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.233031, latitude=40.506767)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "440",
+        "Point 1 time": "2017-05-31T20:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-74.217128, latitude=40.521432)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T20:43:47",
+        "Point 3 geom": "MyLatLong(longitude=-74.209775, latitude=40.546147)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "23",
+        "Point 3 time": "2017-05-31T20:53:55",
+        "Point 4 geom": "MyLatLong(longitude=-74.234394, latitude=40.506311)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "314",
+        "Point 4 time": "2017-05-31T23:13:37",
+        "Point 5 geom": "MyLatLong(longitude=-74.234394, latitude=40.506311)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "314",
+        "Point 5 time": "2017-05-31T23:23:12",
+        "Point 6 geom": "MyLatLong(longitude=-74.232791, latitude=40.516409)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "604",
+        "Point 6 time": "2017-05-31T23:34:26",
+        "Point 7 geom": "MyLatLong(longitude=-74.21009, latitude=40.541514)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "0",
+        "Point 7 time": "2017-05-31T23:44:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.251404,
+            40.507713
+          ],
+          [
+            -74.21822,
+            40.533981
+          ],
+          [
+            -74.211957,
+            40.551818
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4319",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:23:55",
+        "EndTime": "2017-05-31T23:44:02",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.251404, latitude=40.507713)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "418",
+        "Point 1 time": "2017-05-31T23:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-74.21822, latitude=40.533981)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "398",
+        "Point 2 time": "2017-05-31T23:34:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.211957, latitude=40.551818)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-05-31T23:44:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.230847,
+            40.518405
+          ],
+          [
+            -74.209405,
+            40.545255
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2569",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T20:54:06",
+        "EndTime": "2017-05-31T21:03:41",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.230847, latitude=40.518405)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "328",
+        "Point 1 time": "2017-05-31T20:54:06",
+        "Point 2 geom": "MyLatLong(longitude=-74.209405, latitude=40.545255)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "127",
+        "Point 2 time": "2017-05-31T21:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.243986,
+            40.50992
+          ],
+          [
+            -74.218251,
+            40.53461
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4307",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:14:23",
+        "EndTime": "2017-06-01T00:23:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.243986, latitude=40.50992)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "176",
+        "Point 1 time": "2017-06-01T00:14:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.218251, latitude=40.53461)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "328",
+        "Point 2 time": "2017-06-01T00:23:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.049456,
+            40.778939
+          ],
+          [
+            -74.014292,
+            40.764357
+          ],
+          [
+            -73.997337,
+            40.754303
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2727",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:14:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.049456, latitude=40.778939)",
+        "Point 1 arrival": "4.2 miles away",
+        "Point 1 dist from stop": "6797",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-74.014292, latitude=40.764357)",
+        "Point 2 arrival": "1.3 miles away",
+        "Point 2 dist from stop": "2130",
+        "Point 2 time": "2017-06-01T00:04:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.997337, latitude=40.754303)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "53",
+        "Point 3 time": "2017-06-01T00:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.150936,
+            40.707277
+          ],
+          [
+            -74.047302,
+            40.777893
+          ],
+          [
+            -74.044416,
+            40.776977
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4323",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:32",
+        "EndTime": "2017-06-01T00:14:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.150936, latitude=40.707277)",
+        "Point 1 arrival": "12.2 miles away",
+        "Point 1 dist from stop": "19691",
+        "Point 1 time": "2017-05-31T23:53:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.047302, latitude=40.777893)",
+        "Point 2 arrival": "4.1 miles away",
+        "Point 2 dist from stop": "6581",
+        "Point 2 time": "2017-06-01T00:04:27",
+        "Point 3 geom": "MyLatLong(longitude=-74.044416, latitude=40.776977)",
+        "Point 3 arrival": "3.9 miles away",
+        "Point 3 dist from stop": "6311",
+        "Point 3 time": "2017-06-01T00:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.123409,
+            40.738414
+          ],
+          [
+            -74.022896,
+            40.766069
+          ],
+          [
+            -73.993233,
+            40.752092
+          ],
+          [
+            -73.975143,
+            40.758472
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2768",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:33:34",
+        "EndTime": "2017-05-31T23:03:46",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.123409, latitude=40.738414)",
+        "Point 1 arrival": "9.5 miles away",
+        "Point 1 dist from stop": "15289",
+        "Point 1 time": "2017-05-31T22:33:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.022896, latitude=40.766069)",
+        "Point 2 arrival": "1.9 miles away",
+        "Point 2 dist from stop": "2995",
+        "Point 2 time": "2017-05-31T22:44:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.993233, latitude=40.752092)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T22:54:10",
+        "Point 4 geom": "MyLatLong(longitude=-73.975143, latitude=40.758472)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "148",
+        "Point 4 time": "2017-05-31T23:03:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.215975,
+            40.541296
+          ],
+          [
+            -74.203237,
+            40.55711
+          ],
+          [
+            -74.194878,
+            40.634713
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4302",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:53:05",
+        "EndTime": "2017-06-01T00:14:16",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.215975, latitude=40.541296)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "86",
+        "Point 1 time": "2017-05-31T23:53:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.203237, latitude=40.55711)",
+        "Point 2 arrival": "2.6 miles away",
+        "Point 2 dist from stop": "4205",
+        "Point 2 time": "2017-06-01T00:04:14",
+        "Point 3 geom": "MyLatLong(longitude=-74.194878, latitude=40.634713)",
+        "Point 3 arrival": "1.0 miles away",
+        "Point 3 dist from stop": "1613",
+        "Point 3 time": "2017-06-01T00:14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.988774,
+            40.750207
+          ],
+          [
+            -73.972381,
+            40.762259
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2766",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:43:58",
+        "EndTime": "2017-05-31T22:54:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.988774, latitude=40.750207)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "116",
+        "Point 1 time": "2017-05-31T22:43:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.972381, latitude=40.762259)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "541",
+        "Point 2 time": "2017-05-31T22:54:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.215854,
+            40.523685
+          ],
+          [
+            -74.208193,
+            40.542228
+          ],
+          [
+            -74.194518,
+            40.565072
+          ],
+          [
+            -74.200675,
+            40.637878
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2300",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:24:16",
+        "EndTime": "2017-05-31T23:53:19",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.215854, latitude=40.523685)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "499",
+        "Point 1 time": "2017-05-31T23:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.208193, latitude=40.542228)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "53",
+        "Point 2 time": "2017-05-31T23:34:21",
+        "Point 3 geom": "MyLatLong(longitude=-74.194518, latitude=40.565072)",
+        "Point 3 arrival": "1.9 miles away",
+        "Point 3 dist from stop": "3052",
+        "Point 3 time": "2017-05-31T23:44:25",
+        "Point 4 geom": "MyLatLong(longitude=-74.200675, latitude=40.637878)",
+        "Point 4 arrival": "0.6 miles away",
+        "Point 4 dist from stop": "1010",
+        "Point 4 time": "2017-05-31T23:53:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.02246,
+            40.763296
+          ],
+          [
+            -73.997473,
+            40.753873
+          ],
+          [
+            -73.982016,
+            40.749063
+          ],
+          [
+            -73.974142,
+            40.759851
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2499",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "BLOOMINGDALE RD/SOUTH SERVICE RD",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T23:13:37",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.02246, latitude=40.763296)",
+        "Point 1 arrival": "2.2 miles away",
+        "Point 1 dist from stop": "3617",
+        "Point 1 time": "2017-05-31T23:13:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.997473, latitude=40.753873)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "408",
+        "Point 2 time": "2017-05-31T23:24:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.982016, latitude=40.749063)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "380",
+        "Point 3 time": "2017-05-31T23:34:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.974142, latitude=40.759851)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "214",
+        "Point 4 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.233434,
+            40.515878
+          ],
+          [
+            -74.215215,
+            40.541357
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4306",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T00:04:26",
+        "EndTime": "2017-06-01T00:14:01",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.233434, latitude=40.515878)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T00:04:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.215215, latitude=40.541357)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T00:14:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.980561,
+          40.751057
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-06-01T02:24:25",
+        "EndTime": "2017-06-01T02:24:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.980561, latitude=40.751057)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-06-01T02:24:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.233077,
+            40.516156
+          ],
+          [
+            -74.215658,
+            40.541322
+          ],
+          [
+            -74.207227,
+            40.557557
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_2578",
+        "PublishedLineName": "X22",
+        "DirectionRef": "0",
+        "OriginName": "HYLAN BL/BEDELL AV",
+        "DestinationName": "E MIDTOWN 57 ST via N JERSEY via MADISON",
+        "StartTime": "2017-05-31T22:03:36",
+        "EndTime": "2017-05-31T22:24:02",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.233077, latitude=40.516156)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "17",
+        "Point 1 time": "2017-05-31T22:03:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.215658, latitude=40.541322)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-05-31T22:13:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.207227, latitude=40.557557)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "327",
+        "Point 3 time": "2017-05-31T22:24:02"
+      }
+    }
+  ]
+}

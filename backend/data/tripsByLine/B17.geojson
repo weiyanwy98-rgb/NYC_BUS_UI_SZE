@@ -1,0 +1,6077 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.885832,
+            40.636398
+          ],
+          [
+            -73.908914,
+            40.642875
+          ],
+          [
+            -73.93063,
+            40.662366
+          ],
+          [
+            -73.932078,
+            40.668637
+          ],
+          [
+            -73.932078,
+            40.668637
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6809",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T16:03:34",
+        "EndTime": "2017-05-31T16:43:21",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.885832, latitude=40.636398)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-05-31T16:03:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.908914, latitude=40.642875)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "81",
+        "Point 2 time": "2017-05-31T16:13:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.93063, latitude=40.662366)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "132",
+        "Point 3 time": "2017-05-31T16:23:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.932078, latitude=40.668637)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "38",
+        "Point 4 time": "2017-05-31T16:33:51",
+        "Point 5 geom": "MyLatLong(longitude=-73.932078, latitude=40.668637)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "38",
+        "Point 5 time": "2017-05-31T16:43:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.905173,
+            40.640746
+          ],
+          [
+            -73.919655,
+            40.652515
+          ],
+          [
+            -73.929288,
+            40.661165
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6820",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:16",
+        "EndTime": "2017-06-01T00:14:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.905173, latitude=40.640746)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "346",
+        "Point 1 time": "2017-05-31T23:53:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.919655, latitude=40.652515)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "79",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.929288, latitude=40.661165)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-06-01T00:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881704,
+          40.638877
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T22:13:33",
+        "EndTime": "2017-05-31T22:13:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881704, latitude=40.638877)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-05-31T22:13:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.901024,
+          40.643431
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-06-01T00:44:01",
+        "EndTime": "2017-06-01T00:44:01",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.901024, latitude=40.643431)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "238",
+        "Point 1 time": "2017-06-01T00:44:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931551,
+            40.664213
+          ],
+          [
+            -73.916723,
+            40.649887
+          ],
+          [
+            -73.898491,
+            40.633514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6806",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:53:42",
+        "EndTime": "2017-06-01T02:14:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.931551, latitude=40.664213)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-06-01T01:53:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.916723, latitude=40.649887)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-06-01T02:03:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.898491, latitude=40.633514)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T02:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891572,
+            40.632674
+          ],
+          [
+            -73.906154,
+            40.640399
+          ],
+          [
+            -73.920582,
+            40.653326
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:24:08",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.891572, latitude=40.632674)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-05-31T23:24:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.906154, latitude=40.640399)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.920582, latitude=40.653326)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "116",
+        "Point 3 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.890906,
+            40.633109
+          ],
+          [
+            -73.909469,
+            40.643373
+          ],
+          [
+            -73.923867,
+            40.656292
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4985",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:14:02",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.890906, latitude=40.633109)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "84",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.909469, latitude=40.643373)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:04:07",
+        "Point 3 geom": "MyLatLong(longitude=-73.923867, latitude=40.656292)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "231",
+        "Point 3 time": "2017-06-01T00:14:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.923656,
+          40.656101
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:14:27",
+        "EndTime": "2017-06-01T02:14:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.923656, latitude=40.656101)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-06-01T02:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.933655,
+          40.668724
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:34:06",
+        "EndTime": "2017-06-01T01:34:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.933655, latitude=40.668724)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "172",
+        "Point 1 time": "2017-06-01T01:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.905217,
+            40.639554
+          ],
+          [
+            -73.907061,
+            40.641208
+          ],
+          [
+            -73.920599,
+            40.653342
+          ],
+          [
+            -73.931984,
+            40.662727
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:13:14",
+        "EndTime": "2017-05-31T23:44",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.905217, latitude=40.639554)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-05-31T23:13:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.907061, latitude=40.641208)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-05-31T23:24:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.920599, latitude=40.653342)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "114",
+        "Point 3 time": "2017-05-31T23:33:55",
+        "Point 4 geom": "MyLatLong(longitude=-73.931984, latitude=40.662727)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "247",
+        "Point 4 time": "2017-05-31T23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922244,
+            40.654845
+          ],
+          [
+            -73.907659,
+            40.641748
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:03:40",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.922244, latitude=40.654845)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-05-31T23:03:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.907659, latitude=40.641748)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.891282,
+          40.632697
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:53:19",
+        "EndTime": "2017-05-31T23:53:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.891282, latitude=40.632697)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-05-31T23:53:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934199,
+            40.668754
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5028",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:34:16",
+        "EndTime": "2017-06-01T00:44:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934199, latitude=40.668754)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-06-01T00:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906154,
+            40.640399
+          ],
+          [
+            -73.920582,
+            40.653326
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:34:13",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.906154, latitude=40.640399)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T23:34:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.920582, latitude=40.653326)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.906752,
+          40.631271
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:24:15",
+        "EndTime": "2017-05-31T23:24:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.906752, latitude=40.631271)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "108",
+        "Point 1 time": "2017-05-31T23:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.905211,
+          40.632267
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:34:31",
+        "EndTime": "2017-06-01T01:34:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.905211, latitude=40.632267)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "151",
+        "Point 1 time": "2017-06-01T01:34:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931567,
+            40.66403
+          ],
+          [
+            -73.922647,
+            40.655204
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4848",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T03:54:19",
+        "EndTime": "2017-06-01T04:03:46",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931567, latitude=40.66403)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T03:54:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.922647, latitude=40.655204)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "62",
+        "Point 2 time": "2017-06-01T04:03:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924956,
+            40.657277
+          ],
+          [
+            -73.910526,
+            40.644325
+          ],
+          [
+            -73.890325,
+            40.633318
+          ],
+          [
+            -73.88198,
+            40.638696
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:44:15",
+        "EndTime": "2017-06-01T02:14:35",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.924956, latitude=40.657277)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "192",
+        "Point 1 time": "2017-06-01T01:44:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.910526, latitude=40.644325)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "199",
+        "Point 2 time": "2017-06-01T01:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.890325, latitude=40.633318)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "128",
+        "Point 3 time": "2017-06-01T02:03:22",
+        "Point 4 geom": "MyLatLong(longitude=-73.88198, latitude=40.638696)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "43",
+        "Point 4 time": "2017-06-01T02:14:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.907342,
+          40.641462
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6820",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:44:21",
+        "EndTime": "2017-05-31T23:44:21",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.907342, latitude=40.641462)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "85",
+        "Point 1 time": "2017-05-31T23:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.898328,
+            40.633368
+          ],
+          [
+            -73.912583,
+            40.64617
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6607",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T03:54:22",
+        "EndTime": "2017-06-01T04:03:56",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.898328, latitude=40.633368)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "77",
+        "Point 1 time": "2017-06-01T03:54:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.912583, latitude=40.64617)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T04:03:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929978,
+            40.661784
+          ],
+          [
+            -73.934141,
+            40.668751
+          ],
+          [
+            -73.931778,
+            40.668621
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:33:36",
+        "EndTime": "2017-05-31T22:54:09",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.929978, latitude=40.661784)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "217",
+        "Point 1 time": "2017-05-31T22:33:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.934141, latitude=40.668751)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:44:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.931778, latitude=40.668621)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-05-31T22:54:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900613,
+            40.627799
+          ],
+          [
+            -73.906985,
+            40.63109
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:34:16",
+        "EndTime": "2017-05-31T23:44:17",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.900613, latitude=40.627799)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.906985, latitude=40.63109)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "190",
+        "Point 2 time": "2017-05-31T23:44:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.923717,
+            40.656156
+          ],
+          [
+            -73.907411,
+            40.641873
+          ],
+          [
+            -73.907033,
+            40.631092
+          ],
+          [
+            -73.900742,
+            40.626344
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T21:53:27",
+        "EndTime": "2017-05-31T22:24:05",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.923717, latitude=40.656156)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "30",
+        "Point 1 time": "2017-05-31T21:53:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.907411, latitude=40.641873)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "43",
+        "Point 2 time": "2017-05-31T22:03:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.907033, latitude=40.631092)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-05-31T22:13:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.900742, latitude=40.626344)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "131",
+        "Point 4 time": "2017-05-31T22:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928791,
+            40.660717
+          ],
+          [
+            -73.919755,
+            40.652604
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:34:01",
+        "EndTime": "2017-05-31T23:44:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.928791, latitude=40.660717)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-05-31T23:34:01",
+        "Point 2 geom": "MyLatLong(longitude=-73.919755, latitude=40.652604)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T23:44:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.909455,
+            40.64336
+          ],
+          [
+            -73.92377,
+            40.656204
+          ],
+          [
+            -73.936992,
+            40.662416
+          ],
+          [
+            -73.932109,
+            40.668639
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:44:15",
+        "EndTime": "2017-05-31T23:13:23",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.909455, latitude=40.64336)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T22:44:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.92377, latitude=40.656204)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T22:54:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.936992, latitude=40.662416)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "75",
+        "Point 3 time": "2017-05-31T23:03:19",
+        "Point 4 geom": "MyLatLong(longitude=-73.932109, latitude=40.668639)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-05-31T23:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904055,
+            40.644006
+          ],
+          [
+            -73.909253,
+            40.643178
+          ],
+          [
+            -73.92124,
+            40.653937
+          ],
+          [
+            -73.937378,
+            40.662756
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:59",
+        "EndTime": "2017-06-01T01:04:21",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.904055, latitude=40.644006)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "152",
+        "Point 1 time": "2017-06-01T00:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.909253, latitude=40.643178)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-06-01T00:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.92124, latitude=40.653937)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-06-01T00:44:09",
+        "Point 4 geom": "MyLatLong(longitude=-73.937378, latitude=40.662756)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "5",
+        "Point 4 time": "2017-06-01T00:54:11",
+        "Point 5 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-06-01T01:04:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931406,
+            40.665949
+          ],
+          [
+            -73.916139,
+            40.649365
+          ],
+          [
+            -73.891133,
+            40.632793
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T21:03:22",
+        "EndTime": "2017-05-31T21:23:36",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.931406, latitude=40.665949)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T21:03:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.916139, latitude=40.649365)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-05-31T21:13:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.891133, latitude=40.632793)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-05-31T21:23:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928775,
+            40.660703
+          ],
+          [
+            -73.911195,
+            40.644924
+          ],
+          [
+            -73.884683,
+            40.636942
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6809",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T16:52:55",
+        "EndTime": "2017-05-31T17:13:38",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.928775, latitude=40.660703)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T16:52:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.911195, latitude=40.644924)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "42",
+        "Point 2 time": "2017-05-31T17:03:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.884683, latitude=40.636942)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-05-31T17:13:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.881867,
+            40.638963
+          ],
+          [
+            -73.897024,
+            40.632196
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T20:43:51",
+        "EndTime": "2017-05-31T20:53:52",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.881867, latitude=40.638963)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "197",
+        "Point 1 time": "2017-05-31T20:43:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.897024, latitude=40.632196)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-05-31T20:53:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.881744,
+            40.638851
+          ],
+          [
+            -73.927069,
+            40.659173
+          ],
+          [
+            -73.916095,
+            40.649326
+          ],
+          [
+            -73.902329,
+            40.636959
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T18:23:38",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.881744, latitude=40.638851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "17",
+        "Point 1 time": "2017-05-31T18:23:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.927069, latitude=40.659173)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "30",
+        "Point 2 time": "2017-05-31T23:24:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.916095, latitude=40.649326)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-05-31T23:34:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.902329, latitude=40.636959)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "58",
+        "Point 4 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936693,
+            40.668738
+          ],
+          [
+            -73.902299,
+            40.634148
+          ],
+          [
+            -73.906597,
+            40.640791
+          ],
+          [
+            -73.92124,
+            40.653936
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6820",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:50",
+        "EndTime": "2017-06-01T01:34:26",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.936693, latitude=40.668738)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:23:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.902299, latitude=40.634148)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "234",
+        "Point 2 time": "2017-06-01T01:13:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.906597, latitude=40.640791)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "177",
+        "Point 3 time": "2017-06-01T01:24:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.92124, latitude=40.653936)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "28",
+        "Point 4 time": "2017-06-01T01:34:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920415,
+            40.653181
+          ],
+          [
+            -73.932053,
+            40.662723
+          ],
+          [
+            -73.936708,
+            40.668572
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4987",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:44:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.920415, latitude=40.653181)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "137",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.932053, latitude=40.662723)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "242",
+        "Point 2 time": "2017-05-31T23:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.936708, latitude=40.668572)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T23:44:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.918238,
+            40.651247
+          ],
+          [
+            -73.898779,
+            40.633772
+          ],
+          [
+            -73.881812,
+            40.638807
+          ],
+          [
+            -73.881812,
+            40.638807
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T21:23:55",
+        "EndTime": "2017-05-31T22:03:28",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T21:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.918238, latitude=40.651247)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "48",
+        "Point 2 time": "2017-05-31T21:33:56",
+        "Point 3 geom": "MyLatLong(longitude=-73.898779, latitude=40.633772)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "51",
+        "Point 3 time": "2017-05-31T21:43:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.881812, latitude=40.638807)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-05-31T21:53:26",
+        "Point 5 geom": "MyLatLong(longitude=-73.881812, latitude=40.638807)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "25",
+        "Point 5 time": "2017-05-31T22:03:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.913587,
+            40.647072
+          ],
+          [
+            -73.904431,
+            40.638846
+          ],
+          [
+            -73.900494,
+            40.626609
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T22:33:54",
+        "EndTime": "2017-05-31T22:54:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.913587, latitude=40.647072)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "101",
+        "Point 1 time": "2017-05-31T22:33:54",
+        "Point 2 geom": "MyLatLong(longitude=-73.904431, latitude=40.638846)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-05-31T22:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.900494, latitude=40.626609)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "92",
+        "Point 3 time": "2017-05-31T22:54:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931363,
+            40.666217
+          ],
+          [
+            -73.920471,
+            40.653229
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T00:14:03",
+        "EndTime": "2017-06-01T00:23:37",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931363, latitude=40.666217)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-06-01T00:14:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.920471, latitude=40.653229)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "96",
+        "Point 2 time": "2017-06-01T00:23:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93114,
+            40.668576
+          ],
+          [
+            -73.922351,
+            40.65494
+          ],
+          [
+            -73.909052,
+            40.642998
+          ],
+          [
+            -73.896701,
+            40.631907
+          ],
+          [
+            -73.881657,
+            40.638908
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4985",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T00:34:12",
+        "EndTime": "2017-06-01T01:13:23",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.93114, latitude=40.668576)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "309",
+        "Point 1 time": "2017-06-01T00:34:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.922351, latitude=40.65494)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-06-01T00:44:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.909052, latitude=40.642998)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.896701, latitude=40.631907)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-06-01T01:04:20",
+        "Point 5 geom": "MyLatLong(longitude=-73.881657, latitude=40.638908)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "7",
+        "Point 5 time": "2017-06-01T01:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.889544,
+          40.633999
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:24:05",
+        "EndTime": "2017-06-01T01:24:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.889544, latitude=40.633999)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T01:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924728,
+            40.657071
+          ],
+          [
+            -73.907779,
+            40.641856
+          ],
+          [
+            -73.90071,
+            40.635505
+          ],
+          [
+            -73.900687,
+            40.626362
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T22:43:56",
+        "EndTime": "2017-05-31T23:13:34",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.924728, latitude=40.657071)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "162",
+        "Point 1 time": "2017-05-31T22:43:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.907779, latitude=40.641856)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "87",
+        "Point 2 time": "2017-05-31T22:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.90071, latitude=40.635505)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "72",
+        "Point 3 time": "2017-05-31T23:03:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.900687, latitude=40.626362)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "124",
+        "Point 4 time": "2017-05-31T23:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926518,
+            40.65868
+          ],
+          [
+            -73.910993,
+            40.644743
+          ],
+          [
+            -73.889598,
+            40.633779
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T22:54:02",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.926518, latitude=40.65868)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "112",
+        "Point 1 time": "2017-05-31T22:54:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.910993, latitude=40.644743)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-05-31T23:03:35",
+        "Point 3 geom": "MyLatLong(longitude=-73.889598, latitude=40.633779)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "48",
+        "Point 3 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.927977,
+            40.659984
+          ],
+          [
+            -73.936693,
+            40.668729
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6594",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:34:15",
+        "EndTime": "2017-06-01T02:43:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.927977, latitude=40.659984)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "176",
+        "Point 1 time": "2017-06-01T02:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.936693, latitude=40.668729)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T02:43:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.907909,
+            40.641974
+          ],
+          [
+            -73.921263,
+            40.653957
+          ],
+          [
+            -73.933178,
+            40.662653
+          ],
+          [
+            -73.934117,
+            40.66875
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T00:54:09",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.907909, latitude=40.641974)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.921263, latitude=40.653957)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "25",
+        "Point 2 time": "2017-06-01T00:34:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.933178, latitude=40.662653)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "146",
+        "Point 3 time": "2017-06-01T00:44:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.934117, latitude=40.66875)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "4",
+        "Point 4 time": "2017-06-01T00:54:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902101,
+            40.636753
+          ],
+          [
+            -73.921154,
+            40.653858
+          ],
+          [
+            -73.937127,
+            40.664101
+          ],
+          [
+            -73.931808,
+            40.668622
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T21:13:43",
+        "EndTime": "2017-05-31T21:43:24",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902101, latitude=40.636753)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-05-31T21:13:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.921154, latitude=40.653858)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "39",
+        "Point 2 time": "2017-05-31T21:23:50",
+        "Point 3 geom": "MyLatLong(longitude=-73.937127, latitude=40.664101)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T21:33:55",
+        "Point 4 geom": "MyLatLong(longitude=-73.931808, latitude=40.668622)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "15",
+        "Point 4 time": "2017-05-31T21:43:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930145,
+            40.661933
+          ],
+          [
+            -73.912837,
+            40.6464
+          ],
+          [
+            -73.890656,
+            40.633104
+          ],
+          [
+            -73.881665,
+            40.638903
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:43:19",
+        "EndTime": "2017-06-01T03:14:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.930145, latitude=40.661933)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "190",
+        "Point 1 time": "2017-06-01T02:43:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.912837, latitude=40.6464)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T02:54:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.890656, latitude=40.633104)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "165",
+        "Point 3 time": "2017-06-01T03:04:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.881665, latitude=40.638903)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "8",
+        "Point 4 time": "2017-06-01T03:14:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.911078,
+            40.644819
+          ],
+          [
+            -73.892087,
+            40.632175
+          ],
+          [
+            -73.882099,
+            40.638619
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:24:29",
+        "EndTime": "2017-06-01T02:43:36",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.911078, latitude=40.644819)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-06-01T02:24:29",
+        "Point 2 geom": "MyLatLong(longitude=-73.892087, latitude=40.632175)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "117",
+        "Point 2 time": "2017-06-01T02:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.882099, latitude=40.638619)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "57",
+        "Point 3 time": "2017-06-01T02:43:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.901138,
+            40.628034
+          ],
+          [
+            -73.906184,
+            40.640425
+          ],
+          [
+            -73.910485,
+            40.644289
+          ],
+          [
+            -73.921433,
+            40.654112
+          ],
+          [
+            -73.937316,
+            40.662396
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:44:06",
+        "EndTime": "2017-06-01T01:34:13",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.901138, latitude=40.628034)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "147",
+        "Point 1 time": "2017-06-01T00:44:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.906184, latitude=40.640425)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-06-01T00:54:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.910485, latitude=40.644289)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-06-01T01:04:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.921433, latitude=40.654112)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-06-01T01:13:33",
+        "Point 5 geom": "MyLatLong(longitude=-73.937316, latitude=40.662396)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "47",
+        "Point 5 time": "2017-06-01T01:24:11",
+        "Point 6 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-06-01T01:34:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931591,
+            40.663759
+          ],
+          [
+            -73.916479,
+            40.649668
+          ],
+          [
+            -73.897032,
+            40.632203
+          ],
+          [
+            -73.882177,
+            40.638568
+          ],
+          [
+            -73.881514,
+            40.639001
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6806",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T03:23:36",
+        "EndTime": "2017-06-01T04:03:56",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.931591, latitude=40.663759)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-06-01T03:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.916479, latitude=40.649668)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "52",
+        "Point 2 time": "2017-06-01T03:34:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.897032, latitude=40.632203)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "63",
+        "Point 3 time": "2017-06-01T03:43:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.882177, latitude=40.638568)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "65",
+        "Point 4 time": "2017-06-01T03:54:20",
+        "Point 5 geom": "MyLatLong(longitude=-73.881514, latitude=40.639001)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "5",
+        "Point 5 time": "2017-06-01T04:03:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926148,
+            40.658338
+          ],
+          [
+            -73.937133,
+            40.664039
+          ],
+          [
+            -73.931919,
+            40.668628
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:04:23",
+        "EndTime": "2017-06-01T00:23:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.926148, latitude=40.658338)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "179",
+        "Point 1 time": "2017-06-01T00:04:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.937133, latitude=40.664039)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T00:13:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "25",
+        "Point 3 time": "2017-06-01T00:23:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T20:53:54",
+        "EndTime": "2017-05-31T20:53:54",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T20:53:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902488,
+            40.637101
+          ],
+          [
+            -73.920974,
+            40.653695
+          ],
+          [
+            -73.937143,
+            40.663932
+          ],
+          [
+            -73.931694,
+            40.668616
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:34:10",
+        "EndTime": "2017-06-01T02:03:49",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902488, latitude=40.637101)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:34:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.920974, latitude=40.653695)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "63",
+        "Point 2 time": "2017-06-01T01:44:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.937143, latitude=40.663932)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "18",
+        "Point 3 time": "2017-06-01T01:53:46",
+        "Point 4 geom": "MyLatLong(longitude=-73.931694, latitude=40.668616)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-06-01T02:03:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897195,
+            40.63235
+          ],
+          [
+            -73.909913,
+            40.643773
+          ],
+          [
+            -73.923976,
+            40.656391
+          ],
+          [
+            -73.93418,
+            40.668753
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6594",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T03:43:40",
+        "EndTime": "2017-06-01T04:14:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.897195, latitude=40.63235)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-06-01T03:43:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.909913, latitude=40.643773)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "198",
+        "Point 2 time": "2017-06-01T03:54:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.923976, latitude=40.656391)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "216",
+        "Point 3 time": "2017-06-01T04:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.93418, latitude=40.668753)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T04:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:18",
+        "EndTime": "2017-05-31T23:53:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9144,
+            40.647802
+          ],
+          [
+            -73.896205,
+            40.631463
+          ],
+          [
+            -73.88226,
+            40.638514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:53:14",
+        "EndTime": "2017-06-01T00:14:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.9144, latitude=40.647802)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "207",
+        "Point 1 time": "2017-05-31T23:53:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.896205, latitude=40.631463)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "140",
+        "Point 2 time": "2017-06-01T00:04:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.88226, latitude=40.638514)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "75",
+        "Point 3 time": "2017-06-01T00:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.936655,
+          40.662437
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:03:59",
+        "EndTime": "2017-06-01T00:03:59",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.936655, latitude=40.662437)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "103",
+        "Point 1 time": "2017-06-01T00:03:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928775,
+            40.660703
+          ],
+          [
+            -73.90979,
+            40.643663
+          ],
+          [
+            -73.887769,
+            40.634952
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7128",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T17:43:53",
+        "EndTime": "2017-05-31T18:03:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.928775, latitude=40.660703)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T17:43:53",
+        "Point 2 geom": "MyLatLong(longitude=-73.90979, latitude=40.643663)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "102",
+        "Point 2 time": "2017-05-31T17:53:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.887769, latitude=40.634952)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-05-31T18:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931303,
+            40.666885
+          ],
+          [
+            -73.923483,
+            40.655952
+          ],
+          [
+            -73.91785,
+            40.6509
+          ],
+          [
+            -73.902325,
+            40.645128
+          ],
+          [
+            -73.907264,
+            40.630939
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5028",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-06-01T00:54:24",
+        "EndTime": "2017-06-01T01:34:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.931303, latitude=40.666885)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "120",
+        "Point 1 time": "2017-06-01T00:54:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.923483, latitude=40.655952)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:04:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.91785, latitude=40.6509)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "231",
+        "Point 3 time": "2017-06-01T01:13:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.902325, latitude=40.645128)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "232",
+        "Point 4 time": "2017-06-01T01:24:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.907264, latitude=40.630939)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "51",
+        "Point 5 time": "2017-06-01T01:34:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891603,
+            40.632654
+          ],
+          [
+            -73.905528,
+            40.639836
+          ],
+          [
+            -73.91841,
+            40.651401
+          ],
+          [
+            -73.931076,
+            40.662782
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:04:18",
+        "EndTime": "2017-06-01T01:34:34",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.891603, latitude=40.632654)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T01:04:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.905528, latitude=40.639836)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "97",
+        "Point 2 time": "2017-06-01T01:13:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.91841, latitude=40.651401)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "242",
+        "Point 3 time": "2017-06-01T01:24:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.931076, latitude=40.662782)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "72",
+        "Point 4 time": "2017-06-01T01:34:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881883,
+          40.638953
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:33:38",
+        "EndTime": "2017-05-31T22:33:38",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881883, latitude=40.638953)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "196",
+        "Point 1 time": "2017-05-31T22:33:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.897081,
+            40.632248
+          ],
+          [
+            -73.915365,
+            40.648672
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:13:33",
+        "EndTime": "2017-05-31T22:24:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.897081, latitude=40.632248)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T22:13:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.915365, latitude=40.648672)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "158",
+        "Point 2 time": "2017-05-31T22:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.882204,
+            40.638744
+          ],
+          [
+            -73.889473,
+            40.634045
+          ],
+          [
+            -73.911862,
+            40.645523
+          ],
+          [
+            -73.929024,
+            40.660924
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T21:13:19",
+        "EndTime": "2017-05-31T21:43:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.882204, latitude=40.638744)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "160",
+        "Point 1 time": "2017-05-31T21:13:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.889473, latitude=40.634045)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-05-31T21:23:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.911862, latitude=40.645523)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "98",
+        "Point 3 time": "2017-05-31T21:33:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.929024, latitude=40.660924)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "39",
+        "Point 4 time": "2017-05-31T21:43:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931694,
+            40.668616
+          ],
+          [
+            -73.931694,
+            40.668616
+          ],
+          [
+            -73.931731,
+            40.668618
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6820",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:24:37",
+        "EndTime": "2017-06-01T02:43:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.931694, latitude=40.668616)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T02:24:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.931694, latitude=40.668616)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T02:34:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.931731, latitude=40.668618)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T02:43:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906784,
+            40.642275
+          ],
+          [
+            -73.914449,
+            40.647848
+          ],
+          [
+            -73.930324,
+            40.662093
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:17",
+        "EndTime": "2017-06-01T00:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.906784, latitude=40.642275)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "214",
+        "Point 1 time": "2017-05-31T23:53:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.914449, latitude=40.647848)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.930324, latitude=40.662093)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "171",
+        "Point 3 time": "2017-06-01T00:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.88173,
+            40.639052
+          ],
+          [
+            -73.894906,
+            40.630516
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:03:58",
+        "EndTime": "2017-06-01T00:14:05",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.88173, latitude=40.639052)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "213",
+        "Point 1 time": "2017-06-01T00:03:58",
+        "Point 2 geom": "MyLatLong(longitude=-73.894906, latitude=40.630516)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7130",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T16:03:43",
+        "EndTime": "2017-05-31T16:03:43",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T16:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906154,
+            40.640399
+          ],
+          [
+            -73.905812,
+            40.640337
+          ],
+          [
+            -73.920736,
+            40.653473
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:23:59",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.906154, latitude=40.640399)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "15",
+        "Point 1 time": "2017-05-31T23:23:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.905812, latitude=40.640337)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "275",
+        "Point 2 time": "2017-05-31T23:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-73.920736, latitude=40.653473)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "95",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926633,
+            40.658783
+          ],
+          [
+            -73.912951,
+            40.646505
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:13:23",
+        "EndTime": "2017-06-01T01:24:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.926633, latitude=40.658783)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "127",
+        "Point 1 time": "2017-06-01T01:13:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.912951, latitude=40.646505)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T01:24:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929409,
+            40.661276
+          ],
+          [
+            -73.9345,
+            40.66877
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:20",
+        "EndTime": "2017-06-01T00:04:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.929409, latitude=40.661276)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "291",
+        "Point 1 time": "2017-05-31T23:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.9345, latitude=40.66877)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-06-01T00:04:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891603,
+            40.632654
+          ],
+          [
+            -73.906202,
+            40.640442
+          ],
+          [
+            -73.920322,
+            40.653101
+          ],
+          [
+            -73.93193,
+            40.66273
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4987",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:44:11",
+        "EndTime": "2017-06-01T01:13:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.891603, latitude=40.632654)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T00:44:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.906202, latitude=40.640442)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:54:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.920322, latitude=40.653101)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "149",
+        "Point 3 time": "2017-06-01T01:04:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.93193, latitude=40.66273)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-06-01T01:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.902208,
+          40.645041
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6816",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:04:22",
+        "EndTime": "2017-06-01T00:04:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.902208, latitude=40.645041)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-06-01T00:04:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.907808,
+            40.641883
+          ],
+          [
+            -73.900934,
+            40.643488
+          ],
+          [
+            -73.900601,
+            40.626471
+          ],
+          [
+            -73.900601,
+            40.626471
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:23:45",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.907808, latitude=40.641883)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "91",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.900934, latitude=40.643488)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "248",
+        "Point 2 time": "2017-06-01T00:04:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.900601, latitude=40.626471)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "109",
+        "Point 3 time": "2017-06-01T00:14:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.900601, latitude=40.626471)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "109",
+        "Point 4 time": "2017-06-01T00:23:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.901912,
+            40.636583
+          ],
+          [
+            -73.920584,
+            40.653327
+          ],
+          [
+            -73.937388,
+            40.663042
+          ],
+          [
+            -73.931738,
+            40.668619
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6806",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:43:41",
+        "EndTime": "2017-06-01T03:14:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.901912, latitude=40.636583)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "75",
+        "Point 1 time": "2017-06-01T02:43:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.920584, latitude=40.653327)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-06-01T02:54:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.937388, latitude=40.663042)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T03:04:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.931738, latitude=40.668619)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T03:14:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.89881,
+            40.633801
+          ],
+          [
+            -73.912439,
+            40.646041
+          ],
+          [
+            -73.923697,
+            40.656138
+          ],
+          [
+            -73.937197,
+            40.663441
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T03:14:22",
+        "EndTime": "2017-06-01T03:43:56",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.89881, latitude=40.633801)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T03:14:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.912439, latitude=40.646041)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T03:24:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.923697, latitude=40.656138)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T03:34:15",
+        "Point 4 geom": "MyLatLong(longitude=-73.937197, latitude=40.663441)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "73",
+        "Point 4 time": "2017-06-01T03:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.928372,
+          40.660339
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T22:23:56",
+        "EndTime": "2017-05-31T22:23:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.928372, latitude=40.660339)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "200",
+        "Point 1 time": "2017-05-31T22:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922309,
+            40.654902
+          ],
+          [
+            -73.900742,
+            40.635533
+          ],
+          [
+            -73.881857,
+            40.638777
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7128",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T16:33:30",
+        "EndTime": "2017-05-31T16:53:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922309, latitude=40.654902)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T16:33:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.900742, latitude=40.635533)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-05-31T16:43:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.881857, latitude=40.638777)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "30",
+        "Point 3 time": "2017-05-31T16:53:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.923536,
+            40.655996
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:34:08",
+        "EndTime": "2017-05-31T23:44:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:34:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.923536, latitude=40.655996)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T23:44:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.905115,
+            40.639463
+          ],
+          [
+            -73.887504,
+            40.635123
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:44:12",
+        "EndTime": "2017-06-01T01:53:45",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.905115, latitude=40.639463)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "160",
+        "Point 1 time": "2017-06-01T01:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.887504, latitude=40.635123)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "153",
+        "Point 2 time": "2017-06-01T01:53:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93152,
+            40.664548
+          ],
+          [
+            -73.921758,
+            40.654407
+          ],
+          [
+            -73.906243,
+            40.640478
+          ],
+          [
+            -73.889909,
+            40.633584
+          ],
+          [
+            -73.882059,
+            40.638645
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:24:40",
+        "EndTime": "2017-06-01T03:04:33",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.93152, latitude=40.664548)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "93",
+        "Point 1 time": "2017-06-01T02:24:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.921758, latitude=40.654407)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "266",
+        "Point 2 time": "2017-06-01T02:33:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.906243, latitude=40.640478)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "77",
+        "Point 3 time": "2017-06-01T02:43:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.889909, latitude=40.633584)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "82",
+        "Point 4 time": "2017-06-01T02:54:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.882059, latitude=40.638645)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "52",
+        "Point 5 time": "2017-06-01T03:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.931477,
+          40.665015
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:44:18",
+        "EndTime": "2017-05-31T23:44:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.931477, latitude=40.665015)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "145",
+        "Point 1 time": "2017-05-31T23:44:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.926852,
+            40.658979
+          ],
+          [
+            -73.907655,
+            40.641744
+          ],
+          [
+            -73.887128,
+            40.635367
+          ],
+          [
+            -73.882099,
+            40.638619
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T22:33:37",
+        "EndTime": "2017-05-31T23:03:32",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.926852, latitude=40.658979)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-05-31T22:33:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.907655, latitude=40.641744)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "38",
+        "Point 2 time": "2017-05-31T22:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.887128, latitude=40.635367)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "111",
+        "Point 3 time": "2017-05-31T22:53:56",
+        "Point 4 geom": "MyLatLong(longitude=-73.882099, latitude=40.638619)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "57",
+        "Point 4 time": "2017-05-31T23:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904862,
+            40.629712
+          ],
+          [
+            -73.906033,
+            40.640292
+          ],
+          [
+            -73.906427,
+            40.64064
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4987",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:54:11",
+        "EndTime": "2017-05-31T23:13:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.904862, latitude=40.629712)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "27",
+        "Point 1 time": "2017-05-31T22:54:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.906033, latitude=40.640292)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "31",
+        "Point 2 time": "2017-05-31T23:03:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.906427, latitude=40.64064)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "199",
+        "Point 3 time": "2017-05-31T23:13:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.902536,
+          40.628664
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:13:19",
+        "EndTime": "2017-05-31T23:13:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.902536, latitude=40.628664)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-05-31T23:13:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900603,
+            40.635409
+          ],
+          [
+            -73.912636,
+            40.646217
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:34:26",
+        "EndTime": "2017-05-31T23:43:57",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.900603, latitude=40.635409)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-05-31T23:34:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.912636, latitude=40.646217)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "259",
+        "Point 2 time": "2017-05-31T23:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929323,
+            40.661197
+          ],
+          [
+            -73.934308,
+            40.66876
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:11",
+        "EndTime": "2017-06-01T00:04:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.929323, latitude=40.661197)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.934308, latitude=40.66876)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-06-01T00:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.932109,
+          40.668639
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:24",
+        "EndTime": "2017-05-31T23:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.932109, latitude=40.668639)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "41",
+        "Point 1 time": "2017-05-31T23:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931568,
+            40.664017
+          ],
+          [
+            -73.917533,
+            40.650615
+          ],
+          [
+            -73.898665,
+            40.63367
+          ],
+          [
+            -73.882059,
+            40.638645
+          ],
+          [
+            -73.882059,
+            40.638645
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6594",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:54:32",
+        "EndTime": "2017-06-01T03:34:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.931568, latitude=40.664017)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "34",
+        "Point 1 time": "2017-06-01T02:54:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.917533, latitude=40.650615)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "190",
+        "Point 2 time": "2017-06-01T03:04:36",
+        "Point 3 geom": "MyLatLong(longitude=-73.898665, latitude=40.63367)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "36",
+        "Point 3 time": "2017-06-01T03:14:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.882059, latitude=40.638645)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "52",
+        "Point 4 time": "2017-06-01T03:23:51",
+        "Point 5 geom": "MyLatLong(longitude=-73.882059, latitude=40.638645)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "52",
+        "Point 5 time": "2017-06-01T03:34:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931567,
+            40.664026
+          ],
+          [
+            -73.919722,
+            40.652574
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:24:35",
+        "EndTime": "2017-06-01T01:34:07",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931567, latitude=40.664026)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T01:24:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.919722, latitude=40.652574)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:34:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.903842,
+            40.633153
+          ],
+          [
+            -73.902812,
+            40.644817
+          ],
+          [
+            -73.914559,
+            40.647947
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:44:17",
+        "EndTime": "2017-05-31T23:03:45",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.903842, latitude=40.633153)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.902812, latitude=40.644817)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-05-31T22:54:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.914559, latitude=40.647947)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-05-31T23:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891168,
+            40.632937
+          ],
+          [
+            -73.914426,
+            40.647826
+          ],
+          [
+            -73.931063,
+            40.662768
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7128",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T17:03:43",
+        "EndTime": "2017-05-31T17:33:18",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.891168, latitude=40.632937)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "55",
+        "Point 1 time": "2017-05-31T17:03:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.914426, latitude=40.647826)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-05-31T17:13:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.931063, latitude=40.662768)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "74",
+        "Point 3 time": "2017-05-31T17:23:14",
+        "Point 4 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T17:33:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900613,
+            40.627799
+          ],
+          [
+            -73.906519,
+            40.640722
+          ],
+          [
+            -73.905618,
+            40.640461
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:22",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.900613, latitude=40.627799)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.906519, latitude=40.640722)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "193",
+        "Point 2 time": "2017-06-01T00:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.905618, latitude=40.640461)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "297",
+        "Point 3 time": "2017-06-01T00:14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90408,
+            40.64399
+          ],
+          [
+            -73.914587,
+            40.647972
+          ],
+          [
+            -73.926198,
+            40.658382
+          ],
+          [
+            -73.936693,
+            40.668729
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:03:41",
+        "EndTime": "2017-05-31T22:33:47",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.90408, latitude=40.64399)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "154",
+        "Point 1 time": "2017-05-31T22:03:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.914587, latitude=40.647972)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T22:13:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.926198, latitude=40.658382)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "172",
+        "Point 3 time": "2017-05-31T22:23:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.936693, latitude=40.668729)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-05-31T22:33:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881621,
+          40.638931
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:24:17",
+        "EndTime": "2017-05-31T23:24:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881621, latitude=40.638931)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T23:24:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.897344,
+          40.632484
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:34:32",
+        "EndTime": "2017-06-01T01:34:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.897344, latitude=40.632484)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-06-01T01:34:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922924,
+            40.655452
+          ],
+          [
+            -73.937376,
+            40.662732
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:13:25",
+        "EndTime": "2017-05-31T23:23:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.922924, latitude=40.655452)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "120",
+        "Point 1 time": "2017-05-31T23:13:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.937376, latitude=40.662732)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-05-31T23:23:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920252,
+            40.65304
+          ],
+          [
+            -73.932791,
+            40.662677
+          ],
+          [
+            -73.932261,
+            40.668647
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:34:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.920252, latitude=40.65304)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-05-31T23:13:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.932791, latitude=40.662677)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "179",
+        "Point 2 time": "2017-05-31T23:24:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.932261, latitude=40.668647)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "54",
+        "Point 3 time": "2017-05-31T23:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.936383,
+          40.662454
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4985",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T00:23:36",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.936383, latitude=40.662454)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "126",
+        "Point 1 time": "2017-06-01T00:23:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.882154,
+          40.638583
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4987",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T00:34:06",
+        "EndTime": "2017-06-01T00:34:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.882154, latitude=40.638583)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-06-01T00:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.936894,
+          40.666593
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:58",
+        "EndTime": "2017-06-01T00:23:58",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.936894, latitude=40.666593)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:23:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902032,
+            40.636691
+          ],
+          [
+            -73.920273,
+            40.653058
+          ],
+          [
+            -73.9368,
+            40.667568
+          ],
+          [
+            -73.931975,
+            40.668632
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:54:02",
+        "EndTime": "2017-06-01T02:24:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902032, latitude=40.636691)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-06-01T01:54:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.920273, latitude=40.653058)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:03:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.9368, latitude=40.667568)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "132",
+        "Point 3 time": "2017-06-01T02:14:15",
+        "Point 4 geom": "MyLatLong(longitude=-73.931975, latitude=40.668632)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "29",
+        "Point 4 time": "2017-06-01T02:24:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929409,
+            40.661276
+          ],
+          [
+            -73.9345,
+            40.66877
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:20",
+        "EndTime": "2017-06-01T00:04:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.929409, latitude=40.661276)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "291",
+        "Point 1 time": "2017-05-31T23:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.9345, latitude=40.66877)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-06-01T00:04:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.882204,
+            40.638744
+          ],
+          [
+            -73.90073,
+            40.635522
+          ],
+          [
+            -73.916522,
+            40.649706
+          ],
+          [
+            -73.928892,
+            40.660807
+          ],
+          [
+            -73.932172,
+            40.668642
+          ],
+          [
+            -73.932172,
+            40.668642
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T21:43:35",
+        "EndTime": "2017-05-31T22:33:49",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.882204, latitude=40.638744)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "160",
+        "Point 1 time": "2017-05-31T21:43:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.90073, latitude=40.635522)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-05-31T21:53:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.916522, latitude=40.649706)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-05-31T22:03:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.928892, latitude=40.660807)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "56",
+        "Point 4 time": "2017-05-31T22:13:43",
+        "Point 5 geom": "MyLatLong(longitude=-73.932172, latitude=40.668642)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "46",
+        "Point 5 time": "2017-05-31T22:23:47",
+        "Point 6 geom": "MyLatLong(longitude=-73.932172, latitude=40.668642)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "46",
+        "Point 6 time": "2017-05-31T22:33:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891998,
+            40.632397
+          ],
+          [
+            -73.92149,
+            40.654164
+          ],
+          [
+            -73.934162,
+            40.668752
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4929",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T16:33:32",
+        "EndTime": "2017-05-31T16:53:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.891998, latitude=40.632397)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "124",
+        "Point 1 time": "2017-05-31T16:33:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.92149, latitude=40.654164)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "127",
+        "Point 2 time": "2017-05-31T16:43:38",
+        "Point 3 geom": "MyLatLong(longitude=-73.934162, latitude=40.668752)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "8",
+        "Point 3 time": "2017-05-31T16:53:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:33:52",
+        "EndTime": "2017-06-01T02:33:52",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:33:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.911948,
+            40.645601
+          ],
+          [
+            -73.883664,
+            40.637597
+          ],
+          [
+            -73.881766,
+            40.638836
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4929",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T16:03:28",
+        "EndTime": "2017-05-31T16:23:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.911948, latitude=40.645601)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "140",
+        "Point 1 time": "2017-05-31T16:03:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.883664, latitude=40.637597)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "231",
+        "Point 2 time": "2017-05-31T16:13:28",
+        "Point 3 geom": "MyLatLong(longitude=-73.881766, latitude=40.638836)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T16:23:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.893744,
+            40.631264
+          ],
+          [
+            -73.910859,
+            40.644623
+          ],
+          [
+            -73.92525,
+            40.657539
+          ],
+          [
+            -73.93575,
+            40.668838
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T03:24:03",
+        "EndTime": "2017-06-01T04:03:55",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.893744, latitude=40.631264)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T03:24:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.910859, latitude=40.644623)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "74",
+        "Point 2 time": "2017-06-01T03:34:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.92525, latitude=40.657539)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "50",
+        "Point 3 time": "2017-06-01T03:43:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.93575, latitude=40.668838)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "142",
+        "Point 4 time": "2017-06-01T03:54:22",
+        "Point 5 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-06-01T04:03:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.882138,
+            40.638593
+          ],
+          [
+            -73.882138,
+            40.638593
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T22:33:47",
+        "EndTime": "2017-05-31T22:43:52",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.882138, latitude=40.638593)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "61",
+        "Point 1 time": "2017-05-31T22:33:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.882138, latitude=40.638593)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-05-31T22:43:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931353,
+            40.666337
+          ],
+          [
+            -73.915823,
+            40.649083
+          ],
+          [
+            -73.89172,
+            40.632413
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T22:03:40",
+        "EndTime": "2017-05-31T22:23:46",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.931353, latitude=40.666337)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "59",
+        "Point 1 time": "2017-05-31T22:03:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.915823, latitude=40.649083)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "132",
+        "Point 2 time": "2017-05-31T22:13:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.89172, latitude=40.632413)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "76",
+        "Point 3 time": "2017-05-31T22:23:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929077,
+            40.660972
+          ],
+          [
+            -73.916162,
+            40.649385
+          ],
+          [
+            -73.903114,
+            40.644623
+          ],
+          [
+            -73.902336,
+            40.634124
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:13:38",
+        "EndTime": "2017-05-31T23:44:20",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.929077, latitude=40.660972)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-05-31T23:13:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.916162, latitude=40.649385)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "10",
+        "Point 2 time": "2017-05-31T23:24:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.903114, latitude=40.644623)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "43",
+        "Point 3 time": "2017-05-31T23:34:15",
+        "Point 4 geom": "MyLatLong(longitude=-73.902336, latitude=40.634124)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "145",
+        "Point 4 time": "2017-05-31T23:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902328,
+            40.636959
+          ],
+          [
+            -73.918362,
+            40.651358
+          ],
+          [
+            -73.927935,
+            40.659947
+          ],
+          [
+            -73.93431,
+            40.66876
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:33:48",
+        "EndTime": "2017-05-31T23:13:37",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.902328, latitude=40.636959)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-05-31T22:33:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.918362, latitude=40.651358)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T22:44:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.927935, latitude=40.659947)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "181",
+        "Point 3 time": "2017-05-31T22:53:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.93431, latitude=40.66876)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-05-31T23:03:34",
+        "Point 5 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-05-31T23:13:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8913,
+            40.632851
+          ],
+          [
+            -73.906235,
+            40.640471
+          ],
+          [
+            -73.921015,
+            40.653733
+          ],
+          [
+            -73.930958,
+            40.662659
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5028",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:23:43",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.8913, latitude=40.632851)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.906235, latitude=40.640471)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T00:04:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.921015, latitude=40.653733)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "58",
+        "Point 3 time": "2017-06-01T00:14:08",
+        "Point 4 geom": "MyLatLong(longitude=-73.930958, latitude=40.662659)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "89",
+        "Point 4 time": "2017-06-01T00:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900327,
+            40.635163
+          ],
+          [
+            -73.918761,
+            40.651715
+          ],
+          [
+            -73.932025,
+            40.662724
+          ],
+          [
+            -73.932137,
+            40.66864
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T21:43:46",
+        "EndTime": "2017-05-31T22:13:26",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.900327, latitude=40.635163)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-05-31T21:43:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.918761, latitude=40.651715)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "196",
+        "Point 2 time": "2017-05-31T21:53:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.932025, latitude=40.662724)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "244",
+        "Point 3 time": "2017-05-31T22:03:21",
+        "Point 4 geom": "MyLatLong(longitude=-73.932137, latitude=40.66864)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "43",
+        "Point 4 time": "2017-05-31T22:13:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.895296,
+            40.630648
+          ],
+          [
+            -73.913643,
+            40.647122
+          ],
+          [
+            -73.929172,
+            40.661059
+          ],
+          [
+            -73.934651,
+            40.668779
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:54:12",
+        "EndTime": "2017-06-01T03:23:54",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.895296, latitude=40.630648)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "244",
+        "Point 1 time": "2017-06-01T02:54:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.913643, latitude=40.647122)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "127",
+        "Point 2 time": "2017-06-01T03:04:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.929172, latitude=40.661059)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-06-01T03:14:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.934651, latitude=40.668779)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "49",
+        "Point 4 time": "2017-06-01T03:23:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90501,
+            40.639367
+          ],
+          [
+            -73.888578,
+            40.63443
+          ],
+          [
+            -73.882154,
+            40.638583
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5028",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:24:25",
+        "EndTime": "2017-05-31T23:43:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.90501, latitude=40.639367)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "147",
+        "Point 1 time": "2017-05-31T23:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.888578, latitude=40.63443)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "95",
+        "Point 2 time": "2017-05-31T23:33:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.882154, latitude=40.638583)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "63",
+        "Point 3 time": "2017-05-31T23:43:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902544,
+            40.628668
+          ],
+          [
+            -73.903955,
+            40.644071
+          ],
+          [
+            -73.912468,
+            40.646067
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6594",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:03:22",
+        "EndTime": "2017-06-01T02:24:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.902544, latitude=40.628668)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T02:03:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.903955, latitude=40.644071)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "141",
+        "Point 2 time": "2017-06-01T02:14:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.912468, latitude=40.646067)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "18",
+        "Point 3 time": "2017-06-01T02:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914673,
+            40.64805
+          ],
+          [
+            -73.923889,
+            40.656312
+          ],
+          [
+            -73.937364,
+            40.662617
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:24:25",
+        "EndTime": "2017-05-31T23:44:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.914673, latitude=40.64805)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "248",
+        "Point 1 time": "2017-05-31T23:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.923889, latitude=40.656312)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "228",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.937364, latitude=40.662617)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T23:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931179,
+            40.668163
+          ],
+          [
+            -73.920735,
+            40.653472
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5028",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:03:20",
+        "EndTime": "2017-05-31T23:13:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931179, latitude=40.668163)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "263",
+        "Point 1 time": "2017-05-31T23:03:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.920735, latitude=40.653472)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "131",
+        "Point 2 time": "2017-05-31T23:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922317,
+            40.65491
+          ],
+          [
+            -73.906518,
+            40.642454
+          ],
+          [
+            -73.903378,
+            40.637891
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-05-31T23:53:18",
+        "EndTime": "2017-06-01T00:14:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.922317, latitude=40.65491)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T23:53:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.906518, latitude=40.642454)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "190",
+        "Point 2 time": "2017-06-01T00:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.903378, latitude=40.637891)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "194",
+        "Point 3 time": "2017-06-01T00:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887247,
+            40.635491
+          ],
+          [
+            -73.906134,
+            40.640381
+          ],
+          [
+            -73.920309,
+            40.653089
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:34:17",
+        "EndTime": "2017-05-31T23:53:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.887247, latitude=40.635491)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "37",
+        "Point 1 time": "2017-05-31T23:34:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.906134, latitude=40.640381)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-05-31T23:44:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.920309, latitude=40.653089)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "151",
+        "Point 3 time": "2017-05-31T23:53:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881625,
+          40.638928
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T01:44:31",
+        "EndTime": "2017-06-01T01:44:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881625, latitude=40.638928)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T01:44:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932217,
+            40.668645
+          ],
+          [
+            -73.932217,
+            40.668645
+          ],
+          [
+            -73.932217,
+            40.668645
+          ],
+          [
+            -73.932217,
+            40.668645
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:52",
+        "EndTime": "2017-06-01T00:54:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-06-01T00:23:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-06-01T00:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "50",
+        "Point 3 time": "2017-06-01T00:44:22",
+        "Point 4 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "50",
+        "Point 4 time": "2017-06-01T00:54:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.882177,
+            40.638568
+          ],
+          [
+            -73.882177,
+            40.638568
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6806",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T02:24:27",
+        "EndTime": "2017-06-01T02:34:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.882177, latitude=40.638568)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-06-01T02:24:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.882177, latitude=40.638568)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "65",
+        "Point 2 time": "2017-06-01T02:34:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.905696,
+            40.639988
+          ],
+          [
+            -73.902687,
+            40.644897
+          ],
+          [
+            -73.915022,
+            40.648364
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:34:14",
+        "EndTime": "2017-05-31T23:53:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.905696, latitude=40.639988)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "75",
+        "Point 1 time": "2017-05-31T23:34:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.902687, latitude=40.644897)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T23:44:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.915022, latitude=40.648364)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "203",
+        "Point 3 time": "2017-05-31T23:53:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934204,
+            40.66259
+          ],
+          [
+            -73.932043,
+            40.668635
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7128",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T16:03:47",
+        "EndTime": "2017-05-31T16:23:53",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.934204, latitude=40.66259)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-05-31T16:03:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.932043, latitude=40.668635)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-05-31T16:13:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T16:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:23:57",
+        "EndTime": "2017-05-31T22:23:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918392,
+            40.651385
+          ],
+          [
+            -73.937191,
+            40.663463
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4936",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T21:03:22",
+        "EndTime": "2017-05-31T21:13:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.918392, latitude=40.651385)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "244",
+        "Point 1 time": "2017-05-31T21:03:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.937191, latitude=40.663463)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-05-31T21:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.906006,
+            40.630224
+          ],
+          [
+            -73.906537,
+            40.642441
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:13:44",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.906006, latitude=40.630224)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "335",
+        "Point 1 time": "2017-05-31T22:13:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.906537, latitude=40.642441)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "186",
+        "Point 2 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.897141,
+          40.632301
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:13:09",
+        "EndTime": "2017-05-31T23:13:09",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.897141, latitude=40.632301)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T23:13:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881763,
+          40.638838
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:24:23",
+        "EndTime": "2017-05-31T23:24:23",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881763, latitude=40.638838)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T23:24:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.883413,
+          40.637958
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:23:44",
+        "EndTime": "2017-05-31T22:23:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.883413, latitude=40.637958)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-05-31T22:23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.931969,
+          40.668631
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T17:53:32",
+        "EndTime": "2017-05-31T17:53:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.931969, latitude=40.668631)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-05-31T17:53:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933772,
+            40.662617
+          ],
+          [
+            -73.931879,
+            40.668626
+          ],
+          [
+            -73.931694,
+            40.668616
+          ],
+          [
+            -73.931694,
+            40.668616
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6820",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:44:27",
+        "EndTime": "2017-06-01T02:14:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.933772, latitude=40.662617)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "96",
+        "Point 1 time": "2017-06-01T01:44:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.931879, latitude=40.668626)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T01:53:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.931694, latitude=40.668616)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T02:03:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.931694, latitude=40.668616)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "6",
+        "Point 4 time": "2017-06-01T02:14:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931407,
+            40.665924
+          ],
+          [
+            -73.921681,
+            40.654336
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-06-01T00:04:25",
+        "EndTime": "2017-06-01T00:14:28",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931407, latitude=40.665924)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T00:04:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.921681, latitude=40.654336)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "256",
+        "Point 2 time": "2017-06-01T00:14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924918,
+            40.657242
+          ],
+          [
+            -73.912837,
+            40.6464
+          ],
+          [
+            -73.89502,
+            40.630401
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T03:14:35",
+        "EndTime": "2017-06-01T03:34:43",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.924918, latitude=40.657242)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-06-01T03:14:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.912837, latitude=40.6464)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T03:23:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.89502, latitude=40.630401)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "87",
+        "Point 3 time": "2017-06-01T03:34:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887675,
+            40.635213
+          ],
+          [
+            -73.90221,
+            40.636851
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6835",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:53:52",
+        "EndTime": "2017-05-31T23:03:40",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.887675, latitude=40.635213)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "210",
+        "Point 1 time": "2017-05-31T22:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.90221, latitude=40.636851)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-05-31T23:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935674,
+            40.668834
+          ],
+          [
+            -73.932217,
+            40.668645
+          ],
+          [
+            -73.932217,
+            40.668645
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6829",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-06-01T00:14:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.935674, latitude=40.668834)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-05-31T23:53:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-06-01T00:04:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.932217, latitude=40.668645)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "50",
+        "Point 3 time": "2017-06-01T00:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.900525,
+          40.635293
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:33:38",
+        "EndTime": "2017-05-31T22:33:38",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.900525, latitude=40.635293)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "37",
+        "Point 1 time": "2017-05-31T22:33:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925604,
+            40.657854
+          ],
+          [
+            -73.912916,
+            40.646473
+          ],
+          [
+            -73.895362,
+            40.630708
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7130",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T16:13:49",
+        "EndTime": "2017-05-31T16:33:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.925604, latitude=40.657854)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "277",
+        "Point 1 time": "2017-05-31T16:13:49",
+        "Point 2 geom": "MyLatLong(longitude=-73.912916, latitude=40.646473)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-05-31T16:23:53",
+        "Point 3 geom": "MyLatLong(longitude=-73.895362, latitude=40.630708)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "30",
+        "Point 3 time": "2017-05-31T16:33:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.905332,
+          40.632188
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6842",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:14:25",
+        "EndTime": "2017-06-01T00:14:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.905332, latitude=40.632188)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T00:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.898665,
+            40.63367
+          ],
+          [
+            -73.913759,
+            40.647225
+          ],
+          [
+            -73.923829,
+            40.656258
+          ],
+          [
+            -73.937376,
+            40.662732
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:44:16",
+        "EndTime": "2017-05-31T23:13:23",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.898665, latitude=40.63367)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-05-31T22:44:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.913759, latitude=40.647225)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "112",
+        "Point 2 time": "2017-05-31T22:54:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.923829, latitude=40.656258)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "2",
+        "Point 3 time": "2017-05-31T23:03:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.937376, latitude=40.662732)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-05-31T23:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931919,
+            40.668628
+          ],
+          [
+            -73.931919,
+            40.668628
+          ],
+          [
+            -73.931919,
+            40.668628
+          ],
+          [
+            -73.931919,
+            40.668628
+          ],
+          [
+            -73.931919,
+            40.668628
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6828",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:34:03",
+        "EndTime": "2017-06-01T01:13:12",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T00:34:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "25",
+        "Point 2 time": "2017-06-01T00:44:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "25",
+        "Point 3 time": "2017-06-01T00:54:12",
+        "Point 4 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-06-01T01:04:15",
+        "Point 5 geom": "MyLatLong(longitude=-73.931919, latitude=40.668628)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "25",
+        "Point 5 time": "2017-06-01T01:13:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.900603,
+            40.635409
+          ],
+          [
+            -73.916406,
+            40.649603
+          ],
+          [
+            -73.926762,
+            40.658898
+          ],
+          [
+            -73.882096,
+            40.638814
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:34:05",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.900603, latitude=40.635409)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-06-01T00:34:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.916406, latitude=40.649603)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "22",
+        "Point 2 time": "2017-06-01T00:44:07",
+        "Point 3 geom": "MyLatLong(longitude=-73.926762, latitude=40.658898)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "98",
+        "Point 3 time": "2017-06-01T00:54:09",
+        "Point 4 geom": "MyLatLong(longitude=-73.882096, latitude=40.638814)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "172",
+        "Point 4 time": "2017-06-01T01:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.914087,
+          40.64752
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T00:34:26",
+        "EndTime": "2017-06-01T00:34:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.914087, latitude=40.64752)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "167",
+        "Point 1 time": "2017-06-01T00:34:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920166,
+            40.652965
+          ],
+          [
+            -73.933151,
+            40.662655
+          ],
+          [
+            -73.932678,
+            40.66867
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T00:44:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.920166, latitude=40.652965)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.933151, latitude=40.662655)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "149",
+        "Point 2 time": "2017-06-01T00:34:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.932678, latitude=40.66867)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "89",
+        "Point 3 time": "2017-06-01T00:44:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921334,
+            40.654022
+          ],
+          [
+            -73.93709,
+            40.66241
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:13:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.921334, latitude=40.654022)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.93709, latitude=40.66241)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-06-01T00:04:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T00:13:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.892843,
+            40.631845
+          ],
+          [
+            -73.909455,
+            40.64336
+          ],
+          [
+            -73.922362,
+            40.654949
+          ],
+          [
+            -73.937197,
+            40.663441
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6808",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T02:24:12",
+        "EndTime": "2017-06-01T03:04:25",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.892843, latitude=40.631845)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-06-01T02:24:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.909455, latitude=40.64336)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-06-01T02:34:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.922362, latitude=40.654949)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T02:43:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.937197, latitude=40.663441)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "73",
+        "Point 4 time": "2017-06-01T02:54:23",
+        "Point 5 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-06-01T03:04:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902215,
+            40.636856
+          ],
+          [
+            -73.907739,
+            40.64182
+          ],
+          [
+            -73.921674,
+            40.65433
+          ],
+          [
+            -73.93699,
+            40.665428
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7119",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:34:20",
+        "EndTime": "2017-06-01T01:04:33",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902215, latitude=40.636856)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T00:34:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.907739, latitude=40.64182)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "27",
+        "Point 2 time": "2017-06-01T00:44:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.921674, latitude=40.65433)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "103",
+        "Point 3 time": "2017-06-01T00:54:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.93699, latitude=40.665428)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "140",
+        "Point 4 time": "2017-06-01T01:04:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90843,
+            40.642442
+          ],
+          [
+            -73.902114,
+            40.636764
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4971",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T00:34:13",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.90843, latitude=40.642442)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "172",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.902114, latitude=40.636764)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "30",
+        "Point 2 time": "2017-06-01T00:34:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.885889,
+          40.636362
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4943",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/E 108 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T00:23:58",
+        "EndTime": "2017-06-01T00:23:58",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.885889, latitude=40.636362)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:23:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93162,
+          40.668612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4968",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:43:56",
+        "EndTime": "2017-05-31T22:43:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.902763,
+            40.644849
+          ],
+          [
+            -73.916174,
+            40.649396
+          ],
+          [
+            -73.929204,
+            40.661088
+          ],
+          [
+            -73.93668,
+            40.668872
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7101",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T02:14:24",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.902763, latitude=40.644849)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.916174, latitude=40.649396)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "52",
+        "Point 2 time": "2017-06-01T01:53:54",
+        "Point 3 geom": "MyLatLong(longitude=-73.929204, latitude=40.661088)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-06-01T02:03:35",
+        "Point 4 geom": "MyLatLong(longitude=-73.93668, latitude=40.668872)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "223",
+        "Point 4 time": "2017-06-01T02:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.928387,
+          40.660353
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6612",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE E 80 ST",
+        "StartTime": "2017-06-01T00:23:43",
+        "EndTime": "2017-06-01T00:23:43",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.928387, latitude=40.660353)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "202",
+        "Point 1 time": "2017-06-01T00:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.912583,
+            40.64617
+          ],
+          [
+            -73.923809,
+            40.65624
+          ],
+          [
+            -73.937133,
+            40.664031
+          ],
+          [
+            -73.93162,
+            40.668612
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "0",
+        "OriginName": "E 80 ST/PAERDEGAT 15 ST",
+        "DestinationName": "CROWN HTS EASTERN PKY",
+        "StartTime": "2017-05-31T22:33:56",
+        "EndTime": "2017-05-31T23:03:37",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.912583, latitude=40.64617)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-05-31T22:33:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.923809, latitude=40.65624)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T22:44:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.937133, latitude=40.664031)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-05-31T22:54:07",
+        "Point 4 geom": "MyLatLong(longitude=-73.93162, latitude=40.668612)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93123,
+            40.668591
+          ],
+          [
+            -73.928503,
+            40.660458
+          ],
+          [
+            -73.914143,
+            40.647571
+          ],
+          [
+            -73.898873,
+            40.633858
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7135",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T03:34:31",
+        "EndTime": "2017-06-01T04:03:37",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.93123, latitude=40.668591)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:34:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.928503, latitude=40.660458)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "218",
+        "Point 2 time": "2017-06-01T03:44:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.914143, latitude=40.647571)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "174",
+        "Point 3 time": "2017-06-01T03:54:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.898873, latitude=40.633858)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "63",
+        "Point 4 time": "2017-06-01T04:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.908014,
+            40.642068
+          ],
+          [
+            -73.892735,
+            40.631756
+          ],
+          [
+            -73.881976,
+            40.638699
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4840",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-06-01T00:34:02",
+        "EndTime": "2017-06-01T00:54:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.908014, latitude=40.642068)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "85",
+        "Point 1 time": "2017-06-01T00:34:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.892735, latitude=40.631756)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "35",
+        "Point 2 time": "2017-06-01T00:44:05",
+        "Point 3 geom": "MyLatLong(longitude=-73.881976, latitude=40.638699)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "43",
+        "Point 3 time": "2017-06-01T00:54:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88671,
+          40.635639
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_6802",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T16:03:49",
+        "EndTime": "2017-05-31T16:03:49",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.88671, latitude=40.635639)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "64",
+        "Point 1 time": "2017-05-31T16:03:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931567,
+            40.664026
+          ],
+          [
+            -73.919738,
+            40.652589
+          ],
+          [
+            -73.904938,
+            40.639302
+          ],
+          [
+            -73.884649,
+            40.636964
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4987",
+        "PublishedLineName": "B17",
+        "DirectionRef": "1",
+        "OriginName": "EASTERN PY/UTICA AV",
+        "DestinationName": "CANARSIE SEAVIEW AV",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:23:39",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.931567, latitude=40.664026)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.919738, latitude=40.652589)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T00:03:56",
+        "Point 3 geom": "MyLatLong(longitude=-73.904938, latitude=40.639302)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "137",
+        "Point 3 time": "2017-06-01T00:14:18",
+        "Point 4 geom": "MyLatLong(longitude=-73.884649, latitude=40.636964)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "63",
+        "Point 4 time": "2017-06-01T00:23:39"
+      }
+    }
+  ]
+}

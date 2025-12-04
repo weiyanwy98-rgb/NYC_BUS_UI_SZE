@@ -1,0 +1,429 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.915594,
+            40.816393
+          ],
+          [
+            -73.89522,
+            40.82296
+          ],
+          [
+            -73.876839,
+            40.828852
+          ],
+          [
+            -73.858991,
+            40.833418
+          ],
+          [
+            -73.843306,
+            40.840269
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4",
+        "DirectionRef": "0",
+        "OriginName": "BERGEN AV/WESTCHESTER AV",
+        "DestinationName": "WESTCHTR SQ via WESTCHTR AV",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T01:04:09",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.915594, latitude=40.816393)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "292",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.89522, latitude=40.82296)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T00:34:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.876839, latitude=40.828852)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "51",
+        "Point 3 time": "2017-06-01T00:44:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.858991, latitude=40.833418)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-06-01T00:54:14",
+        "Point 5 geom": "MyLatLong(longitude=-73.843306, latitude=40.840269)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "38",
+        "Point 5 time": "2017-06-01T01:04:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.843311,
+          40.840803
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "THE HUB 3 AV via WESTCHTR AV",
+        "StartTime": "2017-06-01T01:13:10",
+        "EndTime": "2017-06-01T01:13:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.843311, latitude=40.840803)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "466",
+        "Point 1 time": "2017-06-01T01:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.843308,
+            40.84068
+          ],
+          [
+            -73.843308,
+            40.84068
+          ],
+          [
+            -73.856418,
+            40.8403
+          ],
+          [
+            -73.866168,
+            40.831928
+          ],
+          [
+            -73.883396,
+            40.828279
+          ],
+          [
+            -73.894511,
+            40.823327
+          ],
+          [
+            -73.907741,
+            40.816532
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "METROPOLITAN OVAL via WESTCHESTER AV",
+        "StartTime": "2017-06-01T03:04:20",
+        "EndTime": "2017-06-01T04:03:55",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.843308, latitude=40.84068)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "385",
+        "Point 1 time": "2017-06-01T03:04:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.843308, latitude=40.84068)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "385",
+        "Point 2 time": "2017-06-01T03:14:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.856418, latitude=40.8403)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "88",
+        "Point 3 time": "2017-06-01T03:23:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.866168, latitude=40.831928)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "78",
+        "Point 4 time": "2017-06-01T03:34:22",
+        "Point 5 geom": "MyLatLong(longitude=-73.883396, latitude=40.828279)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "289",
+        "Point 5 time": "2017-06-01T03:43:41",
+        "Point 6 geom": "MyLatLong(longitude=-73.894511, latitude=40.823327)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "17",
+        "Point 6 time": "2017-06-01T03:54:34",
+        "Point 7 geom": "MyLatLong(longitude=-73.907741, latitude=40.816532)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "12",
+        "Point 7 time": "2017-06-01T04:03:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.859568,
+            40.837768
+          ],
+          [
+            -73.843306,
+            40.840238
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "0",
+        "OriginName": "HUGH GRANT CIR/CROSS BX SVC RD",
+        "DestinationName": "WESTCHESTER AV via METROPOLITAN OVAL",
+        "StartTime": "2017-05-31T23:03:39",
+        "EndTime": "2017-05-31T23:13:32",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.859568, latitude=40.837768)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T23:03:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.843306, latitude=40.840238)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T23:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887614,
+            40.826886
+          ],
+          [
+            -73.89757,
+            40.821752
+          ],
+          [
+            -73.91625,
+            40.815501
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "METROPOLITAN OVAL via WESTCHESTER AV",
+        "StartTime": "2017-06-01T01:44:20",
+        "EndTime": "2017-06-01T02:03:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.887614, latitude=40.826886)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-06-01T01:44:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.89757, latitude=40.821752)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "118",
+        "Point 2 time": "2017-06-01T01:53:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.91625, latitude=40.815501)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "145",
+        "Point 3 time": "2017-06-01T02:03:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.84354,
+            40.841688
+          ],
+          [
+            -73.855076,
+            40.840514
+          ],
+          [
+            -73.862366,
+            40.833122
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "METROPOLITAN OVAL via WESTCHESTER AV",
+        "StartTime": "2017-05-31T23:24:08",
+        "EndTime": "2017-05-31T23:44:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.84354, latitude=40.841688)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "246",
+        "Point 1 time": "2017-05-31T23:24:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.855076, latitude=40.840514)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "204",
+        "Point 2 time": "2017-05-31T23:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-73.862366, latitude=40.833122)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-05-31T23:44:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.856678,
+            40.840227
+          ],
+          [
+            -73.869721,
+            40.830901
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "METROPOLITAN OVAL via WESTCHESTER AV",
+        "StartTime": "2017-06-01T01:24:06",
+        "EndTime": "2017-06-01T01:34:28",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.856678, latitude=40.840227)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-06-01T01:24:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.869721, latitude=40.830901)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "172",
+        "Point 2 time": "2017-06-01T01:34:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91618,
+          40.816065
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "THE HUB 3 AV via WESTCHTR AV",
+        "StartTime": "2017-06-01T02:14:38",
+        "EndTime": "2017-06-01T02:14:38",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91618, latitude=40.816065)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "32",
+        "Point 1 time": "2017-06-01T02:14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.899412,
+            40.820798
+          ],
+          [
+            -73.891647,
+            40.824802
+          ],
+          [
+            -73.874042,
+            40.829664
+          ],
+          [
+            -73.856081,
+            40.833734
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4",
+        "DirectionRef": "0",
+        "OriginName": "BERGEN AV/WESTCHESTER AV",
+        "DestinationName": "WESTCHTR SQ via WESTCHTR AV",
+        "StartTime": "2017-06-01T02:24:34",
+        "EndTime": "2017-06-01T02:54:19",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.899412, latitude=40.820798)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T02:24:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.891647, latitude=40.824802)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T02:33:56",
+        "Point 3 geom": "MyLatLong(longitude=-73.874042, latitude=40.829664)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "180",
+        "Point 3 time": "2017-06-01T02:43:27",
+        "Point 4 geom": "MyLatLong(longitude=-73.856081, latitude=40.833734)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "140",
+        "Point 4 time": "2017-06-01T02:54:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.878788,
+            40.828613
+          ],
+          [
+            -73.894427,
+            40.823371
+          ],
+          [
+            -73.908385,
+            40.816114
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1217",
+        "PublishedLineName": "Bx4A",
+        "DirectionRef": "1",
+        "OriginName": "LANE AV/BENSON AV",
+        "DestinationName": "METROPOLITAN OVAL via WESTCHESTER AV",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.878788, latitude=40.828613)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-05-31T23:53:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.894427, latitude=40.823371)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "25",
+        "Point 2 time": "2017-06-01T00:04:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.908385, latitude=40.816114)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "285",
+        "Point 3 time": "2017-06-01T00:14:04"
+      }
+    }
+  ]
+}

@@ -28,21 +28,24 @@ app.get("/api/bus_trip/ready", async (req, res) => {
 // ----- API: VEHICLE REFS -----
 app.get("/api/bus_trip/getVehRef", async (req, res) => {
     try {
-        console.log("trying NYC API...");
+       // throw new Error("Simulated NYC API failure");
+        console.log("Fetching vehRefs from NYC API...");
         // 1. Call NYC API
         const response = await axios.get(`${NYC_API}/getVehRef`);
         const vehRefs = response.data;
         // 2. Save to local file
         fs.writeFileSync(`${DATA}/vehRef.json`, JSON.stringify(vehRefs.sort(), null, 2));
         // 3. Return to client
-        res.json(vehRefs);
+        return res.json(vehRefs);
 
     } catch (error) {
         console.log("NYC API down, loading from local file...");
-
+        if(!fs.existsSync(`${DATA}/vehRef.json`)) {
+            return res.status(500).json({ error: "No cached data available" });
+        }
         //4. Fallback to local JSON
         const cache = JSON.parse(fs.readFileSync(`${DATA}/vehRef.json`, "utf-8"));
-        res.json(cache);
+        return res.json(cache);
     }
 });
 
@@ -50,7 +53,8 @@ app.get("/api/bus_trip/getVehRef", async (req, res) => {
 app.get("/api/bus_trip/getBusTripByVehRef/:vehRef", async (req, res) => {
     const { vehRef } = req.params;
     try {
-        console.log("trying NYC API...");
+        console.log("Getting vehRef:", vehRef);
+        //throw new Error("Simulated NYC API failure");
         // 1. Call NYC API
         const response = await axios.get(`${NYC_API}/getBusTripByVehRef/${vehRef}`);
         const tripData = response.data;
@@ -63,7 +67,8 @@ app.get("/api/bus_trip/getBusTripByVehRef/:vehRef", async (req, res) => {
         //4. Fallback to local JSON
         const file = `${DATA}/tripsByVehRef/${vehRef}.geojson`;
         if (!fs.existsSync(file)) {
-            return res.status(404).json({ error: "Vehicle reference not found" });
+            console.log("File not found:");
+            return res.status(500).json({ error: "Vehicle reference not found" });
         }
         const cache = JSON.parse(fs.readFileSync(file, "utf-8"));
         res.json(cache);
@@ -73,7 +78,8 @@ app.get("/api/bus_trip/getBusTripByVehRef/:vehRef", async (req, res) => {
 // ----- API: PUBLISHED LINE NAMES -----
 app.get("/api/bus_trip/getPubLineName", async (req, res) => {
     try {
-        console.log("trying NYC API...");
+        console.log("Fetching line names from NYC API...");
+        //throw new Error("Simulated NYC API failure");
         // 1. Call NYC API
         const response = await axios.get(`${NYC_API}/getPubLineName`);
         const lineNames = response.data;
@@ -97,7 +103,8 @@ app.get("/api/bus_trip/getBusTripByPubLineName/:line", async(req, res) => {
     const { line } = req.params;
     const file = `${DATA}/tripsByLine/${line}.geojson`;
     try {
-        console.log("trying NYC API...");
+        console.log("Getting line name:", line);
+        //throw new Error("Simulated NYC API failure");
         // 1. Call NYC API
         const response = await axios.get(`${NYC_API}/getBusTripByPubLineName/${line}`);
         const tripData = response.data;

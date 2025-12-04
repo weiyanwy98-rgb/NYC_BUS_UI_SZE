@@ -1,0 +1,3693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.118338,
+            40.562071
+          ],
+          [
+            -74.117623,
+            40.573214
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:34:03",
+        "EndTime": "2017-05-31T23:43:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.118338, latitude=40.562071)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-05-31T23:34:03",
+        "Point 2 geom": "MyLatLong(longitude=-74.117623, latitude=40.573214)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-05-31T23:43:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.119305,
+            40.56118
+          ],
+          [
+            -74.117703,
+            40.573258
+          ],
+          [
+            -74.132773,
+            40.592894
+          ],
+          [
+            -74.132334,
+            40.61216
+          ],
+          [
+            -74.135974,
+            40.633866
+          ],
+          [
+            -74.131815,
+            40.640007
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T03:14:24",
+        "EndTime": "2017-06-01T04:03:46",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.119305, latitude=40.56118)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-06-01T03:14:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.117703, latitude=40.573258)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T03:23:50",
+        "Point 3 geom": "MyLatLong(longitude=-74.132773, latitude=40.592894)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "273",
+        "Point 3 time": "2017-06-01T03:34:15",
+        "Point 4 geom": "MyLatLong(longitude=-74.132334, latitude=40.61216)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "16",
+        "Point 4 time": "2017-06-01T03:43:39",
+        "Point 5 geom": "MyLatLong(longitude=-74.135974, latitude=40.633866)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "4",
+        "Point 5 time": "2017-06-01T03:54:37",
+        "Point 6 geom": "MyLatLong(longitude=-74.131815, latitude=40.640007)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "93",
+        "Point 6 time": "2017-06-01T04:03:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130418,
+            40.582778
+          ],
+          [
+            -74.13155,
+            40.603625
+          ],
+          [
+            -74.14499,
+            40.616952
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:43:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130418, latitude=40.582778)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "36",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.13155, latitude=40.603625)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-06-01T02:33:47",
+        "Point 3 geom": "MyLatLong(longitude=-74.14499, latitude=40.616952)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:43:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.131635,
+            40.639312
+          ],
+          [
+            -74.145054,
+            40.61741
+          ],
+          [
+            -74.13243,
+            40.591582
+          ],
+          [
+            -74.116524,
+            40.573799
+          ],
+          [
+            -74.120761,
+            40.560817
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8280",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:43:45",
+        "EndTime": "2017-06-01T03:23:39",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.131635, latitude=40.639312)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "162",
+        "Point 1 time": "2017-06-01T02:43:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.145054, latitude=40.61741)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "40",
+        "Point 2 time": "2017-06-01T02:54:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.13243, latitude=40.591582)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-06-01T03:04:24",
+        "Point 4 geom": "MyLatLong(longitude=-74.116524, latitude=40.573799)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "50",
+        "Point 4 time": "2017-06-01T03:14:30",
+        "Point 5 geom": "MyLatLong(longitude=-74.120761, latitude=40.560817)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "365",
+        "Point 5 time": "2017-06-01T03:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129285,
+          40.565025
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:14:19",
+        "EndTime": "2017-06-01T02:14:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.129285, latitude=40.565025)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "112",
+        "Point 1 time": "2017-06-01T02:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132052,
+          40.639701
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:33",
+        "EndTime": "2017-06-01T00:23:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.132052, latitude=40.639701)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-06-01T00:23:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.131603,
+            40.604063
+          ],
+          [
+            -74.133637,
+            40.586013
+          ],
+          [
+            -74.11953,
+            40.575678
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:14:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.131603, latitude=40.604063)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.133637, latitude=40.586013)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "537",
+        "Point 2 time": "2017-06-01T00:04:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.11953, latitude=40.575678)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "49",
+        "Point 3 time": "2017-06-01T00:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.131603,
+            40.604063
+          ],
+          [
+            -74.133637,
+            40.586013
+          ],
+          [
+            -74.11953,
+            40.575678
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:34",
+        "EndTime": "2017-06-01T00:14:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.131603, latitude=40.604063)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "29",
+        "Point 1 time": "2017-05-31T23:53:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.133637, latitude=40.586013)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "537",
+        "Point 2 time": "2017-06-01T00:04:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.11953, latitude=40.575678)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "49",
+        "Point 3 time": "2017-06-01T00:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.131009,
+            40.598607
+          ],
+          [
+            -74.127158,
+            40.57675
+          ],
+          [
+            -74.124254,
+            40.569383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:34:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.131009, latitude=40.598607)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-05-31T23:13:10",
+        "Point 2 geom": "MyLatLong(longitude=-74.127158, latitude=40.57675)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T23:24:17",
+        "Point 3 geom": "MyLatLong(longitude=-74.124254, latitude=40.569383)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "91",
+        "Point 3 time": "2017-05-31T23:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1378,
+            40.616029
+          ],
+          [
+            -74.137039,
+            40.591092
+          ],
+          [
+            -74.119098,
+            40.575447
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:23:34",
+        "EndTime": "2017-06-01T00:44:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.1378, latitude=40.616029)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T00:23:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.137039, latitude=40.591092)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "259",
+        "Point 2 time": "2017-06-01T00:34",
+        "Point 3 geom": "MyLatLong(longitude=-74.119098, latitude=40.575447)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "94",
+        "Point 3 time": "2017-06-01T00:44:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.133885,
+            40.637274
+          ],
+          [
+            -74.145073,
+            40.617294
+          ],
+          [
+            -74.131767,
+            40.605533
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8309",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:24:30",
+        "EndTime": "2017-05-31T23:44:10",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.133885, latitude=40.637274)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "111",
+        "Point 1 time": "2017-05-31T23:24:30",
+        "Point 2 geom": "MyLatLong(longitude=-74.145073, latitude=40.617294)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "27",
+        "Point 2 time": "2017-05-31T23:34:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.131767, latitude=40.605533)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "193",
+        "Point 3 time": "2017-05-31T23:44:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112238,
+          40.565581
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T22:24:07",
+        "EndTime": "2017-05-31T22:24:07",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:24:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144429,
+            40.621829
+          ],
+          [
+            -74.131748,
+            40.605355
+          ],
+          [
+            -74.138547,
+            40.589224
+          ],
+          [
+            -74.116352,
+            40.573924
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:44:12",
+        "EndTime": "2017-05-31T23:13:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.144429, latitude=40.621829)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-05-31T22:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.131748, latitude=40.605355)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "173",
+        "Point 2 time": "2017-05-31T22:54:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.138547, latitude=40.589224)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T23:03:30",
+        "Point 4 geom": "MyLatLong(longitude=-74.116352, latitude=40.573924)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "30",
+        "Point 4 time": "2017-05-31T23:13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112171,
+            40.561588
+          ],
+          [
+            -74.126211,
+            40.568108
+          ],
+          [
+            -74.127148,
+            40.577862
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:53:33",
+        "EndTime": "2017-06-01T00:14:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.112171, latitude=40.561588)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:33",
+        "Point 2 geom": "MyLatLong(longitude=-74.126211, latitude=40.568108)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "177",
+        "Point 2 time": "2017-06-01T00:04:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.127148, latitude=40.577862)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "216",
+        "Point 3 time": "2017-06-01T00:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.118538,
+            40.561886
+          ],
+          [
+            -74.116553,
+            40.573778
+          ],
+          [
+            -74.133913,
+            40.592954
+          ],
+          [
+            -74.132334,
+            40.612087
+          ],
+          [
+            -74.135821,
+            40.633781
+          ],
+          [
+            -74.131934,
+            40.639854
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:55",
+        "EndTime": "2017-06-01T01:13:13",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.118538, latitude=40.561886)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-06-01T00:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-74.116553, latitude=40.573778)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "56",
+        "Point 2 time": "2017-06-01T00:34:29",
+        "Point 3 geom": "MyLatLong(longitude=-74.133913, latitude=40.592954)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "271",
+        "Point 3 time": "2017-06-01T00:44:02",
+        "Point 4 geom": "MyLatLong(longitude=-74.132334, latitude=40.612087)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "24",
+        "Point 4 time": "2017-06-01T00:54:11",
+        "Point 5 geom": "MyLatLong(longitude=-74.135821, latitude=40.633781)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "20",
+        "Point 5 time": "2017-06-01T01:04:13",
+        "Point 6 geom": "MyLatLong(longitude=-74.131934, latitude=40.639854)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "113",
+        "Point 6 time": "2017-06-01T01:13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.116524,
+            40.573799
+          ],
+          [
+            -74.120761,
+            40.560817
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8280",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T03:14:30",
+        "EndTime": "2017-06-01T03:23:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.116524, latitude=40.573799)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-06-01T03:14:30",
+        "Point 2 geom": "MyLatLong(longitude=-74.120761, latitude=40.560817)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "365",
+        "Point 2 time": "2017-06-01T03:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.116438,
+            40.573862
+          ],
+          [
+            -74.121817,
+            40.561457
+          ],
+          [
+            -74.113135,
+            40.566122
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:06",
+        "EndTime": "2017-06-01T00:14:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.116438, latitude=40.573862)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-05-31T23:53:06",
+        "Point 2 geom": "MyLatLong(longitude=-74.121817, latitude=40.561457)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-06-01T00:04:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.113135, latitude=40.566122)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T00:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.133563,
+            40.596548
+          ],
+          [
+            -74.122524,
+            40.575405
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:03:45",
+        "EndTime": "2017-06-01T02:14:38",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.133563, latitude=40.596548)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "474",
+        "Point 1 time": "2017-06-01T02:03:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.122524, latitude=40.575405)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-06-01T02:14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126393,
+          40.564226
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:24:16",
+        "EndTime": "2017-06-01T02:24:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.126393, latitude=40.564226)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "156",
+        "Point 1 time": "2017-06-01T02:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.136372,
+            40.628972
+          ],
+          [
+            -74.132197,
+            40.60902
+          ],
+          [
+            -74.132603,
+            40.593109
+          ],
+          [
+            -74.117615,
+            40.573209
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:33:31",
+        "EndTime": "2017-05-31T23:03:44",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.136372, latitude=40.628972)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-05-31T22:33:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.132197, latitude=40.60902)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "124",
+        "Point 2 time": "2017-05-31T22:43:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.132603, latitude=40.593109)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "155",
+        "Point 3 time": "2017-05-31T22:53:53",
+        "Point 4 geom": "MyLatLong(longitude=-74.117615, latitude=40.573209)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.137289,
+            40.588258
+          ],
+          [
+            -74.11852,
+            40.575141
+          ],
+          [
+            -74.116408,
+            40.563775
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T00:44:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.137289, latitude=40.588258)",
+        "Point 1 arrival": "0.6 miles away",
+        "Point 1 dist from stop": "934",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.11852, latitude=40.575141)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.116408, latitude=40.563775)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "119",
+        "Point 3 time": "2017-06-01T00:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.12043,
+            40.560619
+          ],
+          [
+            -74.116548,
+            40.574083
+          ],
+          [
+            -74.132346,
+            40.591757
+          ],
+          [
+            -74.132334,
+            40.612087
+          ],
+          [
+            -74.133253,
+            40.631677
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T22:33:42",
+        "EndTime": "2017-05-31T23:13:38",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.12043, latitude=40.560619)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "111",
+        "Point 1 time": "2017-05-31T22:33:42",
+        "Point 2 geom": "MyLatLong(longitude=-74.116548, latitude=40.574083)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-05-31T22:44:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.132346, latitude=40.591757)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "413",
+        "Point 3 time": "2017-05-31T22:54:16",
+        "Point 4 geom": "MyLatLong(longitude=-74.132334, latitude=40.612087)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "24",
+        "Point 4 time": "2017-05-31T23:03:21",
+        "Point 5 geom": "MyLatLong(longitude=-74.133253, latitude=40.631677)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "96",
+        "Point 5 time": "2017-05-31T23:13:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.123154,
+            40.570114
+          ],
+          [
+            -74.128603,
+            40.581154
+          ],
+          [
+            -74.13155,
+            40.603625
+          ],
+          [
+            -74.141669,
+            40.624639
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:34:05",
+        "EndTime": "2017-06-01T02:03:45",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.123154, latitude=40.570114)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-06-01T01:34:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.128603, latitude=40.581154)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "274",
+        "Point 2 time": "2017-06-01T01:44:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.13155, latitude=40.603625)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "29",
+        "Point 3 time": "2017-06-01T01:53:42",
+        "Point 4 geom": "MyLatLong(longitude=-74.141669, latitude=40.624639)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "66",
+        "Point 4 time": "2017-06-01T02:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144077,
+          40.624488
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:43:57",
+        "EndTime": "2017-05-31T23:43:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.144077, latitude=40.624488)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "207",
+        "Point 1 time": "2017-05-31T23:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130589,
+          40.640091
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:14:14",
+        "EndTime": "2017-06-01T02:14:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.130589, latitude=40.640091)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.115106,
+          40.565087
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:54:17",
+        "EndTime": "2017-05-31T22:54:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.115106, latitude=40.565087)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "264",
+        "Point 1 time": "2017-05-31T22:54:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12871,
+          40.566195
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8311",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:14:28",
+        "EndTime": "2017-06-01T00:14:28",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.12871, latitude=40.566195)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-06-01T00:14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.11027,
+            40.564148
+          ],
+          [
+            -74.121672,
+            40.573752
+          ],
+          [
+            -74.127843,
+            40.580304
+          ],
+          [
+            -74.134726,
+            40.595071
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:13:14",
+        "EndTime": "2017-05-31T23:43:59",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.11027, latitude=40.564148)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-05-31T23:13:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.121672, latitude=40.573752)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "46",
+        "Point 2 time": "2017-05-31T23:24:24",
+        "Point 3 geom": "MyLatLong(longitude=-74.127843, latitude=40.580304)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "99",
+        "Point 3 time": "2017-05-31T23:33:56",
+        "Point 4 geom": "MyLatLong(longitude=-74.134726, latitude=40.595071)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "303",
+        "Point 4 time": "2017-05-31T23:43:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.136037,
+            40.634071
+          ],
+          [
+            -74.140453,
+            40.616378
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:53:52",
+        "EndTime": "2017-05-31T23:03:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.136037, latitude=40.634071)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-05-31T22:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-74.140453, latitude=40.616378)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T23:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.122222,
+            40.561703
+          ],
+          [
+            -74.126265,
+            40.576164
+          ],
+          [
+            -74.130926,
+            40.598999
+          ],
+          [
+            -74.144049,
+            40.624745
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:43:40",
+        "EndTime": "2017-06-01T03:14:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.122222, latitude=40.561703)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "116",
+        "Point 1 time": "2017-06-01T02:43:40",
+        "Point 2 geom": "MyLatLong(longitude=-74.126265, latitude=40.576164)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-06-01T02:54:31",
+        "Point 3 geom": "MyLatLong(longitude=-74.130926, latitude=40.598999)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-06-01T03:04:26",
+        "Point 4 geom": "MyLatLong(longitude=-74.144049, latitude=40.624745)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "13",
+        "Point 4 time": "2017-06-01T03:14:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131784,
+          40.605696
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4250",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "BRIELLE AV GANSEVOORT BL",
+        "StartTime": "2017-05-31T23:24:21",
+        "EndTime": "2017-05-31T23:24:21",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.131784, latitude=40.605696)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:24:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.133168,
+            40.614413
+          ],
+          [
+            -74.135193,
+            40.593619
+          ],
+          [
+            -74.126506,
+            40.576238
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8311",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:23:55",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.133168, latitude=40.614413)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "295",
+        "Point 1 time": "2017-05-31T23:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-74.135193, latitude=40.593619)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "96",
+        "Point 2 time": "2017-05-31T23:34:01",
+        "Point 3 geom": "MyLatLong(longitude=-74.126506, latitude=40.576238)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "201",
+        "Point 3 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.136037,
+            40.634071
+          ],
+          [
+            -74.140453,
+            40.616378
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:53:52",
+        "EndTime": "2017-05-31T23:03:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.136037, latitude=40.634071)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-05-31T22:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-74.140453, latitude=40.616378)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T23:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133575,
+          40.632533
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8311",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:13:16",
+        "EndTime": "2017-05-31T23:13:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.133575, latitude=40.632533)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-05-31T23:13:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133453,
+          40.631463
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:14:04",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.133453, latitude=40.631463)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "150",
+        "Point 1 time": "2017-06-01T00:14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.122761,
+            40.575567
+          ],
+          [
+            -74.134059,
+            40.593029
+          ],
+          [
+            -74.132323,
+            40.610469
+          ],
+          [
+            -74.133176,
+            40.632311
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:13:23",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.122761, latitude=40.575567)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-05-31T23:13:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.134059, latitude=40.593029)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "606",
+        "Point 2 time": "2017-05-31T23:23:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.132323, latitude=40.610469)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-05-31T23:33:59",
+        "Point 4 geom": "MyLatLong(longitude=-74.133176, latitude=40.632311)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132001,
+            40.592856
+          ],
+          [
+            -74.14111,
+            40.61646
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:24:17",
+        "EndTime": "2017-06-01T01:34:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.132001, latitude=40.592856)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "168",
+        "Point 1 time": "2017-06-01T01:24:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.14111, latitude=40.61646)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.118338,
+            40.562071
+          ],
+          [
+            -74.117623,
+            40.573214
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:24:25",
+        "EndTime": "2017-05-31T23:43:59",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-74.118338, latitude=40.562071)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-05-31T23:34:03",
+        "Point 3 geom": "MyLatLong(longitude=-74.117623, latitude=40.573214)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-05-31T23:43:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13347,
+          40.632475
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:24:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.13347, latitude=40.632475)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "266",
+        "Point 1 time": "2017-06-01T02:24:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.129668,
+            40.582013
+          ],
+          [
+            -74.126625,
+            40.567882
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T01:13:24",
+        "EndTime": "2017-06-01T01:24:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.129668, latitude=40.582013)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "325",
+        "Point 1 time": "2017-06-01T01:13:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.126625, latitude=40.567882)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "275",
+        "Point 2 time": "2017-06-01T01:24:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.110291,
+            40.564401
+          ],
+          [
+            -74.125691,
+            40.568404
+          ],
+          [
+            -74.133515,
+            40.585518
+          ],
+          [
+            -74.131969,
+            40.607514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:44:13",
+        "EndTime": "2017-06-01T02:14:18",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.110291, latitude=40.564401)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-06-01T01:44:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.125691, latitude=40.568404)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "122",
+        "Point 2 time": "2017-06-01T01:53:42",
+        "Point 3 geom": "MyLatLong(longitude=-74.133515, latitude=40.585518)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "579",
+        "Point 3 time": "2017-06-01T02:03:46",
+        "Point 4 geom": "MyLatLong(longitude=-74.131969, latitude=40.607514)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "102",
+        "Point 4 time": "2017-06-01T02:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.122222,
+            40.561703
+          ],
+          [
+            -74.126265,
+            40.576164
+          ],
+          [
+            -74.130926,
+            40.598999
+          ],
+          [
+            -74.144049,
+            40.624745
+          ],
+          [
+            -74.131019,
+            40.640305
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:34:05",
+        "EndTime": "2017-06-01T03:34:28",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:34:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.122222, latitude=40.561703)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "116",
+        "Point 2 time": "2017-06-01T02:43:40",
+        "Point 3 geom": "MyLatLong(longitude=-74.126265, latitude=40.576164)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "195",
+        "Point 3 time": "2017-06-01T02:54:31",
+        "Point 4 geom": "MyLatLong(longitude=-74.130926, latitude=40.598999)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "13",
+        "Point 4 time": "2017-06-01T03:04:26",
+        "Point 5 geom": "MyLatLong(longitude=-74.144049, latitude=40.624745)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "13",
+        "Point 5 time": "2017-06-01T03:14:41",
+        "Point 6 geom": "MyLatLong(longitude=-74.131019, latitude=40.640305)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "43",
+        "Point 6 time": "2017-06-01T03:34:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.13066,
+            40.639685
+          ],
+          [
+            -74.144521,
+            40.621137
+          ],
+          [
+            -74.133563,
+            40.596548
+          ],
+          [
+            -74.122524,
+            40.575405
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T01:44:35",
+        "EndTime": "2017-06-01T02:14:38",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.13066, latitude=40.639685)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "282",
+        "Point 1 time": "2017-06-01T01:44:35",
+        "Point 2 geom": "MyLatLong(longitude=-74.144521, latitude=40.621137)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "40",
+        "Point 2 time": "2017-06-01T01:53:23",
+        "Point 3 geom": "MyLatLong(longitude=-74.133563, latitude=40.596548)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "474",
+        "Point 3 time": "2017-06-01T02:03:45",
+        "Point 4 geom": "MyLatLong(longitude=-74.122524, latitude=40.575405)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "114",
+        "Point 4 time": "2017-06-01T02:14:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.125203,
+          40.568739
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8311",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:05",
+        "EndTime": "2017-05-31T23:53:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.125203, latitude=40.568739)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "428",
+        "Point 1 time": "2017-05-31T23:53:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.127176,
+            40.576833
+          ],
+          [
+            -74.129103,
+            40.564972
+          ],
+          [
+            -74.113103,
+            40.566103
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T01:44:35",
+        "EndTime": "2017-06-01T02:03:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.127176, latitude=40.576833)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "77",
+        "Point 1 time": "2017-06-01T01:44:35",
+        "Point 2 geom": "MyLatLong(longitude=-74.129103, latitude=40.564972)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "200",
+        "Point 2 time": "2017-06-01T01:54:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.113103, latitude=40.566103)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T02:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.125386,
+            40.575908
+          ],
+          [
+            -74.130926,
+            40.598999
+          ],
+          [
+            -74.144143,
+            40.623937
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8311",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T00:44:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.125386, latitude=40.575908)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "65",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.130926, latitude=40.598999)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T00:34:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.144143, latitude=40.623937)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "104",
+        "Point 3 time": "2017-06-01T00:44:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121768,
+          40.561427
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.121768, latitude=40.561427)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.110291,
+            40.564401
+          ],
+          [
+            -74.125691,
+            40.568404
+          ],
+          [
+            -74.133515,
+            40.585518
+          ],
+          [
+            -74.131969,
+            40.607514
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:34:34",
+        "EndTime": "2017-06-01T02:14:18",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:34:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.110291, latitude=40.564401)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "58",
+        "Point 2 time": "2017-06-01T01:44:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.125691, latitude=40.568404)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "122",
+        "Point 3 time": "2017-06-01T01:53:42",
+        "Point 4 geom": "MyLatLong(longitude=-74.133515, latitude=40.585518)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "579",
+        "Point 4 time": "2017-06-01T02:03:46",
+        "Point 5 geom": "MyLatLong(longitude=-74.131969, latitude=40.607514)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "102",
+        "Point 5 time": "2017-06-01T02:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121768,
+          40.561427
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:13:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.121768, latitude=40.561427)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-05-31T23:13:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.135254,
+            40.633467
+          ],
+          [
+            -74.135021,
+            40.615569
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7034",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "BRIELLE AV GANSEVOORT BL",
+        "StartTime": "2017-05-31T22:44:12",
+        "EndTime": "2017-05-31T22:54:11",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.135254, latitude=40.633467)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "242",
+        "Point 1 time": "2017-05-31T22:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.135021, latitude=40.615569)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "184",
+        "Point 2 time": "2017-05-31T22:54:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.127055,
+          40.564618
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:03:18",
+        "EndTime": "2017-05-31T23:03:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.127055, latitude=40.564618)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:03:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.141178,
+            40.616468
+          ],
+          [
+            -74.131025,
+            40.598576
+          ],
+          [
+            -74.127179,
+            40.577776
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:24:26",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.141178, latitude=40.616468)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-05-31T23:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.131025, latitude=40.598576)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.127179, latitude=40.577776)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.131009,
+            40.598607
+          ],
+          [
+            -74.127158,
+            40.57675
+          ],
+          [
+            -74.124254,
+            40.569383
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:13:10",
+        "EndTime": "2017-05-31T23:34:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.131009, latitude=40.598607)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-05-31T23:13:10",
+        "Point 2 geom": "MyLatLong(longitude=-74.127158, latitude=40.57675)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-05-31T23:24:17",
+        "Point 3 geom": "MyLatLong(longitude=-74.124254, latitude=40.569383)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "91",
+        "Point 3 time": "2017-05-31T23:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.116646,
+            40.563736
+          ],
+          [
+            -74.121575,
+            40.575063
+          ],
+          [
+            -74.138084,
+            40.589827
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8280",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T03:34:17",
+        "EndTime": "2017-06-01T04:03:31",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:34:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.116646, latitude=40.563736)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T03:43:48",
+        "Point 3 geom": "MyLatLong(longitude=-74.121575, latitude=40.575063)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-06-01T03:54:30",
+        "Point 4 geom": "MyLatLong(longitude=-74.138084, latitude=40.589827)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "637",
+        "Point 4 time": "2017-06-01T04:03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.112495,
+          40.561597
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:24:33",
+        "EndTime": "2017-06-01T01:24:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.112495, latitude=40.561597)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "189",
+        "Point 1 time": "2017-06-01T01:24:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132453,
+            40.639182
+          ],
+          [
+            -74.144077,
+            40.624488
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:34:21",
+        "EndTime": "2017-05-31T23:43:57",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.132453, latitude=40.639182)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-05-31T23:34:21",
+        "Point 2 geom": "MyLatLong(longitude=-74.144077, latitude=40.624488)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "207",
+        "Point 2 time": "2017-05-31T23:43:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.118538,
+            40.561886
+          ],
+          [
+            -74.133913,
+            40.592954
+          ],
+          [
+            -74.132334,
+            40.612087
+          ],
+          [
+            -74.135821,
+            40.633781
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:55",
+        "EndTime": "2017-06-01T01:04:13",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.118538, latitude=40.561886)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-06-01T00:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-74.133913, latitude=40.592954)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "271",
+        "Point 2 time": "2017-06-01T00:44:02",
+        "Point 3 geom": "MyLatLong(longitude=-74.132334, latitude=40.612087)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T00:54:11",
+        "Point 4 geom": "MyLatLong(longitude=-74.135821, latitude=40.633781)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "20",
+        "Point 4 time": "2017-06-01T01:04:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13347,
+          40.632475
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:24:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.13347, latitude=40.632475)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "266",
+        "Point 1 time": "2017-06-01T02:24:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.143708,
+            40.624942
+          ],
+          [
+            -74.13127,
+            40.601578
+          ],
+          [
+            -74.130392,
+            40.582749
+          ],
+          [
+            -74.12149,
+            40.571708
+          ],
+          [
+            -74.114196,
+            40.565973
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:24:24",
+        "EndTime": "2017-06-01T03:04:17",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.143708, latitude=40.624942)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "61",
+        "Point 1 time": "2017-06-01T02:24:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.13127, latitude=40.601578)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T02:33:56",
+        "Point 3 geom": "MyLatLong(longitude=-74.130392, latitude=40.582749)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "12",
+        "Point 3 time": "2017-06-01T02:43:34",
+        "Point 4 geom": "MyLatLong(longitude=-74.12149, latitude=40.571708)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "214",
+        "Point 4 time": "2017-06-01T02:54:43",
+        "Point 5 geom": "MyLatLong(longitude=-74.114196, latitude=40.565973)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "139",
+        "Point 5 time": "2017-06-01T03:04:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132306,
+            40.610081
+          ],
+          [
+            -74.141147,
+            40.625022
+          ],
+          [
+            -74.132052,
+            40.639701
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:53:32",
+        "EndTime": "2017-06-01T00:13:59",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.132306, latitude=40.610081)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-05-31T23:53:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.141147, latitude=40.625022)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T00:04:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.132052, latitude=40.639701)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "133",
+        "Point 3 time": "2017-06-01T00:13:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.141178,
+            40.616468
+          ],
+          [
+            -74.131025,
+            40.598576
+          ],
+          [
+            -74.127179,
+            40.577776
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:24:26",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.141178, latitude=40.616468)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-05-31T23:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.131025, latitude=40.598576)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.127179, latitude=40.577776)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132773,
+            40.592894
+          ],
+          [
+            -74.132334,
+            40.61216
+          ],
+          [
+            -74.135974,
+            40.633866
+          ],
+          [
+            -74.131815,
+            40.640007
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T03:34:15",
+        "EndTime": "2017-06-01T04:03:46",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.132773, latitude=40.592894)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "273",
+        "Point 1 time": "2017-06-01T03:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-74.132334, latitude=40.61216)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-06-01T03:43:39",
+        "Point 3 geom": "MyLatLong(longitude=-74.135974, latitude=40.633866)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-06-01T03:54:37",
+        "Point 4 geom": "MyLatLong(longitude=-74.131815, latitude=40.640007)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "93",
+        "Point 4 time": "2017-06-01T04:03:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130926,
+            40.598999
+          ],
+          [
+            -74.140309,
+            40.61636
+          ],
+          [
+            -74.135032,
+            40.635624
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:46",
+        "EndTime": "2017-06-01T00:44:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130926, latitude=40.598999)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T00:23:46",
+        "Point 2 geom": "MyLatLong(longitude=-74.140309, latitude=40.61636)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.135032, latitude=40.635624)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T00:44:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130689,
+            40.583027
+          ],
+          [
+            -74.131733,
+            40.605209
+          ],
+          [
+            -74.144051,
+            40.624729
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:14:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130689, latitude=40.583027)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.131733, latitude=40.605209)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-74.144051, latitude=40.624729)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-06-01T00:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.134529,
+            40.636401
+          ],
+          [
+            -74.144242,
+            40.623197
+          ],
+          [
+            -74.131577,
+            40.603868
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:05",
+        "EndTime": "2017-06-01T00:14:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.134529, latitude=40.636401)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.144242, latitude=40.623197)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "63",
+        "Point 2 time": "2017-06-01T00:04:14",
+        "Point 3 geom": "MyLatLong(longitude=-74.131577, latitude=40.603868)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T00:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1378,
+            40.616029
+          ],
+          [
+            -74.137039,
+            40.591092
+          ],
+          [
+            -74.119098,
+            40.575447
+          ],
+          [
+            -74.114685,
+            40.565497
+          ],
+          [
+            -74.113103,
+            40.566103
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:23:34",
+        "EndTime": "2017-06-01T01:04:20",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.1378, latitude=40.616029)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T00:23:34",
+        "Point 2 geom": "MyLatLong(longitude=-74.137039, latitude=40.591092)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "259",
+        "Point 2 time": "2017-06-01T00:34",
+        "Point 3 geom": "MyLatLong(longitude=-74.119098, latitude=40.575447)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "94",
+        "Point 3 time": "2017-06-01T00:44:25",
+        "Point 4 geom": "MyLatLong(longitude=-74.114685, latitude=40.565497)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "207",
+        "Point 4 time": "2017-06-01T00:54:21",
+        "Point 5 geom": "MyLatLong(longitude=-74.113103, latitude=40.566103)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "7",
+        "Point 5 time": "2017-06-01T01:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.121257,
+            40.575248
+          ],
+          [
+            -74.132001,
+            40.592856
+          ],
+          [
+            -74.14111,
+            40.61646
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T01:13:18",
+        "EndTime": "2017-06-01T01:34:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.121257, latitude=40.575248)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "204",
+        "Point 1 time": "2017-06-01T01:13:18",
+        "Point 2 geom": "MyLatLong(longitude=-74.132001, latitude=40.592856)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "168",
+        "Point 2 time": "2017-06-01T01:24:17",
+        "Point 3 geom": "MyLatLong(longitude=-74.14111, latitude=40.61646)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T01:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126393,
+          40.564226
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T02:24:16",
+        "EndTime": "2017-06-01T02:24:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.126393, latitude=40.564226)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "156",
+        "Point 1 time": "2017-06-01T02:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112171,
+            40.561588
+          ],
+          [
+            -74.126211,
+            40.568108
+          ],
+          [
+            -74.127148,
+            40.577862
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:53:33",
+        "EndTime": "2017-06-01T00:14:14",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.112171, latitude=40.561588)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:33",
+        "Point 2 geom": "MyLatLong(longitude=-74.126211, latitude=40.568108)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "177",
+        "Point 2 time": "2017-06-01T00:04:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.127148, latitude=40.577862)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "216",
+        "Point 3 time": "2017-06-01T00:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.112238,
+            40.565581
+          ],
+          [
+            -74.115613,
+            40.563473
+          ],
+          [
+            -74.117482,
+            40.573135
+          ],
+          [
+            -74.13423,
+            40.593119
+          ],
+          [
+            -74.132142,
+            40.608462
+          ],
+          [
+            -74.133042,
+            40.6319
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8309",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:36",
+        "EndTime": "2017-06-01T01:24:17",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:23:36",
+        "Point 2 geom": "MyLatLong(longitude=-74.112238, latitude=40.565581)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:34:16",
+        "Point 3 geom": "MyLatLong(longitude=-74.115613, latitude=40.563473)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-06-01T00:44:32",
+        "Point 4 geom": "MyLatLong(longitude=-74.117482, latitude=40.573135)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "165",
+        "Point 4 time": "2017-06-01T00:54:15",
+        "Point 5 geom": "MyLatLong(longitude=-74.13423, latitude=40.593119)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "19",
+        "Point 5 time": "2017-06-01T01:04:22",
+        "Point 6 geom": "MyLatLong(longitude=-74.132142, latitude=40.608462)",
+        "Point 6 arrival": "< 1 stop away",
+        "Point 6 dist from stop": "233",
+        "Point 6 time": "2017-06-01T01:13:28",
+        "Point 7 geom": "MyLatLong(longitude=-74.133042, latitude=40.6319)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "65",
+        "Point 7 time": "2017-06-01T01:24:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.116438,
+            40.573862
+          ],
+          [
+            -74.121817,
+            40.561457
+          ],
+          [
+            -74.113135,
+            40.566122
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:06",
+        "EndTime": "2017-06-01T00:14:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.116438, latitude=40.573862)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-05-31T23:53:06",
+        "Point 2 geom": "MyLatLong(longitude=-74.121817, latitude=40.561457)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-06-01T00:04:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.113135, latitude=40.566122)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T00:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.115106,
+          40.565087
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:54:17",
+        "EndTime": "2017-05-31T22:54:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.115106, latitude=40.565087)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "264",
+        "Point 1 time": "2017-05-31T22:54:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132792,
+            40.638744
+          ],
+          [
+            -74.145092,
+            40.617168
+          ],
+          [
+            -74.134939,
+            40.594782
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T03:44:07",
+        "EndTime": "2017-06-01T04:03:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.132792, latitude=40.638744)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T03:44:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.145092, latitude=40.617168)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T03:54:19",
+        "Point 3 geom": "MyLatLong(longitude=-74.134939, latitude=40.594782)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "246",
+        "Point 3 time": "2017-06-01T04:03:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.135461,
+            40.593773
+          ],
+          [
+            -74.121579,
+            40.575153
+          ],
+          [
+            -74.115557,
+            40.564629
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8303",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T16:03:46",
+        "EndTime": "2017-05-31T16:23:43",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.135461, latitude=40.593773)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-05-31T16:03:46",
+        "Point 2 geom": "MyLatLong(longitude=-74.121579, latitude=40.575153)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-05-31T16:13:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.115557, latitude=40.564629)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T16:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132145,
+            40.63953
+          ],
+          [
+            -74.133453,
+            40.631463
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:04:27",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.132145, latitude=40.63953)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "112",
+        "Point 1 time": "2017-06-01T00:04:27",
+        "Point 2 geom": "MyLatLong(longitude=-74.133453, latitude=40.631463)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "150",
+        "Point 2 time": "2017-06-01T00:14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138084,
+          40.589827
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8280",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T04:03:31",
+        "EndTime": "2017-06-01T04:03:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.138084, latitude=40.589827)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "637",
+        "Point 1 time": "2017-06-01T04:03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.127176,
+            40.576833
+          ],
+          [
+            -74.129103,
+            40.564972
+          ],
+          [
+            -74.113103,
+            40.566103
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T01:44:35",
+        "EndTime": "2017-06-01T02:03:41",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.127176, latitude=40.576833)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "77",
+        "Point 1 time": "2017-06-01T01:44:35",
+        "Point 2 geom": "MyLatLong(longitude=-74.129103, latitude=40.564972)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "200",
+        "Point 2 time": "2017-06-01T01:54:09",
+        "Point 3 geom": "MyLatLong(longitude=-74.113103, latitude=40.566103)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T02:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.136372,
+            40.628972
+          ],
+          [
+            -74.132197,
+            40.60902
+          ],
+          [
+            -74.132603,
+            40.593109
+          ],
+          [
+            -74.117615,
+            40.573209
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:33:31",
+        "EndTime": "2017-05-31T23:03:44",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.136372, latitude=40.628972)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-05-31T22:33:31",
+        "Point 2 geom": "MyLatLong(longitude=-74.132197, latitude=40.60902)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "124",
+        "Point 2 time": "2017-05-31T22:43:59",
+        "Point 3 geom": "MyLatLong(longitude=-74.132603, latitude=40.593109)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "155",
+        "Point 3 time": "2017-05-31T22:53:53",
+        "Point 4 geom": "MyLatLong(longitude=-74.117615, latitude=40.573209)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T23:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144242,
+            40.623197
+          ],
+          [
+            -74.131577,
+            40.603868
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:04:14",
+        "EndTime": "2017-06-01T00:14:21",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.144242, latitude=40.623197)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-06-01T00:04:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.131577, latitude=40.603868)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T00:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133176,
+          40.632311
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:44:05",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.133176, latitude=40.632311)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.132834,
+            40.638689
+          ],
+          [
+            -74.14431,
+            40.622704
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4250",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "BRIELLE AV GANSEVOORT BL",
+        "StartTime": "2017-05-31T23:03:44",
+        "EndTime": "2017-05-31T23:13:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.132834, latitude=40.638689)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:03:44",
+        "Point 2 geom": "MyLatLong(longitude=-74.14431, latitude=40.622704)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T23:13:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.137289,
+            40.588258
+          ],
+          [
+            -74.11852,
+            40.575141
+          ],
+          [
+            -74.116408,
+            40.563775
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8286",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T00:44:11",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.137289, latitude=40.588258)",
+        "Point 1 arrival": "0.6 miles away",
+        "Point 1 dist from stop": "934",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.11852, latitude=40.575141)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.116408, latitude=40.563775)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "119",
+        "Point 3 time": "2017-06-01T00:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144302,
+            40.622759
+          ],
+          [
+            -74.131587,
+            40.603941
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T01:24:26",
+        "EndTime": "2017-06-01T01:34:31",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.144302, latitude=40.622759)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-06-01T01:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.131587, latitude=40.603941)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T01:34:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131019,
+          40.640305
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:24:14",
+        "EndTime": "2017-05-31T23:24:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.131019, latitude=40.640305)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-05-31T23:24:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129285,
+          40.565025
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:14:19",
+        "EndTime": "2017-06-01T02:14:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.129285, latitude=40.565025)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "112",
+        "Point 1 time": "2017-06-01T02:14:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134939,
+          40.594782
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T04:03:56",
+        "EndTime": "2017-06-01T04:03:56",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.134939, latitude=40.594782)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "246",
+        "Point 1 time": "2017-06-01T04:03:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133253,
+          40.631677
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8284",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:13:38",
+        "EndTime": "2017-05-31T23:13:38",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.133253, latitude=40.631677)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "96",
+        "Point 1 time": "2017-05-31T23:13:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.138074,
+            40.62756
+          ],
+          [
+            -74.134723,
+            40.615529
+          ],
+          [
+            -74.13266,
+            40.592586
+          ],
+          [
+            -74.119976,
+            40.574531
+          ],
+          [
+            -74.125019,
+            40.568866
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8312",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:34:09",
+        "EndTime": "2017-06-01T01:13:26",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.138074, latitude=40.62756)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "8",
+        "Point 1 time": "2017-06-01T00:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-74.134723, latitude=40.615529)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "158",
+        "Point 2 time": "2017-06-01T00:44:11",
+        "Point 3 geom": "MyLatLong(longitude=-74.13266, latitude=40.592586)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "125",
+        "Point 3 time": "2017-06-01T00:54:18",
+        "Point 4 geom": "MyLatLong(longitude=-74.119976, latitude=40.574531)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "57",
+        "Point 4 time": "2017-06-01T01:04:26",
+        "Point 5 geom": "MyLatLong(longitude=-74.125019, latitude=40.568866)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "5",
+        "Point 5 time": "2017-06-01T01:13:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144047,
+            40.624763
+          ],
+          [
+            -74.131283,
+            40.601671
+          ],
+          [
+            -74.129668,
+            40.582013
+          ],
+          [
+            -74.126625,
+            40.567882
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-06-01T00:54:12",
+        "EndTime": "2017-06-01T01:24:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.144047, latitude=40.624763)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:54:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.131283, latitude=40.601671)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T01:04:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.129668, latitude=40.582013)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "325",
+        "Point 3 time": "2017-06-01T01:13:24",
+        "Point 4 geom": "MyLatLong(longitude=-74.126625, latitude=40.567882)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "275",
+        "Point 4 time": "2017-06-01T01:24:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130926,
+            40.598999
+          ],
+          [
+            -74.140309,
+            40.61636
+          ],
+          [
+            -74.135032,
+            40.635624
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8294",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T00:23:46",
+        "EndTime": "2017-06-01T00:44:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130926, latitude=40.598999)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T00:23:46",
+        "Point 2 geom": "MyLatLong(longitude=-74.140309, latitude=40.61636)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "68",
+        "Point 2 time": "2017-06-01T00:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-74.135032, latitude=40.635624)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T00:44:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.144429,
+            40.621829
+          ],
+          [
+            -74.131748,
+            40.605355
+          ],
+          [
+            -74.138547,
+            40.589224
+          ],
+          [
+            -74.116352,
+            40.573924
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4135",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T22:44:12",
+        "EndTime": "2017-05-31T23:13:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.144429, latitude=40.621829)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-05-31T22:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-74.131748, latitude=40.605355)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "173",
+        "Point 2 time": "2017-05-31T22:54:06",
+        "Point 3 geom": "MyLatLong(longitude=-74.138547, latitude=40.589224)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-05-31T23:03:30",
+        "Point 4 geom": "MyLatLong(longitude=-74.116352, latitude=40.573924)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "30",
+        "Point 4 time": "2017-05-31T23:13:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130689,
+            40.583027
+          ],
+          [
+            -74.131733,
+            40.605209
+          ],
+          [
+            -74.144051,
+            40.624729
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4006",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-05-31T23:53:23",
+        "EndTime": "2017-06-01T00:14:15",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130689, latitude=40.583027)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.131733, latitude=40.605209)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T00:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-74.144051, latitude=40.624729)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "15",
+        "Point 3 time": "2017-06-01T00:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.13399,
+            40.592994
+          ],
+          [
+            -74.117384,
+            40.573175
+          ],
+          [
+            -74.11644,
+            40.563744
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8309",
+        "PublishedLineName": "S57",
+        "DirectionRef": "1",
+        "OriginName": "RICHMOND TER/PARK AV",
+        "DestinationName": "NEW DORP MILL RD",
+        "StartTime": "2017-05-31T23:53:13",
+        "EndTime": "2017-06-01T00:14:03",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.13399, latitude=40.592994)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "30",
+        "Point 1 time": "2017-05-31T23:53:13",
+        "Point 2 geom": "MyLatLong(longitude=-74.117384, latitude=40.573175)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "150",
+        "Point 2 time": "2017-06-01T00:04:28",
+        "Point 3 geom": "MyLatLong(longitude=-74.11644, latitude=40.563744)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-06-01T00:14:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130418,
+            40.582778
+          ],
+          [
+            -74.13155,
+            40.603625
+          ],
+          [
+            -74.14499,
+            40.616952
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4002",
+        "PublishedLineName": "S57",
+        "DirectionRef": "0",
+        "OriginName": "EBBITTS ST/HYLAN BL",
+        "DestinationName": "PT RICHMOND",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:43:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130418, latitude=40.582778)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "36",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.13155, latitude=40.603625)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "29",
+        "Point 2 time": "2017-06-01T02:33:47",
+        "Point 3 geom": "MyLatLong(longitude=-74.14499, latitude=40.616952)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:43:51"
+      }
+    }
+  ]
+}

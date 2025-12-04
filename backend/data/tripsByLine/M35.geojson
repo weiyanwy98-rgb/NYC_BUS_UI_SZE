@@ -1,0 +1,2051 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.931307,
+          40.785484
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1241",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T16:23:31",
+        "EndTime": "2017-05-31T16:23:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.931307, latitude=40.785484)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "63",
+        "Point 1 time": "2017-05-31T16:23:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937019,
+          40.80492
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T01:44:27",
+        "EndTime": "2017-06-01T01:44:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937019, latitude=40.80492)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-06-01T01:44:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937305,
+          40.804533
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T01:34:07",
+        "EndTime": "2017-06-01T01:34:07",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:34:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.933007,
+            40.803125
+          ],
+          [
+            -73.937086,
+            40.804829
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T22:03:14",
+        "EndTime": "2017-05-31T22:13:43",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.933007, latitude=40.803125)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "89",
+        "Point 1 time": "2017-05-31T22:03:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.937086, latitude=40.804829)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-05-31T22:13:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931164,
+            40.786889
+          ],
+          [
+            -73.919204,
+            40.797215
+          ],
+          [
+            -73.937108,
+            40.804799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T01:53:42",
+        "EndTime": "2017-06-01T02:14:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.931164, latitude=40.786889)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "111",
+        "Point 1 time": "2017-06-01T01:53:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.919204, latitude=40.797215)",
+        "Point 2 arrival": "1.0 miles away",
+        "Point 2 dist from stop": "1566",
+        "Point 2 time": "2017-06-01T02:03:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.937108, latitude=40.804799)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T02:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919059,
+            40.796711
+          ],
+          [
+            -73.937162,
+            40.804727
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:53:21",
+        "EndTime": "2017-06-01T00:04:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.919059, latitude=40.796711)",
+        "Point 1 arrival": "0.9 miles away",
+        "Point 1 dist from stop": "1508",
+        "Point 1 time": "2017-05-31T23:53:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.937162, latitude=40.804727)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-06-01T00:04:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937162,
+          40.804726
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:24:05",
+        "EndTime": "2017-05-31T23:24:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-05-31T23:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937305,
+            40.804533
+          ],
+          [
+            -73.931472,
+            40.785552
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1241",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T16:43:36",
+        "EndTime": "2017-05-31T16:52:52",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T16:43:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.931472, latitude=40.785552)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "79",
+        "Point 2 time": "2017-05-31T16:52:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925706,
+            40.789584
+          ],
+          [
+            -73.935736,
+            40.804541
+          ],
+          [
+            -73.937162,
+            40.804726
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T03:34:35",
+        "EndTime": "2017-06-01T03:54:46",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.925706, latitude=40.789584)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "551",
+        "Point 1 time": "2017-06-01T03:34:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.935736, latitude=40.804541)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T03:43:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T03:54:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921362,
+            40.795228
+          ],
+          [
+            -73.931301,
+            40.785481
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T00:34:12",
+        "EndTime": "2017-06-01T00:44:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.921362, latitude=40.795228)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "38",
+        "Point 1 time": "2017-06-01T00:34:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.931301, latitude=40.785481)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "62",
+        "Point 2 time": "2017-06-01T00:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935059,
+            40.802496
+          ],
+          [
+            -73.926828,
+            40.789086
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T03:34:19",
+        "EndTime": "2017-06-01T03:43:46",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.935059, latitude=40.802496)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "61",
+        "Point 1 time": "2017-06-01T03:34:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.926828, latitude=40.789086)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "523",
+        "Point 2 time": "2017-06-01T03:43:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937305,
+            40.804533
+          ],
+          [
+            -73.929058,
+            40.800785
+          ],
+          [
+            -73.930938,
+            40.78533
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T01:13:15",
+        "EndTime": "2017-06-01T01:34:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:13:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.929058, latitude=40.800785)",
+        "Point 2 arrival": "0.6 miles away",
+        "Point 2 dist from stop": "999",
+        "Point 2 time": "2017-06-01T01:24:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.930938, latitude=40.78533)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "28",
+        "Point 3 time": "2017-06-01T01:34:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935192,
+            40.802552
+          ],
+          [
+            -73.928629,
+            40.786858
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T22:44:01",
+        "EndTime": "2017-05-31T22:54:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.935192, latitude=40.802552)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "74",
+        "Point 1 time": "2017-05-31T22:44:01",
+        "Point 2 geom": "MyLatLong(longitude=-73.928629, latitude=40.786858)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "230",
+        "Point 2 time": "2017-05-31T22:54:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.932271,
+          40.801877
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T00:14:04",
+        "EndTime": "2017-06-01T00:14:04",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.932271, latitude=40.801877)",
+        "Point 1 arrival": "0.8 miles away",
+        "Point 1 dist from stop": "1298",
+        "Point 1 time": "2017-06-01T00:14:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921414,
+            40.798889
+          ],
+          [
+            -73.936838,
+            40.805006
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T01:44:12",
+        "EndTime": "2017-06-01T01:53:48",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.921414, latitude=40.798889)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "31",
+        "Point 1 time": "2017-06-01T01:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.936838, latitude=40.805006)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "48",
+        "Point 2 time": "2017-06-01T01:53:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.931974,
+            40.78576
+          ],
+          [
+            -73.923777,
+            40.798724
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T01:24:13",
+        "EndTime": "2017-06-01T01:34:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.931974, latitude=40.78576)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "68",
+        "Point 1 time": "2017-06-01T01:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.923777, latitude=40.798724)",
+        "Point 2 arrival": "0.6 miles away",
+        "Point 2 dist from stop": "1021",
+        "Point 2 time": "2017-06-01T01:34:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935201,
+            40.802556
+          ],
+          [
+            -73.928556,
+            40.786933
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T02:14:27",
+        "EndTime": "2017-06-01T02:24:34",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.935201, latitude=40.802556)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "75",
+        "Point 1 time": "2017-06-01T02:14:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.928556, latitude=40.786933)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "240",
+        "Point 2 time": "2017-06-01T02:24:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924479,
+            40.799964
+          ],
+          [
+            -73.937162,
+            40.804726
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T22:33:46",
+        "EndTime": "2017-05-31T22:44:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.924479, latitude=40.799964)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "182",
+        "Point 1 time": "2017-05-31T22:33:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-05-31T22:44:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92589,
+            40.785754
+          ],
+          [
+            -73.932964,
+            40.802951
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:03:47",
+        "EndTime": "2017-05-31T23:13:23",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92589, latitude=40.785754)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "31",
+        "Point 1 time": "2017-05-31T23:03:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.932964, latitude=40.802951)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "109",
+        "Point 2 time": "2017-05-31T23:13:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.921451,
+          40.799053
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1289",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T16:13:45",
+        "EndTime": "2017-05-31T16:13:45",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.921451, latitude=40.799053)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "652",
+        "Point 1 time": "2017-05-31T16:13:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937711,
+            40.803977
+          ],
+          [
+            -73.919581,
+            40.796027
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T01:04:22",
+        "EndTime": "2017-06-01T01:13:32",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.937711, latitude=40.803977)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "173",
+        "Point 1 time": "2017-06-01T01:04:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.919581, latitude=40.796027)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "220",
+        "Point 2 time": "2017-06-01T01:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93408,
+          40.803843
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1241",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T16:33:49",
+        "EndTime": "2017-05-31T16:33:49",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93408, latitude=40.803843)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "159",
+        "Point 1 time": "2017-05-31T16:33:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.929858,
+            40.786363
+          ],
+          [
+            -73.935736,
+            40.804541
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T22:13:50",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.929858, latitude=40.786363)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "319",
+        "Point 1 time": "2017-05-31T22:13:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.935736, latitude=40.804541)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921616,
+            40.799201
+          ],
+          [
+            -73.935906,
+            40.804613
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T01:04:27",
+        "EndTime": "2017-06-01T01:13:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.921616, latitude=40.799201)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "630",
+        "Point 1 time": "2017-06-01T01:04:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.935906, latitude=40.804613)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "138",
+        "Point 2 time": "2017-06-01T01:13:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934418,
+            40.802225
+          ],
+          [
+            -73.930163,
+            40.786489
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T01:53:59",
+        "EndTime": "2017-06-01T02:03:43",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934418, latitude=40.802225)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:53:59",
+        "Point 2 geom": "MyLatLong(longitude=-73.930163, latitude=40.786489)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "56",
+        "Point 2 time": "2017-06-01T02:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937305,
+          40.804533
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:44:08",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.928955,
+          40.800861
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1241",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T17:03:40",
+        "EndTime": "2017-05-31T17:03:40",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.928955, latitude=40.800861)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "524",
+        "Point 1 time": "2017-05-31T17:03:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.925278,
+          40.800002
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T02:14:22",
+        "EndTime": "2017-06-01T02:14:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.925278, latitude=40.800002)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "283",
+        "Point 1 time": "2017-06-01T02:14:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920871,
+            40.794361
+          ],
+          [
+            -73.935831,
+            40.804581
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:34:15",
+        "EndTime": "2017-05-31T23:44:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.920871, latitude=40.794361)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "98",
+        "Point 1 time": "2017-05-31T23:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.935831, latitude=40.804581)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "146",
+        "Point 2 time": "2017-05-31T23:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937162,
+          40.804726
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:24:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-06-01T02:24:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919523,
+          40.796065
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:53:15",
+        "EndTime": "2017-05-31T23:53:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919523, latitude=40.796065)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-05-31T23:53:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.926908,
+          40.788995
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T22:33:57",
+        "EndTime": "2017-05-31T22:33:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.926908, latitude=40.788995)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "511",
+        "Point 1 time": "2017-05-31T22:33:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922134,
+            40.793046
+          ],
+          [
+            -73.937162,
+            40.804726
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T22:44:03",
+        "EndTime": "2017-05-31T22:54:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.922134, latitude=40.793046)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-05-31T22:44:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-05-31T22:54:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92963,
+            40.801201
+          ],
+          [
+            -73.937162,
+            40.804726
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:23:56",
+        "EndTime": "2017-05-31T23:34:01",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92963, latitude=40.801201)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "455",
+        "Point 1 time": "2017-05-31T23:23:56",
+        "Point 2 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-05-31T23:34:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937305,
+            40.804533
+          ],
+          [
+            -73.924054,
+            40.798544
+          ],
+          [
+            -73.931367,
+            40.785508
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:53:17",
+        "EndTime": "2017-06-01T00:14:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.924054, latitude=40.798544)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "509",
+        "Point 2 time": "2017-06-01T00:04:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.931367, latitude=40.785508)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "69",
+        "Point 3 time": "2017-06-01T00:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937055,
+          40.804871
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T22:33:53",
+        "EndTime": "2017-05-31T22:33:53",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937055, latitude=40.804871)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "18",
+        "Point 1 time": "2017-05-31T22:33:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925241,
+            40.790633
+          ],
+          [
+            -73.933192,
+            40.803469
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T03:14:31",
+        "EndTime": "2017-06-01T03:23:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.925241, latitude=40.790633)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "424",
+        "Point 1 time": "2017-06-01T03:14:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.933192, latitude=40.803469)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "36",
+        "Point 2 time": "2017-06-01T03:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934154,
+            40.802114
+          ],
+          [
+            -73.93117,
+            40.785427
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:34:09",
+        "EndTime": "2017-05-31T23:44:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934154, latitude=40.802114)",
+        "Point 1 arrival": "0.9 miles away",
+        "Point 1 dist from stop": "1477",
+        "Point 1 time": "2017-05-31T23:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.93117, latitude=40.785427)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-05-31T23:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930525,
+            40.786634
+          ],
+          [
+            -73.928433,
+            40.800643
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T00:04:24",
+        "EndTime": "2017-06-01T00:13:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.930525, latitude=40.786634)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-06-01T00:04:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.928433, latitude=40.800643)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "574",
+        "Point 2 time": "2017-06-01T00:13:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924433,
+            40.798733
+          ],
+          [
+            -73.931367,
+            40.785508
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T21:23:42",
+        "EndTime": "2017-05-31T21:33:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.924433, latitude=40.798733)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "547",
+        "Point 1 time": "2017-05-31T21:23:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.931367, latitude=40.785508)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-05-31T21:33:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.925612,
+            40.799497
+          ],
+          [
+            -73.937086,
+            40.804829
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T21:43:47",
+        "EndTime": "2017-05-31T21:53:48",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.925612, latitude=40.799497)",
+        "Point 1 arrival": "0.5 miles away",
+        "Point 1 dist from stop": "844",
+        "Point 1 time": "2017-05-31T21:43:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.937086, latitude=40.804829)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-05-31T21:53:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930332,
+            40.80111
+          ],
+          [
+            -73.931832,
+            40.786112
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T00:44:23",
+        "EndTime": "2017-06-01T00:54:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.930332, latitude=40.80111)",
+        "Point 1 arrival": "0.7 miles away",
+        "Point 1 dist from stop": "1114",
+        "Point 1 time": "2017-06-01T00:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.931832, latitude=40.786112)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "176",
+        "Point 2 time": "2017-06-01T00:54:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936616,
+            40.803153
+          ],
+          [
+            -73.93069,
+            40.786699
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T22:13:27",
+        "EndTime": "2017-05-31T22:23:38",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.936616, latitude=40.803153)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T22:13:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.93069, latitude=40.786699)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:23:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934021,
+            40.802059
+          ],
+          [
+            -73.930711,
+            40.785236
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T21:43:34",
+        "EndTime": "2017-05-31T21:53:40",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934021, latitude=40.802059)",
+        "Point 1 arrival": "0.9 miles away",
+        "Point 1 dist from stop": "1464",
+        "Point 1 time": "2017-05-31T21:43:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.930711, latitude=40.785236)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T21:53:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92226,
+            40.799623
+          ],
+          [
+            -73.936923,
+            40.805042
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T00:23:52",
+        "EndTime": "2017-06-01T00:34:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.92226, latitude=40.799623)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "558",
+        "Point 1 time": "2017-06-01T00:23:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.936923, latitude=40.805042)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "40",
+        "Point 2 time": "2017-06-01T00:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.935736,
+            40.804541
+          ],
+          [
+            -73.937108,
+            40.804799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T02:24:28",
+        "EndTime": "2017-06-01T02:34:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.935736, latitude=40.804541)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:24:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.937108, latitude=40.804799)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T02:34:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92584,
+            40.787247
+          ],
+          [
+            -73.931275,
+            40.802106
+          ],
+          [
+            -73.937162,
+            40.804726
+          ],
+          [
+            -73.937162,
+            40.804726
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T02:54:32",
+        "EndTime": "2017-06-01T03:23:46",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.92584, latitude=40.787247)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "253",
+        "Point 1 time": "2017-06-01T02:54:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.931275, latitude=40.802106)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "282",
+        "Point 2 time": "2017-06-01T03:04:38",
+        "Point 3 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T03:14:41",
+        "Point 4 geom": "MyLatLong(longitude=-73.937162, latitude=40.804726)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "24",
+        "Point 4 time": "2017-06-01T03:23:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92073,
+            40.794508
+          ],
+          [
+            -73.933651,
+            40.803662
+          ],
+          [
+            -73.937019,
+            40.80492
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T00:34:16",
+        "EndTime": "2017-06-01T00:54:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92073, latitude=40.794508)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "78",
+        "Point 1 time": "2017-06-01T00:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.933651, latitude=40.803662)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "200",
+        "Point 2 time": "2017-06-01T00:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.937019, latitude=40.80492)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T00:54:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.923763,
+          40.792313
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:24:12",
+        "EndTime": "2017-05-31T23:24:12",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.923763, latitude=40.792313)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "443",
+        "Point 1 time": "2017-05-31T23:24:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920033,
+            40.7952
+          ],
+          [
+            -73.936589,
+            40.804901
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T03:54:21",
+        "EndTime": "2017-06-01T04:03:51",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.920033, latitude=40.7952)",
+        "Point 1 arrival": "0.8 miles away",
+        "Point 1 dist from stop": "1234",
+        "Point 1 time": "2017-06-01T03:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.936589, latitude=40.804901)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "73",
+        "Point 2 time": "2017-06-01T04:03:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921142,
+            40.798744
+          ],
+          [
+            -73.937055,
+            40.804871
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T23:03:37",
+        "EndTime": "2017-05-31T23:13:36",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.921142, latitude=40.798744)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "695",
+        "Point 1 time": "2017-05-31T23:03:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.937055, latitude=40.804871)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-05-31T23:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934352,
+            40.802198
+          ],
+          [
+            -73.930711,
+            40.785236
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T23:03:41",
+        "EndTime": "2017-05-31T23:13:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934352, latitude=40.802198)",
+        "Point 1 arrival": "0.9 miles away",
+        "Point 1 dist from stop": "1496",
+        "Point 1 time": "2017-05-31T23:03:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.930711, latitude=40.785236)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T23:13:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922326,
+            40.792923
+          ],
+          [
+            -73.936589,
+            40.804901
+          ],
+          [
+            -73.937055,
+            40.804871
+          ],
+          [
+            -73.937108,
+            40.804799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T02:34:06",
+        "EndTime": "2017-06-01T03:04:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.922326, latitude=40.792923)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "49",
+        "Point 1 time": "2017-06-01T02:34:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.936589, latitude=40.804901)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "73",
+        "Point 2 time": "2017-06-01T02:43:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.937055, latitude=40.804871)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "18",
+        "Point 3 time": "2017-06-01T02:54:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.937108, latitude=40.804799)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T03:04:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.936856,
+            40.803253
+          ],
+          [
+            -73.922804,
+            40.793561
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T03:14:31",
+        "EndTime": "2017-06-01T03:24:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.936856, latitude=40.803253)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T03:14:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.922804, latitude=40.793561)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "91",
+        "Point 2 time": "2017-06-01T03:24:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.928584,
+          40.786904
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T00:23:40",
+        "EndTime": "2017-06-01T00:23:40",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.928584, latitude=40.786904)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "236",
+        "Point 1 time": "2017-06-01T00:23:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934632,
+            40.802316
+          ],
+          [
+            -73.926782,
+            40.789139
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T02:33:55",
+        "EndTime": "2017-06-01T02:43:28",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.934632, latitude=40.802316)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "20",
+        "Point 1 time": "2017-06-01T02:33:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.926782, latitude=40.789139)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:43:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93293,
+          40.802158
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T22:03:17",
+        "EndTime": "2017-05-31T22:03:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.93293, latitude=40.802158)",
+        "Point 1 arrival": "0.8 miles away",
+        "Point 1 dist from stop": "1362",
+        "Point 1 time": "2017-05-31T22:03:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.927573,
+          40.788234
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1289",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T16:03:35",
+        "EndTime": "2017-05-31T16:03:35",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.927573, latitude=40.788234)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "410",
+        "Point 1 time": "2017-05-31T16:03:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937305,
+            40.804533
+          ],
+          [
+            -73.935984,
+            40.802887
+          ],
+          [
+            -73.923914,
+            40.792141
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T02:43:43",
+        "EndTime": "2017-06-01T03:04:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.937305, latitude=40.804533)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:43:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.935984, latitude=40.802887)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "150",
+        "Point 2 time": "2017-06-01T02:54:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.923914, latitude=40.792141)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "420",
+        "Point 3 time": "2017-06-01T03:04:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919648,
+          40.795998
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3895",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-05-31T22:54:13",
+        "EndTime": "2017-05-31T22:54:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919648, latitude=40.795998)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "213",
+        "Point 1 time": "2017-05-31T22:54:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919894,
+          40.795912
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3897",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T01:44:11",
+        "EndTime": "2017-06-01T01:44:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919894, latitude=40.795912)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "190",
+        "Point 1 time": "2017-06-01T01:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919739,
+          40.795958
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "0",
+        "OriginName": "LEXINGTON AV/E 125 ST",
+        "DestinationName": "WARDS ISLAND",
+        "StartTime": "2017-06-01T04:03:43",
+        "EndTime": "2017-06-01T04:03:43",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919739, latitude=40.795958)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "204",
+        "Point 1 time": "2017-06-01T04:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.924375,
+            40.800195
+          ],
+          [
+            -73.933972,
+            40.803797
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3892",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-06-01T00:54:26",
+        "EndTime": "2017-06-01T01:04:13",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.924375, latitude=40.800195)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "367",
+        "Point 1 time": "2017-06-01T00:54:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.933972, latitude=40.803797)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "169",
+        "Point 2 time": "2017-06-01T01:04:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.937086,
+            40.804829
+          ],
+          [
+            -73.937086,
+            40.804829
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1241",
+        "PublishedLineName": "M35",
+        "DirectionRef": "1",
+        "OriginName": "SUNKEN GARDEN LOOP/CHARLES H GAY CTR",
+        "DestinationName": "HARLEM LEX AV - 125 ST",
+        "StartTime": "2017-05-31T16:03:51",
+        "EndTime": "2017-05-31T16:13:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.937086, latitude=40.804829)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T16:03:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.937086, latitude=40.804829)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-05-31T16:13:44"
+      }
+    }
+  ]
+}

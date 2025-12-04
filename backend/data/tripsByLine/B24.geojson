@@ -1,0 +1,3437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.953877,
+          40.73023
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "GREENPOINT AV/KINGSLAND AV",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T21:53:27",
+        "EndTime": "2017-05-31T21:53:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.953877, latitude=40.73023)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "68",
+        "Point 1 time": "2017-05-31T21:53:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.949806,
+            40.714065
+          ],
+          [
+            -73.939604,
+            40.722826
+          ],
+          [
+            -73.918071,
+            40.736822
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T23:24:02",
+        "EndTime": "2017-05-31T23:43:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.949806, latitude=40.714065)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-05-31T23:24:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.939604, latitude=40.722826)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-05-31T23:34:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.918071, latitude=40.736822)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "84",
+        "Point 3 time": "2017-05-31T23:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953777,
+            40.712675
+          ],
+          [
+            -73.940406,
+            40.715712
+          ],
+          [
+            -73.929642,
+            40.727234
+          ],
+          [
+            -73.929653,
+            40.737648
+          ],
+          [
+            -73.938387,
+            40.73414
+          ],
+          [
+            -73.957615,
+            40.730007
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4439",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:43:50",
+        "EndTime": "2017-06-01T03:34:38",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.953777, latitude=40.712675)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "86",
+        "Point 1 time": "2017-06-01T02:43:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.940406, latitude=40.715712)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "84",
+        "Point 2 time": "2017-06-01T02:54:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.929642, latitude=40.727234)",
+        "Point 3 arrival": "0.8 miles away",
+        "Point 3 dist from stop": "1243",
+        "Point 3 time": "2017-06-01T03:04:17",
+        "Point 4 geom": "MyLatLong(longitude=-73.929653, latitude=40.737648)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "70",
+        "Point 4 time": "2017-06-01T03:14:44",
+        "Point 5 geom": "MyLatLong(longitude=-73.938387, latitude=40.73414)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "449",
+        "Point 5 time": "2017-06-01T03:23:40",
+        "Point 6 geom": "MyLatLong(longitude=-73.957615, latitude=40.730007)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "46",
+        "Point 6 time": "2017-06-01T03:34:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.958745,
+            40.708723
+          ],
+          [
+            -73.95319,
+            40.713609
+          ],
+          [
+            -73.936186,
+            40.724433
+          ],
+          [
+            -73.917895,
+            40.742397
+          ],
+          [
+            -73.939412,
+            40.733636
+          ],
+          [
+            -73.957211,
+            40.729914
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T21:23:32",
+        "EndTime": "2017-05-31T22:13:34",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.958745, latitude=40.708723)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "119",
+        "Point 1 time": "2017-05-31T21:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.95319, latitude=40.713609)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "201",
+        "Point 2 time": "2017-05-31T21:34:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.936186, latitude=40.724433)",
+        "Point 3 arrival": "1.2 miles away",
+        "Point 3 dist from stop": "1888",
+        "Point 3 time": "2017-05-31T21:43:42",
+        "Point 4 geom": "MyLatLong(longitude=-73.917895, latitude=40.742397)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T21:53:24",
+        "Point 5 geom": "MyLatLong(longitude=-73.939412, latitude=40.733636)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "346",
+        "Point 5 time": "2017-05-31T22:03:31",
+        "Point 6 geom": "MyLatLong(longitude=-73.957211, latitude=40.729914)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "0",
+        "Point 6 time": "2017-05-31T22:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.958888,
+            40.708774
+          ],
+          [
+            -73.940969,
+            40.721461
+          ],
+          [
+            -73.918242,
+            40.742394
+          ],
+          [
+            -73.946301,
+            40.731461
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7210",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T16:03:41",
+        "EndTime": "2017-05-31T16:32:03",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.958888, latitude=40.708774)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "133",
+        "Point 1 time": "2017-05-31T16:03:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.940969, latitude=40.721461)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T16:13:51",
+        "Point 3 geom": "MyLatLong(longitude=-73.918242, latitude=40.742394)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "237",
+        "Point 3 time": "2017-05-31T16:23:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.946301, latitude=40.731461)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "304",
+        "Point 4 time": "2017-05-31T16:32:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.959352,
+          40.730398
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "GREENPOINT AV/KINGSLAND AV",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T21:33:55",
+        "EndTime": "2017-05-31T21:33:55",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.959352, latitude=40.730398)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "256",
+        "Point 1 time": "2017-05-31T21:33:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.959342,
+          40.708935
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:34:31",
+        "EndTime": "2017-06-01T00:34:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.959342, latitude=40.708935)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "106",
+        "Point 1 time": "2017-06-01T00:34:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.959599,
+          40.709268
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:23:47",
+        "EndTime": "2017-06-01T00:23:47",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.959599, latitude=40.709268)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-06-01T00:23:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.946692,
+            40.714312
+          ],
+          [
+            -73.959931,
+            40.709355
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:33:36",
+        "EndTime": "2017-05-31T22:44:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.946692, latitude=40.714312)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "121",
+        "Point 1 time": "2017-05-31T22:33:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.959931, latitude=40.709355)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-05-31T22:44:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.952208,
+            40.730389
+          ],
+          [
+            -73.925293,
+            40.739444
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:03:27",
+        "EndTime": "2017-05-31T23:13:33",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.952208, latitude=40.730389)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-05-31T23:03:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.925293, latitude=40.739444)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "83",
+        "Point 2 time": "2017-05-31T23:13:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.940782,
+            40.720372
+          ],
+          [
+            -73.944272,
+            40.714543
+          ],
+          [
+            -73.957401,
+            40.709218
+          ],
+          [
+            -73.959916,
+            40.709114
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T02:34:10",
+        "EndTime": "2017-06-01T03:04:19",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.940782, latitude=40.720372)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-06-01T02:34:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.944272, latitude=40.714543)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "51",
+        "Point 2 time": "2017-06-01T02:43:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.957401, latitude=40.709218)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "135",
+        "Point 3 time": "2017-06-01T02:54:37",
+        "Point 4 geom": "MyLatLong(longitude=-73.959916, latitude=40.709114)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "54",
+        "Point 4 time": "2017-06-01T03:04:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941842,
+            40.732802
+          ],
+          [
+            -73.916993,
+            40.74218
+          ],
+          [
+            -73.938806,
+            40.723636
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:03:31",
+        "EndTime": "2017-05-31T22:24:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.941842, latitude=40.732802)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "410",
+        "Point 1 time": "2017-05-31T22:03:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.916993, latitude=40.74218)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "176",
+        "Point 2 time": "2017-05-31T22:13:36",
+        "Point 3 geom": "MyLatLong(longitude=-73.938806, latitude=40.723636)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "224",
+        "Point 3 time": "2017-05-31T22:24:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.944557,
+            40.714516
+          ],
+          [
+            -73.926186,
+            40.730913
+          ],
+          [
+            -73.917638,
+            40.740985
+          ],
+          [
+            -73.930281,
+            40.737398
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:44:10",
+        "EndTime": "2017-05-31T23:13:32",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.944557, latitude=40.714516)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.926186, latitude=40.730913)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "738",
+        "Point 2 time": "2017-05-31T22:54:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.917638, latitude=40.740985)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-05-31T23:03:35",
+        "Point 4 geom": "MyLatLong(longitude=-73.930281, latitude=40.737398)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "10",
+        "Point 4 time": "2017-05-31T23:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.953915,
+          40.712454
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:23:39",
+        "EndTime": "2017-05-31T22:23:39",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.953915, latitude=40.712454)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-05-31T22:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.930614,
+            40.726601
+          ],
+          [
+            -73.941764,
+            40.715489
+          ],
+          [
+            -73.9576,
+            40.708905
+          ],
+          [
+            -73.959911,
+            40.709354
+          ],
+          [
+            -73.959911,
+            40.709354
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:24",
+        "EndTime": "2017-06-01T01:04:14",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.930614, latitude=40.726601)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "757",
+        "Point 1 time": "2017-06-01T00:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.941764, latitude=40.715489)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "70",
+        "Point 2 time": "2017-06-01T00:34:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.9576, latitude=40.708905)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "96",
+        "Point 3 time": "2017-06-01T00:44:11",
+        "Point 4 geom": "MyLatLong(longitude=-73.959911, latitude=40.709354)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "18",
+        "Point 4 time": "2017-06-01T00:54:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.959911, latitude=40.709354)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "18",
+        "Point 5 time": "2017-06-01T01:04:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.959949,
+            40.709351
+          ],
+          [
+            -73.959949,
+            40.709351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:04:12",
+        "EndTime": "2017-06-01T00:14:16",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-06-01T00:04:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-06-01T00:14:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918921,
+            40.735299
+          ],
+          [
+            -73.940036,
+            40.715894
+          ],
+          [
+            -73.957041,
+            40.709791
+          ],
+          [
+            -73.959949,
+            40.709351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T01:34:24",
+        "EndTime": "2017-06-01T02:03:26",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.918921, latitude=40.735299)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "227",
+        "Point 1 time": "2017-06-01T01:34:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.940036, latitude=40.715894)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:44:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.957041, latitude=40.709791)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "38",
+        "Point 3 time": "2017-06-01T01:53:50",
+        "Point 4 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "21",
+        "Point 4 time": "2017-06-01T02:03:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917998,
+            40.737178
+          ],
+          [
+            -73.939453,
+            40.723273
+          ],
+          [
+            -73.941924,
+            40.715474
+          ],
+          [
+            -73.950825,
+            40.714066
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:24:11",
+        "EndTime": "2017-05-31T23:53:06",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.917998, latitude=40.737178)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-05-31T23:24:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.939453, latitude=40.723273)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "156",
+        "Point 2 time": "2017-05-31T23:34:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.941924, latitude=40.715474)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "56",
+        "Point 3 time": "2017-05-31T23:44:07",
+        "Point 4 geom": "MyLatLong(longitude=-73.950825, latitude=40.714066)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "99",
+        "Point 4 time": "2017-05-31T23:53:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:24:18",
+        "EndTime": "2017-06-01T02:54:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "213",
+        "Point 1 time": "2017-06-01T02:24:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "213",
+        "Point 2 time": "2017-06-01T02:33:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "213",
+        "Point 3 time": "2017-06-01T02:43:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "213",
+        "Point 4 time": "2017-06-01T02:54:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.954527,
+          40.713767
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:24:26",
+        "EndTime": "2017-05-31T23:24:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.954527, latitude=40.713767)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T23:24:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.939364,
+            40.733658
+          ],
+          [
+            -73.954536,
+            40.730168
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4560",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T16:03:48",
+        "EndTime": "2017-05-31T16:13:55",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.939364, latitude=40.733658)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "351",
+        "Point 1 time": "2017-05-31T16:03:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.954536, latitude=40.730168)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-05-31T16:13:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.960005,
+          40.709311
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4554",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T03:14:51",
+        "EndTime": "2017-06-01T03:14:51",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.960005, latitude=40.709311)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T03:14:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954578,
+            40.730164
+          ],
+          [
+            -73.957036,
+            40.729931
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T23:24",
+        "EndTime": "2017-05-31T23:33:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.954578, latitude=40.730164)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.957036, latitude=40.729931)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "83",
+        "Point 2 time": "2017-05-31T23:33:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.955551,
+            40.70987
+          ],
+          [
+            -73.926772,
+            40.730048
+          ],
+          [
+            -73.934021,
+            40.735833
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4560",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T16:53:04",
+        "EndTime": "2017-05-31T17:13:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.955551, latitude=40.70987)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-05-31T16:53:04",
+        "Point 2 geom": "MyLatLong(longitude=-73.926772, latitude=40.730048)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "846",
+        "Point 2 time": "2017-05-31T17:03:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.934021, latitude=40.735833)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "61",
+        "Point 3 time": "2017-05-31T17:13:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.957322,
+          40.729904
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:34:01",
+        "EndTime": "2017-06-01T02:34:01",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.957322, latitude=40.729904)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T02:34:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.937292,
+          40.734611
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:23:41",
+        "EndTime": "2017-05-31T22:23:41",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.937292, latitude=40.734611)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "224",
+        "Point 1 time": "2017-05-31T22:23:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.919013,
+            40.735313
+          ],
+          [
+            -73.940359,
+            40.717965
+          ],
+          [
+            -73.948999,
+            40.714099
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T03:43:16",
+        "EndTime": "2017-06-01T04:03:31",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.919013, latitude=40.735313)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "219",
+        "Point 1 time": "2017-06-01T03:43:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.940359, latitude=40.717965)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T03:54:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.948999, latitude=40.714099)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-06-01T04:03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954252,
+            40.730194
+          ],
+          [
+            -73.935006,
+            40.735467
+          ],
+          [
+            -73.917642,
+            40.742585
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:53:27",
+        "EndTime": "2017-06-01T00:14:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.954252, latitude=40.730194)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "100",
+        "Point 1 time": "2017-05-31T23:53:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.935006, latitude=40.735467)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T00:04:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.917642, latitude=40.742585)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T00:14:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.944587,
+            40.714513
+          ],
+          [
+            -73.922687,
+            40.732794
+          ],
+          [
+            -73.928911,
+            40.737936
+          ],
+          [
+            -73.953607,
+            40.730256
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:34:21",
+        "EndTime": "2017-06-01T01:04:02",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.944587, latitude=40.714513)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T00:34:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.922687, latitude=40.732794)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "325",
+        "Point 2 time": "2017-06-01T00:44:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.928911, latitude=40.737936)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "140",
+        "Point 3 time": "2017-06-01T00:54:31",
+        "Point 4 geom": "MyLatLong(longitude=-73.953607, latitude=40.730256)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "91",
+        "Point 4 time": "2017-06-01T01:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954457,
+            40.730175
+          ],
+          [
+            -73.922621,
+            40.740618
+          ],
+          [
+            -73.923253,
+            40.734986
+          ],
+          [
+            -73.940383,
+            40.718107
+          ],
+          [
+            -73.952536,
+            40.714067
+          ],
+          [
+            -73.960011,
+            40.709192
+          ],
+          [
+            -73.960011,
+            40.709192
+          ],
+          [
+            -73.960011,
+            40.709192
+          ],
+          [
+            -73.960011,
+            40.709192
+          ],
+          [
+            -73.960011,
+            40.709192
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T02:43:31",
+        "EndTime": "2017-06-01T04:14:46",
+        "NumOfPoints": "10",
+        "Point 1 geom": "MyLatLong(longitude=-73.954457, latitude=40.730175)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:43:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.922621, latitude=40.740618)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "94",
+        "Point 2 time": "2017-06-01T02:54:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.923253, latitude=40.734986)",
+        "Point 3 arrival": "1.2 miles away",
+        "Point 3 dist from stop": "1890",
+        "Point 3 time": "2017-06-01T03:04:15",
+        "Point 4 geom": "MyLatLong(longitude=-73.940383, latitude=40.718107)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "23",
+        "Point 4 time": "2017-06-01T03:14:19",
+        "Point 5 geom": "MyLatLong(longitude=-73.952536, latitude=40.714067)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "202",
+        "Point 5 time": "2017-06-01T03:23:50",
+        "Point 6 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "42",
+        "Point 6 time": "2017-06-01T03:34:25",
+        "Point 7 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "42",
+        "Point 7 time": "2017-06-01T03:43:55",
+        "Point 8 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 8 arrival": "approaching",
+        "Point 8 dist from stop": "42",
+        "Point 8 time": "2017-06-01T03:54:42",
+        "Point 9 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 9 arrival": "approaching",
+        "Point 9 dist from stop": "42",
+        "Point 9 time": "2017-06-01T04:03:42",
+        "Point 10 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 10 arrival": "approaching",
+        "Point 10 dist from stop": "42",
+        "Point 10 time": "2017-06-01T04:14:46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957157,
+            40.72992
+          ],
+          [
+            -73.95568,
+            40.730059
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T01:53:56",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.957157, latitude=40.72992)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "218",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.95568, latitude=40.730059)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "92",
+        "Point 2 time": "2017-06-01T01:53:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.91814,
+            40.736469
+          ],
+          [
+            -73.940365,
+            40.718001
+          ],
+          [
+            -73.954134,
+            40.71407
+          ],
+          [
+            -73.959949,
+            40.709351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7213",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T02:34:02",
+        "EndTime": "2017-06-01T03:04:39",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.91814, latitude=40.736469)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "145",
+        "Point 1 time": "2017-06-01T02:34:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.940365, latitude=40.718001)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "11",
+        "Point 2 time": "2017-06-01T02:43:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.954134, latitude=40.71407)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-06-01T02:54:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "21",
+        "Point 4 time": "2017-06-01T03:04:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.947267,
+            40.731111
+          ],
+          [
+            -73.917536,
+            40.742619
+          ],
+          [
+            -73.925231,
+            40.732717
+          ],
+          [
+            -73.949631,
+            40.714065
+          ],
+          [
+            -73.960011,
+            40.709192
+          ],
+          [
+            -73.960011,
+            40.709192
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T21:23:54",
+        "EndTime": "2017-05-31T22:13:34",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.947267, latitude=40.731111)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "115",
+        "Point 1 time": "2017-05-31T21:23:54",
+        "Point 2 geom": "MyLatLong(longitude=-73.917536, latitude=40.742619)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T21:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.925231, latitude=40.732717)",
+        "Point 3 arrival": "1.0 miles away",
+        "Point 3 dist from stop": "1581",
+        "Point 3 time": "2017-05-31T21:41:57",
+        "Point 4 geom": "MyLatLong(longitude=-73.949631, latitude=40.714065)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "200",
+        "Point 4 time": "2017-05-31T21:53:46",
+        "Point 5 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "42",
+        "Point 5 time": "2017-05-31T22:03:21",
+        "Point 6 geom": "MyLatLong(longitude=-73.960011, latitude=40.709192)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "42",
+        "Point 6 time": "2017-05-31T22:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.946692,
+            40.714312
+          ],
+          [
+            -73.959931,
+            40.709355
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:33:36",
+        "EndTime": "2017-05-31T22:44:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.946692, latitude=40.714312)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "121",
+        "Point 1 time": "2017-05-31T22:33:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.959931, latitude=40.709355)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "20",
+        "Point 2 time": "2017-05-31T22:44:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9572,
+            40.729915
+          ],
+          [
+            -73.9572,
+            40.729915
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:44:20",
+        "EndTime": "2017-05-31T22:53:55",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.9572, latitude=40.729915)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "69",
+        "Point 1 time": "2017-05-31T22:44:20",
+        "Point 2 geom": "MyLatLong(longitude=-73.9572, latitude=40.729915)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-05-31T22:53:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.922257,
+            40.740777
+          ],
+          [
+            -73.922728,
+            40.735577
+          ],
+          [
+            -73.938146,
+            40.723996
+          ],
+          [
+            -73.942156,
+            40.715451
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:53:18",
+        "EndTime": "2017-06-01T00:23:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.922257, latitude=40.740777)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-05-31T23:53:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.922728, latitude=40.735577)",
+        "Point 2 arrival": "1.2 miles away",
+        "Point 2 dist from stop": "1992",
+        "Point 2 time": "2017-06-01T00:04:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.938146, latitude=40.723996)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "50",
+        "Point 3 time": "2017-06-01T00:14:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.942156, latitude=40.715451)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "36",
+        "Point 4 time": "2017-06-01T00:23:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917547,
+            40.740975
+          ],
+          [
+            -73.930102,
+            40.73748
+          ],
+          [
+            -73.950361,
+            40.730569
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T23:24:21",
+        "EndTime": "2017-05-31T23:43:56",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.917547, latitude=40.740975)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T23:24:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.930102, latitude=40.73748)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "28",
+        "Point 2 time": "2017-05-31T23:34:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.950361, latitude=40.730569)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "141",
+        "Point 3 time": "2017-05-31T23:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954406,
+            40.73018
+          ],
+          [
+            -73.941036,
+            40.733029
+          ],
+          [
+            -73.923778,
+            40.740106
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4439",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T03:43:44",
+        "EndTime": "2017-06-01T04:03:36",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.954406, latitude=40.73018)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-06-01T03:43:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.941036, latitude=40.733029)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "337",
+        "Point 2 time": "2017-06-01T03:54:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.923778, latitude=40.740106)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "207",
+        "Point 3 time": "2017-06-01T04:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:24:18",
+        "EndTime": "2017-06-01T02:54:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "213",
+        "Point 1 time": "2017-06-01T02:24:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "213",
+        "Point 2 time": "2017-06-01T02:33:52",
+        "Point 3 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "213",
+        "Point 3 time": "2017-06-01T02:43:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "213",
+        "Point 4 time": "2017-06-01T02:54:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.954406,
+          40.73018
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7213",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T04:14:26",
+        "EndTime": "2017-06-01T04:14:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.954406, latitude=40.73018)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "113",
+        "Point 1 time": "2017-06-01T04:14:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95695,
+          40.708089
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:14:34",
+        "EndTime": "2017-06-01T02:14:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.95695, latitude=40.708089)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "135",
+        "Point 1 time": "2017-06-01T02:14:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941842,
+            40.732802
+          ],
+          [
+            -73.916993,
+            40.74218
+          ],
+          [
+            -73.938806,
+            40.723636
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:03:31",
+        "EndTime": "2017-05-31T22:24:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.941842, latitude=40.732802)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "410",
+        "Point 1 time": "2017-05-31T22:03:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.916993, latitude=40.74218)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "176",
+        "Point 2 time": "2017-05-31T22:13:36",
+        "Point 3 geom": "MyLatLong(longitude=-73.938806, latitude=40.723636)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "224",
+        "Point 3 time": "2017-05-31T22:24:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934307,
+            40.735727
+          ],
+          [
+            -73.956052,
+            40.730024
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:44:08",
+        "EndTime": "2017-06-01T02:14:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.934307, latitude=40.735727)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T01:44:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.956052, latitude=40.730024)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "167",
+        "Point 2 time": "2017-06-01T01:54:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "213",
+        "Point 3 time": "2017-06-01T02:03:43",
+        "Point 4 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "213",
+        "Point 4 time": "2017-06-01T02:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.950472,
+          40.730559
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:33:44",
+        "EndTime": "2017-05-31T22:33:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.950472, latitude=40.730559)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "131",
+        "Point 1 time": "2017-05-31T22:33:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.920634,
+            40.741502
+          ],
+          [
+            -73.936552,
+            40.735406
+          ],
+          [
+            -73.957965,
+            40.729843
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T23:53:05",
+        "EndTime": "2017-06-01T00:14:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.920634, latitude=40.741502)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T23:53:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.936552, latitude=40.735406)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "196",
+        "Point 2 time": "2017-06-01T00:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.957965, latitude=40.729843)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-06-01T00:14:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.951264,
+            40.714066
+          ],
+          [
+            -73.926812,
+            40.729988
+          ],
+          [
+            -73.92064,
+            40.741499
+          ],
+          [
+            -73.94324,
+            40.732556
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4555",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:03:23",
+        "EndTime": "2017-05-31T22:33:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.951264, latitude=40.714066)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T22:03:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.926812, latitude=40.729988)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "854",
+        "Point 2 time": "2017-05-31T22:13:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.92064, latitude=40.741499)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "11",
+        "Point 3 time": "2017-05-31T22:24:04",
+        "Point 4 geom": "MyLatLong(longitude=-73.94324, latitude=40.732556)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T22:33:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.955606,
+            40.709784
+          ],
+          [
+            -73.952189,
+            40.714066
+          ],
+          [
+            -73.940979,
+            40.721515
+          ],
+          [
+            -73.920863,
+            40.732416
+          ],
+          [
+            -73.927882,
+            40.738334
+          ],
+          [
+            -73.942433,
+            40.732709
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7213",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T03:14:40",
+        "EndTime": "2017-06-01T04:03:53",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.955606, latitude=40.709784)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-06-01T03:14:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.952189, latitude=40.714066)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "85",
+        "Point 2 time": "2017-06-01T03:23:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.940979, latitude=40.721515)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T03:34:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.920863, latitude=40.732416)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "165",
+        "Point 4 time": "2017-06-01T03:43:46",
+        "Point 5 geom": "MyLatLong(longitude=-73.927882, latitude=40.738334)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "62",
+        "Point 5 time": "2017-06-01T03:54:21",
+        "Point 6 geom": "MyLatLong(longitude=-73.942433, latitude=40.732709)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "70",
+        "Point 6 time": "2017-06-01T04:03:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941003,
+            40.721666
+          ],
+          [
+            -73.918527,
+            40.734518
+          ],
+          [
+            -73.92386,
+            40.740069
+          ],
+          [
+            -73.94598,
+            40.731579
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:04:18",
+        "EndTime": "2017-06-01T01:34:14",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.941003, latitude=40.721666)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "219",
+        "Point 1 time": "2017-06-01T01:04:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.918527, latitude=40.734518)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "140",
+        "Point 2 time": "2017-06-01T01:13:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.92386, latitude=40.740069)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "102",
+        "Point 3 time": "2017-06-01T01:24:18",
+        "Point 4 geom": "MyLatLong(longitude=-73.94598, latitude=40.731579)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "23",
+        "Point 4 time": "2017-06-01T01:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.959599,
+            40.709268
+          ],
+          [
+            -73.944557,
+            40.714516
+          ],
+          [
+            -73.941008,
+            40.721701
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T23:34:01",
+        "EndTime": "2017-05-31T23:53:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.959599, latitude=40.709268)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-05-31T23:34:01",
+        "Point 2 geom": "MyLatLong(longitude=-73.944557, latitude=40.714516)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T23:44:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.941008, latitude=40.721701)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "215",
+        "Point 3 time": "2017-05-31T23:53:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.933467,
+          40.736039
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7213",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T02:24:32",
+        "EndTime": "2017-06-01T02:24:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.933467, latitude=40.736039)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "67",
+        "Point 1 time": "2017-06-01T02:24:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.944632,
+            40.714509
+          ],
+          [
+            -73.940799,
+            40.722074
+          ],
+          [
+            -73.918683,
+            40.733748
+          ],
+          [
+            -73.92943,
+            40.737734
+          ],
+          [
+            -73.955123,
+            40.730112
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T02:24:40",
+        "EndTime": "2017-06-01T03:04:32",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.944632, latitude=40.714509)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T02:24:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.940799, latitude=40.722074)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "165",
+        "Point 2 time": "2017-06-01T02:34:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.918683, latitude=40.733748)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "227",
+        "Point 3 time": "2017-06-01T02:43:20",
+        "Point 4 geom": "MyLatLong(longitude=-73.92943, latitude=40.737734)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "91",
+        "Point 4 time": "2017-06-01T02:54:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.955123, latitude=40.730112)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "246",
+        "Point 5 time": "2017-06-01T03:04:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.945388,
+            40.731795
+          ],
+          [
+            -73.91831,
+            40.735599
+          ],
+          [
+            -73.940768,
+            40.720289
+          ],
+          [
+            -73.959124,
+            40.708857
+          ],
+          [
+            -73.959949,
+            40.709351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T21:43:51",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.945388, latitude=40.731795)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-05-31T21:43:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.91831, latitude=40.735599)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-05-31T21:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.940768, latitude=40.720289)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-05-31T22:03:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.959124, latitude=40.708857)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "126",
+        "Point 4 time": "2017-05-31T22:13:22",
+        "Point 5 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "21",
+        "Point 5 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.959558,
+            40.709254
+          ],
+          [
+            -73.950799,
+            40.714066
+          ],
+          [
+            -73.941003,
+            40.721666
+          ],
+          [
+            -73.918527,
+            40.734518
+          ],
+          [
+            -73.92386,
+            40.740069
+          ],
+          [
+            -73.94598,
+            40.731579
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:44:24",
+        "EndTime": "2017-06-01T01:34:14",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.959558, latitude=40.709254)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "222",
+        "Point 1 time": "2017-06-01T00:44:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.950799, latitude=40.714066)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "109",
+        "Point 2 time": "2017-06-01T00:54:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.941003, latitude=40.721666)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "219",
+        "Point 3 time": "2017-06-01T01:04:18",
+        "Point 4 geom": "MyLatLong(longitude=-73.918527, latitude=40.734518)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "140",
+        "Point 4 time": "2017-06-01T01:13:12",
+        "Point 5 geom": "MyLatLong(longitude=-73.92386, latitude=40.740069)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "102",
+        "Point 5 time": "2017-06-01T01:24:18",
+        "Point 6 geom": "MyLatLong(longitude=-73.94598, latitude=40.731579)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "23",
+        "Point 6 time": "2017-06-01T01:34:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.94745,
+            40.731045
+          ],
+          [
+            -73.925293,
+            40.739444
+          ],
+          [
+            -73.923057,
+            40.735626
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:24:24",
+        "EndTime": "2017-05-31T23:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.94745, latitude=40.731045)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "132",
+        "Point 1 time": "2017-05-31T23:24:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.925293, latitude=40.739444)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "83",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.923057, latitude=40.735626)",
+        "Point 3 arrival": "1.2 miles away",
+        "Point 3 dist from stop": "1963",
+        "Point 3 time": "2017-05-31T23:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95319,
+            40.713609
+          ],
+          [
+            -73.936186,
+            40.724433
+          ],
+          [
+            -73.917895,
+            40.742397
+          ],
+          [
+            -73.939412,
+            40.733636
+          ],
+          [
+            -73.957211,
+            40.729914
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T21:34:08",
+        "EndTime": "2017-05-31T22:13:34",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.95319, latitude=40.713609)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "201",
+        "Point 1 time": "2017-05-31T21:34:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.936186, latitude=40.724433)",
+        "Point 2 arrival": "1.2 miles away",
+        "Point 2 dist from stop": "1888",
+        "Point 2 time": "2017-05-31T21:43:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.917895, latitude=40.742397)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T21:53:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.939412, latitude=40.733636)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "346",
+        "Point 4 time": "2017-05-31T22:03:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.957211, latitude=40.729914)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-05-31T22:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956814,
+            40.708042
+          ],
+          [
+            -73.940035,
+            40.715808
+          ],
+          [
+            -73.917945,
+            40.737441
+          ],
+          [
+            -73.926978,
+            40.738699
+          ],
+          [
+            -73.947472,
+            40.731037
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:44:08",
+        "EndTime": "2017-06-01T02:24:30",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.956814, latitude=40.708042)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "122",
+        "Point 1 time": "2017-06-01T01:44:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.940035, latitude=40.715808)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "51",
+        "Point 2 time": "2017-06-01T01:53:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.917945, latitude=40.737441)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T02:03:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.926978, latitude=40.738699)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-06-01T02:14:21",
+        "Point 5 geom": "MyLatLong(longitude=-73.947472, latitude=40.731037)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "194",
+        "Point 5 time": "2017-06-01T02:24:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.939401,
+          40.733641
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:23:40",
+        "EndTime": "2017-06-01T00:23:40",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.939401, latitude=40.733641)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "183",
+        "Point 1 time": "2017-06-01T00:23:40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954252,
+            40.730194
+          ],
+          [
+            -73.928539,
+            40.738082
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T01:13:40",
+        "EndTime": "2017-06-01T01:24:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.954252, latitude=40.730194)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "100",
+        "Point 1 time": "2017-06-01T01:13:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.928539, latitude=40.738082)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T01:24:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.92934,
+            40.737768
+          ],
+          [
+            -73.938927,
+            40.723569
+          ],
+          [
+            -73.956366,
+            40.710854
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4560",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T16:23:34",
+        "EndTime": "2017-05-31T16:43:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.92934, latitude=40.737768)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "83",
+        "Point 1 time": "2017-05-31T16:23:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.938927, latitude=40.723569)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "212",
+        "Point 2 time": "2017-05-31T16:33:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.956366, latitude=40.710854)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "12",
+        "Point 3 time": "2017-05-31T16:43:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95546,
+            40.710015
+          ],
+          [
+            -73.939436,
+            40.722917
+          ],
+          [
+            -73.917704,
+            40.738643
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:13:23",
+        "EndTime": "2017-06-01T01:34:31",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.95546, latitude=40.710015)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "25",
+        "Point 1 time": "2017-06-01T01:13:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.939436, latitude=40.722917)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "16",
+        "Point 2 time": "2017-06-01T01:24:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.917704, latitude=40.738643)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "37",
+        "Point 3 time": "2017-06-01T01:34:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.928821,
+            40.737971
+          ],
+          [
+            -73.917374,
+            40.740286
+          ],
+          [
+            -73.938665,
+            40.723713
+          ],
+          [
+            -73.949152,
+            40.714085
+          ],
+          [
+            -73.959949,
+            40.709351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:54:24",
+        "EndTime": "2017-06-01T01:34:05",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.928821, latitude=40.737971)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "34",
+        "Point 1 time": "2017-06-01T00:54:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.917374, latitude=40.740286)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "170",
+        "Point 2 time": "2017-06-01T01:04:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.938665, latitude=40.723713)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "239",
+        "Point 3 time": "2017-06-01T01:13:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.949152, latitude=40.714085)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T01:24:03",
+        "Point 5 geom": "MyLatLong(longitude=-73.959949, latitude=40.709351)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "21",
+        "Point 5 time": "2017-06-01T01:34:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.938811,
+            40.723633
+          ],
+          [
+            -73.957855,
+            40.708505
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4429",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T16:03:42",
+        "EndTime": "2017-05-31T16:13:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.938811, latitude=40.723633)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "224",
+        "Point 1 time": "2017-05-31T16:03:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.957855, latitude=40.708505)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-05-31T16:13:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941001,
+            40.721652
+          ],
+          [
+            -73.945667,
+            40.71441
+          ],
+          [
+            -73.956926,
+            40.709972
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:53:09",
+        "EndTime": "2017-06-01T00:14:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.941001, latitude=40.721652)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "163",
+        "Point 1 time": "2017-05-31T23:53:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.945667, latitude=40.71441)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "208",
+        "Point 2 time": "2017-06-01T00:04:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.956926, latitude=40.709972)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "60",
+        "Point 3 time": "2017-06-01T00:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.953774,
+            40.712681
+          ],
+          [
+            -73.940636,
+            40.719504
+          ],
+          [
+            -73.91795,
+            40.737414
+          ],
+          [
+            -73.928577,
+            40.738067
+          ],
+          [
+            -73.953445,
+            40.730271
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:23:46",
+        "EndTime": "2017-06-01T01:04:08",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.953774, latitude=40.712681)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "85",
+        "Point 1 time": "2017-06-01T00:23:46",
+        "Point 2 geom": "MyLatLong(longitude=-73.940636, latitude=40.719504)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-06-01T00:34:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.91795, latitude=40.737414)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-06-01T00:44:28",
+        "Point 4 geom": "MyLatLong(longitude=-73.928577, latitude=40.738067)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "172",
+        "Point 4 time": "2017-06-01T00:54:01",
+        "Point 5 geom": "MyLatLong(longitude=-73.953445, latitude=40.730271)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "105",
+        "Point 5 time": "2017-06-01T01:04:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934943,
+            40.735491
+          ],
+          [
+            -73.917536,
+            40.742619
+          ],
+          [
+            -73.925359,
+            40.73244
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T02:03:22",
+        "EndTime": "2017-06-01T02:24:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.934943, latitude=40.735491)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T02:03:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.917536, latitude=40.742619)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:14:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.925359, latitude=40.73244)",
+        "Point 3 arrival": "1.0 miles away",
+        "Point 3 dist from stop": "1549",
+        "Point 3 time": "2017-06-01T02:24:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.939799,
+            40.722719
+          ],
+          [
+            -73.917943,
+            40.73745
+          ],
+          [
+            -73.930638,
+            40.737234
+          ],
+          [
+            -73.953553,
+            40.730261
+          ],
+          [
+            -73.959302,
+            40.730089
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:33:41",
+        "EndTime": "2017-05-31T23:13:36",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.939799, latitude=40.722719)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "54",
+        "Point 1 time": "2017-05-31T22:33:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.917943, latitude=40.73745)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-05-31T22:44:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.930638, latitude=40.737234)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "187",
+        "Point 3 time": "2017-05-31T22:54:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.953553, latitude=40.730261)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "96",
+        "Point 4 time": "2017-05-31T23:03:27",
+        "Point 5 geom": "MyLatLong(longitude=-73.959302, latitude=40.730089)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "28",
+        "Point 5 time": "2017-05-31T23:13:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.959999,
+            40.70918
+          ],
+          [
+            -73.959999,
+            40.70918
+          ],
+          [
+            -73.959999,
+            40.70918
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T01:44:11",
+        "EndTime": "2017-06-01T02:03:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-06-01T01:44:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "43",
+        "Point 2 time": "2017-06-01T01:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "43",
+        "Point 3 time": "2017-06-01T02:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957157,
+            40.72992
+          ],
+          [
+            -73.95568,
+            40.730059
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T01:53:56",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.957157, latitude=40.72992)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "218",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.95568, latitude=40.730059)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "92",
+        "Point 2 time": "2017-06-01T01:53:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.939436,
+            40.722917
+          ],
+          [
+            -73.917704,
+            40.738643
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:24:26",
+        "EndTime": "2017-06-01T01:34:31",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.939436, latitude=40.722917)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "16",
+        "Point 1 time": "2017-06-01T01:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.917704, latitude=40.738643)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-06-01T01:34:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.935899,
+          40.735136
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T23:44:27",
+        "EndTime": "2017-05-31T23:44:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.935899, latitude=40.735136)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "93",
+        "Point 1 time": "2017-05-31T23:44:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.945388,
+            40.731795
+          ],
+          [
+            -73.91831,
+            40.735599
+          ],
+          [
+            -73.940768,
+            40.720289
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4044",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T21:43:51",
+        "EndTime": "2017-05-31T22:03:26",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.945388, latitude=40.731795)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "104",
+        "Point 1 time": "2017-05-31T21:43:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.91831, latitude=40.735599)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-05-31T21:53:48",
+        "Point 3 geom": "MyLatLong(longitude=-73.940768, latitude=40.720289)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-05-31T22:03:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.954631,
+            40.730159
+          ],
+          [
+            -73.95447,
+            40.730174
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:34:16",
+        "EndTime": "2017-06-01T00:44:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.954631, latitude=40.730159)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T00:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.95447, latitude=40.730174)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T00:44:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.934307,
+            40.735727
+          ],
+          [
+            -73.956052,
+            40.730024
+          ],
+          [
+            -73.957102,
+            40.729925
+          ],
+          [
+            -73.957102,
+            40.729925
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T01:44:08",
+        "EndTime": "2017-06-01T02:14:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.934307, latitude=40.735727)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T01:44:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.956052, latitude=40.730024)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "167",
+        "Point 2 time": "2017-06-01T01:54:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "213",
+        "Point 3 time": "2017-06-01T02:03:43",
+        "Point 4 geom": "MyLatLong(longitude=-73.957102, latitude=40.729925)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "213",
+        "Point 4 time": "2017-06-01T02:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95962,
+            40.709275
+          ],
+          [
+            -73.95962,
+            40.709275
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7230",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:04:09",
+        "EndTime": "2017-06-01T00:14:13",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.95962, latitude=40.709275)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:04:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.95962, latitude=40.709275)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917719,
+            40.73857
+          ],
+          [
+            -73.926983,
+            40.738697
+          ],
+          [
+            -73.953499,
+            40.730266
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-06-01T00:04:08",
+        "EndTime": "2017-06-01T00:23:45",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.917719, latitude=40.73857)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "45",
+        "Point 1 time": "2017-06-01T00:04:08",
+        "Point 2 geom": "MyLatLong(longitude=-73.926983, latitude=40.738697)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "3",
+        "Point 2 time": "2017-06-01T00:14:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.953499, latitude=40.730266)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "100",
+        "Point 3 time": "2017-06-01T00:23:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.959558,
+            40.709254
+          ],
+          [
+            -73.944657,
+            40.714506
+          ],
+          [
+            -73.939457,
+            40.722906
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7212",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "WASHINGTON PL/LANE 6",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T22:54:15",
+        "EndTime": "2017-05-31T23:13:16",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.959558, latitude=40.709254)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "222",
+        "Point 1 time": "2017-05-31T22:54:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.944657, latitude=40.714506)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-05-31T23:03:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.939457, latitude=40.722906)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "19",
+        "Point 3 time": "2017-05-31T23:13:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.921111,
+            40.741292
+          ],
+          [
+            -73.921725,
+            40.735449
+          ],
+          [
+            -73.940533,
+            40.718906
+          ],
+          [
+            -73.956414,
+            40.71078
+          ],
+          [
+            -73.959999,
+            40.70918
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:33:44",
+        "EndTime": "2017-05-31T23:13:19",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.921111, latitude=40.741292)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "196",
+        "Point 1 time": "2017-05-31T22:33:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.921725, latitude=40.735449)",
+        "Point 2 arrival": "1.3 miles away",
+        "Point 2 dist from stop": "2077",
+        "Point 2 time": "2017-05-31T22:44:21",
+        "Point 3 geom": "MyLatLong(longitude=-73.940533, latitude=40.718906)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "113",
+        "Point 3 time": "2017-05-31T22:53:59",
+        "Point 4 geom": "MyLatLong(longitude=-73.956414, latitude=40.71078)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "3",
+        "Point 4 time": "2017-05-31T23:03:37",
+        "Point 5 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "43",
+        "Point 5 time": "2017-05-31T23:13:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.917503,
+            40.74263
+          ],
+          [
+            -73.923398,
+            40.73465
+          ],
+          [
+            -73.940757,
+            40.720222
+          ],
+          [
+            -73.952156,
+            40.714066
+          ],
+          [
+            -73.959999,
+            40.70918
+          ],
+          [
+            -73.959999,
+            40.70918
+          ],
+          [
+            -73.959999,
+            40.70918
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-06-01T00:34:17",
+        "EndTime": "2017-06-01T01:34:30",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.917503, latitude=40.74263)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "301",
+        "Point 1 time": "2017-06-01T00:34:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.923398, latitude=40.73465)",
+        "Point 2 arrival": "1.1 miles away",
+        "Point 2 dist from stop": "1850",
+        "Point 2 time": "2017-06-01T00:44:27",
+        "Point 3 geom": "MyLatLong(longitude=-73.940757, latitude=40.720222)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T00:54:07",
+        "Point 4 geom": "MyLatLong(longitude=-73.952156, latitude=40.714066)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "234",
+        "Point 4 time": "2017-06-01T01:04:16",
+        "Point 5 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "43",
+        "Point 5 time": "2017-06-01T01:13:20",
+        "Point 6 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "43",
+        "Point 6 time": "2017-06-01T01:24:24",
+        "Point 7 geom": "MyLatLong(longitude=-73.959999, latitude=40.70918)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "43",
+        "Point 7 time": "2017-06-01T01:34:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.943057,
+            40.732603
+          ],
+          [
+            -73.921798,
+            40.740981
+          ],
+          [
+            -73.918231,
+            40.736003
+          ],
+          [
+            -73.941068,
+            40.722117
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7231",
+        "PublishedLineName": "B24",
+        "DirectionRef": "1",
+        "OriginName": "GREENPOINT AV/MANHATTAN AV",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLZ",
+        "StartTime": "2017-05-31T22:44:16",
+        "EndTime": "2017-05-31T23:13:22",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.943057, latitude=40.732603)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "514",
+        "Point 1 time": "2017-05-31T22:44:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.921798, latitude=40.740981)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-05-31T22:54:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.918231, latitude=40.736003)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "93",
+        "Point 3 time": "2017-05-31T23:03:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.941068, latitude=40.722117)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "215",
+        "Point 4 time": "2017-05-31T23:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94637,
+          40.731436
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4561",
+        "PublishedLineName": "B24",
+        "DirectionRef": "0",
+        "OriginName": "GREENPOINT AV/KINGSLAND AV",
+        "DestinationName": "GREENPOINT WEST ST",
+        "StartTime": "2017-05-31T21:13:18",
+        "EndTime": "2017-05-31T21:13:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.94637, latitude=40.731436)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "297",
+        "Point 1 time": "2017-05-31T21:13:18"
+      }
+    }
+  ]
+}
