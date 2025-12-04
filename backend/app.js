@@ -18,6 +18,7 @@ setTimeout(() => { isReady = true }, 3000);
 // ----- API: SERVER READY -----
 app.get("/api/bus_trip/ready", async (req, res) => {
     try {
+        throw new Error("Simulated NYC API failure");
         const response = await axios.get(`${NYC_API}/ready`);
         return res.json(response.data);
     } catch (err) {
@@ -85,6 +86,7 @@ app.get("/api/bus_trip/getPubLineName", async (req, res) => {
         const lineNames = response.data;
         // 2. Save to local file
         fs.writeFileSync(`${DATA}/pubLineName.json`, JSON.stringify(lineNames.sort(), null, 2));
+
         // 3. Return to client
         return res.json(lineNames);
     } catch (error) {

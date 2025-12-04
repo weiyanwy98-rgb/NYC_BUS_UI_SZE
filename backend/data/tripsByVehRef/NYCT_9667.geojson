@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987324,
+            40.691827
+          ],
+          [
+            -73.992562,
+            40.689282
+          ],
+          [
+            -73.999546,
+            40.674794
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "1",
+        "OriginName": "FLUSHING AV/61 ST",
+        "DestinationName": "RED HOOK IKEA TERMINAL",
+        "StartTime": "2017-05-31T23:53:22",
+        "EndTime": "2017-06-01T00:14:13",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.987324, latitude=40.691827)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T23:53:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.992562, latitude=40.689282)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "142",
+        "Point 2 time": "2017-06-01T00:04:11",
+        "Point 3 geom": "MyLatLong(longitude=-73.999546, latitude=40.674794)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "55",
+        "Point 3 time": "2017-06-01T00:14:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904072,
+            40.721044
+          ],
+          [
+            -73.923055,
+            40.708374
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "1",
+        "OriginName": "FLUSHING AV/61 ST",
+        "DestinationName": "RED HOOK IKEA TERMINAL",
+        "StartTime": "2017-05-31T23:03:45",
+        "EndTime": "2017-05-31T23:13:13",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.904072, latitude=40.721044)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:03:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.923055, latitude=40.708374)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "162",
+        "Point 2 time": "2017-05-31T23:13:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.011255,
+            40.672358
+          ],
+          [
+            -73.997969,
+            40.674331
+          ],
+          [
+            -73.993811,
+            40.68179
+          ],
+          [
+            -73.989023,
+            40.688798
+          ],
+          [
+            -73.98579,
+            40.695992
+          ],
+          [
+            -73.9633,
+            40.697964
+          ],
+          [
+            -73.940545,
+            40.701046
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "0",
+        "OriginName": "BEARD ST/OTSEGO ST",
+        "DestinationName": "MASPETH FRESH POND RD",
+        "StartTime": "2017-06-01T00:34:18",
+        "EndTime": "2017-06-01T01:34:12",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.011255, latitude=40.672358)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:34:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.997969, latitude=40.674331)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "67",
+        "Point 2 time": "2017-06-01T00:44:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.993811, latitude=40.68179)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "1",
+        "Point 3 time": "2017-06-01T00:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.989023, latitude=40.688798)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "308",
+        "Point 4 time": "2017-06-01T01:02:22",
+        "Point 5 geom": "MyLatLong(longitude=-73.98579, latitude=40.695992)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "275",
+        "Point 5 time": "2017-06-01T01:13:34",
+        "Point 6 geom": "MyLatLong(longitude=-73.9633, latitude=40.697964)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "107",
+        "Point 6 time": "2017-06-01T01:24:06",
+        "Point 7 geom": "MyLatLong(longitude=-73.940545, latitude=40.701046)",
+        "Point 7 arrival": "approaching",
+        "Point 7 dist from stop": "82",
+        "Point 7 time": "2017-06-01T01:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.919443,
+          40.711863
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "0",
+        "OriginName": "BEARD ST/OTSEGO ST",
+        "DestinationName": "MASPETH FRESH POND RD",
+        "StartTime": "2017-06-01T01:44:16",
+        "EndTime": "2017-06-01T01:44:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.919443, latitude=40.711863)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-06-01T01:44:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.941304,
+            40.700869
+          ],
+          [
+            -73.960597,
+            40.698399
+          ],
+          [
+            -73.982993,
+            40.698999
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "1",
+        "OriginName": "FLUSHING AV/61 ST",
+        "DestinationName": "RED HOOK IKEA TERMINAL",
+        "StartTime": "2017-05-31T23:24:13",
+        "EndTime": "2017-05-31T23:44:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.941304, latitude=40.700869)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "248",
+        "Point 1 time": "2017-05-31T23:24:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.960597, latitude=40.698399)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "99",
+        "Point 2 time": "2017-05-31T23:34:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.982993, latitude=40.698999)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "309",
+        "Point 3 time": "2017-05-31T23:44:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.012125,
+          40.672949
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_9667",
+        "PublishedLineName": "B57",
+        "DirectionRef": "1",
+        "OriginName": "FLUSHING AV/61 ST",
+        "DestinationName": "RED HOOK IKEA TERMINAL",
+        "StartTime": "2017-06-01T00:23:44",
+        "EndTime": "2017-06-01T00:23:44",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.012125, latitude=40.672949)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "96",
+        "Point 1 time": "2017-06-01T00:23:44"
+      }
+    }
+  ]
+}

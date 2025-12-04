@@ -1,0 +1,363 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.883683,
+            40.822687
+          ],
+          [
+            -73.859093,
+            40.824167
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "0",
+        "OriginName": "SOUTHERN BL/WESTCHESTER AV",
+        "DestinationName": "WHITE PLAINS RD",
+        "StartTime": "2017-05-31T23:53:21",
+        "EndTime": "2017-06-01T00:04:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.883683, latitude=40.822687)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "332",
+        "Point 1 time": "2017-05-31T23:53:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.859093, latitude=40.824167)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T00:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.858377,
+            40.822485
+          ],
+          [
+            -73.87746,
+            40.821695
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "TURNBULL AV/ PUGSLEY AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-05-31T21:43:39",
+        "EndTime": "2017-05-31T21:53:42",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.858377, latitude=40.822485)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "268",
+        "Point 1 time": "2017-05-31T21:43:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.87746, latitude=40.821695)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "205",
+        "Point 2 time": "2017-05-31T21:53:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.863504,
+            40.823572
+          ],
+          [
+            -73.883555,
+            40.823127
+          ],
+          [
+            -73.855395,
+            40.823179
+          ],
+          [
+            -73.867439,
+            40.823043
+          ],
+          [
+            -73.890876,
+            40.820996
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "TURNBULL AV/ PUGSLEY AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T01:24:23",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.863504, latitude=40.823572)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "42",
+        "Point 1 time": "2017-06-01T00:23:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.883555, latitude=40.823127)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "660",
+        "Point 2 time": "2017-06-01T00:34:03",
+        "Point 3 geom": "MyLatLong(longitude=-73.855395, latitude=40.823179)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "108",
+        "Point 3 time": "2017-06-01T00:54:29",
+        "Point 4 geom": "MyLatLong(longitude=-73.867439, latitude=40.823043)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "105",
+        "Point 4 time": "2017-06-01T01:13:28",
+        "Point 5 geom": "MyLatLong(longitude=-73.890876, latitude=40.820996)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "303",
+        "Point 5 time": "2017-06-01T01:24:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.891922,
+          40.824575
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "TURNBULL AV/ PUGSLEY AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-06-01T01:34:26",
+        "EndTime": "2017-06-01T01:34:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.891922, latitude=40.824575)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "100",
+        "Point 1 time": "2017-06-01T01:34:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.828088,
+          40.833417
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "BRUCKNER BL/WESTCHESTER AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-05-31T23:03:20",
+        "EndTime": "2017-05-31T23:03:20",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.828088, latitude=40.833417)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "95",
+        "Point 1 time": "2017-05-31T23:03:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.855594,
+          40.823153
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "TURNBULL AV/ PUGSLEY AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-06-01T00:13:58",
+        "EndTime": "2017-06-01T00:13:58",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.855594, latitude=40.823153)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-06-01T00:13:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.844173,
+            40.827662
+          ],
+          [
+            -73.826929,
+            40.849065
+          ],
+          [
+            -73.826764,
+            40.852984
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "0",
+        "OriginName": "SOUTHERN BL/WESTCHESTER AV",
+        "DestinationName": "PELHAM BAY",
+        "StartTime": "2017-05-31T22:33:54",
+        "EndTime": "2017-05-31T22:53:53",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.844173, latitude=40.827662)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-05-31T22:33:54",
+        "Point 2 geom": "MyLatLong(longitude=-73.826929, latitude=40.849065)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "580",
+        "Point 2 time": "2017-05-31T22:43:56",
+        "Point 3 geom": "MyLatLong(longitude=-73.826764, latitude=40.852984)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "13",
+        "Point 3 time": "2017-05-31T22:53:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.890873,
+            40.820348
+          ],
+          [
+            -73.866782,
+            40.823138
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "0",
+        "OriginName": "SOUTHERN BL/WESTCHESTER AV",
+        "DestinationName": "PELHAM BAY",
+        "StartTime": "2017-05-31T22:13:32",
+        "EndTime": "2017-05-31T22:23:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.890873, latitude=40.820348)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-05-31T22:13:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.866782, latitude=40.823138)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "21",
+        "Point 2 time": "2017-05-31T22:23:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.887458,
+            40.822117
+          ],
+          [
+            -73.862658,
+            40.823686
+          ],
+          [
+            -73.844106,
+            40.827661
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "0",
+        "OriginName": "SOUTHERN BL/WESTCHESTER AV",
+        "DestinationName": "PELHAM BAY",
+        "StartTime": "2017-06-01T01:44:21",
+        "EndTime": "2017-06-01T02:03:45",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.887458, latitude=40.822117)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "659",
+        "Point 1 time": "2017-06-01T01:44:21",
+        "Point 2 geom": "MyLatLong(longitude=-73.862658, latitude=40.823686)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "45",
+        "Point 2 time": "2017-06-01T01:53:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.844106, latitude=40.827661)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "16",
+        "Point 3 time": "2017-06-01T02:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.850495,
+            40.82306
+          ],
+          [
+            -73.868614,
+            40.822887
+          ],
+          [
+            -73.883385,
+            40.823152
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1219",
+        "PublishedLineName": "Bx5",
+        "DirectionRef": "1",
+        "OriginName": "BRUCKNER BL/WESTCHESTER AV",
+        "DestinationName": "SOUTHERN BLVD WESTCHESTER AV",
+        "StartTime": "2017-05-31T23:13:18",
+        "EndTime": "2017-05-31T23:34:01",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.850495, latitude=40.82306)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "122",
+        "Point 1 time": "2017-05-31T23:13:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.868614, latitude=40.822887)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T23:24:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.883385, latitude=40.823152)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "675",
+        "Point 3 time": "2017-05-31T23:34:01"
+      }
+    }
+  ]
+}

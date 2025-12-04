@@ -1,0 +1,2833 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987069,
+            40.775944
+          ],
+          [
+            -73.981856,
+            40.772899
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:54:45",
+        "EndTime": "2017-06-01T04:03:47",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.987069, latitude=40.775944)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:54:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.981856, latitude=40.772899)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-06-01T04:03:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982537,
+            40.773162
+          ],
+          [
+            -73.971264,
+            40.768492
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:24:33",
+        "EndTime": "2017-06-01T01:34:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.982537, latitude=40.773162)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "66",
+        "Point 1 time": "2017-06-01T01:24:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.971264, latitude=40.768492)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "134",
+        "Point 2 time": "2017-06-01T01:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98723,
+            40.776012
+          ],
+          [
+            -73.980543,
+            40.772347
+          ],
+          [
+            -73.964366,
+            40.767983
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5241",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:43:51",
+        "EndTime": "2017-06-01T04:03:44",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.98723, latitude=40.776012)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T03:43:51",
+        "Point 2 geom": "MyLatLong(longitude=-73.980543, latitude=40.772347)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-06-01T03:54:38",
+        "Point 3 geom": "MyLatLong(longitude=-73.964366, latitude=40.767983)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "66",
+        "Point 3 time": "2017-06-01T04:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.970334,
+            40.768047
+          ],
+          [
+            -73.956438,
+            40.764636
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:24:28",
+        "EndTime": "2017-06-01T02:43:42",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.970334, latitude=40.768047)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "42",
+        "Point 1 time": "2017-06-01T02:24:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.956438, latitude=40.764636)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "71",
+        "Point 2 time": "2017-06-01T02:43:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.970478,
+            40.768113
+          ],
+          [
+            -73.962237,
+            40.767085
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:24:19",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.970478, latitude=40.768113)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "56",
+        "Point 1 time": "2017-06-01T01:24:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.962237, latitude=40.767085)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T01:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956992,
+            40.764052
+          ],
+          [
+            -73.967644,
+            40.768548
+          ],
+          [
+            -73.9819,
+            40.773736
+          ],
+          [
+            -73.986625,
+            40.775756
+          ],
+          [
+            -73.986625,
+            40.775756
+          ],
+          [
+            -73.986625,
+            40.775756
+          ],
+          [
+            -73.986625,
+            40.775756
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5241",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:34:12",
+        "EndTime": "2017-06-01T03:34:16",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.956992, latitude=40.764052)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "168",
+        "Point 1 time": "2017-06-01T02:34:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.967644, latitude=40.768548)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "200",
+        "Point 2 time": "2017-06-01T02:43:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.9819, latitude=40.773736)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "82",
+        "Point 3 time": "2017-06-01T02:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.986625, latitude=40.775756)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "21",
+        "Point 4 time": "2017-06-01T03:04:30",
+        "Point 5 geom": "MyLatLong(longitude=-73.986625, latitude=40.775756)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "21",
+        "Point 5 time": "2017-06-01T03:14:40",
+        "Point 6 geom": "MyLatLong(longitude=-73.986625, latitude=40.775756)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "21",
+        "Point 6 time": "2017-06-01T03:23:42",
+        "Point 7 geom": "MyLatLong(longitude=-73.986625, latitude=40.775756)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "21",
+        "Point 7 time": "2017-06-01T03:34:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986476,
+          40.775693
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5241",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:44:11",
+        "EndTime": "2017-06-01T01:44:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986476, latitude=40.775693)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T01:44:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956727,
+          40.764759
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:34:08",
+        "EndTime": "2017-06-01T02:34:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956727, latitude=40.764759)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "99",
+        "Point 1 time": "2017-06-01T02:34:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987213,
+            40.776004
+          ],
+          [
+            -73.982035,
+            40.772974
+          ],
+          [
+            -73.96975,
+            40.767799
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:53:52",
+        "EndTime": "2017-06-01T02:14:29",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.987213, latitude=40.776004)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "129",
+        "Point 1 time": "2017-06-01T01:53:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.982035, latitude=40.772974)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-06-01T02:03:23",
+        "Point 3 geom": "MyLatLong(longitude=-73.96975, latitude=40.767799)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "139",
+        "Point 3 time": "2017-06-01T02:14:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982624,
+            40.773198
+          ],
+          [
+            -73.968503,
+            40.767573
+          ],
+          [
+            -73.957795,
+            40.766029
+          ],
+          [
+            -73.955832,
+            40.76438
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:34:17",
+        "EndTime": "2017-06-01T04:03:36",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.982624, latitude=40.773198)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "74",
+        "Point 1 time": "2017-06-01T03:34:17",
+        "Point 2 geom": "MyLatLong(longitude=-73.968503, latitude=40.767573)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T03:43:58",
+        "Point 3 geom": "MyLatLong(longitude=-73.957795, latitude=40.766029)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "154",
+        "Point 3 time": "2017-06-01T03:54:30",
+        "Point 4 geom": "MyLatLong(longitude=-73.955832, latitude=40.76438)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "12",
+        "Point 4 time": "2017-06-01T04:03:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.969402,
+          40.769218
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5131",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T16:43:17",
+        "EndTime": "2017-05-31T16:43:17",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.969402, latitude=40.769218)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-05-31T16:43:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956485,
+            40.763837
+          ],
+          [
+            -73.961194,
+            40.765825
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:03:48",
+        "EndTime": "2017-06-01T02:14:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.956485, latitude=40.763837)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "217",
+        "Point 1 time": "2017-06-01T02:03:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.961194, latitude=40.765825)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "151",
+        "Point 2 time": "2017-06-01T02:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963693,
+            40.767698
+          ],
+          [
+            -73.955955,
+            40.764432
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:44:10",
+        "EndTime": "2017-06-01T01:53:42",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.963693, latitude=40.767698)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "1",
+        "Point 1 time": "2017-06-01T01:44:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.955955, latitude=40.764432)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "24",
+        "Point 2 time": "2017-06-01T01:53:42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987652,
+          40.77545
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T00:34:16",
+        "EndTime": "2017-06-01T00:34:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987652, latitude=40.77545)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "55",
+        "Point 1 time": "2017-06-01T00:34:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986402,
+          40.775662
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:24:06",
+        "EndTime": "2017-06-01T01:24:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986402, latitude=40.775662)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-06-01T01:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987621,
+          40.775494
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T00:23:57",
+        "EndTime": "2017-06-01T00:23:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987621, latitude=40.775494)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T00:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956383,
+          40.763793
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T23:34:09",
+        "EndTime": "2017-05-31T23:34:09",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956383, latitude=40.763793)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:34:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982711,
+          40.773233
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:34:10",
+        "EndTime": "2017-06-01T01:34:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.982711, latitude=40.773233)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "83",
+        "Point 1 time": "2017-06-01T01:34:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.970744,
+            40.768234
+          ],
+          [
+            -73.957332,
+            40.765015
+          ],
+          [
+            -73.956046,
+            40.76447
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:24:02",
+        "EndTime": "2017-06-01T03:44:07",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.970744, latitude=40.768234)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "82",
+        "Point 1 time": "2017-06-01T03:24:02",
+        "Point 2 geom": "MyLatLong(longitude=-73.957332, latitude=40.765015)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "157",
+        "Point 2 time": "2017-06-01T03:34:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.956046, latitude=40.76447)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "33",
+        "Point 3 time": "2017-06-01T03:44:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.965673,
+            40.767714
+          ],
+          [
+            -73.98045,
+            40.773127
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:24:23",
+        "EndTime": "2017-06-01T02:34",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.965673, latitude=40.767714)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "187",
+        "Point 1 time": "2017-06-01T02:24:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.98045, latitude=40.773127)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "93",
+        "Point 2 time": "2017-06-01T02:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987069,
+            40.775944
+          ],
+          [
+            -73.98046,
+            40.772312
+          ],
+          [
+            -73.969938,
+            40.767878
+          ],
+          [
+            -73.96282,
+            40.767331
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:34:16",
+        "EndTime": "2017-06-01T03:04:29",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.987069, latitude=40.775944)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:34:16",
+        "Point 2 geom": "MyLatLong(longitude=-73.98046, latitude=40.772312)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "106",
+        "Point 2 time": "2017-06-01T02:43:50",
+        "Point 3 geom": "MyLatLong(longitude=-73.969938, latitude=40.767878)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-06-01T02:54:26",
+        "Point 4 geom": "MyLatLong(longitude=-73.96282, latitude=40.767331)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "74",
+        "Point 4 time": "2017-06-01T03:04:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956807,
+          40.763974
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T22:54:16",
+        "EndTime": "2017-05-31T22:54:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956807, latitude=40.763974)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "186",
+        "Point 1 time": "2017-05-31T22:54:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956546,
+          40.763862
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T04:14:12",
+        "EndTime": "2017-06-01T04:14:12",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956546, latitude=40.763862)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "211",
+        "Point 1 time": "2017-06-01T04:14:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.966395,
+            40.768018
+          ],
+          [
+            -73.981565,
+            40.773597
+          ],
+          [
+            -73.9867,
+            40.775788
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:44:35",
+        "EndTime": "2017-06-01T02:03:49",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.966395, latitude=40.768018)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "117",
+        "Point 1 time": "2017-06-01T01:44:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.981565, latitude=40.773597)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-06-01T01:53:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.9867, latitude=40.775788)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "14",
+        "Point 3 time": "2017-06-01T02:03:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962515,
+            40.766383
+          ],
+          [
+            -73.986668,
+            40.775774
+          ],
+          [
+            -73.986668,
+            40.775774
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T16:23:39",
+        "EndTime": "2017-05-31T16:43:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.962515, latitude=40.766383)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "23",
+        "Point 1 time": "2017-05-31T16:23:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.986668, latitude=40.775774)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-05-31T16:33:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.986668, latitude=40.775774)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "17",
+        "Point 3 time": "2017-05-31T16:43:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986849,
+            40.775851
+          ],
+          [
+            -73.986849,
+            40.775851
+          ],
+          [
+            -73.986849,
+            40.775851
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:43:22",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:33:55",
+        "Point 3 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:43:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98262,
+          40.773196
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T17:22:10",
+        "EndTime": "2017-05-31T17:22:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.98262, latitude=40.773196)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "74",
+        "Point 1 time": "2017-05-31T17:22:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98751,
+            40.775646
+          ],
+          [
+            -73.955794,
+            40.764364
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T22:44:18",
+        "EndTime": "2017-05-31T23:13:11",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.98751, latitude=40.775646)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "80",
+        "Point 1 time": "2017-05-31T22:44:18",
+        "Point 2 geom": "MyLatLong(longitude=-73.955794, latitude=40.764364)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-05-31T23:13:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962313,
+            40.766298
+          ],
+          [
+            -73.978423,
+            40.772235
+          ],
+          [
+            -73.986717,
+            40.775795
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:23:55",
+        "EndTime": "2017-06-01T03:44:08",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.962313, latitude=40.766298)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "43",
+        "Point 1 time": "2017-06-01T03:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.978423, latitude=40.772235)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "73",
+        "Point 2 time": "2017-06-01T03:34:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.986717, latitude=40.775795)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "12",
+        "Point 3 time": "2017-06-01T03:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95786,
+          40.765253
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:24:31",
+        "EndTime": "2017-06-01T01:24:31",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.95786, latitude=40.765253)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-06-01T01:24:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.979981,
+            40.772111
+          ],
+          [
+            -73.971027,
+            40.76837
+          ],
+          [
+            -73.955966,
+            40.764436
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:33:55",
+        "EndTime": "2017-06-01T03:04:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.979981, latitude=40.772111)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T02:33:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.971027, latitude=40.76837)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "110",
+        "Point 2 time": "2017-06-01T02:43:32",
+        "Point 3 geom": "MyLatLong(longitude=-73.955966, latitude=40.764436)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "25",
+        "Point 3 time": "2017-06-01T03:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.958841,
+            40.764835
+          ],
+          [
+            -73.962659,
+            40.766444
+          ],
+          [
+            -73.978579,
+            40.772364
+          ],
+          [
+            -73.984725,
+            40.774952
+          ],
+          [
+            -73.986439,
+            40.775678
+          ],
+          [
+            -73.986439,
+            40.775678
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:14:32",
+        "EndTime": "2017-06-01T04:03:44",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.958841, latitude=40.764835)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "218",
+        "Point 1 time": "2017-06-01T03:14:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.962659, latitude=40.766444)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "9",
+        "Point 2 time": "2017-06-01T03:24:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.978579, latitude=40.772364)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "53",
+        "Point 3 time": "2017-06-01T03:34:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.984725, latitude=40.774952)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-06-01T03:44:07",
+        "Point 5 geom": "MyLatLong(longitude=-73.986439, latitude=40.775678)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "39",
+        "Point 5 time": "2017-06-01T03:54:44",
+        "Point 6 geom": "MyLatLong(longitude=-73.986439, latitude=40.775678)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "39",
+        "Point 6 time": "2017-06-01T04:03:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.967612,
+            40.768534
+          ],
+          [
+            -73.982346,
+            40.773923
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5214",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:24:28",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.967612, latitude=40.768534)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:24:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.982346, latitude=40.773923)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "39",
+        "Point 2 time": "2017-06-01T01:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98723,
+            40.776012
+          ],
+          [
+            -73.981292,
+            40.772662
+          ],
+          [
+            -73.971164,
+            40.768443
+          ],
+          [
+            -73.962125,
+            40.767038
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:43:35",
+        "EndTime": "2017-06-01T03:14:31",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.98723, latitude=40.776012)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T02:43:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.981292, latitude=40.772662)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "186",
+        "Point 2 time": "2017-06-01T02:54:16",
+        "Point 3 geom": "MyLatLong(longitude=-73.971164, latitude=40.768443)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "124",
+        "Point 3 time": "2017-06-01T03:04:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.962125, latitude=40.767038)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-06-01T03:14:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.958638,
+            40.76475
+          ],
+          [
+            -73.969037,
+            40.769132
+          ],
+          [
+            -73.981379,
+            40.773519
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:03:44",
+        "EndTime": "2017-06-01T02:24:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.958638, latitude=40.76475)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T02:03:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.969037, latitude=40.769132)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-06-01T02:14:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.981379, latitude=40.773519)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:24:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95876,
+          40.764801
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:34:27",
+        "EndTime": "2017-06-01T01:34:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.95876, latitude=40.764801)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-06-01T01:34:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.98723,
+            40.776012
+          ],
+          [
+            -73.98723,
+            40.776012
+          ],
+          [
+            -73.979565,
+            40.771936
+          ],
+          [
+            -73.964845,
+            40.768184
+          ],
+          [
+            -73.956421,
+            40.764629
+          ],
+          [
+            -73.955912,
+            40.764414
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:54:36",
+        "EndTime": "2017-06-01T03:44:08",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-73.98723, latitude=40.776012)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T02:54:36",
+        "Point 2 geom": "MyLatLong(longitude=-73.98723, latitude=40.776012)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "128",
+        "Point 2 time": "2017-06-01T03:04:12",
+        "Point 3 geom": "MyLatLong(longitude=-73.979565, latitude=40.771936)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-06-01T03:14:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.964845, latitude=40.768184)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "112",
+        "Point 4 time": "2017-06-01T03:23:55",
+        "Point 5 geom": "MyLatLong(longitude=-73.956421, latitude=40.764629)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "69",
+        "Point 5 time": "2017-06-01T03:34:35",
+        "Point 6 geom": "MyLatLong(longitude=-73.955912, latitude=40.764414)",
+        "Point 6 arrival": "at stop",
+        "Point 6 dist from stop": "20",
+        "Point 6 time": "2017-06-01T03:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.982196,
+            40.773031
+          ],
+          [
+            -73.957855,
+            40.76526
+          ],
+          [
+            -73.955698,
+            40.764323
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5131",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T16:13:32",
+        "EndTime": "2017-05-31T16:33:48",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.982196, latitude=40.773031)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "34",
+        "Point 1 time": "2017-05-31T16:13:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.957855, latitude=40.76526)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "41",
+        "Point 2 time": "2017-05-31T16:23:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.955698, latitude=40.764323)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T16:33:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986849,
+          40.775851
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T23:24:11",
+        "EndTime": "2017-05-31T23:24:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "1",
+        "Point 1 time": "2017-05-31T23:24:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95683,
+            40.763983
+          ],
+          [
+            -73.962598,
+            40.766418
+          ],
+          [
+            -73.979521,
+            40.772736
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5241",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:13:25",
+        "EndTime": "2017-06-01T01:34:06",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.95683, latitude=40.763983)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "184",
+        "Point 1 time": "2017-06-01T01:13:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.962598, latitude=40.766418)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T01:24:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.979521, latitude=40.772736)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "182",
+        "Point 3 time": "2017-06-01T01:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.965106,
+            40.767476
+          ],
+          [
+            -73.986608,
+            40.775749
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T17:03:40",
+        "EndTime": "2017-05-31T17:13:44",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.965106, latitude=40.767476)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "241",
+        "Point 1 time": "2017-05-31T17:03:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.986608, latitude=40.775749)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-05-31T17:13:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962516,
+            40.766384
+          ],
+          [
+            -73.97817,
+            40.772037
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:54:07",
+        "EndTime": "2017-06-01T02:03:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.962516, latitude=40.766384)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "23",
+        "Point 1 time": "2017-06-01T01:54:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.97817, latitude=40.772037)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "103",
+        "Point 2 time": "2017-06-01T02:03:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.977038,
+            40.771313
+          ],
+          [
+            -73.966186,
+            40.76875
+          ],
+          [
+            -73.957853,
+            40.765262
+          ],
+          [
+            -73.962205,
+            40.767072
+          ],
+          [
+            -73.955966,
+            40.764436
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:24:34",
+        "EndTime": "2017-06-01T03:14:23",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.977038, latitude=40.771313)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "719",
+        "Point 1 time": "2017-06-01T02:24:34",
+        "Point 2 geom": "MyLatLong(longitude=-73.966186, latitude=40.76875)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "241",
+        "Point 2 time": "2017-06-01T02:34:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.957853, latitude=40.765262)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "41",
+        "Point 3 time": "2017-06-01T02:43:38",
+        "Point 4 geom": "MyLatLong(longitude=-73.962205, latitude=40.767072)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "15",
+        "Point 4 time": "2017-06-01T03:04:21",
+        "Point 5 geom": "MyLatLong(longitude=-73.955966, latitude=40.764436)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "25",
+        "Point 5 time": "2017-06-01T03:14:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986364,
+          40.775646
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:24:13",
+        "EndTime": "2017-06-01T01:24:13",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986364, latitude=40.775646)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-06-01T01:24:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986849,
+          40.775851
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T22:03:20",
+        "EndTime": "2017-05-31T22:03:20",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "19",
+        "Point 1 time": "2017-05-31T22:03:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956525,
+            40.763854
+          ],
+          [
+            -73.961499,
+            40.765954
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:54:25",
+        "EndTime": "2017-06-01T04:03:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.956525, latitude=40.763854)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "213",
+        "Point 1 time": "2017-06-01T03:54:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.961499, latitude=40.765954)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "121",
+        "Point 2 time": "2017-06-01T04:03:59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.955805,
+            40.764368
+          ],
+          [
+            -73.987271,
+            40.775185
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T22:33:38",
+        "EndTime": "2017-05-31T23:03:18",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.955805, latitude=40.764368)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "10",
+        "Point 1 time": "2017-05-31T22:33:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.987271, latitude=40.775185)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "2",
+        "Point 2 time": "2017-05-31T23:03:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956464,
+          40.763828
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:34:35",
+        "EndTime": "2017-06-01T01:34:35",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.956464, latitude=40.763828)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "219",
+        "Point 1 time": "2017-06-01T01:34:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.96335,
+            40.767554
+          ],
+          [
+            -73.955859,
+            40.764391
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T16:03:52",
+        "EndTime": "2017-05-31T16:13:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.96335, latitude=40.767554)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "125",
+        "Point 1 time": "2017-05-31T16:03:52",
+        "Point 2 geom": "MyLatLong(longitude=-73.955859, latitude=40.764391)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-05-31T16:13:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962801,
+            40.766504
+          ],
+          [
+            -73.972624,
+            40.768948
+          ],
+          [
+            -73.986439,
+            40.775678
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:14:24",
+        "EndTime": "2017-06-01T03:34:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.962801, latitude=40.766504)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "204",
+        "Point 1 time": "2017-06-01T03:14:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.972624, latitude=40.768948)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "687",
+        "Point 2 time": "2017-06-01T03:24:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.986439, latitude=40.775678)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "39",
+        "Point 3 time": "2017-06-01T03:34:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9588,
+            40.764818
+          ],
+          [
+            -73.963066,
+            40.766616
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:54:45",
+        "EndTime": "2017-06-01T04:03:45",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.9588, latitude=40.764818)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "222",
+        "Point 1 time": "2017-06-01T03:54:45",
+        "Point 2 geom": "MyLatLong(longitude=-73.963066, latitude=40.766616)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "178",
+        "Point 2 time": "2017-06-01T04:03:45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95786,
+          40.765253
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "E 68 ST/LEXINGTON AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:24:14",
+        "EndTime": "2017-06-01T01:24:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.95786, latitude=40.765253)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "40",
+        "Point 1 time": "2017-06-01T01:24:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.979299,
+            40.771824
+          ],
+          [
+            -73.95752,
+            40.765094
+          ],
+          [
+            -73.955912,
+            40.764414
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T16:33:31",
+        "EndTime": "2017-05-31T16:53:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.979299, latitude=40.771824)",
+        "Point 1 arrival": "0.6 miles away",
+        "Point 1 dist from stop": "931",
+        "Point 1 time": "2017-05-31T16:33:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.95752, latitude=40.765094)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "5",
+        "Point 2 time": "2017-05-31T16:43:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.955912, latitude=40.764414)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "20",
+        "Point 3 time": "2017-05-31T16:53:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962415,
+            40.766341
+          ],
+          [
+            -73.970959,
+            40.768797
+          ],
+          [
+            -73.986402,
+            40.775662
+          ],
+          [
+            -73.986402,
+            40.775662
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:44:06",
+        "EndTime": "2017-06-01T02:14:21",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.962415, latitude=40.766341)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-06-01T01:44:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.970959, latitude=40.768797)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "830",
+        "Point 2 time": "2017-06-01T01:53:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.986402, latitude=40.775662)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "43",
+        "Point 3 time": "2017-06-01T02:03:45",
+        "Point 4 geom": "MyLatLong(longitude=-73.986402, latitude=40.775662)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "43",
+        "Point 4 time": "2017-06-01T02:14:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955955,
+          40.764432
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:44:36",
+        "EndTime": "2017-06-01T01:44:36",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.955955, latitude=40.764432)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "24",
+        "Point 1 time": "2017-06-01T01:44:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95876,
+            40.764801
+          ],
+          [
+            -73.967612,
+            40.768534
+          ],
+          [
+            -73.982718,
+            40.774078
+          ],
+          [
+            -73.986588,
+            40.775741
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:24:10",
+        "EndTime": "2017-06-01T02:54:26",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.95876, latitude=40.764801)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "226",
+        "Point 1 time": "2017-06-01T02:24:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.967612, latitude=40.768534)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:34:17",
+        "Point 3 geom": "MyLatLong(longitude=-73.982718, latitude=40.774078)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T02:43:49",
+        "Point 4 geom": "MyLatLong(longitude=-73.986588, latitude=40.775741)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "25",
+        "Point 4 time": "2017-06-01T02:54:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.983639,
+            40.773619
+          ],
+          [
+            -73.972707,
+            40.768971
+          ],
+          [
+            -73.95786,
+            40.765253
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5241",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:53:48",
+        "EndTime": "2017-06-01T02:24:36",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.983639, latitude=40.773619)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "86",
+        "Point 1 time": "2017-06-01T01:53:48",
+        "Point 2 geom": "MyLatLong(longitude=-73.972707, latitude=40.768971)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "267",
+        "Point 2 time": "2017-06-01T02:03:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.95786, latitude=40.765253)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "40",
+        "Point 3 time": "2017-06-01T02:24:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.968433,
+          40.767669
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:44:15",
+        "EndTime": "2017-06-01T01:44:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.968433, latitude=40.767669)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "238",
+        "Point 1 time": "2017-06-01T01:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.979731,
+            40.772006
+          ],
+          [
+            -73.965553,
+            40.768484
+          ],
+          [
+            -73.957573,
+            40.765117
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:04:31",
+        "EndTime": "2017-06-01T03:23:39",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.979731, latitude=40.772006)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "36",
+        "Point 1 time": "2017-06-01T03:04:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.965553, latitude=40.768484)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "180",
+        "Point 2 time": "2017-06-01T03:14:36",
+        "Point 3 geom": "MyLatLong(longitude=-73.957573, latitude=40.765117)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "10",
+        "Point 3 time": "2017-06-01T03:23:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956911,
+            40.764018
+          ],
+          [
+            -73.969213,
+            40.769206
+          ],
+          [
+            -73.986439,
+            40.775678
+          ],
+          [
+            -73.986402,
+            40.775662
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:54:19",
+        "EndTime": "2017-06-01T03:23:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.956911, latitude=40.764018)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "176",
+        "Point 1 time": "2017-06-01T02:54:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.969213, latitude=40.769206)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "49",
+        "Point 2 time": "2017-06-01T03:04:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.986439, latitude=40.775678)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "39",
+        "Point 3 time": "2017-06-01T03:14:33",
+        "Point 4 geom": "MyLatLong(longitude=-73.986402, latitude=40.775662)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "43",
+        "Point 4 time": "2017-06-01T03:23:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981962,
+          40.773762
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5131",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T16:03:24",
+        "EndTime": "2017-05-31T16:03:24",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.981962, latitude=40.773762)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-05-31T16:03:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.963613,
+            40.767664
+          ],
+          [
+            -73.956052,
+            40.764473
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5232",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:24:26",
+        "EndTime": "2017-06-01T01:34:25",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.963613, latitude=40.767664)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "151",
+        "Point 1 time": "2017-06-01T01:24:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.956052, latitude=40.764473)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "34",
+        "Point 2 time": "2017-06-01T01:34:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.981563,
+          40.772776
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5211",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:14:27",
+        "EndTime": "2017-06-01T02:14:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.981563, latitude=40.772776)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "212",
+        "Point 1 time": "2017-06-01T02:14:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987573,
+            40.775559
+          ],
+          [
+            -73.97921,
+            40.771787
+          ],
+          [
+            -73.956341,
+            40.764595
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5214",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:44:30",
+        "EndTime": "2017-06-01T02:14:10",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.987573, latitude=40.775559)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "68",
+        "Point 1 time": "2017-06-01T01:44:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.97921, latitude=40.771787)",
+        "Point 2 arrival": "0.6 miles away",
+        "Point 2 dist from stop": "922",
+        "Point 2 time": "2017-06-01T01:54:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.956341, latitude=40.764595)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "62",
+        "Point 3 time": "2017-06-01T02:14:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.974033,
+            40.769461
+          ],
+          [
+            -73.963677,
+            40.767691
+          ],
+          [
+            -73.955955,
+            40.764432
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:44:23",
+        "EndTime": "2017-06-01T02:03:30",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.974033, latitude=40.769461)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "392",
+        "Point 1 time": "2017-06-01T01:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.963677, latitude=40.767691)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T01:53:58",
+        "Point 3 geom": "MyLatLong(longitude=-73.955955, latitude=40.764432)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "24",
+        "Point 3 time": "2017-06-01T02:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981729,
+            40.772846
+          ],
+          [
+            -73.966282,
+            40.76879
+          ],
+          [
+            -73.957198,
+            40.764958
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T03:43:57",
+        "EndTime": "2017-06-01T04:03:31",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.981729, latitude=40.772846)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "228",
+        "Point 1 time": "2017-06-01T03:43:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.966282, latitude=40.76879)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "251",
+        "Point 2 time": "2017-06-01T03:54:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.957198, latitude=40.764958)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "144",
+        "Point 3 time": "2017-06-01T04:03:31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987471,
+          40.77527
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5021",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T00:04:04",
+        "EndTime": "2017-06-01T00:04:04",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987471, latitude=40.77527)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "22",
+        "Point 1 time": "2017-06-01T00:04:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986849,
+          40.775851
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T23:44:08",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987242,
+            40.775173
+          ],
+          [
+            -73.95786,
+            40.765253
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5244",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T00:54:12",
+        "EndTime": "2017-06-01T01:24:30",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.987242, latitude=40.775173)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:54:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.95786, latitude=40.765253)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "40",
+        "Point 2 time": "2017-06-01T01:24:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.958035,
+            40.764495
+          ],
+          [
+            -73.981591,
+            40.773608
+          ],
+          [
+            -73.986608,
+            40.775749
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5202",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-05-31T16:03:31",
+        "EndTime": "2017-05-31T16:23:36",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.958035, latitude=40.764495)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "67",
+        "Point 1 time": "2017-05-31T16:03:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.981591, latitude=40.773608)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-05-31T16:13:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.986608, latitude=40.775749)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "23",
+        "Point 3 time": "2017-05-31T16:23:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987494,
+          40.775668
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T23:13:34",
+        "EndTime": "2017-05-31T23:13:34",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987494, latitude=40.775668)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "82",
+        "Point 1 time": "2017-05-31T23:13:34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986849,
+          40.775851
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T01:44:19",
+        "EndTime": "2017-06-01T01:44:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956485,
+            40.763837
+          ],
+          [
+            -73.962191,
+            40.766246
+          ],
+          [
+            -73.969677,
+            40.768847
+          ],
+          [
+            -73.984136,
+            40.774672
+          ],
+          [
+            -73.986717,
+            40.775795
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5218",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:24:03",
+        "EndTime": "2017-06-01T04:03:52",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.956485, latitude=40.763837)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "217",
+        "Point 1 time": "2017-06-01T03:24:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.962191, latitude=40.766246)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "54",
+        "Point 2 time": "2017-06-01T03:34:40",
+        "Point 3 geom": "MyLatLong(longitude=-73.969677, latitude=40.768847)",
+        "Point 3 arrival": "0.6 miles away",
+        "Point 3 dist from stop": "954",
+        "Point 3 time": "2017-06-01T03:43:40",
+        "Point 4 geom": "MyLatLong(longitude=-73.984136, latitude=40.774672)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "66",
+        "Point 4 time": "2017-06-01T03:54:18",
+        "Point 5 geom": "MyLatLong(longitude=-73.986717, latitude=40.775795)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "12",
+        "Point 5 time": "2017-06-01T04:03:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.956383,
+            40.763793
+          ],
+          [
+            -73.962618,
+            40.766427
+          ],
+          [
+            -73.97928,
+            40.772634
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T03:34:15",
+        "EndTime": "2017-06-01T03:54:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.956383, latitude=40.763793)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:34:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.962618, latitude=40.766427)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T03:43:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.97928, latitude=40.772634)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "205",
+        "Point 3 time": "2017-06-01T03:54:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957013,
+            40.764061
+          ],
+          [
+            -73.967452,
+            40.768467
+          ],
+          [
+            -73.984345,
+            40.77476
+          ],
+          [
+            -73.986663,
+            40.775772
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T02:43:40",
+        "EndTime": "2017-06-01T03:14:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.957013, latitude=40.764061)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "166",
+        "Point 1 time": "2017-06-01T02:43:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.967452, latitude=40.768467)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T02:54:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.984345, latitude=40.77476)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "46",
+        "Point 3 time": "2017-06-01T03:04:25",
+        "Point 4 geom": "MyLatLong(longitude=-73.986663, latitude=40.775772)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "17",
+        "Point 4 time": "2017-06-01T03:14:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987385,
+          40.775234
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5213",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T02:24:16",
+        "EndTime": "2017-06-01T02:24:16",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987385, latitude=40.775234)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "13",
+        "Point 1 time": "2017-06-01T02:24:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.986314,
+          40.774781
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5205",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-05-31T16:52:51",
+        "EndTime": "2017-05-31T16:52:51",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.986314, latitude=40.774781)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "195",
+        "Point 1 time": "2017-05-31T16:52:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.986849,
+            40.775851
+          ],
+          [
+            -73.96154,
+            40.765971
+          ],
+          [
+            -73.977948,
+            40.771887
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5204",
+        "PublishedLineName": "M66",
+        "DirectionRef": "1",
+        "OriginName": "E 67 ST/YORK AV",
+        "DestinationName": "LINCOLN CTR WEST END AV XTOWN",
+        "StartTime": "2017-06-01T00:23:41",
+        "EndTime": "2017-06-01T01:34:13",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.986849, latitude=40.775851)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:23:41",
+        "Point 2 geom": "MyLatLong(longitude=-73.96154, latitude=40.765971)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "117",
+        "Point 2 time": "2017-06-01T01:24:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.977948, latitude=40.771887)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "128",
+        "Point 3 time": "2017-06-01T01:34:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987241,
+          40.776015
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5226",
+        "PublishedLineName": "M66",
+        "DirectionRef": "0",
+        "OriginName": "W 66 ST/WEST END AV",
+        "DestinationName": "EAST SIDE YORK AV CROSSTOWN",
+        "StartTime": "2017-06-01T01:34:20",
+        "EndTime": "2017-06-01T01:34:20",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987241, latitude=40.776015)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "126",
+        "Point 1 time": "2017-06-01T01:34:20"
+      }
+    }
+  ]
+}

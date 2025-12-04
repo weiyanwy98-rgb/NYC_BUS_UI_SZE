@@ -1,0 +1,753 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.982636,
+          40.767047
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T01:24:05",
+        "EndTime": "2017-06-01T01:24:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.982636, latitude=40.767047)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "87",
+        "Point 1 time": "2017-06-01T01:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981804,
+            40.766571
+          ],
+          [
+            -73.998983,
+            40.759891
+          ],
+          [
+            -74.008038,
+            40.74583
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T03:43:42",
+        "EndTime": "2017-06-01T04:03:54",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.981804, latitude=40.766571)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "74",
+        "Point 1 time": "2017-06-01T03:43:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.998983, latitude=40.759891)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "230",
+        "Point 2 time": "2017-06-01T03:54:20",
+        "Point 3 geom": "MyLatLong(longitude=-74.008038, latitude=40.74583)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-06-01T04:03:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.995634,
+          40.764504
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T02:14:10",
+        "EndTime": "2017-06-01T02:14:10",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.995634, latitude=40.764504)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "53",
+        "Point 1 time": "2017-06-01T02:14:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.993429,
+            40.771172
+          ],
+          [
+            -73.982279,
+            40.767343
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T02:24:22",
+        "EndTime": "2017-06-01T02:33:52",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.993429, latitude=40.771172)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "242",
+        "Point 1 time": "2017-06-01T02:24:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.982279, latitude=40.767343)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "32",
+        "Point 2 time": "2017-06-01T02:33:52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00647,
+            40.741412
+          ],
+          [
+            -74.007762,
+            40.752156
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T03:54:21",
+        "EndTime": "2017-06-01T04:03:48",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.00647, latitude=40.741412)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "70",
+        "Point 1 time": "2017-06-01T03:54:21",
+        "Point 2 geom": "MyLatLong(longitude=-74.007762, latitude=40.752156)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T04:03:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.987651,
+          40.768733
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T01:34:18",
+        "EndTime": "2017-06-01T01:34:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.987651, latitude=40.768733)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T01:34:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003648,
+          40.738579
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-05-31T23:44:26",
+        "EndTime": "2017-05-31T23:44:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.003648, latitude=40.738579)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "209",
+        "Point 1 time": "2017-05-31T23:44:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.005177,
+          40.740729
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T01:44:33",
+        "EndTime": "2017-06-01T01:44:33",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.005177, latitude=40.740729)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "61",
+        "Point 1 time": "2017-06-01T01:44:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.002385,
+            40.755232
+          ],
+          [
+            -74.00635,
+            40.749785
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T01:24:23",
+        "EndTime": "2017-06-01T01:34:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.002385, latitude=40.755232)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "317",
+        "Point 1 time": "2017-06-01T01:24:23",
+        "Point 2 geom": "MyLatLong(longitude=-74.00635, latitude=40.749785)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-06-01T01:34:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.007203,
+            40.741722
+          ],
+          [
+            -74.008079,
+            40.750165
+          ],
+          [
+            -74.004331,
+            40.757808
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T01:54:05",
+        "EndTime": "2017-06-01T02:14:18",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.007203, latitude=40.741722)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:54:05",
+        "Point 2 geom": "MyLatLong(longitude=-74.008079, latitude=40.750165)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "246",
+        "Point 2 time": "2017-06-01T02:03:38",
+        "Point 3 geom": "MyLatLong(longitude=-74.004331, latitude=40.757808)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "386",
+        "Point 3 time": "2017-06-01T02:14:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.981724,
+            40.76708
+          ],
+          [
+            -74.004342,
+            40.737964
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T00:34:26",
+        "EndTime": "2017-06-01T01:24:18",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.981724, latitude=40.76708)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "131",
+        "Point 1 time": "2017-06-01T00:34:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.004342, latitude=40.737964)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T01:24:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00498,
+          40.737414
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T00:14:14",
+        "EndTime": "2017-06-01T00:14:14",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.00498, latitude=40.737414)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:14:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.007773,
+            40.74722
+          ],
+          [
+            -74.004695,
+            40.737663
+          ],
+          [
+            -74.004695,
+            40.737663
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T02:24:14",
+        "EndTime": "2017-06-01T02:43:48",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.007773, latitude=40.74722)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "279",
+        "Point 1 time": "2017-06-01T02:24:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.004695, latitude=40.737663)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "57",
+        "Point 2 time": "2017-06-01T02:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.004695, latitude=40.737663)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "57",
+        "Point 3 time": "2017-06-01T02:43:48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.999636,
+            40.758996
+          ],
+          [
+            -74.007329,
+            40.748303
+          ],
+          [
+            -74.00574,
+            40.737242
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T03:23:53",
+        "EndTime": "2017-06-01T03:43:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.999636, latitude=40.758996)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "116",
+        "Point 1 time": "2017-06-01T03:23:53",
+        "Point 2 geom": "MyLatLong(longitude=-74.007329, latitude=40.748303)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "8",
+        "Point 2 time": "2017-06-01T03:34:30",
+        "Point 3 geom": "MyLatLong(longitude=-74.00574, latitude=40.737242)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "130",
+        "Point 3 time": "2017-06-01T03:43:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.996754,
+            40.762969
+          ],
+          [
+            -74.003554,
+            40.753626
+          ],
+          [
+            -74.005821,
+            40.750523
+          ],
+          [
+            -74.003766,
+            40.74314
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T02:43:26",
+        "EndTime": "2017-06-01T03:14:44",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.996754, latitude=40.762969)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "128",
+        "Point 1 time": "2017-06-01T02:43:26",
+        "Point 2 geom": "MyLatLong(longitude=-74.003554, latitude=40.753626)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "113",
+        "Point 2 time": "2017-06-01T02:54:32",
+        "Point 3 geom": "MyLatLong(longitude=-74.005821, latitude=40.750523)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "288",
+        "Point 3 time": "2017-06-01T03:04:39",
+        "Point 4 geom": "MyLatLong(longitude=-74.003766, latitude=40.74314)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "358",
+        "Point 4 time": "2017-06-01T03:14:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.002701,
+            40.739513
+          ],
+          [
+            -74.008164,
+            40.745158
+          ],
+          [
+            -74.00652,
+            40.754914
+          ],
+          [
+            -73.998879,
+            40.764044
+          ],
+          [
+            -73.988303,
+            40.769008
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3917",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T03:23:45",
+        "EndTime": "2017-06-01T04:03:32",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.002701, latitude=40.739513)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "78",
+        "Point 1 time": "2017-06-01T03:23:45",
+        "Point 2 geom": "MyLatLong(longitude=-74.008164, latitude=40.745158)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "93",
+        "Point 2 time": "2017-06-01T03:34:23",
+        "Point 3 geom": "MyLatLong(longitude=-74.00652, latitude=40.754914)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "5",
+        "Point 3 time": "2017-06-01T03:43:55",
+        "Point 4 geom": "MyLatLong(longitude=-73.998879, latitude=40.764044)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "45",
+        "Point 4 time": "2017-06-01T03:54:31",
+        "Point 5 geom": "MyLatLong(longitude=-73.988303, latitude=40.769008)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "20",
+        "Point 5 time": "2017-06-01T04:03:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.995752,
+            40.764342
+          ],
+          [
+            -73.999953,
+            40.75856
+          ],
+          [
+            -74.005755,
+            40.750615
+          ],
+          [
+            -74.004748,
+            40.741796
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "1",
+        "OriginName": "W 58 St/BROADWAY",
+        "DestinationName": "WEST VILLAGE - ABINGDON SQ",
+        "StartTime": "2017-06-01T01:44:12",
+        "EndTime": "2017-06-01T02:14:25",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.995752, latitude=40.764342)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "33",
+        "Point 1 time": "2017-06-01T01:44:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.999953, latitude=40.75856)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T01:54:05",
+        "Point 3 geom": "MyLatLong(longitude=-74.005755, latitude=40.750615)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "300",
+        "Point 3 time": "2017-06-01T02:03:28",
+        "Point 4 geom": "MyLatLong(longitude=-74.004748, latitude=40.741796)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "187",
+        "Point 4 time": "2017-06-01T02:14:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006909,
+            40.749675
+          ],
+          [
+            -74.006912,
+            40.754364
+          ],
+          [
+            -74.003327,
+            40.759136
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T01:34:22",
+        "EndTime": "2017-06-01T01:53:57",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.006909, latitude=40.749675)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T01:34:22",
+        "Point 2 geom": "MyLatLong(longitude=-74.006912, latitude=40.754364)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "75",
+        "Point 2 time": "2017-06-01T01:44:26",
+        "Point 3 geom": "MyLatLong(longitude=-74.003327, latitude=40.759136)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "216",
+        "Point 3 time": "2017-06-01T01:53:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.00299,
+            40.739949
+          ],
+          [
+            -74.007738,
+            40.747409
+          ],
+          [
+            -74.007449,
+            40.749908
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_3805",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T02:24:16",
+        "EndTime": "2017-06-01T02:43:33",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.00299, latitude=40.739949)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "2",
+        "Point 1 time": "2017-06-01T02:24:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.007738, latitude=40.747409)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "358",
+        "Point 2 time": "2017-06-01T02:34:11",
+        "Point 3 geom": "MyLatLong(longitude=-74.007449, latitude=40.749908)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "7",
+        "Point 3 time": "2017-06-01T02:43:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.008375,
+            40.743997
+          ],
+          [
+            -74.007035,
+            40.749729
+          ],
+          [
+            -74.007177,
+            40.753939
+          ],
+          [
+            -73.998487,
+            40.764483
+          ],
+          [
+            -73.986772,
+            40.768362
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5239",
+        "PublishedLineName": "M12",
+        "DirectionRef": "0",
+        "OriginName": "8 AV/JANE ST",
+        "DestinationName": "MIDTOWN WEST - COLUMBUS CIR",
+        "StartTime": "2017-06-01T02:54:25",
+        "EndTime": "2017-06-01T03:34:43",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-74.008375, latitude=40.743997)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "92",
+        "Point 1 time": "2017-06-01T02:54:25",
+        "Point 2 geom": "MyLatLong(longitude=-74.007035, latitude=40.749729)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "47",
+        "Point 2 time": "2017-06-01T03:04:29",
+        "Point 3 geom": "MyLatLong(longitude=-74.007177, latitude=40.753939)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "127",
+        "Point 3 time": "2017-06-01T03:14:35",
+        "Point 4 geom": "MyLatLong(longitude=-73.998487, latitude=40.764483)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "149",
+        "Point 4 time": "2017-06-01T03:23:36",
+        "Point 5 geom": "MyLatLong(longitude=-73.986772, latitude=40.768362)",
+        "Point 5 arrival": "< 1 stop away",
+        "Point 5 dist from stop": "385",
+        "Point 5 time": "2017-06-01T03:34:43"
+      }
+    }
+  ]
+}

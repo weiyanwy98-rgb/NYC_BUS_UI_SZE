@@ -1,0 +1,843 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0763,
+          40.637747
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8187",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-06-01T00:23:43",
+        "EndTime": "2017-06-01T00:23:43",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.0763, latitude=40.637747)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T00:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.078504,
+          40.638288
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8239",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:24:18",
+        "EndTime": "2017-05-31T23:24:18",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.078504, latitude=40.638288)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "207",
+        "Point 1 time": "2017-05-31T23:24:18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.102797,
+            40.630911
+          ],
+          [
+            -74.075685,
+            40.640912
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8253",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:53:24",
+        "EndTime": "2017-06-01T00:04",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.102797, latitude=40.630911)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "227",
+        "Point 1 time": "2017-05-31T23:53:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.075685, latitude=40.640912)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "121",
+        "Point 2 time": "2017-06-01T00:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.17126,
+            40.639327
+          ],
+          [
+            -74.158116,
+            40.626255
+          ],
+          [
+            -74.130921,
+            40.62633
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7014",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:54:20",
+        "EndTime": "2017-05-31T23:13:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.17126, latitude=40.639327)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:54:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.158116, latitude=40.626255)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "114",
+        "Point 2 time": "2017-05-31T23:03:38",
+        "Point 3 geom": "MyLatLong(longitude=-74.130921, latitude=40.62633)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-05-31T23:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.083987,
+          40.635639
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8247",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:33:27",
+        "EndTime": "2017-05-31T22:33:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.083987, latitude=40.635639)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "761",
+        "Point 1 time": "2017-05-31T22:33:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.156927,
+            40.626083
+          ],
+          [
+            -74.128588,
+            40.626628
+          ],
+          [
+            -74.089269,
+            40.630453
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8187",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:33:30",
+        "EndTime": "2017-05-31T22:54",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.156927, latitude=40.626083)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "12",
+        "Point 1 time": "2017-05-31T22:33:30",
+        "Point 2 geom": "MyLatLong(longitude=-74.128588, latitude=40.626628)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "280",
+        "Point 2 time": "2017-05-31T22:44:02",
+        "Point 3 geom": "MyLatLong(longitude=-74.089269, latitude=40.630453)",
+        "Point 3 arrival": "0.9 miles away",
+        "Point 3 dist from stop": "1527",
+        "Point 3 time": "2017-05-31T22:54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.130921,
+            40.62633
+          ],
+          [
+            -74.106374,
+            40.630552
+          ],
+          [
+            -74.081959,
+            40.636536
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7023",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:53:20",
+        "EndTime": "2017-06-01T00:13:49",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.130921, latitude=40.62633)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.106374, latitude=40.630552)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "38",
+        "Point 2 time": "2017-06-01T00:04:17",
+        "Point 3 geom": "MyLatLong(longitude=-74.081959, latitude=40.636536)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "563",
+        "Point 3 time": "2017-06-01T00:13:49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.160759,
+            40.626555
+          ],
+          [
+            -74.13664,
+            40.62457
+          ],
+          [
+            -74.106952,
+            40.630459
+          ],
+          [
+            -74.075623,
+            40.639205
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8210",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:43:59",
+        "EndTime": "2017-05-31T23:13:16",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.160759, latitude=40.626555)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:43:59",
+        "Point 2 geom": "MyLatLong(longitude=-74.13664, latitude=40.62457)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "552",
+        "Point 2 time": "2017-05-31T22:53:56",
+        "Point 3 geom": "MyLatLong(longitude=-74.106952, latitude=40.630459)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "88",
+        "Point 3 time": "2017-05-31T23:03:20",
+        "Point 4 geom": "MyLatLong(longitude=-74.075623, latitude=40.639205)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "315",
+        "Point 4 time": "2017-05-31T23:13:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.166202,
+            40.63548
+          ],
+          [
+            -74.150119,
+            40.625269
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7023",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:34:07",
+        "EndTime": "2017-05-31T23:43:58",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.166202, latitude=40.63548)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "5",
+        "Point 1 time": "2017-05-31T23:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-74.150119, latitude=40.625269)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "146",
+        "Point 2 time": "2017-05-31T23:43:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.128489,
+            40.626642
+          ],
+          [
+            -74.10072,
+            40.631184
+          ],
+          [
+            -74.075623,
+            40.640632
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7035",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:24:19",
+        "EndTime": "2017-05-31T23:44:13",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.128489, latitude=40.626642)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "272",
+        "Point 1 time": "2017-05-31T23:24:19",
+        "Point 2 geom": "MyLatLong(longitude=-74.10072, latitude=40.631184)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-05-31T23:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.075623, latitude=40.640632)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "153",
+        "Point 3 time": "2017-05-31T23:44:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.165465,
+            40.627156
+          ],
+          [
+            -74.148055,
+            40.625035
+          ],
+          [
+            -74.121366,
+            40.627783
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8253",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:24:09",
+        "EndTime": "2017-05-31T23:44:21",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.165465, latitude=40.627156)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "171",
+        "Point 1 time": "2017-05-31T23:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-74.148055, latitude=40.625035)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "286",
+        "Point 2 time": "2017-05-31T23:34:15",
+        "Point 3 geom": "MyLatLong(longitude=-74.121366, latitude=40.627783)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "455",
+        "Point 3 time": "2017-05-31T23:44:21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.170313,
+            40.640778
+          ],
+          [
+            -74.14889,
+            40.625119
+          ],
+          [
+            -74.108391,
+            40.630205
+          ],
+          [
+            -74.075462,
+            40.639894
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8255",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:03:32",
+        "EndTime": "2017-05-31T22:33:41",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.170313, latitude=40.640778)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:03:32",
+        "Point 2 geom": "MyLatLong(longitude=-74.14889, latitude=40.625119)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "41",
+        "Point 2 time": "2017-05-31T22:13:37",
+        "Point 3 geom": "MyLatLong(longitude=-74.108391, latitude=40.630205)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "213",
+        "Point 3 time": "2017-05-31T22:23:39",
+        "Point 4 geom": "MyLatLong(longitude=-74.075462, latitude=40.639894)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "236",
+        "Point 4 time": "2017-05-31T22:33:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0731,
+          40.643541
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8255",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:44:15",
+        "EndTime": "2017-05-31T22:44:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.0731, latitude=40.643541)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "38",
+        "Point 1 time": "2017-05-31T22:44:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.1254,
+            40.627065
+          ],
+          [
+            -74.098722,
+            40.631479
+          ],
+          [
+            -74.075615,
+            40.640592
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7029",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-06-01T00:23:49",
+        "EndTime": "2017-06-01T00:44:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.1254, latitude=40.627065)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T00:23:49",
+        "Point 2 geom": "MyLatLong(longitude=-74.098722, latitude=40.631479)",
+        "Point 2 arrival": "0.5 miles away",
+        "Point 2 dist from stop": "818",
+        "Point 2 time": "2017-06-01T00:34:25",
+        "Point 3 geom": "MyLatLong(longitude=-74.075615, latitude=40.640592)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "157",
+        "Point 3 time": "2017-06-01T00:44:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.16634,
+            40.6319
+          ],
+          [
+            -74.146417,
+            40.624912
+          ],
+          [
+            -74.113603,
+            40.629252
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8239",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:54:14",
+        "EndTime": "2017-05-31T23:13:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.16634, latitude=40.6319)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:54:14",
+        "Point 2 geom": "MyLatLong(longitude=-74.146417, latitude=40.624912)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "147",
+        "Point 2 time": "2017-05-31T23:03:22",
+        "Point 3 geom": "MyLatLong(longitude=-74.113603, latitude=40.629252)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "665",
+        "Point 3 time": "2017-05-31T23:13:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.092945,
+          40.631177
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7014",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:23:57",
+        "EndTime": "2017-05-31T23:23:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.092945, latitude=40.631177)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "311",
+        "Point 1 time": "2017-05-31T23:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.139696,
+            40.624393
+          ],
+          [
+            -74.117295,
+            40.628938
+          ],
+          [
+            -74.08834,
+            40.630773
+          ],
+          [
+            -74.073101,
+            40.643541
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7019",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:24:17",
+        "EndTime": "2017-05-31T23:53:13",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.139696, latitude=40.624393)",
+        "Point 1 arrival": "0.5 miles away",
+        "Point 1 dist from stop": "822",
+        "Point 1 time": "2017-05-31T23:24:17",
+        "Point 2 geom": "MyLatLong(longitude=-74.117295, latitude=40.628938)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "81",
+        "Point 2 time": "2017-05-31T23:34:13",
+        "Point 3 geom": "MyLatLong(longitude=-74.08834, latitude=40.630773)",
+        "Point 3 arrival": "0.9 miles away",
+        "Point 3 dist from stop": "1419",
+        "Point 3 time": "2017-05-31T23:44:20",
+        "Point 4 geom": "MyLatLong(longitude=-74.073101, latitude=40.643541)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "37",
+        "Point 4 time": "2017-05-31T23:53:13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.151032,
+            40.62538
+          ],
+          [
+            -74.125898,
+            40.626996
+          ],
+          [
+            -74.10025,
+            40.631252
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8187",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:53:16",
+        "EndTime": "2017-06-01T00:14:20",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-74.151032, latitude=40.62538)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:53:16",
+        "Point 2 geom": "MyLatLong(longitude=-74.125898, latitude=40.626996)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "49",
+        "Point 2 time": "2017-06-01T00:04:18",
+        "Point 3 geom": "MyLatLong(longitude=-74.10025, latitude=40.631252)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T00:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.166117,
+          40.637727
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8187",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:44:08",
+        "EndTime": "2017-05-31T23:44:08",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.166117, latitude=40.637727)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "255",
+        "Point 1 time": "2017-05-31T23:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.156865,
+          40.626074
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7035",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:13:22",
+        "EndTime": "2017-05-31T23:13:22",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.156865, latitude=40.626074)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-05-31T23:13:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.166293,
+            40.633111
+          ],
+          [
+            -74.150703,
+            40.62534
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7029",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-06-01T00:03:47",
+        "EndTime": "2017-06-01T00:14:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.166293, latitude=40.633111)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "134",
+        "Point 1 time": "2017-06-01T00:03:47",
+        "Point 2 geom": "MyLatLong(longitude=-74.150703, latitude=40.62534)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "196",
+        "Point 2 time": "2017-06-01T00:14:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.166398,
+            40.630379
+          ],
+          [
+            -74.130921,
+            40.62633
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8247",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:13:24",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-74.166398, latitude=40.630379)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "67",
+        "Point 1 time": "2017-05-31T22:13:24",
+        "Point 2 geom": "MyLatLong(longitude=-74.130921, latitude=40.62633)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.166187,
+          40.635867
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7019",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T23:13:32",
+        "EndTime": "2017-05-31T23:13:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.166187, latitude=40.635867)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "48",
+        "Point 1 time": "2017-05-31T23:13:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.166407,
+          40.640377
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8187",
+        "PublishedLineName": "S98",
+        "DirectionRef": "0",
+        "OriginName": "HOLLAND AV/BENJAMIN PL",
+        "DestinationName": "LTD ST GEORGE via FOREST",
+        "StartTime": "2017-05-31T22:24:04",
+        "EndTime": "2017-05-31T22:24:04",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.166407, latitude=40.640377)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "49",
+        "Point 1 time": "2017-05-31T22:24:04"
+      }
+    }
+  ]
+}

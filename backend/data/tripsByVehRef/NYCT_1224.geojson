@@ -1,0 +1,599 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.904423,
+            40.841502
+          ],
+          [
+            -73.91741,
+            40.81687
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WEBSTER AV/E FORDHAM RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-05-31T21:34:05",
+        "EndTime": "2017-05-31T21:43:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.904423, latitude=40.841502)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "280",
+        "Point 1 time": "2017-05-31T21:34:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.91741, latitude=40.81687)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T21:43:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.868448,
+            40.877893
+          ],
+          [
+            -73.889321,
+            40.863207
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WHITE PLAINS RD/E GUN HILL RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-05-31T22:53:53",
+        "EndTime": "2017-05-31T23:03:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.868448, latitude=40.877893)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "329",
+        "Point 1 time": "2017-05-31T22:53:53",
+        "Point 2 geom": "MyLatLong(longitude=-73.889321, latitude=40.863207)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T23:03:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.914649,
+            40.822673
+          ],
+          [
+            -73.903117,
+            40.843823
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-06-01T02:03:19",
+        "EndTime": "2017-06-01T02:14:15",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.914649, latitude=40.822673)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "219",
+        "Point 1 time": "2017-06-01T02:03:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.903117, latitude=40.843823)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "513",
+        "Point 2 time": "2017-06-01T02:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.867847,
+            40.877748
+          ],
+          [
+            -73.88338,
+            40.867408
+          ],
+          [
+            -73.897597,
+            40.853098
+          ],
+          [
+            -73.909709,
+            40.832123
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WHITE PLAINS RD/E GUN HILL RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-06-01T00:54:28",
+        "EndTime": "2017-06-01T01:24:14",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.867847, latitude=40.877748)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "382",
+        "Point 1 time": "2017-06-01T00:54:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.88338, latitude=40.867408)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "78",
+        "Point 2 time": "2017-06-01T01:04:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.897597, latitude=40.853098)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "224",
+        "Point 3 time": "2017-06-01T01:13:18",
+        "Point 4 geom": "MyLatLong(longitude=-73.909709, latitude=40.832123)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-06-01T01:24:14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916102,
+            40.819743
+          ],
+          [
+            -73.907274,
+            40.836463
+          ],
+          [
+            -73.900726,
+            40.848
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-05-31T23:53:31",
+        "EndTime": "2017-06-01T00:14:24",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916102, latitude=40.819743)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "217",
+        "Point 1 time": "2017-05-31T23:53:31",
+        "Point 2 geom": "MyLatLong(longitude=-73.907274, latitude=40.836463)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "15",
+        "Point 2 time": "2017-06-01T00:04:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.900726, latitude=40.848)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:14:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91738,
+          40.816934
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WHITE PLAINS RD/E GUN HILL RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-06-01T01:34:11",
+        "EndTime": "2017-06-01T01:34:11",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91738, latitude=40.816934)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "7",
+        "Point 1 time": "2017-06-01T01:34:11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.891567,
+            40.861514
+          ],
+          [
+            -73.87107,
+            40.878539
+          ],
+          [
+            -73.866186,
+            40.878277
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-06-01T02:24:12",
+        "EndTime": "2017-06-01T02:43:25",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.891567, latitude=40.861514)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "123",
+        "Point 1 time": "2017-06-01T02:24:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.87107, latitude=40.878539)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "257",
+        "Point 2 time": "2017-06-01T02:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.866186, latitude=40.878277)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "50",
+        "Point 3 time": "2017-06-01T02:43:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916,
+            40.817205
+          ],
+          [
+            -73.907282,
+            40.836448
+          ],
+          [
+            -73.894162,
+            40.858448
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-05-31T22:03:35",
+        "EndTime": "2017-05-31T22:23:57",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916, latitude=40.817205)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "581",
+        "Point 1 time": "2017-05-31T22:03:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.907282, latitude=40.836448)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-05-31T22:13:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.894162, latitude=40.858448)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "79",
+        "Point 3 time": "2017-05-31T22:23:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.875146,
+            40.872754
+          ],
+          [
+            -73.86632,
+            40.877342
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-05-31T22:33:50",
+        "EndTime": "2017-05-31T22:43:56",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.875146, latitude=40.872754)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T22:33:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.86632, latitude=40.877342)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "59",
+        "Point 2 time": "2017-05-31T22:43:56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.916431,
+            40.819027
+          ],
+          [
+            -73.909556,
+            40.832395
+          ],
+          [
+            -73.90017,
+            40.849082
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-06-01T03:43:40",
+        "EndTime": "2017-06-01T04:04",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.916431, latitude=40.819027)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "301",
+        "Point 1 time": "2017-06-01T03:43:40",
+        "Point 2 geom": "MyLatLong(longitude=-73.909556, latitude=40.832395)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "231",
+        "Point 2 time": "2017-06-01T03:54:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.90017, latitude=40.849082)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "34",
+        "Point 3 time": "2017-06-01T04:04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.918616,
+            40.864342
+          ],
+          [
+            -73.906019,
+            40.862774
+          ],
+          [
+            -73.897259,
+            40.86245
+          ],
+          [
+            -73.872893,
+            40.856139
+          ],
+          [
+            -73.830674,
+            40.855499
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx12",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ISHAM ST",
+        "DestinationName": "BAY PLAZA via FORDHAM RD via PELHAM PKY",
+        "StartTime": "2017-05-31T16:13:35",
+        "EndTime": "2017-05-31T16:53:09",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.918616, latitude=40.864342)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "14",
+        "Point 1 time": "2017-05-31T16:13:35",
+        "Point 2 geom": "MyLatLong(longitude=-73.906019, latitude=40.862774)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "148",
+        "Point 2 time": "2017-05-31T16:23:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.897259, latitude=40.86245)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "104",
+        "Point 3 time": "2017-05-31T16:33:54",
+        "Point 4 geom": "MyLatLong(longitude=-73.872893, latitude=40.856139)",
+        "Point 4 arrival": "< 1 stop away",
+        "Point 4 dist from stop": "435",
+        "Point 4 time": "2017-05-31T16:43:13",
+        "Point 5 geom": "MyLatLong(longitude=-73.830674, latitude=40.855499)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "0",
+        "Point 5 time": "2017-05-31T16:53:09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.90156,
+            40.846599
+          ],
+          [
+            -73.910715,
+            40.830334
+          ],
+          [
+            -73.91741,
+            40.816869
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WHITE PLAINS RD/E GUN HILL RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-05-31T23:13:11",
+        "EndTime": "2017-05-31T23:44:26",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.90156, latitude=40.846599)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "240",
+        "Point 1 time": "2017-05-31T23:13:11",
+        "Point 2 geom": "MyLatLong(longitude=-73.910715, latitude=40.830334)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "332",
+        "Point 2 time": "2017-05-31T23:24:08",
+        "Point 3 geom": "MyLatLong(longitude=-73.91741, latitude=40.816869)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "67",
+        "Point 3 time": "2017-05-31T23:44:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91981,
+          40.865504
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx12",
+        "DirectionRef": "1",
+        "OriginName": "BAY PLAZA BL/APPLEBEE'S",
+        "DestinationName": "INWOOD BWY-207 ST- PEL PKY via FRDHAM RD",
+        "StartTime": "2017-05-31T16:03:41",
+        "EndTime": "2017-05-31T16:03:41",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.91981, latitude=40.865504)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "326",
+        "Point 1 time": "2017-05-31T16:03:41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.883814,
+            40.86715
+          ],
+          [
+            -73.896299,
+            40.855132
+          ],
+          [
+            -73.907707,
+            40.835691
+          ],
+          [
+            -73.915525,
+            40.820991
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "1",
+        "OriginName": "WHITE PLAINS RD/E GUN HILL RD",
+        "DestinationName": "THE HUB 150 ST via WEBSTER",
+        "StartTime": "2017-06-01T02:54:19",
+        "EndTime": "2017-06-01T03:23:43",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.883814, latitude=40.86715)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "32",
+        "Point 1 time": "2017-06-01T02:54:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.896299, latitude=40.855132)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "17",
+        "Point 2 time": "2017-06-01T03:04:39",
+        "Point 3 geom": "MyLatLong(longitude=-73.907707, latitude=40.835691)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "27",
+        "Point 3 time": "2017-06-01T03:14:16",
+        "Point 4 geom": "MyLatLong(longitude=-73.915525, latitude=40.820991)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "105",
+        "Point 4 time": "2017-06-01T03:23:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.892732,
+            40.860356
+          ],
+          [
+            -73.877143,
+            40.870932
+          ],
+          [
+            -73.86587,
+            40.87807
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_1224",
+        "PublishedLineName": "Bx41",
+        "DirectionRef": "0",
+        "OriginName": "3 AV/151 ST",
+        "DestinationName": "WILLIAMSBRIDGE GUN HILL RD via WEBSTER",
+        "StartTime": "2017-06-01T00:23:47",
+        "EndTime": "2017-06-01T00:44:12",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.892732, latitude=40.860356)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T00:23:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.877143, latitude=40.870932)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "75",
+        "Point 2 time": "2017-06-01T00:34:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.86587, latitude=40.87807)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "156",
+        "Point 3 time": "2017-06-01T00:44:12"
+      }
+    }
+  ]
+}

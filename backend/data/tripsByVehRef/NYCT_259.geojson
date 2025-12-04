@@ -1,0 +1,521 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9506,
+            40.58383
+          ],
+          [
+            -73.947032,
+            40.584436
+          ],
+          [
+            -73.931992,
+            40.588117
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "0",
+        "OriginName": "NARROWS AV/77 ST",
+        "DestinationName": "SHEEPSHEAD BAY KNAPP ST",
+        "StartTime": "2017-05-31T22:33:24",
+        "EndTime": "2017-05-31T22:53:53",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.9506, latitude=40.58383)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "37",
+        "Point 1 time": "2017-05-31T22:33:24",
+        "Point 2 geom": "MyLatLong(longitude=-73.947032, latitude=40.584436)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "315",
+        "Point 2 time": "2017-05-31T22:43:57",
+        "Point 3 geom": "MyLatLong(longitude=-73.931992, latitude=40.588117)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "4",
+        "Point 3 time": "2017-05-31T22:53:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.036414,
+            40.631927
+          ],
+          [
+            -74.036414,
+            40.631927
+          ],
+          [
+            -74.018234,
+            40.626827
+          ],
+          [
+            -73.996489,
+            40.613692
+          ],
+          [
+            -73.985544,
+            40.598216
+          ],
+          [
+            -73.96662,
+            40.585918
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "0",
+        "OriginName": "NARROWS AV/77 ST",
+        "DestinationName": "SHEEPSHEAD BAY KNAPP ST",
+        "StartTime": "2017-05-31T21:33:38",
+        "EndTime": "2017-05-31T22:23:50",
+        "NumOfPoints": "6",
+        "Point 1 geom": "MyLatLong(longitude=-74.036414, latitude=40.631927)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "269",
+        "Point 1 time": "2017-05-31T21:33:38",
+        "Point 2 geom": "MyLatLong(longitude=-74.036414, latitude=40.631927)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "269",
+        "Point 2 time": "2017-05-31T21:43:53",
+        "Point 3 geom": "MyLatLong(longitude=-74.018234, latitude=40.626827)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "170",
+        "Point 3 time": "2017-05-31T21:53:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.996489, latitude=40.613692)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "41",
+        "Point 4 time": "2017-05-31T22:03:30",
+        "Point 5 geom": "MyLatLong(longitude=-73.985544, latitude=40.598216)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "83",
+        "Point 5 time": "2017-05-31T22:13:39",
+        "Point 6 geom": "MyLatLong(longitude=-73.96662, latitude=40.585918)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "128",
+        "Point 6 time": "2017-05-31T22:23:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.943208,
+            40.583732
+          ],
+          [
+            -73.952694,
+            40.586993
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-05-31T23:03:30",
+        "EndTime": "2017-05-31T23:13:28",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.943208, latitude=40.583732)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "168",
+        "Point 1 time": "2017-05-31T23:03:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.952694, latitude=40.586993)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "168",
+        "Point 2 time": "2017-05-31T23:13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.966881,
+            40.580491
+          ],
+          [
+            -73.975652,
+            40.590953
+          ],
+          [
+            -73.985733,
+            40.599243
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-05-31T23:24:09",
+        "EndTime": "2017-05-31T23:44:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.966881, latitude=40.580491)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-05-31T23:24:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.975652, latitude=40.590953)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "56",
+        "Point 2 time": "2017-05-31T23:34:22",
+        "Point 3 geom": "MyLatLong(longitude=-73.985733, latitude=40.599243)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "157",
+        "Point 3 time": "2017-05-31T23:44:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.025664,
+            40.629379
+          ],
+          [
+            -74.008197,
+            40.620769
+          ],
+          [
+            -73.98793,
+            40.608524
+          ],
+          [
+            -73.980429,
+            40.593828
+          ],
+          [
+            -73.966913,
+            40.586587
+          ],
+          [
+            -73.954907,
+            40.582969
+          ],
+          [
+            -73.949735,
+            40.588472
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "0",
+        "OriginName": "NARROWS AV/77 ST",
+        "DestinationName": "SHEEPSHEAD BAY KNAPP ST",
+        "StartTime": "2017-06-01T00:34:29",
+        "EndTime": "2017-06-01T01:34:30",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-74.025664, latitude=40.629379)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "35",
+        "Point 1 time": "2017-06-01T00:34:29",
+        "Point 2 geom": "MyLatLong(longitude=-74.008197, latitude=40.620769)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "69",
+        "Point 2 time": "2017-06-01T00:44:31",
+        "Point 3 geom": "MyLatLong(longitude=-73.98793, latitude=40.608524)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "123",
+        "Point 3 time": "2017-06-01T00:54:03",
+        "Point 4 geom": "MyLatLong(longitude=-73.980429, latitude=40.593828)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "7",
+        "Point 4 time": "2017-06-01T01:04:25",
+        "Point 5 geom": "MyLatLong(longitude=-73.966913, latitude=40.586587)",
+        "Point 5 arrival": "at stop",
+        "Point 5 dist from stop": "25",
+        "Point 5 time": "2017-06-01T01:13:24",
+        "Point 6 geom": "MyLatLong(longitude=-73.954907, latitude=40.582969)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "39",
+        "Point 6 time": "2017-06-01T01:24:30",
+        "Point 7 geom": "MyLatLong(longitude=-73.949735, latitude=40.588472)",
+        "Point 7 arrival": "< 1 stop away",
+        "Point 7 dist from stop": "320",
+        "Point 7 time": "2017-06-01T01:34:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.932407,
+            40.584251
+          ],
+          [
+            -73.951711,
+            40.588254
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-06-01T02:03:38",
+        "EndTime": "2017-06-01T02:14:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.932407, latitude=40.584251)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "205",
+        "Point 1 time": "2017-06-01T02:03:38",
+        "Point 2 geom": "MyLatLong(longitude=-73.951711, latitude=40.588254)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T02:14:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.018237,
+            40.626829
+          ],
+          [
+            -73.999684,
+            40.615626
+          ],
+          [
+            -73.986781,
+            40.60475
+          ],
+          [
+            -73.979295,
+            40.593146
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "0",
+        "OriginName": "NARROWS AV/77 ST",
+        "DestinationName": "SHEEPSHEAD BAY KNAPP ST",
+        "StartTime": "2017-06-01T03:34:39",
+        "EndTime": "2017-06-01T04:03:30",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-74.018237, latitude=40.626829)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "170",
+        "Point 1 time": "2017-06-01T03:34:39",
+        "Point 2 geom": "MyLatLong(longitude=-73.999684, latitude=40.615626)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "14",
+        "Point 2 time": "2017-06-01T03:43:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.986781, latitude=40.60475)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T03:54:23",
+        "Point 4 geom": "MyLatLong(longitude=-73.979295, latitude=40.593146)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "51",
+        "Point 4 time": "2017-06-01T04:03:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.987682,
+            40.608375
+          ],
+          [
+            -74.000547,
+            40.616146
+          ],
+          [
+            -74.017736,
+            40.626527
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-05-31T23:53:20",
+        "EndTime": "2017-06-01T00:14:26",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.987682, latitude=40.608375)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:20",
+        "Point 2 geom": "MyLatLong(longitude=-74.000547, latitude=40.616146)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "304",
+        "Point 2 time": "2017-06-01T00:04:23",
+        "Point 3 geom": "MyLatLong(longitude=-74.017736, latitude=40.626527)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T00:14:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961654,
+            40.581595
+          ],
+          [
+            -73.974079,
+            40.585795
+          ],
+          [
+            -73.985257,
+            40.59674
+          ],
+          [
+            -73.991986,
+            40.610977
+          ],
+          [
+            -74.010745,
+            40.622308
+          ],
+          [
+            -74.025949,
+            40.628666
+          ],
+          [
+            -74.036506,
+            40.631739
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-06-01T02:24:25",
+        "EndTime": "2017-06-01T03:23:53",
+        "NumOfPoints": "7",
+        "Point 1 geom": "MyLatLong(longitude=-73.961654, latitude=40.581595)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "139",
+        "Point 1 time": "2017-06-01T02:24:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.974079, latitude=40.585795)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "7",
+        "Point 2 time": "2017-06-01T02:33:53",
+        "Point 3 geom": "MyLatLong(longitude=-73.985257, latitude=40.59674)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T02:43:32",
+        "Point 4 geom": "MyLatLong(longitude=-73.991986, latitude=40.610977)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "9",
+        "Point 4 time": "2017-06-01T02:54:30",
+        "Point 5 geom": "MyLatLong(longitude=-74.010745, latitude=40.622308)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "150",
+        "Point 5 time": "2017-06-01T03:04:39",
+        "Point 6 geom": "MyLatLong(longitude=-74.025949, latitude=40.628666)",
+        "Point 6 arrival": "approaching",
+        "Point 6 dist from stop": "37",
+        "Point 6 time": "2017-06-01T03:14:16",
+        "Point 7 geom": "MyLatLong(longitude=-74.036506, latitude=40.631739)",
+        "Point 7 arrival": "at stop",
+        "Point 7 dist from stop": "0",
+        "Point 7 time": "2017-06-01T03:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.93222,
+            40.588092
+          ],
+          [
+            -73.93222,
+            40.588092
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "0",
+        "OriginName": "NARROWS AV/77 ST",
+        "DestinationName": "SHEEPSHEAD BAY KNAPP ST",
+        "StartTime": "2017-06-01T01:44:30",
+        "EndTime": "2017-06-01T01:54:03",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.93222, latitude=40.588092)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "23",
+        "Point 1 time": "2017-06-01T01:44:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.93222, latitude=40.588092)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "23",
+        "Point 2 time": "2017-06-01T01:54:03"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.027813,
+          40.629089
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_259",
+        "PublishedLineName": "B4",
+        "DirectionRef": "1",
+        "OriginName": "KNAPP ST/HARKNESS AV",
+        "DestinationName": "BAY RIDGE NARROWS AV",
+        "StartTime": "2017-06-01T00:23:54",
+        "EndTime": "2017-06-01T00:23:54",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-74.027813, latitude=40.629089)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "62",
+        "Point 1 time": "2017-06-01T00:23:54"
+      }
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.961485,
+            40.718543
+          ],
+          [
+            -73.960053,
+            40.7094
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-05-31T23:53:32",
+        "EndTime": "2017-06-01T00:04:02",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.961485, latitude=40.718543)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "279",
+        "Point 1 time": "2017-05-31T23:53:32",
+        "Point 2 geom": "MyLatLong(longitude=-73.960053, latitude=40.7094)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "27",
+        "Point 2 time": "2017-06-01T00:04:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.953032,
+          40.738076
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T04:03:43",
+        "EndTime": "2017-06-01T04:03:43",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.953032, latitude=40.738076)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "370",
+        "Point 1 time": "2017-06-01T04:03:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962421,
+            40.709963
+          ],
+          [
+            -73.957341,
+            40.72834
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T02:03:44",
+        "EndTime": "2017-06-01T02:14:22",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.962421, latitude=40.709963)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "169",
+        "Point 1 time": "2017-06-01T02:03:44",
+        "Point 2 geom": "MyLatLong(longitude=-73.957341, latitude=40.72834)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-06-01T02:14:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964923,
+            40.717336
+          ],
+          [
+            -73.957974,
+            40.732199
+          ],
+          [
+            -73.949844,
+            40.747786
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T01:44:15",
+        "EndTime": "2017-06-01T02:03:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.964923, latitude=40.717336)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "55",
+        "Point 1 time": "2017-06-01T01:44:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.957974, latitude=40.732199)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "4",
+        "Point 2 time": "2017-06-01T01:53:47",
+        "Point 3 geom": "MyLatLong(longitude=-73.949844, latitude=40.747786)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "304",
+        "Point 3 time": "2017-06-01T02:03:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.968375,
+            40.710803
+          ],
+          [
+            -73.95752,
+            40.729422
+          ],
+          [
+            -73.952421,
+            40.733971
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T00:34:07",
+        "EndTime": "2017-06-01T00:54:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.968375, latitude=40.710803)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.95752, latitude=40.729422)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "72",
+        "Point 2 time": "2017-06-01T00:44:13",
+        "Point 3 geom": "MyLatLong(longitude=-73.952421, latitude=40.733971)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "88",
+        "Point 3 time": "2017-06-01T00:54:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.947537,
+            40.74756
+          ],
+          [
+            -73.9581,
+            40.732969
+          ],
+          [
+            -73.964589,
+            40.715516
+          ],
+          [
+            -73.960185,
+            40.709428
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T00:34:09",
+        "EndTime": "2017-06-01T01:04:10",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.947537, latitude=40.74756)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "136",
+        "Point 1 time": "2017-06-01T00:34:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.9581, latitude=40.732969)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "123",
+        "Point 2 time": "2017-06-01T00:44:10",
+        "Point 3 geom": "MyLatLong(longitude=-73.964589, latitude=40.715516)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "223",
+        "Point 3 time": "2017-06-01T00:54:16",
+        "Point 4 geom": "MyLatLong(longitude=-73.960185, latitude=40.709428)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "39",
+        "Point 4 time": "2017-06-01T01:04:10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955306,
+          40.734414
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-05-31T23:44:01",
+        "EndTime": "2017-05-31T23:44:01",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.955306, latitude=40.734414)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "26",
+        "Point 1 time": "2017-05-31T23:44:01"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.957559,
+            40.725168
+          ],
+          [
+            -73.952307,
+            40.734594
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T03:23:43",
+        "EndTime": "2017-06-01T03:34:27",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.957559, latitude=40.725168)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "138",
+        "Point 1 time": "2017-06-01T03:23:43",
+        "Point 2 geom": "MyLatLong(longitude=-73.952307, latitude=40.734594)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T03:34:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.962428,
+          40.719661
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T00:14:05",
+        "EndTime": "2017-06-01T00:14:05",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.962428, latitude=40.719661)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "3",
+        "Point 1 time": "2017-06-01T00:14:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955702,
+          40.733658
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T00:23:32",
+        "EndTime": "2017-06-01T00:23:32",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.955702, latitude=40.733658)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "93",
+        "Point 1 time": "2017-06-01T00:23:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.951343,
+            40.743472
+          ],
+          [
+            -73.957074,
+            40.723886
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T02:14:37",
+        "EndTime": "2017-06-01T02:24:39",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.951343, latitude=40.743472)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "21",
+        "Point 1 time": "2017-06-01T02:14:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.957074, latitude=40.723886)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "267",
+        "Point 2 time": "2017-06-01T02:24:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951573,
+          40.74221
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-05-31T23:53:19",
+        "EndTime": "2017-05-31T23:53:19",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.951573, latitude=40.74221)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "174",
+        "Point 1 time": "2017-05-31T23:53:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.961388,
+          40.718632
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-05-31T23:24:06",
+        "EndTime": "2017-05-31T23:24:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.961388, latitude=40.718632)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "292",
+        "Point 1 time": "2017-05-31T23:24:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.966698,
+            40.714901
+          ],
+          [
+            -73.957637,
+            40.730143
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T02:33:47",
+        "EndTime": "2017-06-01T02:43:43",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.966698, latitude=40.714901)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-06-01T02:33:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.957637, latitude=40.730143)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "234",
+        "Point 2 time": "2017-06-01T02:43:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.949192,
+            40.744335
+          ],
+          [
+            -73.957314,
+            40.72818
+          ],
+          [
+            -73.963959,
+            40.710305
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T03:04:30",
+        "EndTime": "2017-06-01T03:23:44",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.949192, latitude=40.744335)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "248",
+        "Point 1 time": "2017-06-01T03:04:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.957314, latitude=40.72818)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "321",
+        "Point 2 time": "2017-06-01T03:14:37",
+        "Point 3 geom": "MyLatLong(longitude=-73.963959, latitude=40.710305)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "35",
+        "Point 3 time": "2017-06-01T03:23:44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.947434,
+            40.747868
+          ],
+          [
+            -73.955824,
+            40.734366
+          ],
+          [
+            -73.959409,
+            40.720475
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T03:43:57",
+        "EndTime": "2017-06-01T04:03:38",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.947434, latitude=40.747868)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:43:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.955824, latitude=40.734366)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "274",
+        "Point 2 time": "2017-06-01T03:54:43",
+        "Point 3 geom": "MyLatLong(longitude=-73.959409, latitude=40.720475)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "3",
+        "Point 3 time": "2017-06-01T04:03:38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.94829,
+            40.745325
+          ],
+          [
+            -73.958273,
+            40.734138
+          ],
+          [
+            -73.96105,
+            40.718946
+          ],
+          [
+            -73.960443,
+            40.709503
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T01:04:25",
+        "EndTime": "2017-06-01T01:34:12",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.94829, latitude=40.745325)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "57",
+        "Point 1 time": "2017-06-01T01:04:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.958273, latitude=40.734138)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "66",
+        "Point 2 time": "2017-06-01T01:13:29",
+        "Point 3 geom": "MyLatLong(longitude=-73.96105, latitude=40.718946)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "22",
+        "Point 3 time": "2017-06-01T01:24:05",
+        "Point 4 geom": "MyLatLong(longitude=-73.960443, latitude=40.709503)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "62",
+        "Point 4 time": "2017-06-01T01:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.962182,
+            40.709881
+          ],
+          [
+            -73.957235,
+            40.726934
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-05-31T23:34:14",
+        "EndTime": "2017-05-31T23:44:19",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.962182, latitude=40.709881)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "191",
+        "Point 1 time": "2017-05-31T23:34:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.957235, latitude=40.726934)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "195",
+        "Point 2 time": "2017-05-31T23:44:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.968245,
+            40.710789
+          ],
+          [
+            -73.957631,
+            40.730105
+          ],
+          [
+            -73.949661,
+            40.74834
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-05-31T23:13:15",
+        "EndTime": "2017-05-31T23:33:58",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.968245, latitude=40.710789)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "11",
+        "Point 1 time": "2017-05-31T23:13:15",
+        "Point 2 geom": "MyLatLong(longitude=-73.957631, latitude=40.730105)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "238",
+        "Point 2 time": "2017-05-31T23:23:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.949661, latitude=40.74834)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "241",
+        "Point 3 time": "2017-05-31T23:33:58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951299,
+          40.743064
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T02:24:29",
+        "EndTime": "2017-06-01T02:24:29",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.951299, latitude=40.743064)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "76",
+        "Point 1 time": "2017-06-01T02:24:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.968506,
+            40.710817
+          ],
+          [
+            -73.957747,
+            40.730816
+          ],
+          [
+            -73.950343,
+            40.746306
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4566",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T03:34:23",
+        "EndTime": "2017-06-01T03:54:39",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.968506, latitude=40.710817)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "163",
+        "Point 1 time": "2017-06-01T03:34:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.957747, latitude=40.730816)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "159",
+        "Point 2 time": "2017-06-01T03:43:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.950343, latitude=40.746306)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "157",
+        "Point 3 time": "2017-06-01T03:54:39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.951389,
+            40.743319
+          ],
+          [
+            -73.957703,
+            40.72437
+          ],
+          [
+            -73.960357,
+            40.709481
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T00:04:27",
+        "EndTime": "2017-06-01T00:23:32",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.951389, latitude=40.743319)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T00:04:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.957703, latitude=40.72437)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "348",
+        "Point 2 time": "2017-06-01T00:14",
+        "Point 3 geom": "MyLatLong(longitude=-73.960357, latitude=40.709481)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "54",
+        "Point 3 time": "2017-06-01T00:23:32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.947434,
+            40.747868
+          ],
+          [
+            -73.951075,
+            40.743612
+          ],
+          [
+            -73.957386,
+            40.72861
+          ],
+          [
+            -73.966719,
+            40.710756
+          ],
+          [
+            -73.95993,
+            40.709125
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T02:34:07",
+        "EndTime": "2017-06-01T03:14:43",
+        "NumOfPoints": "5",
+        "Point 1 geom": "MyLatLong(longitude=-73.947434, latitude=40.747868)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T02:34:07",
+        "Point 2 geom": "MyLatLong(longitude=-73.951075, latitude=40.743612)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "61",
+        "Point 2 time": "2017-06-01T02:43:44",
+        "Point 3 geom": "MyLatLong(longitude=-73.957386, latitude=40.72861)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "44",
+        "Point 3 time": "2017-06-01T02:54:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.966719, latitude=40.710756)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "66",
+        "Point 4 time": "2017-06-01T03:04:29",
+        "Point 5 geom": "MyLatLong(longitude=-73.95993, latitude=40.709125)",
+        "Point 5 arrival": "approaching",
+        "Point 5 dist from stop": "52",
+        "Point 5 time": "2017-06-01T03:14:43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.963315,
+          40.710226
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T02:34:12",
+        "EndTime": "2017-06-01T02:34:12",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.963315, latitude=40.710226)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "328",
+        "Point 1 time": "2017-06-01T02:34:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.964868,
+            40.717387
+          ],
+          [
+            -73.95257,
+            40.733956
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7246",
+        "PublishedLineName": "B32",
+        "DirectionRef": "0",
+        "OriginName": "BROADWAY/ROEBLING ST",
+        "DestinationName": "LONG ISLAND CITY 44DR - 21 ST",
+        "StartTime": "2017-06-01T01:13:37",
+        "EndTime": "2017-06-01T01:24:05",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.964868, latitude=40.717387)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "48",
+        "Point 1 time": "2017-06-01T01:13:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.95257, latitude=40.733956)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "101",
+        "Point 2 time": "2017-06-01T01:24:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951075,
+          40.743612
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4534",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-05-31T23:13:28",
+        "EndTime": "2017-05-31T23:13:28",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.951075, latitude=40.743612)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "61",
+        "Point 1 time": "2017-05-31T23:13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.95993,
+            40.709125
+          ],
+          [
+            -73.95993,
+            40.709125
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4569",
+        "PublishedLineName": "B32",
+        "DirectionRef": "1",
+        "OriginName": "44 DR/21 ST",
+        "DestinationName": "WILLIAMSBURG BRIDGE PLAZA",
+        "StartTime": "2017-06-01T01:44:23",
+        "EndTime": "2017-06-01T01:53:59",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.95993, latitude=40.709125)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-06-01T01:44:23",
+        "Point 2 geom": "MyLatLong(longitude=-73.95993, latitude=40.709125)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "52",
+        "Point 2 time": "2017-06-01T01:53:59"
+      }
+    }
+  ]
+}

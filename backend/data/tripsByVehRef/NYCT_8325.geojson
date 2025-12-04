@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86714,
+            40.896117
+          ],
+          [
+            -73.853906,
+            40.898297
+          ],
+          [
+            -73.845017,
+            40.896459
+          ],
+          [
+            -73.831855,
+            40.889224
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "0",
+        "OriginName": "E 206 ST/ROCHAMBEAU AV",
+        "DestinationName": "PELHAM ROPES AV via MUNDY LA",
+        "StartTime": "2017-06-01T00:23:55",
+        "EndTime": "2017-06-01T00:54:05",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.86714, latitude=40.896117)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "52",
+        "Point 1 time": "2017-06-01T00:23:55",
+        "Point 2 geom": "MyLatLong(longitude=-73.853906, latitude=40.898297)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "111",
+        "Point 2 time": "2017-06-01T00:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.845017, latitude=40.896459)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "12",
+        "Point 3 time": "2017-06-01T00:44:12",
+        "Point 4 geom": "MyLatLong(longitude=-73.831855, latitude=40.889224)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "5",
+        "Point 4 time": "2017-06-01T00:54:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.879127,
+          40.879175
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "0",
+        "OriginName": "E 206 ST/ROCHAMBEAU AV",
+        "DestinationName": "PELHAM ROPES AV via MUNDY LA",
+        "StartTime": "2017-06-01T00:14:02",
+        "EndTime": "2017-06-01T00:14:02",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.879127, latitude=40.879175)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "28",
+        "Point 1 time": "2017-06-01T00:14:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.881482,
+            40.874957
+          ],
+          [
+            -73.877819,
+            40.886667
+          ],
+          [
+            -73.861649,
+            40.900843
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "0",
+        "OriginName": "E 206 ST/ROCHAMBEAU AV",
+        "DestinationName": "PELHAM ROPES AV via MUNDY LA",
+        "StartTime": "2017-06-01T01:54:03",
+        "EndTime": "2017-06-01T02:14:17",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.881482, latitude=40.874957)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "124",
+        "Point 1 time": "2017-06-01T01:54:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.877819, latitude=40.886667)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "12",
+        "Point 2 time": "2017-06-01T02:03:24",
+        "Point 3 geom": "MyLatLong(longitude=-73.861649, latitude=40.900843)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "9",
+        "Point 3 time": "2017-06-01T02:14:17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.878049,
+          40.88752
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "1",
+        "OriginName": "ROPES AV/BOSTON RD",
+        "DestinationName": "NORWOOD 205 ST STA via MUNDY LA",
+        "StartTime": "2017-06-01T01:44:06",
+        "EndTime": "2017-06-01T01:44:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.878049, latitude=40.88752)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "102",
+        "Point 1 time": "2017-06-01T01:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.839836,
+            40.900301
+          ],
+          [
+            -73.841462,
+            40.888491
+          ],
+          [
+            -73.823532,
+            40.887931
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "0",
+        "OriginName": "E 206 ST/ROCHAMBEAU AV",
+        "DestinationName": "PELHAM ROPES AV via MUNDY LA",
+        "StartTime": "2017-06-01T02:24:10",
+        "EndTime": "2017-06-01T02:43:27",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.839836, latitude=40.900301)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "279",
+        "Point 1 time": "2017-06-01T02:24:10",
+        "Point 2 geom": "MyLatLong(longitude=-73.841462, latitude=40.888491)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T02:34:02",
+        "Point 3 geom": "MyLatLong(longitude=-73.823532, latitude=40.887931)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "362",
+        "Point 3 time": "2017-06-01T02:43:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.878365,
+            40.888444
+          ],
+          [
+            -73.879699,
+            40.8774
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "1",
+        "OriginName": "ROPES AV/BOSTON RD",
+        "DestinationName": "NORWOOD 205 ST STA via MUNDY LA",
+        "StartTime": "2017-05-31T23:53:28",
+        "EndTime": "2017-06-01T00:04:20",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.878365, latitude=40.888444)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "209",
+        "Point 1 time": "2017-05-31T23:53:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.879699, latitude=40.8774)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "37",
+        "Point 2 time": "2017-06-01T00:04:20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.820113,
+            40.889956
+          ],
+          [
+            -73.841711,
+            40.888452
+          ],
+          [
+            -73.845228,
+            40.899434
+          ],
+          [
+            -73.863242,
+            40.895908
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "1",
+        "OriginName": "ROPES AV/BOSTON RD",
+        "DestinationName": "NORWOOD 205 ST STA via MUNDY LA",
+        "StartTime": "2017-06-01T01:04:33",
+        "EndTime": "2017-06-01T01:34:16",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.820113, latitude=40.889956)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "50",
+        "Point 1 time": "2017-06-01T01:04:33",
+        "Point 2 geom": "MyLatLong(longitude=-73.841711, latitude=40.888452)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "574",
+        "Point 2 time": "2017-06-01T01:13:26",
+        "Point 3 geom": "MyLatLong(longitude=-73.845228, latitude=40.899434)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "115",
+        "Point 3 time": "2017-06-01T01:24:24",
+        "Point 4 geom": "MyLatLong(longitude=-73.863242, latitude=40.895908)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "47",
+        "Point 4 time": "2017-06-01T01:34:16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.826316,
+            40.886645
+          ],
+          [
+            -73.842942,
+            40.891035
+          ],
+          [
+            -73.845013,
+            40.899481
+          ],
+          [
+            -73.862834,
+            40.896628
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "1",
+        "OriginName": "ROPES AV/BOSTON RD",
+        "DestinationName": "NORWOOD 205 ST STA via MUNDY LA",
+        "StartTime": "2017-05-31T23:13:22",
+        "EndTime": "2017-05-31T23:44:06",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.826316, latitude=40.886645)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "299",
+        "Point 1 time": "2017-05-31T23:13:22",
+        "Point 2 geom": "MyLatLong(longitude=-73.842942, latitude=40.891035)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "252",
+        "Point 2 time": "2017-05-31T23:24:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.845013, latitude=40.899481)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "134",
+        "Point 3 time": "2017-05-31T23:34:13",
+        "Point 4 geom": "MyLatLong(longitude=-73.862834, latitude=40.896628)",
+        "Point 4 arrival": "approaching",
+        "Point 4 dist from stop": "135",
+        "Point 4 time": "2017-05-31T23:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.831299,
+            40.888969
+          ],
+          [
+            -73.839184,
+            40.898501
+          ],
+          [
+            -73.859238,
+            40.900328
+          ],
+          [
+            -73.880204,
+            40.894539
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "1",
+        "OriginName": "ROPES AV/BOSTON RD",
+        "DestinationName": "NORWOOD 205 ST STA via MUNDY LA",
+        "StartTime": "2017-06-01T02:54:27",
+        "EndTime": "2017-06-01T03:24:02",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.831299, latitude=40.888969)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "60",
+        "Point 1 time": "2017-06-01T02:54:27",
+        "Point 2 geom": "MyLatLong(longitude=-73.839184, latitude=40.898501)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "237",
+        "Point 2 time": "2017-06-01T03:04:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.859238, latitude=40.900328)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "249",
+        "Point 3 time": "2017-06-01T03:14:43",
+        "Point 4 geom": "MyLatLong(longitude=-73.880204, latitude=40.894539)",
+        "Point 4 arrival": "0.6 miles away",
+        "Point 4 dist from stop": "918",
+        "Point 4 time": "2017-06-01T03:24:02"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.877662,
+            40.885439
+          ],
+          [
+            -73.861672,
+            40.900762
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_8325",
+        "PublishedLineName": "Bx16",
+        "DirectionRef": "0",
+        "OriginName": "E 206 ST/ROCHAMBEAU AV",
+        "DestinationName": "PELHAM ROPES AV via MUNDY LA",
+        "StartTime": "2017-06-01T03:54:30",
+        "EndTime": "2017-06-01T04:03:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.877662, latitude=40.885439)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "149",
+        "Point 1 time": "2017-06-01T03:54:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.861672, latitude=40.900762)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "18",
+        "Point 2 time": "2017-06-01T04:03:53"
+      }
+    }
+  ]
+}

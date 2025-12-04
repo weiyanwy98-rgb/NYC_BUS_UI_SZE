@@ -1,0 +1,1077 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.883145,
+          40.665892
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:53:07",
+        "EndTime": "2017-05-31T23:53:07",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.883145, latitude=40.665892)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-05-31T23:53:07"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.879807,
+            40.661335
+          ],
+          [
+            -73.866102,
+            40.653431
+          ],
+          [
+            -73.866043,
+            40.653471
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:54:13",
+        "EndTime": "2017-05-31T23:13:19",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.879807, latitude=40.661335)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "58",
+        "Point 1 time": "2017-05-31T22:54:13",
+        "Point 2 geom": "MyLatLong(longitude=-73.866102, latitude=40.653431)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "19",
+        "Point 2 time": "2017-05-31T23:03:46",
+        "Point 3 geom": "MyLatLong(longitude=-73.866043, latitude=40.653471)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "26",
+        "Point 3 time": "2017-05-31T23:13:19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.880616,
+            40.662439
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:24:28",
+        "EndTime": "2017-06-01T01:34:24",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.880616, latitude=40.662439)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "9",
+        "Point 1 time": "2017-06-01T01:24:28",
+        "Point 2 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T01:34:24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.872482,
+            40.658763
+          ],
+          [
+            -73.883369,
+            40.666352
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T22:03:25",
+        "EndTime": "2017-05-31T22:13:26",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.872482, latitude=40.658763)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "98",
+        "Point 1 time": "2017-05-31T22:03:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.883369, latitude=40.666352)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T22:13:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.879123,
+          40.657671
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7126",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T04:14:26",
+        "EndTime": "2017-06-01T04:14:26",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.879123, latitude=40.657671)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "223",
+        "Point 1 time": "2017-06-01T04:14:26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.881134,
+            40.663175
+          ],
+          [
+            -73.866219,
+            40.653351
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5024",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:54:30",
+        "EndTime": "2017-06-01T03:14:37",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.881134, latitude=40.663175)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "102",
+        "Point 1 time": "2017-06-01T02:54:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T03:04:33",
+        "Point 3 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T03:14:37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.877647,
+          40.658425
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:23:55",
+        "EndTime": "2017-05-31T22:23:55",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.877647, latitude=40.658425)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "49",
+        "Point 1 time": "2017-05-31T22:23:55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.871102,
+          40.659201
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7126",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:04:29",
+        "EndTime": "2017-06-01T03:04:29",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.871102, latitude=40.659201)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "46",
+        "Point 1 time": "2017-06-01T03:04:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866359,
+            40.659232
+          ],
+          [
+            -73.883369,
+            40.666352
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T21:33:47",
+        "EndTime": "2017-05-31T21:43:53",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.866359, latitude=40.659232)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "201",
+        "Point 1 time": "2017-05-31T21:33:47",
+        "Point 2 geom": "MyLatLong(longitude=-73.883369, latitude=40.666352)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-05-31T21:43:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.883665,
+            40.66596
+          ],
+          [
+            -73.876752,
+            40.656769
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7126",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:23:37",
+        "EndTime": "2017-06-01T04:03:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.883665, latitude=40.66596)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "72",
+        "Point 1 time": "2017-06-01T03:23:37",
+        "Point 2 geom": "MyLatLong(longitude=-73.876752, latitude=40.656769)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "207",
+        "Point 2 time": "2017-06-01T03:34:45",
+        "Point 3 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T04:03:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.878477,
+            40.659542
+          ],
+          [
+            -73.866161,
+            40.653391
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:24:12",
+        "EndTime": "2017-06-01T02:34:06",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.878477, latitude=40.659542)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "191",
+        "Point 1 time": "2017-06-01T02:24:12",
+        "Point 2 geom": "MyLatLong(longitude=-73.866161, latitude=40.653391)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "13",
+        "Point 2 time": "2017-06-01T02:34:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.881162,
+            40.663213
+          ],
+          [
+            -73.864139,
+            40.656273
+          ],
+          [
+            -73.864139,
+            40.656273
+          ],
+          [
+            -73.864095,
+            40.656223
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T21:53:25",
+        "EndTime": "2017-05-31T22:23:53",
+        "NumOfPoints": "4",
+        "Point 1 geom": "MyLatLong(longitude=-73.881162, latitude=40.663213)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "107",
+        "Point 1 time": "2017-05-31T21:53:25",
+        "Point 2 geom": "MyLatLong(longitude=-73.864139, latitude=40.656273)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:03:42",
+        "Point 3 geom": "MyLatLong(longitude=-73.864139, latitude=40.656273)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-05-31T22:13:48",
+        "Point 4 geom": "MyLatLong(longitude=-73.864095, latitude=40.656223)",
+        "Point 4 arrival": "at stop",
+        "Point 4 dist from stop": "0",
+        "Point 4 time": "2017-05-31T22:23:53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86662,
+            40.653057
+          ],
+          [
+            -73.870477,
+            40.659629
+          ],
+          [
+            -73.881506,
+            40.663677
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T23:23:57",
+        "EndTime": "2017-05-31T23:44:05",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:23:57",
+        "Point 2 geom": "MyLatLong(longitude=-73.870477, latitude=40.659629)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "50",
+        "Point 2 time": "2017-05-31T23:33:59",
+        "Point 3 geom": "MyLatLong(longitude=-73.881506, latitude=40.663677)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "464",
+        "Point 3 time": "2017-05-31T23:44:05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86662,
+            40.653057
+          ],
+          [
+            -73.867067,
+            40.658342
+          ],
+          [
+            -73.879565,
+            40.661009
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T00:54:09",
+        "EndTime": "2017-06-01T01:13:28",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:54:09",
+        "Point 2 geom": "MyLatLong(longitude=-73.867067, latitude=40.658342)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "354",
+        "Point 2 time": "2017-06-01T01:04:30",
+        "Point 3 geom": "MyLatLong(longitude=-73.879565, latitude=40.661009)",
+        "Point 3 arrival": "approaching",
+        "Point 3 dist from stop": "49",
+        "Point 3 time": "2017-06-01T01:13:28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866219,
+          40.653351
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T02:03:47",
+        "EndTime": "2017-06-01T02:03:47",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T02:03:47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86662,
+            40.653057
+          ],
+          [
+            -73.867878,
+            40.656583
+          ],
+          [
+            -73.878663,
+            40.659794
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T22:54:06",
+        "EndTime": "2017-05-31T23:13:35",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T22:54:06",
+        "Point 2 geom": "MyLatLong(longitude=-73.867878, latitude=40.656583)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "182",
+        "Point 2 time": "2017-05-31T23:03:34",
+        "Point 3 geom": "MyLatLong(longitude=-73.878663, latitude=40.659794)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "21",
+        "Point 3 time": "2017-05-31T23:13:35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.866184,
+            40.658996
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T22:33:50",
+        "EndTime": "2017-05-31T22:43:50",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.866184, latitude=40.658996)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "355",
+        "Point 1 time": "2017-05-31T22:33:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T22:43:50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86662,
+            40.653057
+          ],
+          [
+            -73.873921,
+            40.658142
+          ],
+          [
+            -73.883369,
+            40.666352
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5024",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T03:23:42",
+        "EndTime": "2017-06-01T03:43:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T03:23:42",
+        "Point 2 geom": "MyLatLong(longitude=-73.873921, latitude=40.658142)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "124",
+        "Point 2 time": "2017-06-01T03:34:20",
+        "Point 3 geom": "MyLatLong(longitude=-73.883369, latitude=40.666352)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T03:43:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.868101,
+            40.657896
+          ],
+          [
+            -73.880428,
+            40.662182
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T00:34:26",
+        "EndTime": "2017-06-01T00:44:29",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.868101, latitude=40.657896)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:34:26",
+        "Point 2 geom": "MyLatLong(longitude=-73.880428, latitude=40.662182)",
+        "Point 2 arrival": "approaching",
+        "Point 2 dist from stop": "46",
+        "Point 2 time": "2017-06-01T00:44:29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.880504,
+            40.662286
+          ],
+          [
+            -73.866219,
+            40.653351
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-05-31T23:24:05",
+        "EndTime": "2017-05-31T23:44:23",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.880504, latitude=40.662286)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "179",
+        "Point 1 time": "2017-05-31T23:24:05",
+        "Point 2 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-05-31T23:34:04",
+        "Point 3 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-05-31T23:44:23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.879591,
+          40.661044
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T02:14:15",
+        "EndTime": "2017-06-01T02:14:15",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.879591, latitude=40.661044)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "44",
+        "Point 1 time": "2017-06-01T02:14:15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866219,
+          40.653351
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T01:44:25",
+        "EndTime": "2017-06-01T01:44:25",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "6",
+        "Point 1 time": "2017-06-01T01:44:25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.878591,
+            40.659697
+          ],
+          [
+            -73.866219,
+            40.653351
+          ],
+          [
+            -73.866219,
+            40.653351
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:23:50",
+        "EndTime": "2017-06-01T00:44:08",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.878591, latitude=40.659697)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "211",
+        "Point 1 time": "2017-06-01T00:23:50",
+        "Point 2 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "6",
+        "Point 2 time": "2017-06-01T00:34:19",
+        "Point 3 geom": "MyLatLong(longitude=-73.866219, latitude=40.653351)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "6",
+        "Point 3 time": "2017-06-01T00:44:08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.883117,
+            40.665855
+          ],
+          [
+            -73.86548,
+            40.658051
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:54:03",
+        "EndTime": "2017-06-01T01:04:12",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.883117, latitude=40.665855)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "4",
+        "Point 1 time": "2017-06-01T00:54:03",
+        "Point 2 geom": "MyLatLong(longitude=-73.86548, latitude=40.658051)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "234",
+        "Point 2 time": "2017-06-01T01:04:12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.86662,
+            40.653057
+          ],
+          [
+            -73.867167,
+            40.653541
+          ],
+          [
+            -73.881568,
+            40.663761
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T23:53:19",
+        "EndTime": "2017-06-01T00:14:22",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-05-31T23:53:19",
+        "Point 2 geom": "MyLatLong(longitude=-73.867167, latitude=40.653541)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "530",
+        "Point 2 time": "2017-06-01T00:04:25",
+        "Point 3 geom": "MyLatLong(longitude=-73.881568, latitude=40.663761)",
+        "Point 3 arrival": "< 1 stop away",
+        "Point 3 dist from stop": "454",
+        "Point 3 time": "2017-06-01T00:14:22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.866675,
+          40.65966
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T22:33:27",
+        "EndTime": "2017-05-31T22:33:27",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.866675, latitude=40.65966)",
+        "Point 1 arrival": "approaching",
+        "Point 1 dist from stop": "146",
+        "Point 1 time": "2017-05-31T22:33:27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.864095,
+            40.656223
+          ],
+          [
+            -73.864095,
+            40.656223
+          ],
+          [
+            -73.864095,
+            40.656223
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T00:04:14",
+        "EndTime": "2017-06-01T00:23:51",
+        "NumOfPoints": "3",
+        "Point 1 geom": "MyLatLong(longitude=-73.864095, latitude=40.656223)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T00:04:14",
+        "Point 2 geom": "MyLatLong(longitude=-73.864095, latitude=40.656223)",
+        "Point 2 arrival": "at stop",
+        "Point 2 dist from stop": "0",
+        "Point 2 time": "2017-06-01T00:14:18",
+        "Point 3 geom": "MyLatLong(longitude=-73.864095, latitude=40.656223)",
+        "Point 3 arrival": "at stop",
+        "Point 3 dist from stop": "0",
+        "Point 3 time": "2017-06-01T00:23:51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876657,
+          40.656966
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7126",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T03:14:36",
+        "EndTime": "2017-06-01T03:14:36",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.876657, latitude=40.656966)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "163",
+        "Point 1 time": "2017-06-01T03:14:36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881037,
+          40.664501
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_4837",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-05-31T22:44:06",
+        "EndTime": "2017-05-31T22:44:06",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881037, latitude=40.664501)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "325",
+        "Point 1 time": "2017-05-31T22:44:06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.883032,
+            40.66574
+          ],
+          [
+            -73.869731,
+            40.659793
+          ]
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5024",
+        "PublishedLineName": "B84",
+        "DirectionRef": "1",
+        "OriginName": "LIVONIA AV/ASHFORD ST",
+        "DestinationName": "SPRING CREEK GATEWAY MALL",
+        "StartTime": "2017-06-01T03:54:30",
+        "EndTime": "2017-06-01T04:03:33",
+        "NumOfPoints": "2",
+        "Point 1 geom": "MyLatLong(longitude=-73.883032, latitude=40.66574)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "429",
+        "Point 1 time": "2017-06-01T03:54:30",
+        "Point 2 geom": "MyLatLong(longitude=-73.869731, latitude=40.659793)",
+        "Point 2 arrival": "< 1 stop away",
+        "Point 2 dist from stop": "280",
+        "Point 2 time": "2017-06-01T04:03:33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86662,
+          40.653057
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_7090",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T01:53:57",
+        "EndTime": "2017-06-01T01:53:57",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.86662, latitude=40.653057)",
+        "Point 1 arrival": "at stop",
+        "Point 1 dist from stop": "0",
+        "Point 1 time": "2017-06-01T01:53:57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.881324,
+          40.663432
+        ]
+      },
+      "properties": {
+        "VehicleRef": "NYCT_5024",
+        "PublishedLineName": "B84",
+        "DirectionRef": "0",
+        "OriginName": "SEAVIEW AV/ERSKINE ST",
+        "DestinationName": "EAST NEW YORK NEW LOTS STATION",
+        "StartTime": "2017-06-01T02:43:20",
+        "EndTime": "2017-06-01T02:43:20",
+        "NumOfPoints": "1",
+        "Point 1 geom": "MyLatLong(longitude=-73.881324, latitude=40.663432)",
+        "Point 1 arrival": "< 1 stop away",
+        "Point 1 dist from stop": "496",
+        "Point 1 time": "2017-06-01T02:43:20"
+      }
+    }
+  ]
+}

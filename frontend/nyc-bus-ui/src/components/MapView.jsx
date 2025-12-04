@@ -1,12 +1,23 @@
-import { MapContainer, TileLayer, GeoJSON, Marker, Popup, Polyline } from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, useMap } from "react-leaflet";
+import { useEffect } from "react";
 
-export default function MapView({ layers }) {
+function ChangeCenter({ center }) {
+    const map = useMap();
+    //console.log("new center", center);
+    useEffect(() => {
+        if (!center || !center[0] || !center[1]) return; // prevents "lat of null"
+        map.setView(center);
+    }, [center]);
+
+    return null;
+}
+export default function MapView({ layers, center }) {
 
     return (
         <div className="w-full h-full">
             <MapContainer
-                center={[40.82, -73.92]}
-                zoom={10}
+                center={center}
+                zoom={13}
                 className="h-full w-full"
             >
                 <TileLayer url="https://tile.openstreetmap.org/{z}/{x}/{y}.png" />
@@ -27,7 +38,7 @@ export default function MapView({ layers }) {
                         }}
                     />
                 ))}
-
+                <ChangeCenter center={center} />
 
             </MapContainer>
         </div>
