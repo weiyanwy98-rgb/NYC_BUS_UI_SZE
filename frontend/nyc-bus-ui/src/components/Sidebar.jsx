@@ -21,7 +21,7 @@ export default function Sidebar({
       />
       {/* Display error messages */}
       {vehMsg && (
-        <div className={`text-sm font-medium ${vehMsg.type==="error" ? "text-red-600" : "text-black-600"}`}>
+        <div className={`pb-2 text-sm font-medium ${vehMsg.type==="error" ? "text-red-600" : "text-black-600"}`}>
           {vehMsg.message}
         </div>
       )}

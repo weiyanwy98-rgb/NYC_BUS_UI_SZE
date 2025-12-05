@@ -1,51 +1,64 @@
+``` mermaid
 sequenceDiagram
-  participant User
-  participant Sidebar as Sidebar(UI)
-  participant Frontend as Frontend(App)
-  participant Map as MapComponent(Leaflet)
-  participant Backend as Backend(API Gateway)
-  participant NYC as NYC_Server
-  participant Cache as Cache/DB
+    autonumber
 
-  User->>Sidebar: Click/select VehicleRef / Line
-  Sidebar->>Frontend: emit select(VehRef|Line)
-  Frontend->>Backend: GET /server-status
-  Backend->>NYC: HEAD /health or ping
-  alt NYC responds OK
-    NYC-->>Backend: 200 OK (live)
-    Backend-->>Frontend: { status: "LIVE", lastSeen: timestamp }
-    Frontend->>Backend: GET /bus_trip/getBusTripByVehRef/:id or /getBusTripByPubLineName/:line
-    Backend->>NYC: GET /nyc/endpoint (proxy)
-    NYC-->>Backend: 200 OK + GeoJSON (live)
-    Backend->>Cache: save GeoJSON (cache update)
-    Backend-->>Frontend: 200 OK + GeoJSON
-    Frontend->>Frontend: clear previous layers
-    Frontend->>Map: render GeoJSON (lines + points) + color
-    Map-->>Frontend: on render complete
-    Frontend->>User: show "Server Status: LIVE"
-  else NYC unreachable / down
-    NYC--x Backend: no response / error
-    Backend-->>Frontend: { status: "OFFLINE" }
-    Frontend->>Backend: GET /bus_trip/getCached/:id (request cached)
-    Backend->>Cache: query last saved GeoJSON
-    alt cached found
-      Cache-->>Backend: cached GeoJSON
-      Backend-->>Frontend: 200 OK + cached GeoJSON
-      Frontend->>Frontend: clear previous layers
-      Frontend->>Map: render cached GeoJSON (with badge "cached")
-      Frontend->>User: show "Server Status: OFFLINE — Showing cached data"
-    else no cache
-      Cache-->>Backend: empty
-      Backend-->>Frontend: 503 + "No data available"
-      Frontend->>User: show error "Data unavailable"
+    participant User as End User
+    participant FE as Frontend (React App)
+    participant BE as Backend API
+    participant NYC as NYC Server
+    participant Cache as Cache Storage
+
+
+    %% --- 1. FRONTEND PERIODIC SERVER STATUS CHECK ---
+    loop Every 15s
+        FE->>BE: GET /server-status
+        BE->>NYC: GET /status   (NYC returns READY or WAIT)
+        alt NYC says READY
+            NYC-->>BE: { status: "READY" }
+            BE-->>FE: { status: "LIVE" }
+        else NYC says WAIT
+            NYC-->>BE: { status: "WAIT" }
+            BE-->>FE: { status: "OFFLINE", reason: "NYC warming up" }
+        end
     end
-  end
 
-  %% Interaction with rendered features
-  User->>Map: click point/line
-  Map->>Frontend: onFeatureClick(feature)
-  Frontend->>Map: open Popup with feature.properties
-  Map-->>User: display popup (properties, timestamp, etc.)
+
+    %% --- 2. USER SEARCHES VEHICLE OR LINE ---
+    User->>FE: Select VehicleRef or LineName
+    FE->>BE: GET /bus_trip/:vehRef or /bus_line/:lineName
+
+    %% --- 3. NYC DATA DECISION LOGIC ---
+    BE->>NYC: GET trip data   (only allowed when READY)
+
+    alt NYC READY
+        NYC-->>BE: 200 OK + Live GeoJSON
+        BE->>Cache: Save/update cache
+        BE-->>FE: 200 OK + Live GeoJSON + { source: "live" }
+        FE->>FE: Render LIVE data on map
+
+    else NYC WAIT or Error
+        NYC-->>BE: { status: "WAIT" } or timeout/error
+        BE->>Cache: Load cached GeoJSON
+
+        alt Cache Hit
+            Cache-->>BE: Cached GeoJSON
+            BE-->>FE: 200 OK + Cached GeoJSON + { source: "cached" }
+            FE->>FE: Render CACHED data on map
+        else Cache Miss
+            Cache-->>BE: No data available
+            BE-->>FE: 503 "No data available (NYC warming up)"
+            FE->>User: Show error popup/message
+        end
+    end
+
+
+    %% --- 4. MAP INTERACTIONS ---
+    User->>FE: Click marker or route
+    FE->>FE: Show popup with feature.properties
+
+
+
+  ```
 
   %% Background polling (optional)
   note over Frontend,Backend: Optional: Frontend polls /server-status periodically to update indicator

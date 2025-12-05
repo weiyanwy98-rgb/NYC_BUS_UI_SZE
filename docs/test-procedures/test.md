@@ -13,9 +13,11 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 - npm (v9 or higher)
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection (for API calls and map tiles)
-- Dev server running on `http://localhost:3000` or `http://localhost:3001`
+- Backend server running on `http://localhost:5000`
+- Frontend server running on `http://localhost:5173`
 
 ### Test Data
+- **Backend API URL**: `http://localhost:5000/api/bus_trip`
 - **Base API URL**: `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip`
 - **Sample Vehicle IDs**: NYCT_4614, NYCT_4615, NYCT_4616
 - **Sample Line Names**: Bx2, M1, M15, Q1
@@ -28,7 +30,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Objective**: Verify that the application correctly detects server availability
 
-**User Story**: US-005, US-014
+**User Story**: US-005, US-011
 
 **Pre-conditions**:
 - Application is loaded in browser
@@ -39,10 +41,9 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 2. Observe the server status indicator at the top of the page
 
 **Expected Results**:
-- If server is ready: Green "Server Ready" badge is displayed
-- If server is starting: Alert shows "Server Starting Up" with loading spinner
-- If server unavailable: Alert shows "Server Unavailable" error
-- Status automatically updates every 5 seconds until ready
+- If server is ready: Green "Server: Online" badge is displayed
+- If server unavailable: Alert shows "Server: Offline" error
+- Status automatically updates every 30 seconds
 
 **Pass/Fail Criteria**:
 - ✅ Pass: Status indicator accurately reflects server state
@@ -57,7 +58,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **User Story**: US-001, US-003
 
 **Pre-conditions**:
-- Server is ready (green status badge visible)
+- backend server is ready
 
 **Test Steps**:
 1. Navigate to the Vehicle selector section
@@ -66,9 +67,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Expected Results**:
 - Dropdown opens with search input
-- List contains approximately 3,500 vehicle IDs
-- Vehicle count is displayed in the description (e.g., "3500 vehicles")
-- No lag when opening dropdown
+- List contains approximately 220 vehicle IDs
 
 **Pass/Fail Criteria**:
 - ✅ Pass: List loads instantly, all vehicles displayed
@@ -83,7 +82,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **User Story**: US-003
 
 **Pre-conditions**:
-- Server is ready
+- Backend is ready
 - Vehicle list is loaded
 
 **Test Steps**:
@@ -96,7 +95,6 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 - Search filters results as user types
 - Only matching vehicles are shown
 - Search is case-insensitive
-- No lag during typing
 - Selected vehicle appears in the button
 - Dropdown closes after selection
 
@@ -110,10 +108,10 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Objective**: Verify that vehicle trip data loads and displays on map
 
-**User Story**: US-001, US-007, US-011
+**User Story**: US-001, US-007, US-010
 
 **Pre-conditions**:
-- Server is ready
+- Backend server is ready
 - Vehicle "NYCT_4614" is selected
 
 **Test Steps**:
@@ -123,13 +121,9 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 4. Observe map display
 
 **Expected Results**:
-- "Load Trip" button shows loading spinner
-- Button is disabled during loading
-- Trip data loads within 3-5 seconds
-- Route appears on map as blue line
-- Map automatically zooms to fit the route
-- Trip information card displays below selectors
-- Trip information shows feature count and properties
+- Shows loading message
+- Route appears on map as red line or markers
+- Map automatically centered to the route
 
 **Pass/Fail Criteria**:
 - ✅ Pass: Data loads successfully and displays correctly
@@ -144,7 +138,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **User Story**: US-002, US-004
 
 **Pre-conditions**:
-- Server is ready
+- Backend server is ready
 
 **Test Steps**:
 1. Navigate to the Line selector section
@@ -155,7 +149,6 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 - Dropdown opens with search input
 - List contains bus line names (Bx1, M1, etc.)
 - Line count is displayed in the description
-- No lag when opening dropdown
 
 **Pass/Fail Criteria**:
 - ✅ Pass: List loads instantly, all lines displayed
@@ -170,7 +163,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **User Story**: US-004
 
 **Pre-conditions**:
-- Server is ready
+- Backend server is ready
 - Line list is loaded
 
 **Test Steps**:
@@ -182,8 +175,6 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **Expected Results**:
 - Search filters results as user types
 - Only matching lines are shown
-- Search is case-insensitive
-- No lag during typing
 - Selected line appears in the button
 - Dropdown closes after selection
 
@@ -197,7 +188,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Objective**: Verify that bus line trip data loads and displays on map
 
-**User Story**: US-002, US-007, US-011
+**User Story**: US-002, US-009, US-010
 
 **Pre-conditions**:
 - Server is ready
@@ -210,13 +201,9 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 4. Observe map display
 
 **Expected Results**:
-- "Load Trip" button shows loading spinner
-- Button is disabled during loading
-- Trip data loads within 3-5 seconds
+- "Loading..." message is shown
 - Routes appear on map as blue lines (may be multiple buses)
-- Map automatically zooms to fit all routes
-- Trip information card displays below selectors
-- Trip information shows feature count (may be multiple)
+- Map automatically centered to bus lines
 
 **Pass/Fail Criteria**:
 - ✅ Pass: Data loads successfully and displays correctly
@@ -228,7 +215,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Objective**: Verify that map zoom functionality works correctly
 
-**User Story**: US-006
+**User Story**: US-007
 
 **Pre-conditions**:
 - Application loaded
@@ -283,7 +270,7 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 **Objective**: Verify that clicking map markers shows detailed information
 
-**User Story**: US-008
+**User Story**: US-009
 
 **Pre-conditions**:
 - Route data is loaded on map
@@ -308,118 +295,25 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 
 ---
 
-### TC-011: Trip Information Display
+### TC-011: Live or Storaged Data
 
-**Objective**: Verify that trip information card displays correctly
+**Objective**: Verify if data is from NYC server or storaged data in backend
 
-**User Story**: US-009
+**User Story**: US-008
 
 **Pre-conditions**:
-- Trip data is loaded
+- Backend is ready
 
 **Test Steps**:
-1. Load a vehicle or line trip
-2. Observe the "Trip Information" card below selectors
-3. Review displayed information
+1. Check if NYC server is running
+2. Retrieve data from backend storage if NYC server is down
 
 **Expected Results**:
-- Card appears when data is loaded
-- "Features" count is displayed accurately
-- "Type" shows "FeatureCollection" or similar
-- "Sample Properties" shows JSON of first feature
-- Properties are formatted and readable
-- Scrollbar appears if properties are long
+- Application function as normally
 
 **Pass/Fail Criteria**:
 - ✅ Pass: All information displays correctly
 - ❌ Fail: Information is missing, incorrect, or unreadable
-
----
-
-### TC-012: Caching - Vehicle List
-
-**Objective**: Verify that vehicle list is cached after first load
-
-**User Story**: US-018
-
-**Pre-conditions**:
-- Application freshly loaded
-- Server is ready
-
-**Test Steps**:
-1. Open vehicle selector (first time)
-2. Note load time in browser console
-3. Close dropdown
-4. Open vehicle selector again (second time)
-5. Note load time in console
-
-**Expected Results**:
-- First load: Console shows "Fetched and cached vehicle references"
-- First load takes 1-3 seconds
-- Second load: Console shows "Returning cached vehicle references"
-- Second load is instant (< 100ms)
-
-**Pass/Fail Criteria**:
-- ✅ Pass: Second load uses cache and is instant
-- ❌ Fail: Second load fetches data again or is slow
-
----
-
-### TC-013: Caching - Line List
-
-**Objective**: Verify that line list is cached after first load
-
-**User Story**: US-018
-
-**Pre-conditions**:
-- Application freshly loaded
-- Server is ready
-
-**Test Steps**:
-1. Open line selector (first time)
-2. Note load time in browser console
-3. Close dropdown
-4. Open line selector again (second time)
-5. Note load time in console
-
-**Expected Results**:
-- First load: Console shows "Fetched and cached published line names"
-- First load takes 1-3 seconds
-- Second load: Console shows "Returning cached published line names"
-- Second load is instant (< 100ms)
-
-**Pass/Fail Criteria**:
-- ✅ Pass: Second load uses cache and is instant
-- ❌ Fail: Second load fetches data again or is slow
-
----
-
-### TC-014: Caching - Trip Data
-
-**Objective**: Verify that trip data is cached after first load
-
-**User Story**: US-018
-
-**Pre-conditions**:
-- Application loaded
-- Server is ready
-
-**Test Steps**:
-1. Load trip for vehicle "NYCT_4614" (first time)
-2. Note load time and console message
-3. Clear map by selecting another vehicle (don't load)
-4. Select "NYCT_4614" again and click "Load Trip"
-5. Note load time and console message
-
-**Expected Results**:
-- First load: Console shows "Fetched and cached bus trip for vehicle NYCT_4614"
-- First load takes 2-5 seconds
-- Second load: Console shows "Returning cached bus trip for vehicle NYCT_4614"
-- Second load is instant (< 100ms)
-
-**Pass/Fail Criteria**:
-- ✅ Pass: Second load uses cache and is instant
-- ❌ Fail: Second load fetches data again or is slow
 
 ---
 
@@ -446,60 +340,6 @@ This document outlines the testing procedures for the NYC Bus Trip Viewer applic
 **Pass/Fail Criteria**:
 - ✅ Pass: Error is handled gracefully
 - ❌ Fail: Application crashes or shows unclear errors
-
----
-
-### TC-016: Responsive Design - Desktop
-
-**Objective**: Verify that application works on desktop resolution
-
-**User Story**: US-015
-
-**Pre-conditions**:
-- Browser window sized to 1920x1080
-
-**Test Steps**:
-1. Resize browser to 1920x1080
-2. Observe layout
-3. Test all functionality
-
-**Expected Results**:
-- Two-column layout (selectors | map)
-- All elements visible and properly sized
-- Map is large and usable
-- No horizontal scrolling
-- All functionality works correctly
-
-**Pass/Fail Criteria**:
-- ✅ Pass: Layout is optimal for desktop viewing
-- ❌ Fail: Layout is broken or cramped
-
----
-
-### TC-020: Responsive Design - Laptop
-
-**Objective**: Verify that application works on laptop resolution
-
-**User Story**: US-015
-
-**Pre-conditions**:
-- Browser window sized to 1366x768
-
-**Test Steps**:
-1. Resize browser to 1366x768
-2. Observe layout
-3. Test all functionality
-
-**Expected Results**:
-- Two-column layout maintained
-- Elements slightly smaller but still usable
-- Map remains functional
-- No horizontal scrolling
-- All functionality works correctly
-
-**Pass/Fail Criteria**:
-- ✅ Pass: Layout adapts well to laptop size
-- ❌ Fail: Layout is broken or elements overlap
 
 ---
 

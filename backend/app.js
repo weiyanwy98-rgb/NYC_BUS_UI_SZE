@@ -11,18 +11,14 @@ app.use(express.json());
 const NYC_API = "https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip";
 const DATA = path.join(process.cwd(), "data");
 
-// Simulate server cold-start delay
-let isReady = false;
-setTimeout(() => { isReady = true }, 3000);
-
 // ----- API: SERVER READY -----
 app.get("/api/bus_trip/ready", async (req, res) => {
     try {
-        throw new Error("Simulated NYC API failure");
+        //throw new Error("Simulated NYC API failure");
         const response = await axios.get(`${NYC_API}/ready`);
-        return res.json(response.data);
+        return res.status(200).json(response.data);
     } catch (err) {
-        return res.status(500).json({ ready: isReady });
+        return res.status(500).json({ status: false});
     }
 });
 
@@ -37,12 +33,12 @@ app.get("/api/bus_trip/getVehRef", async (req, res) => {
         // 2. Save to local file
         fs.writeFileSync(`${DATA}/vehRef.json`, JSON.stringify(vehRefs.sort(), null, 2));
         // 3. Return to client
-        return res.json(vehRefs);
+        return res.status(200).json(vehRefs);
 
     } catch (error) {
         console.log("NYC API down, loading from local file...");
         if(!fs.existsSync(`${DATA}/vehRef.json`)) {
-            return res.status(500).json({ error: "No cached data available" });
+            return res.status(400).json({ error: "No cached data available" });
         }
         //4. Fallback to local JSON
         const cache = JSON.parse(fs.readFileSync(`${DATA}/vehRef.json`, "utf-8"));
@@ -62,7 +58,7 @@ app.get("/api/bus_trip/getBusTripByVehRef/:vehRef", async (req, res) => {
         // 2. Save to local file
         fs.writeFileSync(`${DATA}/tripsByVehRef/${vehRef}.geojson`, JSON.stringify(tripData, null, 2));
         // 3. Return to client
-        return res.json(tripData);
+        return res.status(200).json(tripData);
     } catch (error) {
         console.log("NYC API down, loading from local file...");
         //4. Fallback to local JSON
@@ -88,7 +84,7 @@ app.get("/api/bus_trip/getPubLineName", async (req, res) => {
         fs.writeFileSync(`${DATA}/pubLineName.json`, JSON.stringify(lineNames.sort(), null, 2));
 
         // 3. Return to client
-        return res.json(lineNames);
+        return res.status(200).json(lineNames);
     } catch (error) {
         console.log("NYC API down, loading from local file...");
         //4. Fallback to local JSON
@@ -96,7 +92,7 @@ app.get("/api/bus_trip/getPubLineName", async (req, res) => {
             return res.status(500).json({ error: "No cached data available" });
         }
         const cache = JSON.parse(fs.readFileSync(`${DATA}/pubLineName.json`, "utf-8"));
-        res.json(cache);
+        res.status(400).json(cache);
     }
 });
 
@@ -113,7 +109,7 @@ app.get("/api/bus_trip/getBusTripByPubLineName/:line", async(req, res) => {
         // 2. Save to local file
         fs.writeFileSync(file, JSON.stringify(tripData, null, 2));
         // 3. Return to client
-        return res.json(tripData);
+        return res.status(200).json(tripData);
     } catch (error) {
         console.log("NYC API down, loading from local file...");
         //4. Fallback to local JSON
@@ -121,7 +117,7 @@ app.get("/api/bus_trip/getBusTripByPubLineName/:line", async(req, res) => {
             return res.status(404).json({ error: "Line name not found" });
         }
         const cache = JSON.parse(fs.readFileSync(file, "utf-8"));
-        res.json(cache);
+        res.status(500).json(cache);
     }
 });
 

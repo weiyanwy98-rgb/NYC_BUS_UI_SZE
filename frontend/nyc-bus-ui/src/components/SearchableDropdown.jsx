@@ -22,7 +22,7 @@ export default function SearchableDropdown({ label, options, onSelect }) {
   );
 
   return (
-    <div className="relative mb-4" ref={containerRef}>
+    <div className="relative mb-1" ref={containerRef}>
       <label className="block font-medium mb-1">{label}</label>
 
       {/* Selected box / input */}

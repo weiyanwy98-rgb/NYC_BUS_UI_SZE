@@ -1,28 +1,12 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-in:spam 
-1 of 1
-(no subject)
-Spam
-Nick <nick.work.stufff@gmail.com>
-Attachments
-3:50 PM (1 minute ago)
-to me
-
-Why is this message in spam? This message is similar to messages that were identified as spam in the past.
-Report not spam
-
- 4 Attachments
-  •  Scanned by Gmail
 # External API Endpoints Documentation
 
 ## Overview
 
-This document describes the external API endpoints used by the NYC Bus Trip Viewer application. All endpoints are provided by the NYC Bus Engine API hosted on Google Cloud Run.
+This document describes how the NYC backend service communicates with the external NYC API to retrieve live or storaged data
 
-**Base URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip`
+**NYC URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip`
 
 ---
 
@@ -34,7 +18,9 @@ This document describes the external API endpoints used by the NYC Bus Trip View
 
 **Endpoint:** `GET /ready`
 
-**Full URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready`
+**NYC URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip/ready`
 
 **Request Method:** `GET`
 
@@ -60,7 +46,7 @@ This document describes the external API endpoints used by the NYC Bus Trip View
 
 **Example Request:**
 ```bash
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready
+curl -X GET http://localhost:5000/api/bus_trip/ready
 ```
 
 **Example Response:**
@@ -78,9 +64,9 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready
 ```
 
 **Usage Notes:**
-- This endpoint should be called before attempting to use other endpoints
+- Check if data are retrieved from cache or from nyc server
 - The server may require several seconds to complete cold start
-- Recommended to poll this endpoint every 5 seconds until ready
+- Recommended to poll this endpoint every 30 seconds until ready
 
 ---
 
@@ -90,7 +76,9 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready
 
 **Endpoint:** `GET /getVehRef`
 
-**Full URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRef`
+**NYC URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRef`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip/getVehRef`
 
 **Request Method:** `GET`
 
@@ -122,12 +110,12 @@ string[]
 
 **Example Request:**
 ```bash
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRef
+curl -X GET http://localhost:5000/api/bus_trip/getVehRef
 ```
 
 **Usage Notes:**
-- Returns approximately 3,500 vehicle references
-- Response is cached for 5 minutes in the application
+- Returns approximately 220 vehicle references from nyc server or backend local storage
+- Response is stored in backend local storage
 - Used to populate the vehicle selector dropdown
 
 ---
@@ -138,7 +126,9 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRe
 
 **Endpoint:** `GET /getBusTripByVehRef/{vehicleRef}`
 
-**Full URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByVehRef/{vehicleRef}`
+**NYC URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByVehRef/{vehicleRef}`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip/getBusTripByVehRef/{vehicleRef}`
 
 **Request Method:** `GET`
 
@@ -171,7 +161,7 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRe
 
 **Example Request:**
 ```bash
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByVehRef/NYCT_4614
+curl -X GET http://localhost:5000/api/bus_trip/getBusTripByVehRef/NYCT_4614
 ```
 
 **Example Response:**
@@ -200,9 +190,8 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTr
 ```
 
 **Usage Notes:**
-- Returns route geometry and trip metadata
-- Response is cached for 5 minutes per vehicle
-- Maximum 50 vehicle trip responses cached at once (LRU eviction)
+- Returns route geometry and trip metadata from nyc server or backend local storage
+- Response is saved in backend local storage for each vehicle
 
 ---
 
@@ -212,7 +201,9 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTr
 
 **Endpoint:** `GET /getPubLineName`
 
-**Full URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLineName`
+**NYC URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLineName`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip/getPubLineName`
 
 **Request Method:** `GET`
 
@@ -246,12 +237,12 @@ string[]
 
 **Example Request:**
 ```bash
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLineName
+curl -X GET http://localhost:5000/api/bus_trip/getPubLineName
 ```
 
 **Usage Notes:**
-- Returns all active bus line names
-- Response is cached for 5 minutes in the application
+- Returns all active bus line names from nyc server or backend local storage
+- Response is stored in Backend local storage
 - Used to populate the line selector dropdown
 
 ---
@@ -263,6 +254,8 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLi
 **Endpoint:** `GET /getBusTripByPubLineName/{lineName}`
 
 **Full URL:** `https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByPubLineName/{lineName}`
+
+**Backend URL:** `http://localhost:5000/api/bus_trip/getBusTripByPubLineName/{lineName}`
 
 **Request Method:** `GET`
 
@@ -295,7 +288,7 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLi
 
 **Example Request:**
 ```bash
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByPubLineName/Bx2
+curl -X GET http://localhost:5000/api/bus_trip/getBusTripByPubLineName/Bx2
 ```
 
 **Example Response:**
@@ -326,10 +319,9 @@ curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTr
 ```
 
 **Usage Notes:**
-- Returns route geometry for all active buses on the specified line
+- Returns route geometry for all active buses on the specified line from nyc server or backend local storage
 - May contain multiple features (one per active bus)
-- Response is cached for 5 minutes per line
-- Maximum 50 line trip responses cached at once (LRU eviction)
+- Response is stored in Backend local storage
 
 ---
 
@@ -357,39 +349,12 @@ All endpoints may return the following error responses:
   "path": "/api/bus_trip/readyy"
 }
 ```
-
----
-
-<!-- ## Rate Limiting
-
-**Current Implementation:** No explicit rate limiting documented
-
-**Recommendations:**
-- Implement client-side caching (✅ Already implemented - 5 minute cache)
-- Avoid polling endpoints more frequently than necessary
-- Use the `/ready` endpoint to check server availability before making requests
-
 --- -->
 
-## Caching Strategy
 
-The application implements an in-memory caching layer to minimize API calls:
+### Storage Benefits
 
-### Cache Configuration
-
-| Data Type | Cache Duration | Max Cache Size | Eviction Policy |
-|-----------|---------------|----------------|-----------------|
-| Vehicle References | 5 minutes | 1 entry | Time-based |
-| Published Line Names | 5 minutes | 1 entry | Time-based |
-| Vehicle Trip GeoJSON | 5 minutes | 50 entries | LRU (Least Recently Used) |
-| Line Trip GeoJSON | 5 minutes | 50 entries | LRU (Least Recently Used) |
-
-### Cache Benefits
-
-- **Reduced API calls:** Subsequent requests for the same data within 5 minutes return cached results
-- **Improved performance:** Instant responses for cached data
-- **Network efficiency:** Reduced bandwidth usage
-- **Better UX:** Faster page loads and tab switching
+- **Improved Reliablity:** Application still functions even when NYC server is down
 
 ---
 
@@ -401,27 +366,11 @@ All endpoints are publicly accessible without authentication tokens or API keys.
 
 ---
 
-<!-- ## Implementation Details
-
-### HTTP Client
-
-The application uses **Axios** for all HTTP requests with the following configuration:
-
-```typescript
-const apiClient = axios.create({
-  baseURL: 'https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip',
-  timeout: 30000, // 30 seconds
-  headers: {
-    'Content-Type': 'application/json',
-  },
-});
-```
-
 ### Service Layer Location
 
 All API integrations are implemented in:
 ```
-src/services/busApi.ts
+src/app.jsx
 ```
 
 ### Key Functions
@@ -433,82 +382,12 @@ src/services/busApi.ts
 | `getBusTripByVehicleRef(vehicleRef)` | `/getBusTripByVehRef/{vehicleRef}` | Get vehicle trip |
 | `getPublishedLineNames()` | `/getPubLineName` | Get line list |
 | `getBusTripByPublishedLineName(lineName)` | `/getBusTripByPubLineName/{lineName}` | Get line trip |
-| `clearCache()` | N/A | Clear all cached data |
 
 --- -->
-
-<!-- ## Testing
-
-### Manual Testing
-
-Use the following curl commands to test endpoints:
-
-```bash
-# Check server readiness
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/ready
-
-# Get vehicle references
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getVehRef
-
-# Get trip by vehicle
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByVehRef/NYCT_4614
-
-# Get line names
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getPubLineName
-
-# Get trip by line
-curl -X GET https://nyc-bus-engine-k3q4yvzczq-an.a.run.app/api/bus_trip/getBusTripByPubLineName/Bx2
-```
-
---- -->
-
-<!-- ## Monitoring Recommendations
-
-### Server Availability
-- Monitor the `/ready` endpoint health
-- Track cold start times
-- Alert on extended unavailability
-
-### Performance Metrics
-- API response times
-- Cache hit/miss rates
-- Error rates by endpoint
-
-### Data Quality
-- Validate GeoJSON structure
-- Monitor for empty feature collections
-- Track data freshness
-
---- -->
-
-<!-- ## Future Considerations
-
-### Potential Enhancements
-
-1. **Real-time Updates**
-   - WebSocket connection for live bus positions
-   - Server-Sent Events (SSE) for push notifications
-
-2. **Historical Data**
-   - Trip history by vehicle/line
-   - Route comparison over time
-
-3. **Advanced Filtering**
-   - Filter by borough, route type
-   - Time-based trip queries
-
-4. **Batch Operations**
-   - Request multiple vehicles/lines in single call
-   - Reduce network overhead
-
---- -->
-
-<!-- ## Contact & Support -->
 
 For API issues or questions:
 - **API Provider:** NYC Bus Engine
 - **Hosting:** Google Cloud Run
-- **Application Repository:** [Link to your repo]
 
 ---
 
